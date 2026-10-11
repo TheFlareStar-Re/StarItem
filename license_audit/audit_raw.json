@@ -1,0 +1,2270 @@
+[
+ {
+  "project_id": "223852",
+  "name": "Storage Drawers",
+  "cf_license": "MIT License",
+  "repo": "jaquadro/StorageDrawers",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "398521",
+  "name": "Farmer's Delight",
+  "cf_license": "MIT License",
+  "repo": "vectorwing/FarmersDelight",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "74072",
+  "name": "Tinkers Construct",
+  "cf_license": "MIT License",
+  "repo": "SlimeKnights/TinkersConstruct",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "## Licenses Code, Textures and binaries are licensed under the [MIT License](https://tldrlegal.com/license/mit-license)."
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "268560",
+  "name": "Mekanism",
+  "cf_license": "MIT License",
+  "repo": "mekanism/Mekanism",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "243076",
+  "name": "Refined Storage",
+  "cf_license": "MIT License",
+  "repo": "refinedmods/refinedstorage2",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "268566",
+  "name": "Mekanism Generators",
+  "cf_license": "MIT License",
+  "repo": "mekanism/Mekanism",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "298187",
+  "name": "Building Gadgets",
+  "cf_license": "MIT License",
+  "repo": "Direwolf20-MC/BuildingGadgets",
+  "repo_source": "cf-description",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "266515",
+  "name": "Industrial Foregoing",
+  "cf_license": "MIT License",
+  "repo": "InnovativeOnlineIndustries/Industrial-Foregoing",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "246640",
+  "name": "Mystical Agriculture",
+  "cf_license": "MIT License",
+  "repo": "BlakeBr0/MysticalAgriculture",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "312353",
+  "name": "Artifacts",
+  "cf_license": "MIT License",
+  "repo": "ochotonida/artifacts",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "64578",
+  "name": "Ender IO",
+  "cf_license": "Public Domain",
+  "repo": "Team-EnderIO/EnderIO",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "Unlicense"
+    ],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "268567",
+  "name": "Mekanism Tools",
+  "cf_license": "MIT License",
+  "repo": "mekanism/Mekanism",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "256247",
+  "name": "Mystical Agradditions",
+  "cf_license": "MIT License",
+  "repo": "BlakeBr0/MysticalAgradditions",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "236307",
+  "name": "Integrated Dynamics",
+  "cf_license": "MIT License",
+  "repo": "CyclopsMC/IntegratedDynamics",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "### License All code and images are licensed under the [MIT License](https://github.com/CyclopsMC/IntegratedDynamics/blob/master-1.8/LICENSE.txt) This mod packages [re2j](https://github.com/google/re2j/) in order to provide linear time regex matching."
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "64760",
+  "name": "Security Craft",
+  "cf_license": "MIT License",
+  "repo": "Geforce132/SecurityCraft",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "250277",
+  "name": "Extreme Reactors",
+  "cf_license": "MIT License",
+  "repo": "ZeroNoRyouki/ExtremeReactors2",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "237664",
+  "name": "Iron Furnaces",
+  "cf_license": "Apache License version 2.0",
+  "repo": "Qelifern/IronFurnaces",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "CREDITS.txt": {
+    "kinds": [],
+    "snippets": []
+   },
+   "LICENSE": {
+    "kinds": [
+     "GPL"
+    ],
+    "snippets": [
+     "b) Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by a written offer, valid for at least three years and valid for as long as you offer spare parts or customer support for that product model, to give anyone who possesses the object code either (1) a copy of the Corresponding Source for all the software in the product that is covered by this Licens",
+     "An \"entity transaction\" is a transaction transferring control of an organization, or substantially all assets of one, or subdividing an organization, or merging organizations. If propagation of a covered work results from an entity transaction, each party to that transaction who receives a copy of the work also receives whatever licenses to the work the party's predecessor in interest had or could give under the prev"
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "399558",
+  "name": "Construction Wand",
+  "cf_license": "MIT License",
+  "repo": "Theta-Dev/ConstructionWand",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "224641",
+  "name": "RFTools",
+  "cf_license": "MIT License",
+  "repo": "McJtyMods/RFTools",
+  "repo_source": "cf-description",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "226410",
+  "name": "ProjectE",
+  "cf_license": "MIT License",
+  "repo": "sinkillerj/ProjectE",
+  "repo_source": "cf-description",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "496394",
+  "name": "Nether's Delight",
+  "cf_license": "MIT License",
+  "repo": "Chefs-Delight/NethersDelight_Forge",
+  "repo_source": "cf-description",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "284497",
+  "name": "Iron Jetpacks",
+  "cf_license": "MIT License",
+  "repo": "BlakeBr0/IronJetpacks",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "250763",
+  "name": "RFTools Control",
+  "cf_license": "MIT License",
+  "repo": "McJtyMods/RFToolsControl",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "252239",
+  "name": "Spartan Shields",
+  "cf_license": "Apache License version 2.0",
+  "repo": "ObliviousSpartan/SpartanShields",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "347706",
+  "name": "RFTools Builder",
+  "cf_license": "MIT License",
+  "repo": "McJtyMods/RFToolsBuilder",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "342466",
+  "name": "RFTools Utility",
+  "cf_license": "MIT License",
+  "repo": "McJtyMods/RFToolsUtility",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "361026",
+  "name": "Occultism",
+  "cf_license": "MIT License",
+  "repo": "klikli-dev/occultism",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "Licensed under the MIT license, view [LICENSE](./LICENSE). Third party software and assets may be distributed under a different license, see [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md)."
+    ]
+   },
+   "THIRD_PARTY_NOTICES.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": [
+     "# Third Party Notices Occultism uses third party software and assets that may be distributed under licenses different from the license in [LICENSE](./LICENSE).",
+     "All images / textures and localization strings (resources) are put in the public domain, unless explicitly excluded below. More specifically, see CC0 1.0 Universal:",
+     "## Third Party Assets All resources not explicitly listed below are available under the terms of the license of this project, see [LICENSE](./LICENSE).",
+     "- Large parts of the textures have been created by [ridanisaurus](https://www.curseforge.com/members/ridanisaurus/followers). - Most familiar models (and their textures and animations) have been created by Vemerion. - Some of the spirit and familiar models (and their textures and animations) have been created by feellian. - The demonic husband model (and its textures and animations) have been created by Aldahel, _[@A",
+     "### Images - Various icons from https://shikashiassets.itch.io/shikashis-fantasy-icons-pack (CC BY 3.0) - Book by Lorc https://game-icons.net/1x1/lorc/book-cover.html (CC BY 3.0) - Anvil by Lorc https://game-icons.net/1x1/lorc/anvil-impact.html (CC BY 3.0) - Pentacle by Skoll https://game-icons.net/1x1/skoll/pentacle.html (CC BY 3.0) - Pentagram Rose by Lorc https://game-icons.net/1x1/lorc/pentagram-rose.html (CC BY ",
+     "### Sounds - Various sounds from freesound.org (CC0 1.0) - Ritual Start Sound: https://freesound.org/people/xtrgamr/sounds/257787/ (CC BY 3.0)"
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "278141",
+  "name": "Spartan Weaponry",
+  "cf_license": "Apache License version 2.0",
+  "repo": "ObliviousSpartan/SpartanWeaponry",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "74120",
+  "name": "Natura",
+  "cf_license": "Creative Commons Attribution 3.0 Unported",
+  "repo": "progwml6/Natura",
+  "repo_source": "manual",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [],
+    "snippets": [
+     "Textures and binaries are licensed under [Creative Commons 3](http://creativecommons.org/licenses/by/3.0/)"
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "841262",
+  "name": "Ocean's Delight",
+  "cf_license": "MIT License",
+  "repo": "Scouter456/Oceans_Delight",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "CREDITS.txt": {
+    "kinds": [],
+    "snippets": []
+   },
+   "LICENSE.txt": {
+    "kinds": [],
+    "snippets": []
+   },
+   "README.txt": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "556861",
+  "name": "Functional Storage",
+  "cf_license": "MIT License",
+  "repo": "Buuz135/FunctionalStorage",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "311377",
+  "name": "BetterNether",
+  "cf_license": "MIT License",
+  "repo": "quiqueck/BetterNether",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT",
+     "CC-BY-NC",
+     "CC-BY"
+    ],
+    "snippets": [
+     "___________________________ Some of our Assets (see LICENSE.ASSETS for a Listing) is licensed under CC BY-NC-SA 4.0 See https://creativecommons.org/licenses/by-nc-sa/4.0/ for Details."
+    ]
+   },
+   "LICENSE.ASSETS": {
+    "kinds": [
+     "CC-BY-NC",
+     "CC-BY"
+    ],
+    "snippets": [
+     "Some of our Assets (see List below) are licensed under CC BY-NC-SA 4.0 See https://creativecommons.org/licenses/by-nc-sa/4.0/ for Details.",
+     "The following Files are distributed under this License: * src/main/resources/assets/betternether/lang/de_de.json * src/main/resources/assets/betternether/icon_updater.png * src/main/resources/assets/betternether/textures/entity/boat/* * src/main/resources/assets/betternether/textures/entity/chest_boat/* * src/main/resources/assets/betternether/textures/item/*_boat.png * src/main/resources/assets/betternether/textures"
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "415438",
+  "name": "Croptopia",
+  "cf_license": "MIT License",
+  "repo": "ExcessiveAmountsOfZombies/Croptopia",
+  "repo_source": "cf-description",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "ARR"
+    ],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "256141",
+  "name": "Rustic",
+  "cf_license": "MIT License",
+  "repo": "cadaverous-eris/Rustic",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "251792",
+  "name": "Simply Jetpacks 2",
+  "cf_license": "MIT License",
+  "repo": "Tomson124/SimplyJetpacks2",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "297039",
+  "name": "Silent Gear",
+  "cf_license": "MIT License",
+  "repo": "SilentChaos512/Silent-Gear",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "223008",
+  "name": "OpenComputers",
+  "cf_license": "MIT License",
+  "repo": "MightyPirates/OpenComputers",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT",
+     "CC0"
+    ],
+    "snippets": [
+     "All images / textures and localization strings (resources) are put in the public domain, unless explicitly excluded below. More specicially, see CC0 1.0 Universal:"
+    ]
+   },
+   "LICENSE-jnlua": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "LICENSE-luaj": {
+    "kinds": [
+     "MIT",
+     "ARR"
+    ],
+    "snippets": []
+   },
+   "LICENSE-mods": {
+    "kinds": [],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "## License / Use in Modpacks This mod is [licensed under the **MIT license**](https://github.com/MightyPirates/OpenComputers/blob/master-MC1.7.10/LICENSE). All **assets are public domain**, unless otherwise stated; all are free to be distributed as long as the license / source credits are kept. This means you can use this mod in any mod pack **as you please**. I'd be happy to hear about you using it, though, just out"
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "413596",
+  "name": "BetterEnd",
+  "cf_license": "MIT License",
+  "repo": "quiqueck/BetterEnd",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT",
+     "CC-BY-NC",
+     "CC-BY"
+    ],
+    "snippets": [
+     "Some of our Assets (see LICENSE.ASSETS for a Listing) is licensed under CC BY-NC-SA 4.0"
+    ]
+   },
+   "LICENSE.ASSETS": {
+    "kinds": [
+     "CC-BY-NC",
+     "CC-BY"
+    ],
+    "snippets": [
+     "Some of our Assets (see List below) is licensed under CC BY-NC-SA 4.0 See https://creativecommons.org/licenses/by-nc-sa/4.0/ for Details.",
+     "The following Files are distributed under this License: * src/main/resources/assets/betterend/textures/gui/infusion.png * src/main/resources/assets/betterend/icon_updater.png * src/main/resources/assets/betterend/lang/de_de.json"
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "250617",
+  "name": "Ceramics",
+  "cf_license": "MIT License",
+  "repo": "KnightMiner/Ceramics",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "350006",
+  "name": "RFTools Storage",
+  "cf_license": "MIT License",
+  "repo": "McJtyMods/RFToolsStorage",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "431725",
+  "name": "Advanced Peripherals",
+  "cf_license": "Apache License version 2.0",
+  "repo": "IntelligenceModding/AdvancedPeripherals",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "240950",
+  "name": "RFTools Dimensions",
+  "cf_license": "MIT License",
+  "repo": "McJtyMods/RFToolsDimensions",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "306626",
+  "name": "Nature's Aura",
+  "cf_license": "MIT License",
+  "repo": "Ellpeck/NaturesAura",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "552574",
+  "name": "Hostile Neural Networks",
+  "cf_license": "MIT License",
+  "repo": "Shadows-of-Fire/Hostile-Neural-Networks",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "228702",
+  "name": "Project Red - Core",
+  "cf_license": "MIT License",
+  "repo": "MrTJP/ProjectRed",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "637529",
+  "name": "Delightful",
+  "cf_license": "MIT License",
+  "repo": "brnbrd/Delightful",
+  "repo_source": "cf-description",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "576124",
+  "name": "Bygone Nether",
+  "cf_license": "MIT License",
+  "repo": "izofar/bygone-nether",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "268387",
+  "name": "Extended Crafting",
+  "cf_license": "MIT License",
+  "repo": "BlakeBr0/ExtendedCrafting",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "74610",
+  "name": "EvilCraft",
+  "cf_license": "Public Domain",
+  "repo": "CyclopsMC/EvilCraft",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "### License All code and images are licenced under [Creative Commons 4](http://creativecommons.org/licenses/by/4.0/)"
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "238761",
+  "name": "Pickle Tweaks",
+  "cf_license": "MIT License",
+  "repo": "BlakeBr0/PickleTweaks",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "233564",
+  "name": "Tech Reborn",
+  "cf_license": "MIT License",
+  "repo": "TechReborn/TechReborn",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "226254",
+  "name": "NuclearCraft",
+  "cf_license": "MIT License",
+  "repo": "tomdodd4598/NuclearCraft",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "253462",
+  "name": "Steve's Carts Reborn",
+  "cf_license": "MIT License",
+  "repo": "TechReborn/StevesCarts",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "335673",
+  "name": "Dank Storage",
+  "cf_license": "Public Domain",
+  "repo": "Tfarcenim/Dank-Storage",
+  "repo_source": "manual",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {}
+ },
+ {
+  "project_id": "609977",
+  "name": "AE2 Things [Forge]",
+  "cf_license": "MIT License",
+  "repo": "Technici4n/AE2Things-Forge",
+  "repo_source": "manual",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "235595",
+  "name": "Not Enough Wands",
+  "cf_license": "MIT License",
+  "repo": "romelo333/notenoughwands1.8.8",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "835687",
+  "name": "Better Archeology",
+  "cf_license": "MIT License",
+  "repo": "Pandarix/BetterArcheology-MultiLoaded",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "CREDITS.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "225635",
+  "name": "AgriCraft",
+  "cf_license": "MIT License",
+  "repo": "AgriCraft/AgriCraft",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "662675",
+  "name": "End's Delight",
+  "cf_license": "MIT License",
+  "repo": "FoggyHillside/End-s-Delight",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "65764",
+  "name": "Magic Bees",
+  "cf_license": "WTFPL",
+  "repo": "MagicBees/MagicBees",
+  "repo_source": "cf-description",
+  "ok": false,
+  "error": "404",
+  "archived": null,
+  "docs": {}
+ },
+ {
+  "project_id": "284007",
+  "name": "Inspirations",
+  "cf_license": "MIT License",
+  "repo": "KnightMiner/Inspirations",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "TEXTURE_LICENSE.md": {
+    "kinds": [
+     "CC-BY-NC",
+     "CC-BY"
+    ],
+    "snippets": [
+     "The bookshelf textures [assets/inspirations/textures/blocks/books_ancient.png](https://github.com/KnightMiner/Inspirations/tree/master/src/main/resources/assets/inspirations/textures/blocks/books_ancient.png) and [assets/inspirations/textures/blocks/books_tomes.png](https://github.com/KnightMiner/Inspirations/tree/master/src/main/resources/assets/inspirations/textures/blocks/books_tomes.png)are are licensed under CC ",
+     "a. __Adapted Material__ means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, pe",
+     "d. __Copyright and Similar Rights__ means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights."
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "229049",
+  "name": "Project Red - Exploration",
+  "cf_license": "MIT License",
+  "repo": "MrTJP/ProjectRed",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "400058",
+  "name": "MythicBotany",
+  "cf_license": "Apache License version 2.0",
+  "repo": "noeppi-noeppi/MythicBotany",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": [
+     "Parts of the Assets and code were copied from botania and the modified. See the Botania License (https://botaniamod.net/license.php). The credits for this go to Vazkii and the Botania authors. Everything that is in src/main/resources/assets/mythicbotany/textures is licensed under the botania license."
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "294815",
+  "name": "AIOT Botania",
+  "cf_license": "MIT License",
+  "repo": "ChaoticTrials/AIOTBotania",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "430636",
+  "name": "Theurgy",
+  "cf_license": "MIT License",
+  "repo": "klikli-dev/theurgy",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "Code is licensed under the MIT license, view [LICENSES/MIT](./LICENSES/MIT.txt). Assets are licensed under the CC-BY-SA-4.0 license, view [LICENSES/CC-BY-SA-4.0](./LICENSES/CC-BY-4.0.txt).",
+     "There are third party code and assets in this project which may be under different licenses and copyrights. We follow the [REUSE Standard for Software Licensing](https://reuse.software/), so you can look up the license terms for each file, or use the [REUSE tool](https://github.com/fsfe/reuse-tool) to generate an SPDX report."
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "405388",
+  "name": "Modern Industrialization",
+  "cf_license": "MIT License",
+  "repo": "AztechMC/Modern-Industrialization",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "The assets are all under CC0. Many textures are original, and for many we adjusted the work of others. Thanks go to: - GregoriusT for the original GregTech textures, - Falkory for redoing many textures, - Spool for some of the crafting component textures, - VirtualLilith for the rotary blade texture."
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "246183",
+  "name": "Roots 4",
+  "cf_license": "MIT License",
+  "repo": "mysticmods/roots",
+  "repo_source": "cf-description",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "ASSET_LICENSE.md": {
+    "kinds": [
+     "ARR"
+    ],
+    "snippets": [
+     "Asset License ============="
+    ]
+   },
+   "CREDITS.md": {
+    "kinds": [],
+    "snippets": [
+     "The \"Alertness\" warning sound was created by DatBloxyBirb and released as CC0 (Public Domain) on [freesound.org](https://freesound.org/people/DatBloxyBirb/sounds/739749/)."
+    ]
+   },
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "The MIT license does not apply to assets."
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "282940",
+  "name": "Mystical World",
+  "cf_license": "MIT License",
+  "repo": "MysticMods/MysticalWorld",
+  "repo_source": "manual",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "ART_LICENSE": {
+    "kinds": [
+     "ARR"
+    ],
+    "snippets": [
+     "Except where specified elsewhere, all art assets used in Roots 3 and Mystical World are:"
+    ]
+   },
+   "CREDITS.md": {
+    "kinds": [
+     "CC-BY"
+    ],
+    "snippets": [
+     "Malcolm Riley for allowing the use of their \"Unused Textures\" in any project under the terms of the CC-BY 4.0 License. Textures based off of these include the following:",
+     "Texture credit for textures made by members of the Mystic Modding team:",
+     "Texture credit also goes to Elucent for many former \"original\" textures, including: the original aubergine, `pelt.png`, the original carapace, beetle entity textures, deer entity textures, original fox texture, frog & toad textures, as well as the various sprout colours.",
+     "Credit goes to [egomassive's Frog.ogg](https://freesound.org/people/egomassive/sounds/536759/) as the basis of the frog sounds."
+    ]
+   },
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "670011",
+  "name": "Nether Depths Upgrade",
+  "cf_license": "MIT License",
+  "repo": "Scouter456/Nether_Depths_Upgrade",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {}
+ },
+ {
+  "project_id": "583318",
+  "name": "Shield Expansion",
+  "cf_license": "Apache License version 2.0",
+  "repo": "infernalstudios/Shield-Expansion",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "871755",
+  "name": "Exposure",
+  "cf_license": "MIT License",
+  "repo": "mortuusars/Exposure",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "253689",
+  "name": "Wolf Armor and Storage Legacy",
+  "cf_license": "MIT License",
+  "repo": "Smallinger/wolf-armor-and-storage-legacy",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "274338",
+  "name": "Useful Backpacks",
+  "cf_license": "Apache License version 2.0",
+  "repo": "MC-U-Team/Useful-Backpacks",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "262692",
+  "name": "Yoyos",
+  "cf_license": "MIT License",
+  "repo": "Jozufozu/Yoyos",
+  "repo_source": "cf-description",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "266784",
+  "name": "Scannable",
+  "cf_license": "MIT License",
+  "repo": "MightyPirates/Scannable",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT",
+     "CC0"
+    ],
+    "snippets": [
+     "All images / textures and localization strings (resources) are put in the public domain, unless explicitly excluded below. More specifically, see CC0 1.0 Universal:"
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "## License / Use in Modpacks This mod is [licensed under the **MIT license**](LICENSE). All **assets are public domain**, unless otherwise stated; all are free to be distributed as long as the license / source credits are kept. This means you can use this mod in any mod pack **as you please**. I'd be happy to hear about you using it, though, just out of curiosity."
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "646668",
+  "name": "Create Big Cannons",
+  "cf_license": "MIT License",
+  "repo": "Cannoneers-of-Create/CreateBigCannons",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE-CCBYNCSA.md": {
+    "kinds": [
+     "CC-BY-NC"
+    ],
+    "snippets": [
+     "a. Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, perfor",
+     "d. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights."
+    ]
+   },
+   "LICENSE-MIT.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "LICENSE.md": {
+    "kinds": [
+     "CC-BY-NC",
+     "CC-BY"
+    ],
+    "snippets": [
+     "In addition, you may also use, copy, modify and redistribute all handmade textures and models included in this distribution[2] according to the terms and conditions of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. See [LICENSE-CCBYNCSA](LICENSE-CCBYNCSA.md) for details."
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "Parts of Create Big Cannons' source and assets are licensed under the MIT license, while others are licensed under the CC BY-NC-SA license. See [LICENSE.md](LICENSE.md) for details."
+    ]
+   },
+   "Translators-README.md": {
+    "kinds": [],
+    "snippets": [
+     "If your language does *not* have an associated lang file in the previously mentioned directory, obtain a template lang file from [`forge/src/generated/resources/assets/createbigcannons/lang/en_us.json`](forge/src/generated/resources/assets/createbigcannons/lang/en_us.json). However, *DO NOT* place your translated lang file in `forge/src/generated/resources`! It will be overwritten by data generation. Instead, place y"
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "1002348",
+  "name": "Just Dire Things",
+  "cf_license": "MIT License",
+  "repo": "Direwolf20-MC/JustDireThings",
+  "repo_source": "manual",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "220311",
+  "name": "Silent's Gems",
+  "cf_license": "MIT License",
+  "repo": "SilentChaos512/SilentGems",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "295780",
+  "name": "Roots Classic",
+  "cf_license": "MIT License",
+  "repo": "Lothrazar/RootsClassic",
+  "repo_source": "cf-description",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "236542",
+  "name": "Advanced Rocketry",
+  "cf_license": "MIT License",
+  "repo": "Advanced-Rocketry/AdvancedRocketry",
+  "repo_source": "manual",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "XML_CONFIG_README.txt": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "235328",
+  "name": "Food Expansion",
+  "cf_license": "MIT License",
+  "repo": "Lellson/FoodExpansion",
+  "repo_source": "manual",
+  "ok": false,
+  "error": "404",
+  "archived": null,
+  "docs": {}
+ },
+ {
+  "project_id": "289043",
+  "name": "No Tree Punching",
+  "cf_license": "MIT License",
+  "repo": "alcatrazEscapee/no-tree-punching",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "452500",
+  "name": "Sushi Go Crafting",
+  "cf_license": "MIT License",
+  "repo": "Buuz135/SushiGoCrafting",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "429625",
+  "name": "Eidolon",
+  "cf_license": "BSD License",
+  "repo": "elucent/eidolon",
+  "repo_source": "manual",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "CREDITS.txt": {
+    "kinds": [],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "273502",
+  "name": "Defiled Lands",
+  "cf_license": "MIT License",
+  "repo": "Lykrast/DefiledLands",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": [
+     "The following license only applies to the code. You may not reuse assets from this mod, such as names, textures or models, without explicit permission from the author (Lykrast)."
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "260360",
+  "name": "Better Survival mod",
+  "cf_license": "MIT License",
+  "repo": "mujmajnkraft/BetterSurvival",
+  "repo_source": "manual",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "620770",
+  "name": "Expanded Delight",
+  "cf_license": "MIT License",
+  "repo": "ianm1647/expandeddelight",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "TEMPLATE_LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "456151",
+  "name": "Things [Fabric]",
+  "cf_license": "MIT License",
+  "repo": "wisp-forest/things",
+  "repo_source": "manual",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "## Credits - **Pois1x** for making the textures - **naschhorn** for helping with the Almanac - **pvpTurtle** for contributing ideas"
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "484967",
+  "name": "Kobolds!",
+  "cf_license": "MIT License",
+  "repo": "Jusey1/kobolds",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "892827",
+  "name": "Crabber's Delight",
+  "cf_license": "MIT License",
+  "repo": "AlabasterLeking/Crabbers-Delight",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "78057",
+  "name": "Tinkers' Mechworks",
+  "cf_license": "Creative Commons Attribution 3.0 Unported",
+  "repo": "SlimeKnights/TinkersMechworks",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "Textures and binaries are licensed under [Creative Commons 3](http://creativecommons.org/licenses/by/3.0/)."
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "344696",
+  "name": "Potion Rings",
+  "cf_license": "WTFPL",
+  "repo": "Duck-XYZ/potion_rings",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "395078",
+  "name": "Infernal Expansion",
+  "cf_license": "Apache License version 2.0",
+  "repo": "infernalstudios/Infernal-Expansion",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "237541",
+  "name": "Totemic",
+  "cf_license": "MIT License",
+  "repo": "TeamTotemic/Totemic",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "## Credits: - The textures were mainly designed by nojustgavin, Sunconure11 and VincentLongiug. - The models for the Totem Poles were designed by Nefilto. - The Flute sounds were cut from [overblow.mp3](https://freesound.org/people/kerri/sounds/37144/) by Kerri Lake, used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), slightly changed in pitch. - The Eagle-Bone Whistle sounds were cut from [this sam"
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "274456",
+  "name": "Ex Nihilo: Creatio",
+  "cf_license": "MIT License",
+  "repo": "BloodyMods/ExNihiloCreatio",
+  "repo_source": "cf-description",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": [
+     "Copyright (c) 2015 MikeLydeamore (original Mod); Copyright (c) 2017 Jacky1356400 (initial Port); Copyright (c) 2017 BloodWorkXGaming (current Maintainer) Copyright (c) 2017 SirLyle (current Maintainer) Copyright (c) 2019 Wolforce (textures)"
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "The Crushed Sky Stone texture is derived from the Sky Stone texture in [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2), and is thus licensed under CC-BY-NC-SA 3.0. The original texture was created by AlgorithmX2 et al. And is used with attribution in line with the license."
+    ]
+   }
+  }
+ },
+ {
+  "project_id": "628972",
+  "name": "Farmer's Knives",
+  "cf_license": "MIT License",
+  "repo": "ianm1647/farmersknives",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "1080592",
+  "name": "Eternal Starlight",
+  "cf_license": "MIT License",
+  "repo": "LeoMinecraftModding/eternal-starlight",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "1068418",
+  "name": "Extended Industrialization",
+  "cf_license": "MIT License",
+  "repo": "Swedz/Extended-Industrialization",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "869316",
+  "name": "Create: Diesel Generators",
+  "cf_license": "MIT License",
+  "repo": "george8188625/Create-Diesel-Generators",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  }
+ },
+ {
+  "project_id": "300777",
+  "name": "Embers Rekindled",
+  "cf_license": "MIT License",
+  "repo": "RCXcrafter/EmbersRekindled",
+  "repo_source": "modrinth",
+  "ok": true,
+  "error": null,
+  "archived": false,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "## Textures Minecraft got a big texture update sometime after 1.12 and quite a few mods are changing their textures to fit better with the new style, however I don't think Embers Rekindled should follow this example. In my opinion Embers has great textures that actually fit the aesthetic of the modern Minecraft textures better than the old textures and I think the port should stick with these textures except in a few"
+    ]
+   }
+  }
+ }
+]

@@ -1,0 +1,20 @@
+# Names that are never auto-completed to an everyday-object entry: equipment words that mods use all the time.
+# The model knows them well in the hand-drawn style, and completing them drops the material or theme in front
+# ("golden axe" came out as a pickaxe, "闪电法杖" as a plain crystal staff).
+pickaxe
+shovel
+axe
+hoe
+sword
+dagger
+匕首
+staff
+法杖
+wand
+魔杖
+crossbow
+katana
+saber
+sabre
+rapier
+boomerang

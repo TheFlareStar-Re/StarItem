@@ -1,0 +1,1013 @@
+[
+ {
+  "slug": "xnet",
+  "name": "XNet",
+  "downloads_m": 127.0,
+  "cf_license": "MIT",
+  "categories": "technology",
+  "project_id": 260912,
+  "author": "McJty",
+  "repo": "McJtyMods/XNet",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 1,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "macaws-doors",
+  "name": "Macaw's Doors",
+  "downloads_m": 127.3,
+  "cf_license": "MIT",
+  "categories": "redstone",
+  "project_id": 378646,
+  "author": "sketch_macaw",
+  "repo": "sketchmacaw/MacawsDoors",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "compact-machines",
+  "name": "Compact Machines",
+  "downloads_m": 98.9,
+  "cf_license": "MIT",
+  "categories": "technology,technology-processing,storage",
+  "project_id": 224218,
+  "author": "davenonymous",
+  "repo": "CompactMods/CompactMachines",
+  "repo_source": "cf-description",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 10,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "refined-storage-addons",
+  "name": "Refined Storage Addons",
+  "downloads_m": 96.8,
+  "cf_license": "MIT",
+  "categories": "technology,storage",
+  "project_id": 272302,
+  "author": "raoulvdberge",
+  "repo": "refinedmods/refinedstorageaddons",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 2,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "tool-belt",
+  "name": "Tool Belt",
+  "downloads_m": 91.3,
+  "cf_license": "BSD",
+  "categories": "armor-weapons-tools,cosmetic",
+  "project_id": 260262,
+  "author": "gigaherz",
+  "repo": "gigaherz/ToolBelt",
+  "repo_source": "manual",
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "BSD",
+     "ARR"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 4,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "rftools-power",
+  "name": "RFTools Power",
+  "downloads_m": 87.6,
+  "cf_license": "MIT",
+  "categories": "technology",
+  "project_id": 290209,
+  "author": "McJty",
+  "repo": "McJtyMods/RFToolsPower",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 6,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "wither-skeleton-tweaks",
+  "name": "Wither Skeleton Tweaks",
+  "downloads_m": 79.3,
+  "cf_license": "MIT",
+  "categories": "world-mobs,adventure-rpg",
+  "project_id": 255902,
+  "author": "Shadows_of_Fire",
+  "repo": "Shadows-of-Fire/Wither-Skeleton-Tweaks",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 2,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "mining-gadgets",
+  "name": "Mining Gadgets",
+  "downloads_m": 61.2,
+  "cf_license": "MIT",
+  "categories": "armor-weapons-tools,technology",
+  "project_id": 351748,
+  "author": "Direwolf20",
+  "repo": "Direwolf20-MC/MiningGadgets",
+  "repo_source": "manual",
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "## Credits - [Direwolf20](https://github.com/Direwolf20-MC/) `Author, Primary Developer, Idea's man` - [ErrorMikey](https://github.com/MichaelHillcox) `Developer, Gui King` - [ItsTheBdoge](https://github.com/ItsTheBdoge) `3D Laser Model` - [Soaryn](https://www.twitch.tv/soaryn) `Breaker of mods, Laser render help` - [Rorax](https://twitter.com/Rosespikes) `Original Laser texture`"
+    ]
+   }
+  },
+  "items": 62,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "malisisdoors",
+  "name": "MalisisDoors",
+  "downloads_m": 56.5,
+  "cf_license": "MIT",
+  "categories": "cosmetic",
+  "project_id": 223891,
+  "author": "Ordinastie",
+  "repo": "Ordinastie/MalisisDoors",
+  "repo_source": "manual",
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 49,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "toms-storage",
+  "name": "Tom's Simple Storage Mod",
+  "downloads_m": 54.6,
+  "cf_license": "MIT",
+  "categories": "technology,storage",
+  "project_id": 378609,
+  "author": "tom54541",
+  "repo": "tom5454/Toms-Storage",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 8,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "laserio",
+  "name": "LaserIO",
+  "downloads_m": 49.0,
+  "cf_license": "MIT",
+  "categories": "technology",
+  "project_id": 626839,
+  "author": "Direwolf20",
+  "repo": "Direwolf20-MC/LaserIO",
+  "repo_source": "manual",
+  "docs": {
+   "CREDITS.txt": {
+    "kinds": [],
+    "snippets": []
+   },
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 23,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "advanced-generators",
+  "name": "Advanced Generators",
+  "downloads_m": 46.3,
+  "cf_license": "MIT",
+  "categories": "technology",
+  "project_id": 223622,
+  "author": "bdew",
+  "repo": "bdew-minecraft/generators",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 24,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "project-red-integration",
+  "name": "Project Red - Integration",
+  "downloads_m": 45.0,
+  "cf_license": "MIT",
+  "categories": "redstone",
+  "project_id": 229045,
+  "author": "MrTJP",
+  "repo": "MrTJP/ProjectRed",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 132,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "fairy-lights",
+  "name": "Fairy Lights",
+  "downloads_m": 44.0,
+  "cf_license": "MIT",
+  "categories": "cosmetic",
+  "project_id": 233342,
+  "author": "pau101",
+  "repo": "pau101/Fairy-Lights",
+  "repo_source": "manual",
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 62,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "project-red-illumination",
+  "name": "Project Red - Illumination",
+  "downloads_m": 41.6,
+  "cf_license": "MIT",
+  "categories": "cosmetic,redstone",
+  "project_id": null,
+  "author": null,
+  "repo": "MrTJP/ProjectRed",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 132,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "scaling-health",
+  "name": "Scaling Health",
+  "downloads_m": 37.1,
+  "cf_license": "MIT",
+  "categories": "world-mobs,adventure-rpg",
+  "project_id": 248027,
+  "author": "SilentChaos512",
+  "repo": "SilentChaos512/ScalingHealth",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 20,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "more-red",
+  "name": "More Red",
+  "downloads_m": 36.9,
+  "cf_license": "MIT",
+  "categories": "technology,technology-processing,redstone",
+  "project_id": 387638,
+  "author": "Commoble",
+  "repo": "Commoble/morered",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 5,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "project-red-expansion",
+  "name": "Project Red - Expansion",
+  "downloads_m": 33.5,
+  "cf_license": "MIT",
+  "categories": "redstone",
+  "project_id": null,
+  "author": null,
+  "repo": "MrTJP/ProjectRed",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 132,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "illager-invasion",
+  "name": "Illager Invasion",
+  "downloads_m": 32.7,
+  "cf_license": "MIT",
+  "categories": "armor-weapons-tools,world-mobs,adventure-rpg",
+  "project_id": 891324,
+  "author": "Fuzs",
+  "repo": "Fuzss/illager-invasion",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE-ASSETS.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "fabric-waystones",
+  "name": "Wraith Waystones",
+  "downloads_m": 31.8,
+  "cf_license": "MIT",
+  "categories": "adventure-rpg",
+  "project_id": 410902,
+  "author": "LordDeatHunter",
+  "repo": "LordDeatHunter/FabricWaystones",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 19,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "jaopca",
+  "name": "JAOPCA",
+  "downloads_m": 31.4,
+  "cf_license": "MIT",
+  "categories": "technology,technology-processing",
+  "project_id": 266936,
+  "author": "TheLMiffy1111",
+  "repo": "TheLMiffy1111/JAOPCA",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 48,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "majruszs-progressive-difficulty",
+  "name": "Majrusz's Progressive Difficulty",
+  "downloads_m": 28.6,
+  "cf_license": "MIT",
+  "categories": "armor-weapons-tools,world-mobs,adventure-rpg",
+  "project_id": null,
+  "author": null,
+  "repo": "Majrusz/MajruszsProgressiveDifficultyMod",
+  "repo_source": "modrinth",
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 47,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "deep-resonance",
+  "name": "Deep Resonance",
+  "downloads_m": 27.3,
+  "cf_license": "MIT",
+  "categories": "world-ores-resources",
+  "project_id": 233398,
+  "author": "McJty",
+  "repo": "McJtyMods/DeepResonance",
+  "repo_source": "modrinth",
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 19,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "astikorcarts",
+  "name": "AstikorCarts [Horse Carts]",
+  "downloads_m": 26.0,
+  "cf_license": "MIT",
+  "categories": "technology-farming,storage",
+  "project_id": 273771,
+  "author": "issork",
+  "repo": null,
+  "repo_source": null,
+  "docs": {},
+  "items": null,
+  "nested": []
+ },
+ {
+  "slug": "industrial-foregoing-souls",
+  "name": "Industrial Foregoing Souls",
+  "downloads_m": 24.7,
+  "cf_license": "MIT",
+  "categories": "technology,technology-processing",
+  "project_id": 904394,
+  "author": "Buuz135",
+  "repo": "InnovativeOnlineIndustries/Industrial-Foregoing-Souls",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "chickens",
+  "name": "Chickens",
+  "downloads_m": 23.4,
+  "cf_license": "MIT",
+  "categories": "magic,technology-farming,world-mobs",
+  "project_id": 241941,
+  "author": "setycz",
+  "repo": "setycz/ChickensMod",
+  "repo_source": "manual",
+  "docs": {
+   "CREDITS-fml.txt": {
+    "kinds": [],
+    "snippets": []
+   },
+   "LICENSE-fml.txt": {
+    "kinds": [
+     "LGPL"
+    ],
+    "snippets": []
+   },
+   "LICENSE-new.txt": {
+    "kinds": [
+     "LGPL"
+    ],
+    "snippets": []
+   },
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "MinecraftForge-Credits.txt": {
+    "kinds": [],
+    "snippets": []
+   },
+   "MinecraftForge-License.txt": {
+    "kinds": [],
+    "snippets": []
+   },
+   "README-forge.txt": {
+    "kinds": [],
+    "snippets": [
+     "Tip: If you do not care about seeing Minecraft's source code you can replace \"setupDecompWorkspace\" with one of the following: \"setupDevWorkspace\": Will patch, deobfusicated, and gather required assets to run minecraft, but will not generated human readable source code. \"setupCIWorkspace\": Same as Dev but will not download any assets. This is useful in build servers as it is the fastest because it does the least work"
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 5,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "project-red-fabrication",
+  "name": "Project Red - Fabrication",
+  "downloads_m": 21.7,
+  "cf_license": "MIT",
+  "categories": "technology,redstone",
+  "project_id": 230111,
+  "author": "MrTJP",
+  "repo": "MrTJP/ProjectRed",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 132,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "metal-barrels",
+  "name": "Metal Barrels",
+  "downloads_m": 21.7,
+  "cf_license": "Public Domain",
+  "categories": "storage",
+  "project_id": 324985,
+  "author": "tfarecnim",
+  "repo": "Tfarcenim/MetalBarrels",
+  "repo_source": "manual",
+  "docs": {},
+  "items": 29,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "cognition-mod",
+  "name": "Cognition (Experience Obelisk)",
+  "downloads_m": 20.1,
+  "cf_license": "MIT",
+  "categories": "magic,technology,storage",
+  "project_id": 579484,
+  "author": "cyanog3n",
+  "repo": "terrarium-earth/Cognition",
+  "repo_source": "cf-description",
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 40,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "regions-unexplored",
+  "name": "Regions Unexplored",
+  "downloads_m": 47.3,
+  "cf_license": "MIT",
+  "categories": "cosmetic",
+  "project_id": 659110,
+  "author": "Apollo",
+  "repo": "Apollounknowndev/RegionsUnexplored",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 159,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "dynamictrees",
+  "name": "Dynamic Trees",
+  "downloads_m": 48.6,
+  "cf_license": "MIT",
+  "categories": "technology-farming,cosmetic",
+  "project_id": 252818,
+  "author": "MaxHyper",
+  "repo": "DynamicTreesTeam/DynamicTrees",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 25,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "goblin-traders",
+  "name": "Goblin Traders",
+  "downloads_m": 89.7,
+  "cf_license": "MIT",
+  "categories": "world-mobs,adventure-rpg",
+  "project_id": 363703,
+  "author": "MrCrayfish",
+  "repo": "MrCrayfish/GoblinTraders",
+  "repo_source": "manual",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 2,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "ender-storage-1-8",
+  "name": "Ender Storage 1.8.+",
+  "downloads_m": 145.7,
+  "cf_license": "MIT",
+  "categories": "storage",
+  "project_id": 245174,
+  "author": "covers1624",
+  "repo": "TheCBProject/EnderStorage",
+  "repo_source": "manual",
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 52,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "integrated-terminals",
+  "name": "Integrated Terminals",
+  "downloads_m": 62.2,
+  "cf_license": "MIT",
+  "categories": "technology,storage",
+  "project_id": 295910,
+  "author": "kroeser",
+  "repo": "CyclopsMC/IntegratedTerminals",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "### License All code and images are licenced under the [MIT License](https://github.com/CyclopsMC/IntegratedTerminals/blob/master-1.12/LICENSE.txt)"
+    ]
+   }
+  },
+  "items": 1,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "colossal-chests",
+  "name": "Colossal Chests",
+  "downloads_m": 37.6,
+  "cf_license": "MIT",
+  "categories": "storage",
+  "project_id": 237875,
+  "author": "kroeser",
+  "repo": "CyclopsMC/ColossalChests",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "### License All code and images are licenced under the [MIT License](https://github.com/CyclopsMC/ColossalChests/blob/master-1.8/LICENSE.txt)"
+    ]
+   }
+  },
+  "items": 2,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "the-spice-of-life",
+  "name": "The Spice of Life",
+  "downloads_m": 17.0,
+  "cf_license": "Public Domain",
+  "categories": "mc-food",
+  "project_id": 220811,
+  "author": "squeek502",
+  "repo": "squeek502/SpiceOfLife",
+  "repo_source": "manual",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Unlicense"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 7,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "wireless-redstone-cbe",
+  "name": "Wireless Redstone CBE",
+  "downloads_m": 16.7,
+  "cf_license": "MIT",
+  "categories": "redstone",
+  "project_id": 260824,
+  "author": "covers1624",
+  "repo": "TheCBProject/WR-CBE",
+  "repo_source": "manual",
+  "docs": {},
+  "items": null,
+  "nested": [],
+  "ok": false
+ },
+ {
+  "slug": "cat-jammies",
+  "name": "Cat Jammies",
+  "downloads_m": 19.2,
+  "cf_license": "MIT",
+  "categories": "world-mobs",
+  "project_id": null,
+  "author": null,
+  "repo": null,
+  "repo_source": null,
+  "docs": {},
+  "items": null,
+  "nested": []
+ },
+ {
+  "slug": "mystical-agriculture-tiered-crystals",
+  "name": "Mystical Agriculture Tiered Crystals",
+  "downloads_m": 26.4,
+  "cf_license": "MIT",
+  "categories": "technology-farming",
+  "project_id": 299045,
+  "author": "Electrolyte",
+  "repo": "Electrolyte220/MysticalAgricultureTieredCrystals",
+  "repo_source": "modrinth",
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "slug": "angel-ring",
+  "name": "Angel Ring",
+  "downloads_m": 29.6,
+  "cf_license": "MIT",
+  "categories": "magic,adventure-rpg",
+  "project_id": 333396,
+  "author": "DenisMasterHerobrine",
+  "repo": null,
+  "repo_source": null,
+  "docs": {},
+  "items": null,
+  "nested": []
+ }
+]

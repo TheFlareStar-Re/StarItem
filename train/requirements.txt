@@ -1,0 +1,5 @@
+# Install torch first, from the PyTorch index that matches your CUDA driver:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu126
+transformers>=4.44
+numpy
+pillow

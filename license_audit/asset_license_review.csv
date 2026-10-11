@@ -1,0 +1,101 @@
+﻿project_id,slug,name,downloads,cf_license,repo,verdict,note
+223852,storage-drawers,Storage Drawers,240400000,MIT License,https://github.com/jaquadro/StorageDrawers,ok_default,仓库许可文件：MIT，未见素材单独条款
+398521,farmers-delight,Farmer's Delight,236800000,MIT License,https://github.com/vectorwing/FarmersDelight,ok_default,仓库许可文件：MIT，未见素材单独条款
+74072,tinkers-construct,Tinkers Construct,194700000,MIT License,https://github.com/SlimeKnights/TinkersConstruct,ok_explicit,README：代码、贴图、二进制均为 MIT
+268560,mekanism,Mekanism,176600000,MIT License,https://github.com/mekanism/Mekanism,ok_default,仓库许可文件：MIT，未见素材单独条款
+243076,refined-storage,Refined Storage,156500000,MIT License,https://github.com/refinedmods/refinedstorage2,ok_default,仓库许可文件：MIT，未见素材单独条款
+268566,mekanism-generators,Mekanism Generators,156500000,MIT License,https://github.com/mekanism/Mekanism,ok_default,仓库许可文件：MIT，未见素材单独条款
+298187,building-gadgets,Building Gadgets,155800000,MIT License,https://github.com/Direwolf20-MC/BuildingGadgets,ok_default,仓库许可文件：MIT，未见素材单独条款
+266515,industrial-foregoing,Industrial Foregoing,151000000,MIT License,https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing,ok_default,仓库许可文件：MIT，未见素材单独条款
+246640,mystical-agriculture,Mystical Agriculture,146800000,MIT License,https://github.com/BlakeBr0/MysticalAgriculture,ok_default,仓库许可文件：MIT，未见素材单独条款
+312353,artifacts,Artifacts,146300000,MIT License,https://github.com/ochotonida/artifacts,ok_default,仓库许可文件：MIT，未见素材单独条款
+64578,ender-io,Ender IO,128000000,Public Domain,https://github.com/Team-EnderIO/EnderIO,ok_default,仓库许可文件：Unlicense，未见素材单独条款
+268567,mekanism-tools,Mekanism Tools,120500000,MIT License,https://github.com/mekanism/Mekanism,ok_default,仓库许可文件：MIT，未见素材单独条款
+256247,mystical-agradditions,Mystical Agradditions,116400000,MIT License,https://github.com/BlakeBr0/MysticalAgradditions,ok_default,仓库许可文件：MIT，未见素材单独条款
+236307,integrated-dynamics,Integrated Dynamics,115700000,MIT License,https://github.com/CyclopsMC/IntegratedDynamics,ok_explicit,README：代码和图片均为 MIT
+64760,security-craft,Security Craft,106300000,MIT License,https://github.com/Geforce132/SecurityCraft,ok_default,仓库许可文件：MIT，未见素材单独条款
+250277,extreme-reactors,Extreme Reactors,99100000,MIT License,https://github.com/ZeroNoRyouki/ExtremeReactors2,ok_weak,仓库无许可文件；mods.toml 声明 MIT
+237664,iron-furnaces,Iron Furnaces,96800000,Apache License version 2.0,https://github.com/Qelifern/IronFurnacesNeoForge,ok_default,NeoForge 仓库为 Apache 2.0；旧仓库 Qelifern/IronFurnaces 是 GPL-3.0，只能用新版
+399558,construction-wand,Construction Wand,89800000,MIT License,https://github.com/Theta-Dev/ConstructionWand,ok_default,仓库许可文件：MIT，未见素材单独条款
+224641,rftools,RFTools,81000000,MIT License,https://github.com/McJtyMods/RFTools,ok_default,仓库许可文件：MIT，未见素材单独条款
+226410,projecte,ProjectE,79600000,MIT License,https://github.com/sinkillerj/ProjectE,ok_default,仓库许可文件：MIT，未见素材单独条款
+496394,nethers-delight,Nether's Delight,77200000,MIT License,https://github.com/Chefs-Delight/NethersDelight_Forge,ok_default,仓库许可文件：MIT，未见素材单独条款
+284497,iron-jetpacks,Iron Jetpacks,76600000,MIT License,https://github.com/BlakeBr0/IronJetpacks,ok_default,仓库许可文件：MIT，未见素材单独条款
+250763,rftools-control,RFTools Control,76100000,MIT License,https://github.com/McJtyMods/RFToolsControl,ok_default,仓库许可文件：MIT，未见素材单独条款
+252239,spartan-shields,Spartan Shields,72000000,Apache License version 2.0,https://github.com/ObliviousSpartan/SpartanShields,ok_default,仓库许可文件：Apache-2.0，未见素材单独条款
+347706,rftools-builder,RFTools Builder,69700000,MIT License,https://github.com/McJtyMods/RFToolsBuilder,ok_default,仓库许可文件：MIT，未见素材单独条款
+342466,rftools-utility,RFTools Utility,68200000,MIT License,https://github.com/McJtyMods/RFToolsUtility,ok_default,仓库许可文件：MIT，未见素材单独条款
+361026,occultism,Occultism,67300000,MIT License,https://github.com/klikli-dev/occultism,ok_explicit,THIRD_PARTY_NOTICES：未列出的素材随项目 MIT；列出的第三方图标为 CC BY 3.0，需署名
+278141,spartan-weaponry,Spartan Weaponry,63400000,Apache License version 2.0,https://github.com/ObliviousSpartan/SpartanWeaponry,ok_default,仓库许可文件：Apache-2.0，未见素材单独条款
+74120,natura,Natura,63300000,Creative Commons Attribution 3.0 Unported,https://github.com/progwml6/Natura,ok_explicit,LICENSE.md：贴图 CC BY 3.0，需署名
+841262,oceans-delight,Ocean's Delight,61300000,MIT License,https://github.com/Scouter456/Oceans_Delight,ok_weak,仓库里的 LICENSE.txt 是 Forge 模板自带的；mods.toml 声明 MIT
+556861,functional-storage,Functional Storage,59500000,MIT License,https://github.com/Buuz135/FunctionalStorage,ok_default,仓库许可文件：MIT，未见素材单独条款
+311377,betternether,BetterNether,58900000,MIT License,https://github.com/quiqueck/BetterNether,partial,LICENSE.ASSETS：item/*_boat.png、*_chest_boat.png 等为 CC BY-NC-SA 4.0，需剔除；其余 MIT
+415438,croptopia,Croptopia,57100000,MIT License,https://github.com/ExcessiveAmountsOfZombies/Croptopia,exclude,仓库 LICENSE.txt 现为 All rights reserved（2025），与 CurseForge 的 MIT 声明矛盾
+256141,rustic,Rustic,55100000,MIT License,https://github.com/cadaverous-eris/Rustic,unverified,仓库无许可文件，README 未提及许可
+251792,simply-jetpacks-2,Simply Jetpacks 2,55100000,MIT License,https://github.com/Tomson124/SimplyJetpacks2,ok_default,仓库许可文件：MIT，未见素材单独条款
+297039,silent-gear,Silent Gear,55000000,MIT License,https://github.com/SilentChaos512/Silent-Gear,ok_default,仓库许可文件：MIT，未见素材单独条款
+223008,opencomputers,OpenComputers,52900000,MIT License,https://github.com/MightyPirates/OpenComputers,ok_explicit,LICENSE：贴图为 CC0，除非另有标注
+413596,betterend,BetterEnd,51200000,MIT License,https://github.com/quiqueck/BetterEnd,partial,LICENSE.ASSETS：gui/infusion.png 等 3 个文件为 CC BY-NC-SA 4.0，不涉及物品贴图；其余 MIT
+250617,ceramics,Ceramics,50900000,MIT License,https://github.com/KnightMiner/Ceramics,ok_default,仓库许可文件：MIT，未见素材单独条款
+350006,rftools-storage,RFTools Storage,50800000,MIT License,https://github.com/McJtyMods/RFToolsStorage,ok_default,仓库许可文件：MIT，未见素材单独条款
+431725,advanced-peripherals,Advanced Peripherals,48900000,Apache License version 2.0,https://github.com/IntelligenceModding/AdvancedPeripherals,ok_default,仓库许可文件：Apache-2.0，未见素材单独条款
+240950,rftools-dimensions,RFTools Dimensions,48800000,MIT License,https://github.com/McJtyMods/RFToolsDimensions,ok_default,仓库许可文件：MIT，未见素材单独条款
+306626,natures-aura,Nature's Aura,48700000,MIT License,https://github.com/Ellpeck/NaturesAura,ok_default,仓库许可文件：MIT，未见素材单独条款
+552574,hostile-neural-networks,Hostile Neural Networks,48100000,MIT License,https://github.com/Shadows-of-Fire/Hostile-Neural-Networks,ok_default,仓库许可文件：MIT，未见素材单独条款
+228702,project-red-core,Project Red - Core,47800000,MIT License,https://github.com/MrTJP/ProjectRed,ok_default,仓库许可文件：MIT，未见素材单独条款
+637529,delightful,Delightful,47600000,MIT License,https://github.com/brnbrd/Delightful,ok_default,仓库许可文件：MIT，未见素材单独条款
+576124,bygone-nether,Bygone Nether,46200000,MIT License,https://github.com/izofar/bygone-nether,ok_default,仓库许可文件：MIT，未见素材单独条款
+268387,extended-crafting,Extended Crafting,46000000,MIT License,https://github.com/BlakeBr0/ExtendedCrafting,ok_default,仓库许可文件：MIT，未见素材单独条款
+74610,evilcraft,EvilCraft,43900000,Public Domain,https://github.com/CyclopsMC/EvilCraft,ok_explicit,README：代码和图片 CC BY 4.0，需署名（CurseForge 写的是 Public Domain）
+238761,pickle-tweaks,Pickle Tweaks,41700000,MIT License,https://github.com/BlakeBr0/PickleTweaks,ok_default,仓库许可文件：MIT，未见素材单独条款
+233564,techreborn,Tech Reborn,39000000,MIT License,https://github.com/TechReborn/TechReborn,ok_default,仓库许可文件：MIT，未见素材单独条款
+226254,nuclearcraft-mod,NuclearCraft,38100000,MIT License,https://github.com/tomdodd4598/NuclearCraft,ok_default,仓库许可文件：MIT，未见素材单独条款
+253462,steves-carts-reborn,Steve's Carts Reborn,37300000,MIT License,https://github.com/TechReborn/StevesCarts,ok_default,仓库许可文件：MIT，未见素材单独条款
+335673,dank-storage,Dank Storage,36300000,Public Domain,https://github.com/Tfarcenim/Dank-Storage,unverified,仓库无许可文件，mods.toml 的 license 字段写的是 yes
+609977,ae2-things-forge,AE2 Things [Forge],36300000,MIT License,https://github.com/Technici4n/AE2Things-Forge,caution,仓库为 MIT 且无素材条款，但贴图可能衍生自 AE2（素材 CC BY-NC-SA 3.0）
+235595,not-enough-wands,Not Enough Wands,35400000,MIT License,https://github.com/romelo333/notenoughwands1.8.8,ok_default,仓库许可文件：MIT，未见素材单独条款
+835687,better-archeology,Better Archeology,35100000,MIT License,https://github.com/Pandarix/BetterArcheology-MultiLoaded,ok_default,仓库许可文件：MIT，未见素材单独条款
+225635,agricraft,AgriCraft,34600000,MIT License,https://github.com/AgriCraft/AgriCraft,ok_default,仓库许可文件：MIT，未见素材单独条款
+662675,ends-delight,End's Delight,32300000,MIT License,https://github.com/FoggyHillside/End-s-Delight,ok_default,仓库许可文件：MIT，未见素材单独条款
+65764,magic-bees,Magic Bees,32100000,WTFPL,https://github.com/ForestryMC/MagicBees,ok_default,LICENSE 为 WTFPL，未见素材单独条款
+284007,inspirations,Inspirations,31300000,MIT License,https://github.com/KnightMiner/Inspirations,partial,TEXTURE_LICENSE：两张书架方块贴图为 CC BY-NC-SA 4.0，不涉及物品贴图；其余 MIT
+229049,project-red-exploration,Project Red - Exploration,31200000,MIT License,https://github.com/MrTJP/ProjectRed,ok_default,仓库许可文件：MIT，未见素材单独条款
+400058,mythicbotany,MythicBotany,30600000,Apache License version 2.0,https://github.com/noeppi-noeppi/MythicBotany,exclude,LICENSE：textures 目录整体适用 Botania 许可，非 Apache
+294815,aiot-botania,AIOT Botania,29300000,MIT License,https://github.com/ChaoticTrials/AIOTBotania,caution,仓库为 MIT 且无素材条款，但贴图很可能衍生自 Botania（自有许可）
+430636,theurgy,Theurgy,29200000,MIT License,https://github.com/klikli-dev/theurgy,caution,README：素材为 CC-BY-SA-4.0，带相同方式共享条款；逐文件许可见 REUSE.toml
+405388,modern-industrialization,Modern Industrialization,29100000,MIT License,https://github.com/AztechMC/Modern-Industrialization,ok_explicit,README：素材全部 CC0；部分贴图改自 GregTech 等他人作品
+246183,roots,Roots 4,27800000,MIT License,https://github.com/mysticmods/roots,exclude,ASSET_LICENSE：素材保留所有权利；README：MIT 不适用于素材
+282940,mystical-world,Mystical World,27600000,MIT License,https://github.com/MysticMods/MysticalWorld,exclude,ART_LICENSE：美术素材归各作者，保留所有权利
+670011,nether-depths-upgrade,Nether Depths Upgrade,27200000,MIT License,https://github.com/Scouter456/Nether_Depths_Upgrade,ok_weak,仓库无许可文件；mods.toml 声明 MIT
+583318,shield-expansion,Shield Expansion,27000000,Apache License version 2.0,https://github.com/infernalstudios/Shield-Expansion,ok_default,仓库许可文件：Apache-2.0，未见素材单独条款
+871755,exposure,Exposure,26500000,MIT License,https://github.com/mortuusars/Exposure,ok_default,仓库许可文件：MIT，未见素材单独条款
+253689,wolf-armor-and-storage,Wolf Armor and Storage Legacy,25700000,MIT License,https://github.com/Smallinger/wolf-armor-and-storage-legacy,ok_default,仓库许可文件：MIT，未见素材单独条款
+274338,useful-backpacks,Useful Backpacks,25000000,Apache License version 2.0,https://github.com/MC-U-Team/Useful-Backpacks,ok_default,仓库许可文件：Apache-2.0，未见素材单独条款
+262692,yoyos,Yoyos,24700000,MIT License,https://github.com/Jozufozu/Yoyos,ok_default,仓库许可文件：MIT，未见素材单独条款
+266784,scannable,Scannable,24300000,MIT License,https://github.com/MightyPirates/Scannable,ok_explicit,LICENSE：贴图为 CC0，除非另有标注
+646668,create-big-cannons,Create Big Cannons,23700000,MIT License,https://github.com/Cannoneers-of-Create/CreateBigCannons,exclude,LICENSE：手绘贴图和模型为 CC BY-NC-SA 4.0（非商用）
+1002348,just-dire-things,Just Dire Things,23100000,MIT License,https://github.com/Direwolf20-MC/JustDireThings,ok_default,仓库许可文件：MIT，未见素材单独条款
+220311,silents-gems,Silent's Gems,23000000,MIT License,https://github.com/SilentChaos512/SilentGems,ok_default,仓库许可文件：MIT，未见素材单独条款
+295780,roots-classic,Roots Classic,22900000,MIT License,https://github.com/Lothrazar/RootsClassic,ok_default,仓库许可文件：MIT，未见素材单独条款
+236542,advanced-rocketry,Advanced Rocketry,22700000,MIT License,https://github.com/Advanced-Rocketry/AdvancedRocketry,ok_default,仓库许可文件：MIT，未见素材单独条款
+235328,food-expansion,Food Expansion,22600000,MIT License,https://github.com/Lellson/Food-Expansion,unverified,仓库 Lellson/Food-Expansion 无许可文件
+289043,no-tree-punching,No Tree Punching,22500000,MIT License,https://github.com/alcatrazEscapee/no-tree-punching,ok_default,仓库许可文件：MIT，未见素材单独条款
+452500,sushigocrafting,Sushi Go Crafting,22300000,MIT License,https://github.com/Buuz135/SushiGoCrafting,ok_default,仓库许可文件：MIT，未见素材单独条款
+429625,eidolon,Eidolon,21600000,BSD License,https://github.com/elucent/eidolon,caution,仓库无许可文件；mods.toml 写 All rights reserved（可能是模板默认值），CurseForge 写 BSD
+273502,defiled-lands,Defiled Lands,21400000,MIT License,https://github.com/Lykrast/DefiledLands,exclude,LICENSE：MIT 仅限代码，素材未经作者许可不得复用
+260360,better-survival-mod,Better Survival mod,20900000,MIT License,https://github.com/mujmajnkraft/BetterSurvival,unverified,仓库无许可文件，README 未提及许可
+620770,expanded-delight,Expanded Delight,20300000,MIT License,https://github.com/ianm1647/expandeddelight,ok_weak,仓库只有 NeoForge 模板的许可；gradle.properties 声明 MIT
+456151,things-fabric,Things [Fabric],20000000,MIT License,https://github.com/wisp-forest/things,ok_default,仓库许可文件：MIT，未见素材单独条款
+484967,kobolds,Kobolds!,19500000,MIT License,https://github.com/Jusey1/kobolds,ok_default,仓库许可文件：MIT，未见素材单独条款
+892827,crabbers-delight,Crabber's Delight,19400000,MIT License,https://github.com/AlabasterLeking/Crabbers-Delight,ok_weak,仓库无许可文件；gradle.properties 声明 MIT
+78057,tinkers-mechworks,Tinkers' Mechworks,19200000,Creative Commons Attribution 3.0 Unported,https://github.com/SlimeKnights/TinkersMechworks,ok_explicit,README：贴图 CC BY 3.0，需署名
+344696,potion-fingers-redux,Potion Rings,18900000,WTFPL,https://github.com/Duck-XYZ/potion_rings,ok_default,仓库许可文件：MIT，未见素材单独条款
+395078,infernal-expansion,Infernal Expansion,18800000,Apache License version 2.0,https://github.com/infernalstudios/Infernal-Expansion,ok_default,仓库许可文件：Apache-2.0，未见素材单独条款
+237541,totemic,Totemic,18600000,MIT License,https://github.com/TeamTotemic/Totemic,ok_default,仓库许可文件：MIT，未见素材单独条款
+274456,ex-nihilo-creatio,Ex Nihilo: Creatio,18400000,MIT License,https://github.com/BloodyMods/ExNihiloCreatio,partial,README：Crushed Sky Stone 贴图衍生自 AE2，为 CC BY-NC-SA 3.0，需剔除；其余 MIT
+628972,farmers-knives,Farmer's Knives,18100000,MIT License,https://github.com/ianm1647/farmersknives,unverified,仓库无许可文件；README 里的 CC0 指的是模板
+1080592,eternal-starlight,Eternal Starlight,17600000,MIT License,https://github.com/LeoMinecraftModding/eternal-starlight,ok_default,仓库许可文件：MIT，未见素材单独条款
+1068418,extended-industrialization,Extended Industrialization,17500000,MIT License,https://github.com/Swedz/Extended-Industrialization,ok_default,仓库许可文件：MIT，未见素材单独条款
+869316,create-diesel-generators,Create: Diesel Generators,16900000,MIT License,https://github.com/george8188625/Create-Diesel-Generators,caution,仓库为 MIT 且无素材条款，但可能沿用 Create 的素材（保留所有权利）
+300777,embers-rekindled,Embers Rekindled,16700000,MIT License,https://github.com/RCXcrafter/EmbersRekindled,ok_default,仓库许可文件：MIT，未见素材单独条款

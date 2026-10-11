@@ -1,0 +1,563 @@
+cat	猫	kitty|kitten|猫咪|小猫
+black cat	黑猫	
+orange tabby cat	橘猫	ginger cat|橘色虎斑猫
+dog	狗	puppy|小狗|狗狗
+shiba inu	柴犬	shiba|柴柴
+corgi	柯基	柯基犬|welsh corgi
+rabbit	兔子	bunny|兔|小兔
+hamster	仓鼠	
+guinea pig	豚鼠	cavy|荷兰猪|天竺鼠
+mouse	老鼠	field mouse|小鼠|耗子
+ferret	雪貂	
+hedgehog	刺猬	
+chinchilla	龙猫	毛丝鼠
+chicken	母鸡	hen|鸡
+rooster	公鸡	cock|雄鸡
+chick	小鸡	baby chicken|鸡仔|雏鸡
+duck	鸭子	鸭
+duckling	小鸭	小黄鸭|鸭仔
+goose	鹅	大鹅
+turkey	火鸡	
+pig	猪	piglet|小猪
+cow	奶牛	dairy cow|牛
+bull	公牛	ox
+sheep	绵羊	羊
+lamb	小羊	羊羔
+goat	山羊	
+horse	马	pony|小马
+donkey	驴	毛驴|驴子
+alpaca	羊驼	llama|大羊驼
+camel	骆驼	
+yak	牦牛	
+water buffalo	水牛	buffalo
+fox	狐狸	red fox|赤狐
+arctic fox	北极狐	white fox|白狐
+fennec fox	耳廓狐	沙漠狐
+wolf	狼	gray wolf|灰狼
+bear	棕熊	brown bear|熊
+polar bear	北极熊	白熊
+panda	熊猫	giant panda|大熊猫
+red panda	小熊猫	
+koala	考拉	树袋熊
+kangaroo	袋鼠	
+wombat	袋熊	
+lion	狮子	
+tiger	老虎	虎
+leopard	豹子	花豹|豹
+black panther	黑豹	
+snow leopard	雪豹	
+lynx	猞猁	
+elephant	大象	象
+giraffe	长颈鹿	
+zebra	斑马	
+hippo	河马	hippopotamus
+rhino	犀牛	rhinoceros
+monkey	猴子	猴
+gorilla	大猩猩	
+chimpanzee	黑猩猩	chimp
+orangutan	红毛猩猩	猩猩
+lemur	狐猴	ring-tailed lemur|环尾狐猴
+sloth	树懒	
+deer	鹿	stag|梅花鹿|雄鹿
+reindeer	驯鹿	
+moose	驼鹿	elk
+antelope	羚羊	gazelle
+bison	野牛	美洲野牛
+wild boar	野猪	boar
+squirrel	松鼠	
+flying squirrel	鼯鼠	飞鼠
+chipmunk	花栗鼠	
+marmot	土拨鼠	groundhog|旱獭
+raccoon	浣熊	
+raccoon dog	貉	tanuki|狸猫
+skunk	臭鼬	
+beaver	河狸	海狸
+otter	水獭	
+badger	獾	
+weasel	黄鼠狼	黄鼬
+mole	鼹鼠	
+bat	蝙蝠	
+armadillo	犰狳	
+anteater	食蚁兽	
+pangolin	穿山甲	
+porcupine	豪猪	箭猪
+platypus	鸭嘴兽	
+capybara	水豚	卡皮巴拉
+meerkat	狐獴	猫鼬
+tapir	貘	
+seal	海豹	
+walrus	海象	
+manatee	海牛	sea cow
+sparrow	麻雀	
+pigeon	鸽子	dove|白鸽|鸽
+crow	乌鸦	raven|渡鸦
+owl	猫头鹰	鸮
+snowy owl	雪鸮	白猫头鹰
+eagle	老鹰	鹰|hawk
+bald eagle	白头海雕	白头鹰
+falcon	隼	peregrine falcon|游隼
+vulture	秃鹫	
+parrot	鹦鹉	macaw|金刚鹦鹉
+budgie	虎皮鹦鹉	parakeet|budgerigar
+cockatoo	凤头鹦鹉	葵花鹦鹉
+toucan	巨嘴鸟	大嘴鸟
+flamingo	火烈鸟	红鹳
+peacock	孔雀	
+swan	天鹅	白天鹅
+penguin	企鹅	
+seagull	海鸥	gull
+pelican	鹈鹕	
+albatross	信天翁	
+puffin	海鹦	
+cormorant	鸬鹚	鱼鹰
+ostrich	鸵鸟	
+cassowary	鹤鸵	食火鸡
+kiwi bird	几维鸟	奇异鸟
+dodo	渡渡鸟	dodo bird
+hummingbird	蜂鸟	
+woodpecker	啄木鸟	
+robin	知更鸟	
+blue jay	冠蓝鸦	蓝松鸦
+red cardinal	北美红雀	cardinal|红衣主教鸟
+swallow	燕子	barn swallow
+magpie	喜鹊	
+kingfisher	翠鸟	
+oriole	黄鹂	黄莺
+cuckoo	布谷鸟	杜鹃鸟
+nightingale	夜莺	
+canary	金丝雀	
+hoopoe	戴胜	戴胜鸟
+red-crowned crane	丹顶鹤	crane|仙鹤|鹤
+stork	鹳	white stork|白鹳
+heron	苍鹭	鹭
+egret	白鹭	
+shoebill	鲸头鹳	
+quail	鹌鹑	
+pheasant	野鸡	雉鸡|山鸡
+mandarin duck	鸳鸯	
+bird nest	鸟巢	nest|鸟窝
+goldfish	金鱼	
+koi	锦鲤	koi fish
+carp	鲤鱼	
+clownfish	小丑鱼	
+angelfish	神仙鱼	
+betta fish	斗鱼	siamese fighting fish|泰国斗鱼
+guppy	孔雀鱼	
+neon tetra	霓虹灯鱼	红绿灯鱼
+arowana	金龙鱼	龙鱼
+butterflyfish	蝴蝶鱼	
+blue tang	蓝吊鱼	蓝倒吊|regal blue tang
+lionfish	狮子鱼	
+pufferfish	河豚	blowfish|河鲀
+salmon	三文鱼	鲑鱼
+tuna	金枪鱼	吞拿鱼
+catfish	鲶鱼	
+sea bass	鲈鱼	bass
+trout	鳟鱼	
+cod	鳕鱼	
+mackerel	鲭鱼	青花鱼
+sardine	沙丁鱼	
+sturgeon	鲟鱼	
+flounder	比目鱼	flatfish|鲽鱼
+swordfish	剑鱼	
+flying fish	飞鱼	
+sawfish	锯鳐	锯鱼
+anglerfish	鮟鱇鱼	灯笼鱼
+coelacanth	腔棘鱼	
+ocean sunfish	翻车鱼	mola|sunfish
+piranha	食人鱼	
+eel	鳗鱼	鳗
+seahorse	海马	
+shark	鲨鱼	great white shark|大白鲨
+hammerhead shark	锤头鲨	双髻鲨
+whale shark	鲸鲨	
+whale	鲸鱼	blue whale|蓝鲸
+orca	虎鲸	killer whale|逆戟鲸
+narwhal	独角鲸	
+beluga	白鲸	beluga whale
+dolphin	海豚	
+manta ray	蝠鲼	魔鬼鱼|ray|stingray
+octopus	章鱼	八爪鱼
+squid	鱿鱼	乌贼
+jellyfish	水母	海蜇
+starfish	海星	sea star
+sea urchin	海胆	
+sea cucumber	海参	
+sea anemone	海葵	
+sea slug	海蛞蝓	nudibranch|海兔
+crab	螃蟹	蟹
+hermit crab	寄居蟹	
+horseshoe crab	鲎	马蹄蟹
+lobster	龙虾	
+shrimp	虾	prawn|大虾
+crayfish	小龙虾	crawfish
+mantis shrimp	皮皮虾	虾蛄
+krill	磷虾	
+nautilus	鹦鹉螺	
+turtle	乌龟	龟
+tortoise	陆龟	giant tortoise|象龟
+sea turtle	海龟	
+snake	蛇	green snake|青蛇
+cobra	眼镜蛇	
+python	蟒蛇	蟒
+lizard	蜥蜴	
+gecko	壁虎	守宫
+chameleon	变色龙	
+iguana	鬣蜥	
+frilled lizard	伞蜥	褶伞蜥
+komodo dragon	科莫多巨蜥	科莫多龙
+crocodile	鳄鱼	alligator
+frog	青蛙	蛙
+tree frog	树蛙	red-eyed tree frog|红眼树蛙
+poison dart frog	箭毒蛙	
+toad	蟾蜍	癞蛤蟆
+tadpole	蝌蚪	
+salamander	蝾螈	newt
+axolotl	美西螈	六角恐龙
+butterfly	蝴蝶	
+monarch butterfly	帝王蝶	黑脉金斑蝶
+moth	飞蛾	蛾
+caterpillar	毛毛虫	
+chrysalis	蝶蛹	pupa|蛹
+silkworm	蚕	蚕宝宝
+silk cocoon	蚕茧	cocoon|茧
+bee	蜜蜂	honeybee
+bumblebee	熊蜂	
+wasp	黄蜂	hornet|马蜂|胡蜂
+ant	蚂蚁	
+ladybug	瓢虫	ladybird|七星瓢虫
+beetle	甲虫	
+stag beetle	锹甲	锹形虫
+rhinoceros beetle	独角仙	
+scarab	圣甲虫	dung beetle|蜣螂|屎壳郎
+dragonfly	蜻蜓	
+firefly	萤火虫	lightning bug
+grasshopper	蚱蜢	locust|蝗虫
+cricket	蟋蟀	蛐蛐
+katydid	蝈蝈	螽斯|纺织娘
+praying mantis	螳螂	mantis
+cicada	蝉	知了
+housefly	苍蝇	fly
+mosquito	蚊子	
+cockroach	蟑螂	
+stick insect	竹节虫	
+leaf insect	叶子虫	leaf bug|叶䗛
+stink bug	椿象	shield bug|臭大姐
+water strider	水黾	pond skater
+pill bug	鼠妇	roly-poly|西瓜虫|潮虫
+spider	蜘蛛	
+tarantula	狼蛛	捕鸟蛛
+scorpion	蝎子	
+centipede	蜈蚣	
+millipede	马陆	千足虫
+snail	蜗牛	
+slug	蛞蝓	鼻涕虫
+earthworm	蚯蚓	worm
+grub	幼虫	larva|蛴螬
+spider web	蜘蛛网	cobweb|蛛网
+beehive	蜂箱	hive|蜂窝
+honeycomb	蜂巢	honeycomb piece|巢蜜
+wasp nest	马蜂窝	hornet nest
+anthill	蚁丘	蚁穴
+slime	史莱姆	green slime|粘液怪
+blue slime	蓝色史莱姆	
+small dragon	小龙	baby dragon|幼龙
+chinese dragon	中国龙	eastern dragon|东方龙
+wyvern	双足飞龙	飞龙
+ghost	幽灵	spirit|鬼魂
+wisp	鬼火	will-o'-the-wisp|磷火
+unicorn	独角兽	
+pegasus	飞马	天马
+phoenix	凤凰	firebird|不死鸟
+griffin	狮鹫	gryphon
+hydra	九头蛇	
+kraken	北海巨妖	克拉肯|海怪
+cerberus	地狱三头犬	三头犬
+kitsune	九尾狐	nine-tailed fox
+qilin	麒麟	kirin
+jade rabbit	玉兔	moon rabbit|月兔
+jackalope	鹿角兔	
+yeti	雪怪	abominable snowman
+imp	小恶魔	小鬼
+rock golem	岩石魔像	stone golem|石头人
+treant	树人	ent|树精
+mushroom monster	蘑菇怪	myconid
+man-eating plant	食人花	carnivorous plant monster
+eyeball monster	眼球怪	evil eye|眼魔
+fire elemental	火元素	火精灵
+water elemental	水元素	水精灵
+mandrake	曼德拉草	mandragora
+dragon egg	龙蛋	
+dragon scale	龙鳞	
+unicorn horn	独角兽角	alicorn
+phoenix feather	凤凰羽毛	凤羽
+slime ball	粘液球	slimeball|史莱姆球
+t-rex	霸王龙	tyrannosaurus|暴龙
+triceratops	三角龙	
+stegosaurus	剑龙	
+brontosaurus	雷龙	long-neck dinosaur|长颈龙
+velociraptor	迅猛龙	raptor|伶盗龙
+pterodactyl	翼龙	pterosaur
+plesiosaur	蛇颈龙	
+mammoth	猛犸象	woolly mammoth|长毛象
+saber-toothed tiger	剑齿虎	sabertooth
+trilobite	三叶虫	
+ammonite fossil	菊石	ammonite|菊石化石
+fish fossil	鱼化石	fossil|化石
+dinosaur egg	恐龙蛋	
+dinosaur skull	恐龙头骨	
+amber	琥珀	amber with insect|虫珀
+feather	羽毛	white feather|bird feather
+peacock feather	孔雀羽毛	孔雀翎
+egg	鸡蛋	chicken egg|蛋
+quail egg	鹌鹑蛋	spotted egg|斑点蛋
+ostrich egg	鸵鸟蛋	
+cracked eggshell	蛋壳	eggshell
+fish roe	鱼卵	fish eggs|鱼籽
+ram horn	羊角	sheep horn|horn
+bull horn	牛角	ox horn
+antler	鹿角	deer antler
+ivory tusk	象牙	elephant tusk|tusk
+boar tusk	野猪牙	
+bone	骨头	骨
+fish bone	鱼骨	fish skeleton|鱼骨头
+wishbone	许愿骨	叉骨
+animal skull	兽头骨	skull|头骨|动物头骨
+fang	獠牙	尖牙
+tooth	牙齿	animal tooth|兽牙
+shark tooth	鲨鱼牙	鲨鱼齿
+claw	爪子	talon|利爪
+cat paw	猫爪	paw|肉球
+paw print	爪印	animal footprint|脚印
+hoof	蹄子	horse hoof|马蹄
+pelt	毛皮	fur|animal hide|兽皮
+wool	羊毛	fleece|羊毛团
+snake skin	蛇皮	shed snakeskin|蛇蜕
+fish scale	鱼鳞	
+turtle shell	龟壳	tortoise shell|龟甲
+porcupine quill	豪猪刺	quill
+bee stinger	蜂刺	stinger|毒刺
+bat wing	蝙蝠翅膀	
+butterfly wing	蝴蝶翅膀	
+crab claw	蟹钳	crab pincer|蟹螯
+tentacle	触手	octopus tentacle|章鱼触手
+lizard tail	蜥蜴尾巴	
+fox tail	狐狸尾巴	狐尾
+rabbit foot	兔脚	lucky rabbit foot|幸运兔脚
+eyeball	眼球	eye|眼珠
+spider silk	蜘蛛丝	蛛丝
+seashell	贝壳	shell|海贝
+conch	海螺	conch shell|海螺壳
+scallop shell	扇贝壳	scallop|扇贝
+cowrie shell	宝螺	cowry|货贝|贝币
+snail shell	蜗牛壳	spiral shell
+clam	蛤蜊	clam shell|蚌
+giant clam	砗磲	
+oyster	牡蛎	生蚝
+pearl oyster	珍珠贝	oyster with pearl|珍珠蚌
+mussel	贻贝	青口|淡菜
+abalone	鲍鱼	
+pearl	珍珠	
+sand dollar	沙钱	海钱
+barnacle	藤壶	
+red coral	红珊瑚	coral|珊瑚
+blue coral	蓝珊瑚	
+brain coral	脑珊瑚	
+sea sponge	海绵	sponge|天然海绵
+seaweed	海藻	algae|海草
+kelp	海带	昆布
+red rose	红玫瑰	rose|玫瑰|玫瑰花
+tulip	郁金香	
+sunflower	向日葵	葵花|太阳花
+daisy	雏菊	小雏菊
+dandelion	蒲公英	
+dandelion puff	蒲公英绒球	dandelion seed head
+lily	百合	white lily|百合花
+lotus flower	莲花	lotus|荷花
+lily pad	荷叶	lotus leaf|睡莲叶
+lotus seed pod	莲蓬	lotus pod
+cherry blossom	樱花	sakura
+plum blossom	梅花	
+peach blossom	桃花	
+peony	牡丹	牡丹花
+chrysanthemum	菊花	
+orchid	兰花	
+carnation	康乃馨	
+lavender	薰衣草	
+poppy	罂粟花	red poppy|虞美人
+hibiscus	扶桑花	木槿|朱槿
+daffodil	水仙花	narcissus|黄水仙
+iris flower	鸢尾花	iris|鸢尾
+violet flower	紫罗兰	violet
+pansy	三色堇	
+morning glory	牵牛花	喇叭花
+bluebell	蓝铃花	
+lily of the valley	铃兰	
+forget-me-not	勿忘我	勿忘草
+hydrangea	绣球花	紫阳花
+camellia	山茶花	茶花
+magnolia	玉兰花	木兰
+marigold	万寿菊	金盏花
+jasmine	茉莉花	茉莉
+osmanthus	桂花	
+snowdrop	雪花莲	雪滴花
+edelweiss	雪绒花	火绒草
+dahlia	大丽花	
+azalea	杜鹃花	映山红
+wisteria	紫藤	紫藤花
+cosmos flower	波斯菊	格桑花
+calla lily	马蹄莲	
+bird of paradise flower	鹤望兰	天堂鸟花
+red spider lily	彼岸花	spider lily|曼珠沙华
+poinsettia	一品红	圣诞红
+rafflesia	大王花	corpse flower
+thistle	蓟	蓟花
+flower bud	花苞	bud|花蕾
+venus flytrap	捕蝇草	
+pitcher plant	猪笼草	
+cactus	仙人掌	
+barrel cactus	仙人球	round cactus
+succulent	多肉植物	echeveria|多肉
+aloe vera	芦荟	aloe
+snake plant	虎皮兰	虎尾兰
+bamboo	竹子	bamboo stalk|竹
+bamboo shoot	竹笋	笋
+fern	蕨	fern frond|蕨类
+ivy	常春藤	ivy vine
+vine	藤蔓	jungle vine|藤条
+moss clump	苔藓	moss|青苔
+grass tuft	草丛	grass|小草
+clover	三叶草	shamrock
+four-leaf clover	四叶草	lucky clover|幸运草
+reed	芦苇	
+cattail	香蒲	bulrush|蒲草
+pampas grass	蒲苇	
+wheat ear	麦穗	wheat|小麦
+rice ear	稻穗	rice plant|水稻
+sugarcane	甘蔗	
+cotton boll	棉花	cotton|棉桃
+tumbleweed	风滚草	
+mistletoe	槲寄生	
+holly sprig	冬青	holly|冬青枝
+mint sprig	薄荷	mint|薄荷叶
+tea sprig	茶叶	tea leaf
+ginseng root	人参	ginseng
+potted plant	盆栽	houseplant|盆栽植物
+bonsai tree	盆景	bonsai
+sprout	嫩芽	seedling|幼苗|小苗
+flower bulb	球茎	bulb|花球
+tree root	树根	root
+oak tree	橡树	oak
+pine tree	松树	pine|conifer
+spruce tree	云杉	spruce|fir tree|冷杉
+palm tree	棕榈树	coconut palm|椰子树
+willow tree	柳树	weeping willow|垂柳
+birch tree	白桦树	birch|桦树
+maple tree	枫树	maple
+cherry blossom tree	樱花树	sakura tree
+apple tree	苹果树	
+baobab	猴面包树	baobab tree
+dead tree	枯树	bare tree
+tree stump	树桩	stump|树墩
+wood log	原木	log|木头
+hollow log	空心木	hollow tree trunk
+tree branch	树枝	branch|twig|枝条
+bark piece	树皮	bark
+wooden stick	木棍	stick|树棍
+driftwood	浮木	漂流木
+tree resin	树脂	sap|松脂
+oak sapling	橡树苗	sapling|树苗
+pine sapling	松树苗	
+bush	灌木	shrub|灌木丛
+berry bush	浆果丛	浆果灌木
+green leaf	绿叶	leaf|叶子|树叶
+maple leaf	枫叶	红枫叶
+ginkgo leaf	银杏叶	
+oak leaf	橡树叶	
+autumn leaf	落叶	fallen leaf|枯叶
+bamboo leaf	竹叶	
+palm leaf	棕榈叶	palm frond
+banana leaf	芭蕉叶	
+monstera leaf	龟背竹叶	monstera|龟背竹
+pine branch	松枝	pine needles|松针
+acorn	橡果	橡子|橡实
+pinecone	松果	pine cone|松塔
+pine nut	松子	
+chestnut	栗子	chestnut burr|板栗
+coconut	椰子	
+cacao pod	可可果	cocoa pod
+seed	种子	seeds|plant seed
+sunflower seed	葵花籽	瓜子
+maple seed	枫树翅果	samara|翅果
+red toadstool	毒蝇伞	fly agaric|红蘑菇|毒蘑菇
+brown mushroom	棕色蘑菇	mushroom|蘑菇
+glowing mushroom	发光蘑菇	bioluminescent mushroom|荧光蘑菇
+shiitake	香菇	shiitake mushroom|冬菇
+enoki	金针菇	enoki mushroom
+oyster mushroom	平菇	
+king oyster mushroom	杏鲍菇	
+morel	羊肚菌	morel mushroom
+chanterelle	鸡油菌	
+porcini	牛肝菌	
+puffball	马勃	puffball mushroom
+truffle	松露	black truffle|黑松露
+wood ear	木耳	black fungus|黑木耳
+bracket fungus	树舌	shelf fungus|多孔菌
+lingzhi mushroom	灵芝	reishi
+cordyceps	冬虫夏草	虫草
+rock	石头	stone|岩石
+pebble	鹅卵石	pebbles|卵石
+boulder	巨石	大石头
+mossy rock	苔石	moss stone
+flint	燧石	打火石
+obsidian	黑曜石	
+lava rock	火山岩	volcanic rock|熔岩石
+meteorite	陨石	
+stalactite	钟乳石	
+quartz crystal	水晶	crystal|石英
+crystal cluster	水晶簇	
+geode	晶洞	晶洞石
+salt crystal	盐晶	rock salt|岩盐
+sea glass	海玻璃	
+sand pile	沙堆	sand|沙子
+dirt clod	土块	dirt|泥土
+clay lump	黏土	clay|粘土
+icicle	冰柱	冰锥
+ice chunk	冰块	ice|ice block
+ice crystal	冰晶	frost crystal
+iceberg	冰山	
+snowball	雪球	
+hailstone	冰雹	hail
+water droplet	水滴	raindrop|雨滴
+puddle	水坑	
+ocean wave	海浪	wave|浪花
+bubble	气泡	soap bubble|泡泡
+flame	火焰	fire|火苗
+ember	余烬	burning ember|炭火
+fireball	火球	
+tornado	龙卷风	twister|旋风
+volcano	火山	
+sun	太阳	
+sun behind cloud	晴间多云	partly cloudy|多云
+crescent moon	月牙	弯月|新月
+full moon	满月	moon|月亮|圆月
+blood moon	血月	red moon
+star	星星	yellow star|五角星
+shooting star	流星	falling star
+comet	彗星	
+earth	地球	planet earth|globe
+ringed planet	环状行星	planet|saturn|土星
+red planet	火星	mars
+asteroid	小行星	space rock
+moon rock	月岩	lunar rock|月球岩石
+galaxy	星系	spiral galaxy|银河
+nebula	星云	
+black hole	黑洞	
+big dipper	北斗七星	constellation|星座
+solar eclipse	日食	eclipse
+cloud	云朵	white cloud|云|白云
+rain cloud	雨云	乌云
+thundercloud	雷云	storm cloud|雷雨云
+snowflake	雪花	
+lightning bolt	闪电	thunderbolt|雷电
+rainbow	彩虹	

@@ -1,0 +1,1892 @@
+[
+ {
+  "path": "mc-mods/mouse-tweaks",
+  "name": "Mouse Tweaks",
+  "downloads_m": 480.1,
+  "license": "BSD",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/appleskin",
+  "name": "AppleSkin",
+  "downloads_m": 417.1,
+  "license": "Public Domain",
+  "categories": "mc-food"
+ },
+ {
+  "path": "mc-mods/clumps",
+  "name": "Clumps",
+  "downloads_m": 374.7,
+  "license": "MIT",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/storage-drawers",
+  "name": "Storage Drawers",
+  "downloads_m": 240.4,
+  "license": "MIT",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/farmers-delight",
+  "name": "Farmer's Delight",
+  "downloads_m": 236.8,
+  "license": "MIT",
+  "categories": "mc-food,technology-farming"
+ },
+ {
+  "path": "mc-mods/tinkers-construct",
+  "name": "Tinkers Construct",
+  "downloads_m": 194.7,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,technology,technology-processing,world-mobs"
+ },
+ {
+  "path": "mc-mods/openblocks-elevator",
+  "name": "OpenBlocks Elevator",
+  "downloads_m": 179.5,
+  "license": "MIT",
+  "categories": "redstone"
+ },
+ {
+  "path": "mc-mods/mekanism",
+  "name": "Mekanism",
+  "downloads_m": 176.6,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,technology,technology-processing,storage"
+ },
+ {
+  "path": "mc-mods/refined-storage",
+  "name": "Refined Storage",
+  "downloads_m": 156.5,
+  "license": "MIT",
+  "categories": "technology,storage"
+ },
+ {
+  "path": "mc-mods/mekanism-generators",
+  "name": "Mekanism Generators",
+  "downloads_m": 156.5,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/building-gadgets",
+  "name": "Building Gadgets",
+  "downloads_m": 155.8,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,technology"
+ },
+ {
+  "path": "mc-mods/industrial-foregoing",
+  "name": "Industrial Foregoing",
+  "downloads_m": 151.0,
+  "license": "MIT",
+  "categories": "technology,technology-farming,storage"
+ },
+ {
+  "path": "mc-mods/mystical-agriculture",
+  "name": "Mystical Agriculture",
+  "downloads_m": 146.8,
+  "license": "MIT",
+  "categories": "mc-food,armor-weapons-tools,magic,technology-farming,world-ores-resources"
+ },
+ {
+  "path": "mc-mods/artifacts",
+  "name": "Artifacts",
+  "downloads_m": 146.3,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/ender-storage-1-8",
+  "name": "Ender Storage 1.8.+",
+  "downloads_m": 145.7,
+  "license": "MIT",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/inventory-tweaks",
+  "name": "Inventory Tweaks [1.12 only]",
+  "downloads_m": 143.0,
+  "license": "MIT",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/ender-io",
+  "name": "Ender IO",
+  "downloads_m": 128.0,
+  "license": "Public Domain",
+  "categories": "armor-weapons-tools,technology,technology-farming,technology-processing"
+ },
+ {
+  "path": "mc-mods/macaws-doors",
+  "name": "Macaw's Doors",
+  "downloads_m": 127.3,
+  "license": "MIT",
+  "categories": "redstone"
+ },
+ {
+  "path": "mc-mods/xnet",
+  "name": "XNet",
+  "downloads_m": 127.0,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/mekanism-tools",
+  "name": "Mekanism Tools",
+  "downloads_m": 120.5,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/mystical-agradditions",
+  "name": "Mystical Agradditions",
+  "downloads_m": 116.4,
+  "license": "MIT",
+  "categories": "magic,technology-farming"
+ },
+ {
+  "path": "mc-mods/integrated-dynamics",
+  "name": "Integrated Dynamics",
+  "downloads_m": 115.7,
+  "license": "MIT",
+  "categories": "technology,technology-processing"
+ },
+ {
+  "path": "mc-mods/macaws-trapdoors",
+  "name": "Macaw's Trapdoors",
+  "downloads_m": 107.6,
+  "license": "MIT",
+  "categories": "redstone"
+ },
+ {
+  "path": "mc-mods/security-craft",
+  "name": "Security Craft",
+  "downloads_m": 106.3,
+  "license": "MIT",
+  "categories": "technology,world-ores-resources"
+ },
+ {
+  "path": "mc-mods/swingthroughgrass",
+  "name": "SwingThroughGrass",
+  "downloads_m": 100.4,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/extreme-reactors",
+  "name": "Extreme Reactors",
+  "downloads_m": 99.1,
+  "license": "MIT",
+  "categories": "technology,world-ores-resources"
+ },
+ {
+  "path": "mc-mods/compact-machines",
+  "name": "Compact Machines",
+  "downloads_m": 98.9,
+  "license": "MIT",
+  "categories": "technology,technology-processing,storage"
+ },
+ {
+  "path": "mc-mods/refined-storage-addons",
+  "name": "Refined Storage Addons",
+  "downloads_m": 96.8,
+  "license": "MIT",
+  "categories": "technology,storage"
+ },
+ {
+  "path": "mc-mods/iron-furnaces",
+  "name": "Iron Furnaces",
+  "downloads_m": 96.8,
+  "license": "Apache version 2.0",
+  "categories": "technology-processing,storage"
+ },
+ {
+  "path": "mc-mods/decorative-blocks",
+  "name": "Decorative Blocks",
+  "downloads_m": 93.7,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/tool-belt",
+  "name": "Tool Belt",
+  "downloads_m": 91.3,
+  "license": "BSD",
+  "categories": "armor-weapons-tools,cosmetic"
+ },
+ {
+  "path": "mc-mods/the-lost-cities",
+  "name": "The Lost Cities",
+  "downloads_m": 91.3,
+  "license": "MIT",
+  "categories": "adventure-rpg"
+ },
+ {
+  "path": "mc-mods/construction-wand",
+  "name": "Construction Wand",
+  "downloads_m": 89.8,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/goblin-traders",
+  "name": "Goblin Traders",
+  "downloads_m": 89.7,
+  "license": "MIT",
+  "categories": "world-mobs,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/rftools-power",
+  "name": "RFTools Power",
+  "downloads_m": 87.6,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/xp-tome",
+  "name": "XP Tome",
+  "downloads_m": 86.6,
+  "license": "MIT",
+  "categories": "adventure-rpg,storage"
+ },
+ {
+  "path": "mc-mods/simply-light",
+  "name": "Simply Light",
+  "downloads_m": 83.1,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/rftools",
+  "name": "RFTools",
+  "downloads_m": 81.0,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/randompatches-forge",
+  "name": "RandomPatches (Forge)",
+  "downloads_m": 79.9,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/projecte",
+  "name": "ProjectE",
+  "downloads_m": 79.6,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,magic,technology-processing,storage"
+ },
+ {
+  "path": "mc-mods/wither-skeleton-tweaks",
+  "name": "Wither Skeleton Tweaks",
+  "downloads_m": 79.3,
+  "license": "MIT",
+  "categories": "world-mobs,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/ranged-pumps",
+  "name": "Ranged Pumps",
+  "downloads_m": 77.6,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/base",
+  "name": "B.A.S.E",
+  "downloads_m": 77.4,
+  "license": "MIT",
+  "categories": "world-ores-resources"
+ },
+ {
+  "path": "mc-mods/nethers-delight",
+  "name": "Nether's Delight",
+  "downloads_m": 77.2,
+  "license": "MIT",
+  "categories": "mc-food,technology-farming,cosmetic"
+ },
+ {
+  "path": "mc-mods/tinkers-tool-leveling",
+  "name": "Tinkers' Tool Leveling",
+  "downloads_m": 77.1,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/alternate-current",
+  "name": "Alternate Current",
+  "downloads_m": 77.0,
+  "license": "MIT",
+  "categories": "technology,redstone"
+ },
+ {
+  "path": "mc-mods/iron-jetpacks",
+  "name": "Iron Jetpacks",
+  "downloads_m": 76.6,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,technology,adventure-rpg,cosmetic"
+ },
+ {
+  "path": "mc-mods/rftools-control",
+  "name": "RFTools Control",
+  "downloads_m": 76.1,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/dynamic-surroundings",
+  "name": "Dynamic Surroundings",
+  "downloads_m": 75.4,
+  "license": "MIT",
+  "categories": "adventure-rpg,cosmetic"
+ },
+ {
+  "path": "mc-mods/applied-energistics-2-wireless-terminals",
+  "name": "Applied Energistics 2 Wireless Terminals",
+  "downloads_m": 75.2,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/snow-real-magic",
+  "name": "Snow! Real Magic! ⛄ (Neo/Forge)",
+  "downloads_m": 73.2,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/applecore",
+  "name": "AppleCore",
+  "downloads_m": 72.8,
+  "license": "Public Domain",
+  "categories": "mc-food"
+ },
+ {
+  "path": "mc-mods/spartan-shields",
+  "name": "Spartan Shields",
+  "downloads_m": 72.0,
+  "license": "Apache version 2.0",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/rftools-builder",
+  "name": "RFTools Builder",
+  "downloads_m": 69.7,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/rftools-utility",
+  "name": "RFTools Utility",
+  "downloads_m": 68.2,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/occultism",
+  "name": "Occultism",
+  "downloads_m": 67.3,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,magic,adventure-rpg,storage"
+ },
+ {
+  "path": "mc-mods/overloaded-armor-bar",
+  "name": "Overloaded Armor Bar",
+  "downloads_m": 65.6,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,cosmetic"
+ },
+ {
+  "path": "mc-mods/shoulder-surfing-reloaded",
+  "name": "Shoulder Surfing Reloaded",
+  "downloads_m": 65.4,
+  "license": "MIT",
+  "categories": "adventure-rpg,cosmetic"
+ },
+ {
+  "path": "mc-mods/craftpresence",
+  "name": "CraftPresence",
+  "downloads_m": 63.5,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/spartan-weaponry",
+  "name": "Spartan Weaponry",
+  "downloads_m": 63.4,
+  "license": "Apache version 2.0",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/natura",
+  "name": "Natura",
+  "downloads_m": 63.3,
+  "license": "CC Attribution 3.0 Unported",
+  "categories": "world-ores-resources"
+ },
+ {
+  "path": "mc-mods/integrated-terminals",
+  "name": "Integrated Terminals",
+  "downloads_m": 62.2,
+  "license": "MIT",
+  "categories": "technology,storage"
+ },
+ {
+  "path": "mc-mods/rightclickharvest",
+  "name": "RightClickHarvest",
+  "downloads_m": 61.7,
+  "license": "MIT",
+  "categories": "mc-food,technology-farming"
+ },
+ {
+  "path": "mc-mods/modonomicon",
+  "name": "Modonomicon",
+  "downloads_m": 61.6,
+  "license": "MIT",
+  "categories": "adventure-rpg"
+ },
+ {
+  "path": "mc-mods/oceans-delight",
+  "name": "Ocean's Delight",
+  "downloads_m": 61.3,
+  "license": "MIT",
+  "categories": "mc-food"
+ },
+ {
+  "path": "mc-mods/mining-gadgets",
+  "name": "Mining Gadgets",
+  "downloads_m": 61.2,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,technology"
+ },
+ {
+  "path": "mc-mods/gateways-to-eternity",
+  "name": "Gateways to Eternity",
+  "downloads_m": 60.9,
+  "license": "MIT",
+  "categories": "magic,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/integrated-crafting",
+  "name": "Integrated Crafting",
+  "downloads_m": 60.0,
+  "license": "MIT",
+  "categories": "technology,technology-processing"
+ },
+ {
+  "path": "mc-mods/functional-storage",
+  "name": "Functional Storage",
+  "downloads_m": 59.5,
+  "license": "MIT",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/betternether",
+  "name": "BetterNether",
+  "downloads_m": 58.9,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/macaws-paths-and-pavings",
+  "name": "Macaw's Paths and Pavings",
+  "downloads_m": 58.1,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/croptopia",
+  "name": "Croptopia",
+  "downloads_m": 57.1,
+  "license": "MIT",
+  "categories": "mc-food,technology-farming"
+ },
+ {
+  "path": "mc-mods/malisisdoors",
+  "name": "MalisisDoors",
+  "downloads_m": 56.5,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/rustic",
+  "name": "Rustic",
+  "downloads_m": 55.1,
+  "license": "MIT",
+  "categories": "mc-food,technology-farming,storage,cosmetic"
+ },
+ {
+  "path": "mc-mods/simply-jetpacks-2",
+  "name": "Simply Jetpacks 2",
+  "downloads_m": 55.1,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/silent-gear",
+  "name": "Silent Gear",
+  "downloads_m": 55.0,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/recurrent-complex",
+  "name": "Recurrent Complex",
+  "downloads_m": 55.0,
+  "license": "MIT",
+  "categories": "adventure-rpg"
+ },
+ {
+  "path": "mc-mods/toms-storage",
+  "name": "Tom's Simple Storage Mod",
+  "downloads_m": 54.6,
+  "license": "MIT",
+  "categories": "technology,storage"
+ },
+ {
+  "path": "mc-mods/justenoughbreeding",
+  "name": "Just Enough Breeding (JEBr)",
+  "downloads_m": 54.2,
+  "license": "MIT",
+  "categories": "world-mobs"
+ },
+ {
+  "path": "mc-mods/charging-gadgets",
+  "name": "Charging Gadgets",
+  "downloads_m": 53.5,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/opencomputers",
+  "name": "OpenComputers",
+  "downloads_m": 52.9,
+  "license": "MIT",
+  "categories": "technology,cosmetic"
+ },
+ {
+  "path": "mc-mods/translocators-1-8",
+  "name": "Translocators 1.8.+",
+  "downloads_m": 52.4,
+  "license": "MIT",
+  "categories": "technology,storage"
+ },
+ {
+  "path": "mc-mods/forgified-fabric-api",
+  "name": "Forgified Fabric API",
+  "downloads_m": 52.3,
+  "license": "Apache version 2.0",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/betterend",
+  "name": "BetterEnd",
+  "downloads_m": 51.2,
+  "license": "MIT",
+  "categories": "world-ores-resources,cosmetic"
+ },
+ {
+  "path": "mc-mods/ceramics",
+  "name": "Ceramics",
+  "downloads_m": 50.9,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,storage,cosmetic"
+ },
+ {
+  "path": "mc-mods/rftools-storage",
+  "name": "RFTools Storage",
+  "downloads_m": 50.8,
+  "license": "MIT",
+  "categories": "technology,storage"
+ },
+ {
+  "path": "mc-mods/laserio",
+  "name": "LaserIO",
+  "downloads_m": 49.0,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/advanced-peripherals",
+  "name": "Advanced Peripherals",
+  "downloads_m": 48.9,
+  "license": "Apache version 2.0",
+  "categories": "technology,technology-farming,redstone"
+ },
+ {
+  "path": "mc-mods/rftools-dimensions",
+  "name": "RFTools Dimensions",
+  "downloads_m": 48.8,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/natures-aura",
+  "name": "Nature's Aura",
+  "downloads_m": 48.7,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,magic,technology,cosmetic"
+ },
+ {
+  "path": "mc-mods/dynamictrees",
+  "name": "Dynamic Trees",
+  "downloads_m": 48.6,
+  "license": "MIT",
+  "categories": "technology-farming,cosmetic"
+ },
+ {
+  "path": "mc-mods/packmenu",
+  "name": "PackMenu",
+  "downloads_m": 48.5,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/mystical-customization",
+  "name": "Mystical Customization",
+  "downloads_m": 48.4,
+  "license": "MIT",
+  "categories": "technology-farming,world-ores-resources"
+ },
+ {
+  "path": "mc-mods/hostile-neural-networks",
+  "name": "Hostile Neural Networks",
+  "downloads_m": 48.1,
+  "license": "MIT",
+  "categories": "technology,technology-farming,technology-processing"
+ },
+ {
+  "path": "mc-mods/project-red-core",
+  "name": "Project Red - Core",
+  "downloads_m": 47.8,
+  "license": "MIT",
+  "categories": "redstone"
+ },
+ {
+  "path": "mc-mods/delightful",
+  "name": "Delightful",
+  "downloads_m": 47.6,
+  "license": "MIT",
+  "categories": "mc-food,armor-weapons-tools,technology-farming"
+ },
+ {
+  "path": "mc-mods/rs-requestify",
+  "name": "Refined Storage: Requestify",
+  "downloads_m": 47.6,
+  "license": "MIT",
+  "categories": "technology,technology-processing"
+ },
+ {
+  "path": "mc-mods/regions-unexplored",
+  "name": "Regions Unexplored",
+  "downloads_m": 47.3,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/more-dragon-eggs",
+  "name": "More Dragon Eggs",
+  "downloads_m": 47.2,
+  "license": "MIT",
+  "categories": "world-mobs,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/project-74246",
+  "name": "Doomlike Dungeons",
+  "downloads_m": 47.1,
+  "license": "MIT",
+  "categories": "adventure-rpg"
+ },
+ {
+  "path": "mc-mods/colorful-hearts",
+  "name": "Colorful Hearts",
+  "downloads_m": 46.9,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/sinytra-connector",
+  "name": "Sinytra Connector",
+  "downloads_m": 46.6,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/advanced-generators",
+  "name": "Advanced Generators",
+  "downloads_m": 46.3,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/bygone-nether",
+  "name": "Bygone Nether",
+  "downloads_m": 46.2,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,world-mobs"
+ },
+ {
+  "path": "mc-mods/extended-crafting",
+  "name": "Extended Crafting",
+  "downloads_m": 46.0,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/rebornstorage",
+  "name": "Reborn Storage",
+  "downloads_m": 45.9,
+  "license": "MIT",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/macaws-paintings",
+  "name": "Macaw's Paintings",
+  "downloads_m": 45.8,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/project-red-integration",
+  "name": "Project Red - Integration",
+  "downloads_m": 45.0,
+  "license": "MIT",
+  "categories": "redstone"
+ },
+ {
+  "path": "mc-mods/better-foliage",
+  "name": "Better Foliage",
+  "downloads_m": 44.8,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/fairy-lights",
+  "name": "Fairy Lights",
+  "downloads_m": 44.0,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/evilcraft",
+  "name": "EvilCraft",
+  "downloads_m": 43.9,
+  "license": "Public Domain",
+  "categories": "magic,technology,world-ores-resources,world-mobs"
+ },
+ {
+  "path": "mc-mods/sit",
+  "name": "Sit",
+  "downloads_m": 43.2,
+  "license": "MIT",
+  "categories": "adventure-rpg,cosmetic"
+ },
+ {
+  "path": "mc-mods/jeitweaker",
+  "name": "JEITweaker",
+  "downloads_m": 43.2,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/measurements",
+  "name": "Measurements",
+  "downloads_m": 42.4,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/visuality",
+  "name": "Visuality",
+  "downloads_m": 41.9,
+  "license": "MIT",
+  "categories": "cosmetic"
+ },
+ {
+  "path": "mc-mods/pickle-tweaks",
+  "name": "Pickle Tweaks",
+  "downloads_m": 41.7,
+  "license": "MIT",
+  "categories": "mc-food,armor-weapons-tools,cosmetic"
+ },
+ {
+  "path": "mc-mods/project-red-illumination",
+  "name": "Project Red - Illumination",
+  "downloads_m": 41.6,
+  "license": "MIT",
+  "categories": "cosmetic,redstone"
+ },
+ {
+  "path": "mc-mods/xnet-gases",
+  "name": "XNet Gases",
+  "downloads_m": 41.0,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "texture-packs/mandalas-gui-dark-mode",
+  "name": "Mandala's GUI - Dark mode",
+  "downloads_m": 41.0,
+  "license": "Apache version 2.0",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/techreborn",
+  "name": "Tech Reborn",
+  "downloads_m": 39.0,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/nuclearcraft-mod",
+  "name": "NuclearCraft",
+  "downloads_m": 38.1,
+  "license": "MIT",
+  "categories": "technology,technology-processing,world-ores-resources"
+ },
+ {
+  "path": "mc-mods/aroma1997s-dimensional-world",
+  "name": "Aroma1997s Dimensional World",
+  "downloads_m": 37.6,
+  "license": "CC Attribution-NonCommercial 3.0 Unported",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/colossal-chests",
+  "name": "Colossal Chests",
+  "downloads_m": 37.6,
+  "license": "MIT",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/engineers-decor",
+  "name": "Engineer's Decor",
+  "downloads_m": 37.4,
+  "license": "MIT",
+  "categories": "technology,technology-processing"
+ },
+ {
+  "path": "mc-mods/steves-carts-reborn",
+  "name": "Steve's Carts Reborn",
+  "downloads_m": 37.3,
+  "license": "MIT",
+  "categories": "technology,technology-farming"
+ },
+ {
+  "path": "mc-mods/scaling-health",
+  "name": "Scaling Health",
+  "downloads_m": 37.1,
+  "license": "MIT",
+  "categories": "world-mobs,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/more-red",
+  "name": "More Red",
+  "downloads_m": 36.9,
+  "license": "MIT",
+  "categories": "technology,technology-processing,redstone"
+ },
+ {
+  "path": "mc-mods/allthecompressed",
+  "name": "AllTheCompressed",
+  "downloads_m": 36.5,
+  "license": "MIT",
+  "categories": "world-ores-resources,storage"
+ },
+ {
+  "path": "mc-mods/dank-storage",
+  "name": "Dank Storage",
+  "downloads_m": 36.3,
+  "license": "Public Domain",
+  "categories": "technology,storage"
+ },
+ {
+  "path": "mc-mods/ae2-things-forge",
+  "name": "AE2 Things [Forge]",
+  "downloads_m": 36.3,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/chicken-chunks-1-8",
+  "name": "Chicken Chunks 1.8.+",
+  "downloads_m": 36.1,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/not-enough-wands",
+  "name": "Not Enough Wands",
+  "downloads_m": 35.4,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,magic"
+ },
+ {
+  "path": "mc-mods/thaumcraft-inventory-scanning",
+  "name": "Thaumic Inventory Scanning (Thaumcraft Addon)",
+  "downloads_m": 35.4,
+  "license": "MIT",
+  "categories": "magic"
+ },
+ {
+  "path": "mc-mods/better-archeology",
+  "name": "Better Archeology",
+  "downloads_m": 35.1,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/dank-null",
+  "name": "/dank/null",
+  "downloads_m": 34.7,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,storage"
+ },
+ {
+  "path": "mc-mods/agricraft",
+  "name": "AgriCraft",
+  "downloads_m": 34.6,
+  "license": "MIT",
+  "categories": "technology-farming"
+ },
+ {
+  "path": "texture-packs/motschens-better-leaves",
+  "name": "Motschen's Better Leaves",
+  "downloads_m": 33.8,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/project-red-expansion",
+  "name": "Project Red - Expansion",
+  "downloads_m": 33.5,
+  "license": "MIT",
+  "categories": "redstone"
+ },
+ {
+  "path": "mc-mods/illager-invasion",
+  "name": "Illager Invasion",
+  "downloads_m": 32.7,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,world-mobs,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/level-up",
+  "name": "Level Up! Reloaded",
+  "downloads_m": 32.5,
+  "license": "WTFPL",
+  "categories": "adventure-rpg"
+ },
+ {
+  "path": "mc-mods/click-machine",
+  "name": "Click Machine",
+  "downloads_m": 32.4,
+  "license": "MIT",
+  "categories": "technology,redstone"
+ },
+ {
+  "path": "mc-mods/ends-delight",
+  "name": "End's Delight",
+  "downloads_m": 32.3,
+  "license": "MIT",
+  "categories": "mc-food"
+ },
+ {
+  "path": "mc-mods/magic-bees",
+  "name": "Magic Bees",
+  "downloads_m": 32.1,
+  "license": "WTFPL",
+  "categories": "world-ores-resources"
+ },
+ {
+  "path": "mc-mods/youre-in-grave-danger",
+  "name": "You're in Grave Danger",
+  "downloads_m": 32.0,
+  "license": "MIT",
+  "categories": "adventure-rpg,storage"
+ },
+ {
+  "path": "mc-mods/fabric-waystones",
+  "name": "Wraith Waystones",
+  "downloads_m": 31.8,
+  "license": "MIT",
+  "categories": "adventure-rpg"
+ },
+ {
+  "path": "mc-mods/just-enough-mekanism-multiblocks",
+  "name": "Just Enough Mekanism Multiblocks",
+  "downloads_m": 31.6,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/jaopca",
+  "name": "JAOPCA",
+  "downloads_m": 31.4,
+  "license": "MIT",
+  "categories": "technology,technology-processing"
+ },
+ {
+  "path": "mc-mods/inspirations",
+  "name": "Inspirations",
+  "downloads_m": 31.3,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,storage,redstone"
+ },
+ {
+  "path": "mc-mods/project-red-exploration",
+  "name": "Project Red - Exploration",
+  "downloads_m": 31.2,
+  "license": "MIT",
+  "categories": "world-ores-resources,redstone"
+ },
+ {
+  "path": "mc-mods/loot-beams",
+  "name": "Loot Beams: Relooted!",
+  "downloads_m": 30.7,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/mythicbotany",
+  "name": "MythicBotany",
+  "downloads_m": 30.6,
+  "license": "Apache version 2.0",
+  "categories": "armor-weapons-tools,magic"
+ },
+ {
+  "path": "mc-mods/it-takes-a-pillage",
+  "name": "It Takes a Pillage",
+  "downloads_m": 30.0,
+  "license": "MIT",
+  "categories": "world-mobs"
+ },
+ {
+  "path": "mc-mods/cleancut",
+  "name": "CleanCut",
+  "downloads_m": 29.8,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,world-mobs"
+ },
+ {
+  "path": "mc-mods/chefs-delight-forge",
+  "name": "Chef's Delight [Forge] - Farmer's Delight Villagers",
+  "downloads_m": 29.6,
+  "license": "MIT",
+  "categories": "mc-food"
+ },
+ {
+  "path": "mc-mods/angel-ring",
+  "name": "Angel Ring",
+  "downloads_m": 29.6,
+  "license": "MIT",
+  "categories": "magic,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/aiot-botania",
+  "name": "AIOT Botania",
+  "downloads_m": 29.3,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,technology-farming"
+ },
+ {
+  "path": "mc-mods/theurgy",
+  "name": "Theurgy",
+  "downloads_m": 29.2,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,magic,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/modern-industrialization",
+  "name": "Modern Industrialization",
+  "downloads_m": 29.1,
+  "license": "MIT",
+  "categories": "technology,technology-processing"
+ },
+ {
+  "path": "mc-mods/accessories",
+  "name": "Accessories",
+  "downloads_m": 28.7,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/majruszs-progressive-difficulty",
+  "name": "Majrusz's Progressive Difficulty",
+  "downloads_m": 28.6,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,world-mobs,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/project-red-compat",
+  "name": "Project Red - Compat",
+  "downloads_m": 28.6,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/toms-storage-fabric",
+  "name": "Tom's Simple Storage Mod (Fabric)",
+  "downloads_m": 28.5,
+  "license": "MIT",
+  "categories": "technology,storage"
+ },
+ {
+  "path": "mc-mods/roots",
+  "name": "Roots 4",
+  "downloads_m": 27.8,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,magic,adventure-rpg"
+ },
+ {
+  "path": "texture-packs/repurposed-structures-farmers-delight-datapack",
+  "name": "Repurposed Structures - Farmer's Delight Compat Datapack",
+  "downloads_m": 27.7,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/custom-npcs",
+  "name": "Custom NPCs",
+  "downloads_m": 27.6,
+  "license": "CC Attribution-NonCommercial 3.0 Unported",
+  "categories": "armor-weapons-tools,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/mystical-world",
+  "name": "Mystical World",
+  "downloads_m": 27.6,
+  "license": "MIT",
+  "categories": "world-mobs,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/ad-astra-giselle-addon",
+  "name": "Ad Astra: Giselle Addon",
+  "downloads_m": 27.5,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/deep-resonance",
+  "name": "Deep Resonance",
+  "downloads_m": 27.3,
+  "license": "MIT",
+  "categories": "world-ores-resources"
+ },
+ {
+  "path": "mc-mods/connector-extras",
+  "name": "Connector Extras",
+  "downloads_m": 27.2,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/nether-depths-upgrade",
+  "name": "Nether Depths Upgrade",
+  "downloads_m": 27.2,
+  "license": "MIT",
+  "categories": "world-mobs"
+ },
+ {
+  "path": "mc-mods/shield-expansion",
+  "name": "Shield Expansion",
+  "downloads_m": 27.0,
+  "license": "Apache version 2.0",
+  "categories": "armor-weapons-tools,adventure-rpg"
+ },
+ {
+  "path": "mc-mods/universal-grid",
+  "name": "Universal Grid",
+  "downloads_m": 26.9,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/exposure",
+  "name": "Exposure",
+  "downloads_m": 26.5,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,adventure-rpg"
+ },
+ {
+  "path": "texture-packs/when-dungeons-arise-no-flying-structures",
+  "name": "When Dungeons Arise - No Flying Structures",
+  "downloads_m": 26.5,
+  "license": "Public Domain",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/mystical-agriculture-tiered-crystals",
+  "name": "Mystical Agriculture Tiered Crystals",
+  "downloads_m": 26.4,
+  "license": "MIT",
+  "categories": "technology-farming"
+ },
+ {
+  "path": "mc-mods/eating-animation-forge",
+  "name": "Eating Animation [Neo/Forge]",
+  "downloads_m": 26.0,
+  "license": "MIT",
+  "categories": "mc-food"
+ },
+ {
+  "path": "mc-mods/astikorcarts",
+  "name": "AstikorCarts [Horse Carts]",
+  "downloads_m": 26.0,
+  "license": "MIT",
+  "categories": "technology-farming,storage"
+ },
+ {
+  "path": "mc-mods/wolf-armor-and-storage",
+  "name": "Wolf Armor and Storage Legacy",
+  "downloads_m": 25.7,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,world-mobs,adventure-rpg,storage"
+ },
+ {
+  "path": "mc-mods/gravitational-modulating-additional-unit",
+  "name": "Gravitational Modulating Additional Unit",
+  "downloads_m": 25.4,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/no-mob-spawning-on-trees",
+  "name": "No Mob Spawning on Trees",
+  "downloads_m": 25.0,
+  "license": "MIT",
+  "categories": "world-mobs"
+ },
+ {
+  "path": "mc-mods/useful-backpacks",
+  "name": "Useful Backpacks",
+  "downloads_m": 25.0,
+  "license": "Apache version 2.0",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/yoyos",
+  "name": "Yoyos",
+  "downloads_m": 24.7,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/industrial-foregoing-souls",
+  "name": "Industrial Foregoing Souls",
+  "downloads_m": 24.7,
+  "license": "MIT",
+  "categories": "technology,technology-processing"
+ },
+ {
+  "path": "mc-mods/raided",
+  "name": "Raided",
+  "downloads_m": 24.7,
+  "license": "MIT",
+  "categories": "world-mobs,adventure-rpg"
+ },
+ {
+  "path": "texture-packs/when-dungeons-arise-spacing-tweaks",
+  "name": "When Dungeons Arise - Spacing Tweaks",
+  "downloads_m": 24.6,
+  "license": "Public Domain",
+  "categories": ""
+ },
+ {
+  "path": "texture-packs/fresh-moves",
+  "name": "Fresh Moves",
+  "downloads_m": 24.4,
+  "license": "Attribution-NonCommercial-ShareAlike 4.0 International",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/scannable",
+  "name": "Scannable",
+  "downloads_m": 24.3,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/inventory-tweaks-renewed",
+  "name": "Inventory Tweaks Renewed",
+  "downloads_m": 24.2,
+  "license": "Apache version 2.0",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/construction-sticks",
+  "name": "Construction Sticks",
+  "downloads_m": 23.8,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/create-big-cannons",
+  "name": "Create Big Cannons",
+  "downloads_m": 23.7,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,technology"
+ },
+ {
+  "path": "mc-mods/chickens",
+  "name": "Chickens",
+  "downloads_m": 23.4,
+  "license": "MIT",
+  "categories": "magic,technology-farming,world-mobs"
+ },
+ {
+  "path": "mc-mods/pocket-storage",
+  "name": "Pocket Storage",
+  "downloads_m": 23.4,
+  "license": "MIT",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/yabba",
+  "name": "YABBA",
+  "downloads_m": 23.3,
+  "license": "MIT",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/transmog",
+  "name": "Transmog",
+  "downloads_m": 23.2,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/omlib",
+  "name": "OMLib",
+  "downloads_m": 23.2,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/just-dire-things",
+  "name": "Just Dire Things",
+  "downloads_m": 23.1,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,technology"
+ },
+ {
+  "path": "mc-mods/first-person-model",
+  "name": "First-person Model",
+  "downloads_m": 23.1,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/silents-gems",
+  "name": "Silent's Gems",
+  "downloads_m": 23.0,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,magic,world-ores-resources"
+ },
+ {
+  "path": "mc-mods/roots-classic",
+  "name": "Roots Classic",
+  "downloads_m": 22.9,
+  "license": "MIT",
+  "categories": "magic"
+ },
+ {
+  "path": "texture-packs/icon-xaeros",
+  "name": "Icon Xaero's",
+  "downloads_m": 22.9,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/coralreef",
+  "name": "CoralReef",
+  "downloads_m": 22.8,
+  "license": "MIT",
+  "categories": "world-ores-resources"
+ },
+ {
+  "path": "mc-mods/advanced-rocketry",
+  "name": "Advanced Rocketry",
+  "downloads_m": 22.7,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/food-expansion",
+  "name": "Food Expansion",
+  "downloads_m": 22.6,
+  "license": "MIT",
+  "categories": "mc-food,technology-farming"
+ },
+ {
+  "path": "mc-mods/no-tree-punching",
+  "name": "No Tree Punching",
+  "downloads_m": 22.5,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,technology"
+ },
+ {
+  "path": "texture-packs/embellished-stone-advancement-plaques",
+  "name": "Embellished Stone (Advancement Plaques)",
+  "downloads_m": 22.4,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/sushigocrafting",
+  "name": "Sushi Go Crafting",
+  "downloads_m": 22.3,
+  "license": "MIT",
+  "categories": "mc-food"
+ },
+ {
+  "path": "mc-mods/chocolate-fix",
+  "name": "Chocolate Fix",
+  "downloads_m": 22.2,
+  "license": "MIT",
+  "categories": "world-biomes"
+ },
+ {
+  "path": "mc-mods/more-chickens",
+  "name": "More Chickens",
+  "downloads_m": 21.9,
+  "license": "MIT",
+  "categories": "world-ores-resources,world-mobs"
+ },
+ {
+  "path": "mc-mods/project-red-fabrication",
+  "name": "Project Red - Fabrication",
+  "downloads_m": 21.7,
+  "license": "MIT",
+  "categories": "technology,redstone"
+ },
+ {
+  "path": "mc-mods/metal-barrels",
+  "name": "Metal Barrels",
+  "downloads_m": 21.7,
+  "license": "Public Domain",
+  "categories": "storage"
+ },
+ {
+  "path": "texture-packs/repurposed-structures-friends-and-foes-datapack",
+  "name": "Repurposed Structures - Friends and Foes Compat Datapack",
+  "downloads_m": 21.7,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/eidolon",
+  "name": "Eidolon",
+  "downloads_m": 21.6,
+  "license": "BSD",
+  "categories": "armor-weapons-tools,magic"
+ },
+ {
+  "path": "mc-mods/gardens-of-the-dead",
+  "name": "Gardens of the Dead",
+  "downloads_m": 21.6,
+  "license": "MIT",
+  "categories": "world-biomes"
+ },
+ {
+  "path": "mc-mods/farmers-delight-refabricated",
+  "name": "Farmer's Delight Refabricated",
+  "downloads_m": 21.4,
+  "license": "MIT",
+  "categories": "mc-food,technology-farming"
+ },
+ {
+  "path": "mc-mods/farmers-delight-fabric",
+  "name": "[Deprecated] Farmer's Delight [Fabric]",
+  "downloads_m": 21.4,
+  "license": "MIT",
+  "categories": "mc-food,technology-farming"
+ },
+ {
+  "path": "mc-mods/defiled-lands",
+  "name": "Defiled Lands",
+  "downloads_m": 21.4,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,world-ores-resources,world-mobs,world-biomes"
+ },
+ {
+  "path": "mc-mods/redstone-gauges-and-switches",
+  "name": "Gauges and Switches",
+  "downloads_m": 21.2,
+  "license": "MIT",
+  "categories": "technology,redstone"
+ },
+ {
+  "path": "mc-mods/redstone-pen",
+  "name": "Redstone Pen",
+  "downloads_m": 21.2,
+  "license": "MIT",
+  "categories": "redstone"
+ },
+ {
+  "path": "texture-packs/repurposed-structures-better-strongholds-datapack",
+  "name": "Repurposed Structures - Better Strongholds Compat Datapack",
+  "downloads_m": 21.0,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/eating-animation-fabric",
+  "name": "Eating Animation [Fabric]",
+  "downloads_m": 20.9,
+  "license": "MIT",
+  "categories": "mc-food"
+ },
+ {
+  "path": "mc-mods/better-survival-mod",
+  "name": "Better Survival mod",
+  "downloads_m": 20.9,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/armor-toughness-bar",
+  "name": "Armor Toughness Bar",
+  "downloads_m": 20.7,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/inventory-sorting",
+  "name": "Inventory Sorting",
+  "downloads_m": 20.6,
+  "license": "MIT",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/expanded-delight",
+  "name": "Expanded Delight",
+  "downloads_m": 20.3,
+  "license": "MIT",
+  "categories": "mc-food,technology-farming,world-ores-resources"
+ },
+ {
+  "path": "mc-mods/cognition-mod",
+  "name": "Cognition (Experience Obelisk)",
+  "downloads_m": 20.1,
+  "license": "MIT",
+  "categories": "magic,technology,storage"
+ },
+ {
+  "path": "mc-mods/things-fabric",
+  "name": "Things [Fabric]",
+  "downloads_m": 20.0,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,magic"
+ },
+ {
+  "path": "mc-mods/tinkers-jei",
+  "name": "Tinker's JEI",
+  "downloads_m": 20.0,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/alloy-forgery",
+  "name": "Alloy Forgery",
+  "downloads_m": 19.7,
+  "license": "MIT",
+  "categories": "technology,technology-processing"
+ },
+ {
+  "path": "texture-packs/slightly-improved-font",
+  "name": "Slightly Improved Font (32x)",
+  "downloads_m": 19.6,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/kobolds",
+  "name": "Kobolds!",
+  "downloads_m": 19.5,
+  "license": "MIT",
+  "categories": "armor-weapons-tools,world-mobs"
+ },
+ {
+  "path": "mc-mods/crabbers-delight",
+  "name": "Crabber's Delight",
+  "downloads_m": 19.4,
+  "license": "MIT",
+  "categories": "mc-food,technology-farming"
+ },
+ {
+  "path": "mc-mods/just-enough-immersive-multiblocks",
+  "name": "Just Enough Immersive Multiblocks",
+  "downloads_m": 19.4,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "texture-packs/repurposed-structures-better-dungeons-datapack",
+  "name": "Repurposed Structures - Better Dungeons Compat Datapack",
+  "downloads_m": 19.4,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/leos-craftable-chainmail",
+  "name": "Leo's Craftable Chainmail",
+  "downloads_m": 19.3,
+  "license": "MIT",
+  "categories": "armor-weapons-tools"
+ },
+ {
+  "path": "mc-mods/tinkers-mechworks",
+  "name": "Tinkers' Mechworks",
+  "downloads_m": 19.2,
+  "license": "CC Attribution 3.0 Unported",
+  "categories": "technology,world-ores-resources,redstone"
+ },
+ {
+  "path": "mc-mods/portality",
+  "name": "Portality",
+  "downloads_m": 19.2,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/cat-jammies",
+  "name": "Cat Jammies",
+  "downloads_m": 19.2,
+  "license": "MIT",
+  "categories": "world-mobs"
+ },
+ {
+  "path": "texture-packs/when-dungeons-arise-loot-tweaks",
+  "name": "When Dungeons Arise - Loot Tweaks",
+  "downloads_m": 19.2,
+  "license": "Public Domain",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/tesseract-api-neoforge",
+  "name": "Tesseract API (NeoForge)",
+  "downloads_m": 19.0,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/mavapi",
+  "name": "More Axolotl Variants API",
+  "downloads_m": 19.0,
+  "license": "MIT",
+  "categories": "world-mobs"
+ },
+ {
+  "path": "mc-mods/potion-fingers-redux",
+  "name": "Potion Rings",
+  "downloads_m": 18.9,
+  "license": "WTFPL",
+  "categories": "magic"
+ },
+ {
+  "path": "texture-packs/repurposed-structures-better-witch-huts-compat",
+  "name": "Repurposed Structures - Better Witch Huts Compat Datapack",
+  "downloads_m": 18.9,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/infernal-expansion",
+  "name": "Infernal Expansion",
+  "downloads_m": 18.8,
+  "license": "Apache version 2.0",
+  "categories": "world-mobs,world-biomes"
+ },
+ {
+  "path": "mc-mods/dramatic-doors",
+  "name": "Dramatic Doors",
+  "downloads_m": 18.7,
+  "license": "MIT",
+  "categories": "redstone"
+ },
+ {
+  "path": "mc-mods/totemic",
+  "name": "Totemic",
+  "downloads_m": 18.6,
+  "license": "MIT",
+  "categories": "magic"
+ },
+ {
+  "path": "mc-mods/restrictions",
+  "name": "Restrictions",
+  "downloads_m": 18.5,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/packing-tape",
+  "name": "Packing Tape",
+  "downloads_m": 18.4,
+  "license": "BSD",
+  "categories": "technology,storage"
+ },
+ {
+  "path": "mc-mods/ex-nihilo-creatio",
+  "name": "Ex Nihilo: Creatio",
+  "downloads_m": 18.4,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/farmers-knives",
+  "name": "Farmer's Knives",
+  "downloads_m": 18.1,
+  "license": "MIT",
+  "categories": "technology-farming"
+ },
+ {
+  "path": "mc-mods/hyperbox",
+  "name": "Hyperbox",
+  "downloads_m": 18.0,
+  "license": "MIT",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/create-ore-excavation",
+  "name": "Create Ore Excavation",
+  "downloads_m": 17.8,
+  "license": "MIT",
+  "categories": "technology,world-ores-resources"
+ },
+ {
+  "path": "mc-mods/chefs-delight-fabric",
+  "name": "Chef's Delight [Fabric] - Farmer's Delight Villagers",
+  "downloads_m": 17.7,
+  "license": "MIT",
+  "categories": "mc-food"
+ },
+ {
+  "path": "mc-mods/eternal-starlight",
+  "name": "Eternal Starlight",
+  "downloads_m": 17.6,
+  "license": "MIT",
+  "categories": "magic,world-biomes"
+ },
+ {
+  "path": "mc-mods/roost",
+  "name": "Roost",
+  "downloads_m": 17.6,
+  "license": "MIT",
+  "categories": "technology-farming"
+ },
+ {
+  "path": "mc-mods/streams",
+  "name": "Streams",
+  "downloads_m": 17.6,
+  "license": "MIT",
+  "categories": "world-biomes"
+ },
+ {
+  "path": "mc-mods/extended-industrialization",
+  "name": "Extended Industrialization",
+  "downloads_m": 17.5,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/framed-compacting-drawers",
+  "name": "Framed Compacting Drawers",
+  "downloads_m": 17.5,
+  "license": "MIT",
+  "categories": "storage"
+ },
+ {
+  "path": "mc-mods/integrated-nbt",
+  "name": "Integrated NBT",
+  "downloads_m": 17.1,
+  "license": "MIT",
+  "categories": "technology"
+ },
+ {
+  "path": "mc-mods/the-spice-of-life",
+  "name": "The Spice of Life",
+  "downloads_m": 17.0,
+  "license": "Public Domain",
+  "categories": "mc-food"
+ },
+ {
+  "path": "mc-mods/create-diesel-generators",
+  "name": "Create: Diesel Generators",
+  "downloads_m": 16.9,
+  "license": "MIT",
+  "categories": "technology,technology-processing"
+ },
+ {
+  "path": "texture-packs/backpacked-recipe-fix",
+  "name": "Backpacked Recipe Fix",
+  "downloads_m": 16.9,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/bee-fix",
+  "name": "Bee Fix",
+  "downloads_m": 16.8,
+  "license": "MIT",
+  "categories": "technology-farming,world-mobs"
+ },
+ {
+  "path": "texture-packs/repurposed-structures-villagerplus-compat-datapack",
+  "name": "Repurposed Structures - VillagerPlus Compat Datapack",
+  "downloads_m": 16.8,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "texture-packs/repurposed-structures-bountiful-datapack-compat",
+  "name": "Repurposed Structures - Bountiful Compat Datapack",
+  "downloads_m": 16.8,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/embers-rekindled",
+  "name": "Embers Rekindled",
+  "downloads_m": 16.7,
+  "license": "MIT",
+  "categories": "magic,technology,technology-processing"
+ },
+ {
+  "path": "mc-mods/useful-railroads",
+  "name": "Useful Railroads",
+  "downloads_m": 16.7,
+  "license": "Apache version 2.0",
+  "categories": "technology,redstone"
+ },
+ {
+  "path": "mc-mods/wireless-redstone-cbe",
+  "name": "Wireless Redstone CBE",
+  "downloads_m": 16.7,
+  "license": "MIT",
+  "categories": "redstone"
+ },
+ {
+  "path": "mc-mods/illagers-wear-armor",
+  "name": "Illagers Wear Armor",
+  "downloads_m": 16.4,
+  "license": "MIT",
+  "categories": "world-mobs"
+ },
+ {
+  "path": "texture-packs/animemis-inf-sw",
+  "name": "Animated And Emissive: Ice and Fire and Spartan Weaponry",
+  "downloads_m": 16.2,
+  "license": "MIT",
+  "categories": ""
+ },
+ {
+  "path": "mc-mods/jumbo-furnace",
+  "name": "Jumbo Furnace",
+  "downloads_m": 16.1,
+  "license": "MIT",
+  "categories": "technology-processing"
+ }
+]

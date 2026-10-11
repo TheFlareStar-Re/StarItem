@@ -1,0 +1,261 @@
+﻿project_id,slug,name,author,downloads,cf_license,repo,verdict,item_textures_in_repo,note,batch
+248787,appleskin,AppleSkin,squeek502,417123839,Modrinth: Unlicense,https://github.com/squeek502/AppleSkin,skip,0,仓库里物品贴图不足 10 张,batch2
+252848,natures-compass,Nature's Compass,Chaosyr,301551086,Modrinth: CC-BY-NC-SA-4.0,https://github.com/MattCzyr/NaturesCompass,exclude,32,物品目录里不是物品图标,batch2
+243121,quark,Quark,Vazkii,256978370,Modrinth: -,https://github.com/VazkiiMods/Quark,ok_nc,218,LICENSE：整个模组 CC BY-NC-SA 3.0,batch2
+223794,applied-energistics-2,Applied Energistics 2,thetechnici4n,227810587,Modrinth: -,https://github.com/AppliedEnergistics/Applied-Energistics-2,ok_nc,130,README：贴图和模型 CC BY-NC-SA 3.0（代码 LGPL）,batch2
+254268,torchmaster,TorchMaster,xalcon,166322844,Modrinth: MIT,https://github.com/Xalcon/TorchMaster,skip,1,仓库里物品贴图不足 10 张,batch2
+60028,aquaculture,Aquaculture 2,Shadow,165673108,Modrinth: -,https://github.com/TeamMetallurgy/Aquaculture,exclude,160,素材保留所有权利,batch2
+257356,in-control,In Control!,McJty,136438403,Modrinth: MIT,https://github.com/McJtyMods/InControl,skip,0,仓库里物品贴图不足 10 张,batch2
+313970,apotheosis,Apotheosis,Shadows_of_Fire,134646109,Modrinth: -,https://github.com/Shadows-of-Fire/Apotheosis,exclude,74,素材保留所有权利,batch2
+64578,enderio,Ender IO,crazypants_mc_the_second,128102005,Modrinth: Unlicense,https://github.com/Team-EnderIO/EnderIO,skip,220,已在清单中（同一项目或同一仓库）,batch2
+224791,blood-magic,Blood Magic,WayofTime,109716588,Modrinth: CC-BY-4.0,https://github.com/WayofTime/BloodMagic,ok_explicit,361,LICENSE：整个项目 CC BY 4.0，需署名,batch2
+491794,explorers-compass,Explorer's Compass,Chaosyr,99753361,Modrinth: CC-BY-NC-SA-4.0,https://github.com/MattCzyr/ExplorersCompass,exclude,32,物品目录里不是物品图标,batch2
+228404,actually-additions,Actually Additions,Ellpeck,97119478,Modrinth: -,https://github.com/Ellpeck/ActuallyAdditions,ok_default,116,仓库许可文件：MIT，未见素材单独条款,batch2
+272302,refined-storage-addons,Refined Storage Addons,raoulvdberge,96878859,Modrinth: MIT,https://github.com/refinedmods/refinedstorageaddons,skip,2,仓库里物品贴图不足 10 张,batch2
+269024,the-lost-cities,The Lost Cities,McJty,91353133,Modrinth: MIT,https://github.com/McJtyMods/LostCities,skip,0,仓库里物品贴图不足 10 张,batch2
+344787,xp-tome,XP Tome,bl4ckscor3,86657648,Modrinth: MIT,https://github.com/bl4ckscor3/XP-Tome,skip,1,仓库里物品贴图不足 10 张,batch2
+239286,cyclic,Cyclic,Lothrazar,84991658,Modrinth: -,https://github.com/Lothrazar/Cyclic,ok_default,263,LICENSE 为 MIT；item/charm 目录的 CREDIT.txt 提到可能用了 CC BY-SA 3.0 的素材,batch2
+548115,alternate-current,Alternate Current,SpaceWalkerRS,77016339,Modrinth: MIT,https://github.com/SpaceWalkerRS/alternate-current,skip,0,仓库里物品贴图不足 10 张,batch2
+238891,dynamic-surroundings,Dynamic Surroundings,OreCruncher,75415417,Modrinth: MIT,https://github.com/OreCruncher/DynamicSurroundingsFabric,skip,0,仓库里物品贴图不足 10 张,batch2
+243190,shoulder-surfing-reloaded,Shoulder Surfing Reloaded,_ForgeUser21552638,65473579,Modrinth: MIT,https://github.com/Exopandora/ShoulderSurfing,skip,0,仓库里物品贴图不足 10 张,batch2
+656977,moogs-voyager-structures,MVS - Moog's Voyager Structures,finndog_123,64543043,Modrinth: MIT,https://github.com/Moog-s-Mods/MoogsVoyagerStructures,skip,0,仓库里物品贴图不足 10 张,batch2
+704113,botarium,Botarium,terrariumearth,56800127,Modrinth: MIT,https://github.com/terrarium-earth/Common-Storage-Lib,skip,0,仓库里物品贴图不足 10 张,batch2
+391382,more-overlays-updated,More Overlays Updated,RiDGo8,55803152,Modrinth: MIT,https://github.com/r8420/MoreOverlays-updated,skip,0,仓库里物品贴图不足 10 张,batch2
+899386,justenoughbreeding,Just Enough Breeding (JEBr),Christofmeg,54225002,Modrinth: MIT,https://github.com/Christofmeg/JustEnoughBreeding,skip,0,仓库里物品贴图不足 10 张,batch2
+307788,rs-requestify,Refined Storage: Requestify,Buuz135,47649747,Modrinth: MIT,https://github.com/Buuz135/RS-Requestify,skip,0,仓库里物品贴图不足 10 张,batch2
+890127,sinytra-connector,Sinytra Connector,Su5eD,46657539,Modrinth: MIT,https://github.com/Sinytra/Connector,skip,0,仓库里物品贴图不足 10 张,batch2
+509285,create-deco,Create Deco,talrey,43794265,Modrinth: MIT,https://github.com/talrey/CreateDeco,exclude,37,依附于素材许可更严的模组,batch2
+278717,sit,Sit,bl4ckscor3,43217912,Modrinth: MIT,https://github.com/bl4ckscor3/Sit,skip,0,仓库里物品贴图不足 10 张,batch2
+827163,enders-delight,Ender's Delight,Furti_Two,40509245,Modrinth: MIT,https://github.com/Ax3dGaming/EndersDelight,unverified,35,仓库无许可文件,batch2
+609977,ae2-things-forge,AE2 Things [Forge],thetechnici4n,36331806,Modrinth: -,https://github.com/Technici4n/AE2Things-Forge,skip,6,仓库里物品贴图不足 10 张,batch2
+686836,tectonic,Tectonic,Apollo,33572513,Modrinth: MIT,https://github.com/Apollounknowndev/tectonic,skip,0,仓库里物品贴图不足 10 张,batch2
+891324,illager-invasion,Illager Invasion,Fuzs,32776366,Modrinth: MIT,https://github.com/Fuzss/illager-invasion,skip,0,仓库里物品贴图不足 10 张,batch2
+533942,bridging-mod,Bridging Mod,CG360,30806202,Modrinth: MIT,https://github.com/squeeglii/BridgingMod,skip,0,仓库里物品贴图不足 10 张,batch2
+345425,mekanism-additions,Mekanism Additions,bradyaidanc,30352226,Modrinth: MIT,https://github.com/mekanism/Mekanism,skip,285,已在清单中（同一项目或同一仓库）,batch2
+635843,it-takes-a-pillage,It Takes a Pillage,izofar,30075669,Modrinth: MIT,https://github.com/izofar/takes-a-pillage,skip,2,仓库里物品贴图不足 10 张,batch2
+392805,cleancut,CleanCut,Rongmario,29838536,Modrinth: MIT,https://github.com/Exoneration/CleanCut,skip,0,仓库里物品贴图不足 10 张,batch2
+938917,accessories,Accessories,Blodhgarm,28773949,Modrinth: MIT,https://github.com/wisp-forest/accessories,skip,0,仓库里物品贴图不足 10 张,batch2
+714958,ad-astra-giselle-addon,Ad-Astra: Giselle Addon,gisellevonbingen,27551709,Modrinth: MIT,https://github.com/gisellevonbingen-Minecraft/Ad-Astra-Giselle-Addon,exclude,11,依附于素材许可更严的模组,batch2
+580942,raided,Raided,Mrbysco,24792836,Modrinth: MIT,https://github.com/Mrbysco/Raided,skip,0,仓库里物品贴图不足 10 张,batch2
+695107,more-mob-variants,More Mob Variants,nyuppo,24303298,Modrinth: CC0-1.0,https://github.com/nyuppo/MobVariants,skip,,仓库里物品贴图不足 10 张,batch2
+1156098,construction-sticks,Construction Sticks,Mrbysco,23867973,Modrinth: MIT,https://github.com/Mrbysco/ConstructionSticks,ok_default,13,仓库许可文件：MIT，未见素材单独条款,batch2
+866084,xaeroplus,XaeroPlus,CoinRS,23719078,Modrinth: MIT,https://github.com/rfresh2/XaeroPlus,skip,,仓库里物品贴图不足 10 张,batch2
+646668,create-big-cannons,Create Big Cannons,rbasamoyai,23708270,Modrinth: -,https://github.com/Cannoneers-of-Create/CreateBigCannons,ok_nc,46,LICENSE：手绘贴图和模型 CC BY-NC-SA 4.0,batch2
+848032,transmog,Transmog,Hidoni,23250466,Modrinth: MIT,https://github.com/Hidoni/Transmog,skip,1,仓库里物品贴图不足 10 张,batch2
+333287,first-person-model,First-person Model,tr7zw,23120773,Modrinth: MIT,https://github.com/tr7zw/FirstPersonModel,skip,0,仓库里物品贴图不足 10 张,batch2
+993166,farmers-delight-refabricated,Farmer's Delight Refabricated,cassiancc,21470523,Modrinth: MIT,https://github.com/MehVahdJukaar/FarmersDelightRefabricated,exclude,143,移植版或与已有模组重复,batch2
+624165,create-fabric,Create Fabric,tropheusj,21453353,Modrinth: MIT,https://github.com/Fabricators-of-Create/Create,exclude,122,素材保留所有权利,batch2
+482834,farmers-delight-fabric,[Deprecated] Farmer's Delight [Fabric],NewHoryzon,21430953,Modrinth: MIT,https://github.com/newhoryzon/farmers-delight-fabric,exclude,122,移植版或与已有模组重复,batch2
+632066,mariums-soulslike-weaponry,Marium's Soulslike Weaponry,mariumbacchus,21197519,Modrinth: CC0-1.0,https://github.com/mariumbacchus/Soulslike-Weaponry,ok_default,249,仓库许可文件：CC0，未见素材单独条款,batch2
+533748,chalk,Chalk,mortuusars,20993948,Modrinth: MIT,https://github.com/mortuusars/Chalk,ok_default,20,仓库许可文件：MIT，未见素材单独条款,batch2
+579484,cognition-mod,Cognition (Experience Obelisk),cyanog3n,20123424,Modrinth: -,https://github.com/terrarium-earth/Cognition,ok_default,40,仓库许可文件：MIT，未见素材单独条款,batch2
+911437,sparse-structures,Sparse Structures,Maxence,19498071,Modrinth: MIT,https://github.com/MaxenceDC/sparsestructures,skip,0,仓库里物品贴图不足 10 张,batch2
+649832,create-ore-excavation,Create Ore Excavation,tom54541,17851983,Modrinth: MIT,https://github.com/tom5454/Create-Ore-Excavation,skip,8,仓库里物品贴图不足 10 张,batch2
+852533,from-the-fog,From The Fog,LunarEclipseStudios,17751905,Modrinth: CC-BY-NC-SA-4.0,https://github.com/LunarEclipseStudios/From-The-Fog,exclude,377,物品目录里不是物品图标,batch2
+1030830,oritech,Oritech,rearth,17654918,Modrinth: CC-BY-4.0,https://github.com/Rearth/Oritech,ok_nc,134,LICENSE 为 CC0；README：部分素材来自 techarium（CC BY-NC 4.0）和 malcolmriley（CC BY 4.0），需署名,batch2
+220811,the-spice-of-life,The Spice of Life,squeek502,17022055,Modrinth: -,https://github.com/squeek502/SpiceOfLife,skip,7,仓库里物品贴图不足 10 张,batch2
+557556,responsive-shields,Responsive Shields,Revvilo,15739839,Modrinth: MIT,https://github.com/Revvilo/Responsive-Shields,skip,0,仓库里物品贴图不足 10 张,batch2
+663567,mythic-upgrades,Mythic Upgrades,TriQue,14857159,Modrinth: MIT,https://github.com/TriQue06/mythic-upgrades-multiloader,unverified,100,仓库无许可文件,batch2
+363392,building-wands,Building Wands,nicguzzo,14810406,Modrinth: Apache-2.0,https://github.com/nicguzzo/wands,ok_default,12,仓库许可文件：Apache-2.0，未见素材单独条款,batch2
+369254,inmis,Inmis,Draylar1,14792619,Modrinth: MIT,https://github.com/Draylar/inmis,skip,9,仓库里物品贴图不足 10 张,batch2
+962162,ranged-weapon-api,Ranged Weapon API,daedelus_dev,13746977,Modrinth: MIT,https://github.com/FabricExtras/RangedWeaponAPI,skip,4,仓库里物品贴图不足 10 张,batch2
+1175325,improved-village-placement,Improved Village Placement,Apollo,13299776,Modrinth: MIT,https://github.com/Apollounknowndev/improved-village-placement,skip,0,仓库里物品贴图不足 10 张,batch2
+564941,show-me-what-you-got,Show Me What You Got,Apace,12941127,Modrinth: MIT,https://github.com/apace100/show-me-what-you-got,skip,0,仓库里物品贴图不足 10 张,batch2
+662563,ender-trigon,Ender Trigon,nonamecrackers2,12493290,Modrinth: Apache-2.0,https://github.com/nonamecrackers2/ender-trigon,skip,0,仓库里物品贴图不足 10 张,batch2
+876154,all-the-trims,All The Trims,bawnorton,12180502,Modrinth: MIT,https://github.com/Bawnorton/AllTheTrims,skip,0,仓库里物品贴图不足 10 张,batch2
+1048720,shield-api,Shield API,TheRedBrain,11883219,Modrinth: MIT,https://github.com/FabricExtras/ShieldAPI,skip,2,仓库里物品贴图不足 10 张,batch2
+410127,mythicmetals,Mythic Metals,Noaaan,11636915,Modrinth: MIT,https://github.com/Noaaan/MythicMetals,exclude,485,素材保留所有权利,batch2
+1005676,create-aquatic-ambitions,Create: Aquatic Ambitions,DaviO,11633524,Modrinth: MIT,https://github.com/davioliva16/create-aquatic-ambitions,skip,5,仓库里物品贴图不足 10 张,batch2
+948999,abridged,Abridged,Apollo,11265331,Modrinth: MIT,https://github.com/Apollounknowndev/abridged,skip,0,仓库里物品贴图不足 10 张,batch2
+926511,thaumon,Thaumon,moonst0ne,11254681,Modrinth: MIT,https://github.com/shizotoaster/thaumon,exclude,13,依附于素材许可更严的模组,batch2
+543972,refined-cooking,Refined Cooking,ItsSebastrn,11018515,Modrinth: MIT,https://github.com/Sebastrn/RefinedCooking,skip,4,仓库里物品贴图不足 10 张,batch2
+229523,armourers-workshop,Armourer's Workshop,RiskyKen,11017471,Modrinth: CC-BY-NC-SA-3.0,https://github.com/Armourers-Workshop/Armourers-Workshop,ok_nc,102,LICENSE：CC BY-NC-SA 3.0,batch2
+658286,automobility,Automobility,FoundationGames,10662098,Modrinth: MIT,https://github.com/FoundationGames/Automobility,skip,4,仓库里物品贴图不足 10 张,batch2
+357265,more-totems-of-undying,More Totems of Undying,CyborgPigeon,10448364,Modrinth: MIT,https://github.com/HyperPigeon/MoreTotemsOfUndying,skip,7,仓库里物品贴图不足 10 张,batch2
+629373,idwtialsimmoedm,Idwtialsimmoedm,gliscowo,10185146,Modrinth: MIT,https://github.com/gliscowo/idwtialsimmoedm,skip,0,仓库里物品贴图不足 10 张,batch2
+1102591,create-trading-floor,Create: Trading floor,CakeIsTastyDeveloper,10071753,Modrinth: MIT,https://github.com/cakeGit/Create-Trading-Floor,skip,0,仓库里物品贴图不足 10 张,batch2
+602312,lunar,Lunar,Mrbysco,9520895,Modrinth: MIT,https://github.com/Mrbysco/Lunar,skip,0,仓库里物品贴图不足 10 张,batch2
+930880,leawind-third-person,Leawind's Third Person,Leawind,9359787,Modrinth: MIT,https://github.com/Leawind/Third-Person,skip,0,仓库里物品贴图不足 10 张,batch2
+913587,ryoamiclights,RyoamicLights,TexTrue,8989344,Modrinth: MIT,https://github.com/ThinkingStudios/RyoamicLights,skip,0,仓库里物品贴图不足 10 张,batch2
+852668,hang-glider,Hang Glider,Fuzs,8867485,Modrinth: MIT,https://github.com/Fuzss/hang-glider,skip,0,仓库里物品贴图不足 10 张,batch2
+1168140,cobblemon-fight-or-flight-reborn,Cobblemon Fight or Flight Reborn,Vaniron,8866244,Modrinth: MIT,https://github.com/LyquidQrystal/fightorflight,skip,2,仓库里物品贴图不足 10 张,batch2
+620928,zenith,Zenith,safrodev,8858767,Modrinth: MIT,https://github.com/TheWinABagel/Zenith,exclude,72,依附于素材许可更严的模组,batch2
+679270,thirst-was-taken,Thirst Was Taken,ghenghen_,8584244,Modrinth: MIT,https://github.com/ghen-git/Thirst-Mod,skip,5,仓库里物品贴图不足 10 张,batch2
+559312,easy-npc,Easy NPC,Kaworru,8527910,Modrinth: MIT,https://github.com/MarkusBordihn/BOs-Easy-NPC,exclude,54,素材保留所有权利,batch2
+936020,create-power-loader,Create: Power Loader,Lysine,8482805,Modrinth: MIT,https://github.com/hlysine/create_power_loader,skip,0,仓库里物品贴图不足 10 张,batch2
+859716,cat_jam,cat_jam,shmove,8438864,Modrinth: CC-BY-NC-SA-4.0,https://github.com/shmove/cat_jam,skip,0,仓库里物品贴图不足 10 张,batch2
+422972,habitat,Habitat,schnappdragon,8437882,Modrinth: MIT,https://github.com/SnappyDragon64/Habitat,ok_default,15,仓库许可文件：MIT，未见素材单独条款,batch2
+656214,cccbridge,CC:C Bridge,SammyForReal,8375004,Modrinth: Apache-2.0,https://github.com/tweaked-programs/cccbridge,skip,2,仓库里物品贴图不足 10 张,batch2
+977855,ice-and-fire-spellbooks,Ice and Fire: Spellbooks,Ace_The_Eldritch_King,8353569,Modrinth: MIT,https://github.com/AceTheEldritchKing/Ice_And_Fire_Spellbooks,unverified,15,仓库无许可文件,batch2
+1066037,stardew-fishing,Stardew Fishing,garflemn,8326016,Modrinth: MIT,https://github.com/BrownBear85/stardewfishing,exclude,16,素材可能来自 Mojang 或其他游戏,batch2
+403434,xp-storage,XP Storage,sfinc,8236606,Modrinth: MIT,https://github.com/sf-inc/xp_storage,skip,4,仓库里物品贴图不足 10 张,batch2
+984493,man-of-many-planes,Man of Many Planes,Conczin,8194137,Modrinth: CC-BY-NC-SA-4.0,https://github.com/Luke100000/Man-of-Many-Planes,skip,4,仓库里物品贴图不足 10 张,batch2
+1051342,camerapture,Camerapture,chrrrs,8014650,Modrinth: MIT,https://github.com/chrrs/camerapture,skip,4,仓库里物品贴图不足 10 张,batch2
+1326436,fancy-toasts,Fancy Toasts | Better Advancements,Bivrik,8014449,Modrinth: MIT,https://github.com/Bivrik/FancyToasts,skip,0,仓库里物品贴图不足 10 张,batch2
+418680,paradise-lost,Paradise Lost,ImmortalDevs,7902040,Modrinth: MIT,https://github.com/devs-immortal/Paradise-Lost,exclude,141,素材保留所有权利,batch2
+978217,structure-credits,Structure Credits,ECarrascon,7643085,Modrinth: MIT,https://github.com/ecarrascon/StructureCredits,skip,0,仓库里物品贴图不足 10 张,batch2
+1072349,create-pattern-schematics,Create: Pattern Schematics,CakeIsTastyDeveloper,7587354,Modrinth: MIT,https://github.com/cakeGit/Pattern-Schematics-Multiloader,skip,2,仓库里物品贴图不足 10 张,batch2
+669724,create-crystal-clear,Create: Crystal Clear,singularity_cyvack,7480567,Modrinth: MIT,https://github.com/Cyvack/Crystal-Clear-Arch,skip,0,仓库里物品贴图不足 10 张,batch2
+1097549,dragon-mounts-patches,Dragon Mounts Patches,MuonR,7289848,Modrinth: MIT,https://github.com/muon-rw/DragonMountsPatches,skip,0,仓库里物品贴图不足 10 张,batch2
+953126,create-framed,Create: Framed,DakotaPrideModding,7248355,Modrinth: MIT,https://github.com/DakotaPride/create-framed,exclude,68,依附于素材许可更严的模组,batch2
+1005680,accessories-tc-layer,[Deprecated] Trinkets Compat Layer for Accessories,Blodhgarm,7204566,Modrinth: MIT,https://github.com/Dragon-Seeker/TrinketsCompatLayer,skip,0,仓库里物品贴图不足 10 张,batch2
+897171,medieval-origins-revival,Medieval Origins Revival,MuonR,7113961,Modrinth: MIT,https://github.com/muon-rw/Medieval-Origins-Revival,ok_explicit,18,LICENSE：素材 CC BY 4.0，需署名,batch2
+508696,xp-storage-trinkets,XP Storage - Trinkets,sfinc,6906534,Modrinth: MIT,https://github.com/sf-inc/xp_storage_trinkets,skip,4,仓库里物品贴图不足 10 张,batch2
+321663,enhanced-mob-spawners,Enhanced Mob Spawners,BR4NDER5,6852342,Modrinth: CC0-1.0,https://github.com/andersblomqvist/enhanced-mob-spawners,skip,1,仓库里物品贴图不足 10 张,batch2
+1106612,rustic-delight,Rustic Delight,PhantomWing,6736876,Modrinth: MIT,https://github.com/PhantomWing/RusticDelight,ok_default,123,仓库许可文件：MIT，未见素材单独条款,batch2
+876448,sanity-descent-into-madness,Sanity: Descent Into Madness,croissantnova,6647351,Modrinth: MIT,https://github.com/croissantnova/SanityDescentIntoMadness,skip,1,仓库里物品贴图不足 10 张,batch2
+923210,ae2-emi-crafting-integration,AE2 EMI Crafting Integration,blocovermelho,6618362,Modrinth: MIT,https://github.com/blocovermelho/ae2-emi-crafting,skip,0,仓库里物品贴图不足 10 张,batch2
+807107,cultural-delights-fabric,Cultural Delights [Fabric],MrSterner_,6528717,Modrinth: MIT,https://github.com/mrsterner/Cultural-Delights-Fabric,exclude,53,移植版或与已有模组重复,batch2
+492939,biomancy,Biomancy,Elenterius,6334259,Modrinth: MIT,https://github.com/Elenterius/Biomancy,ok_nc,95,LICENSE：美术素材 CC BY-NC 4.0（代码 MIT）,batch2
+1059879,create-contraption-terminals,Create Contraption Terminals,tom54541,6273901,Modrinth: MIT,https://github.com/tom5454/Create-Contraption-Terminals,skip,0,仓库里物品贴图不足 10 张,batch2
+938916,chipped-express,Chipped Express,DevDyna,6220599,Modrinth: MIT,https://github.com/DevDyna/Chipped-Express,skip,0,仓库里物品贴图不足 10 张,batch2
+975080,serious-player-animations,Serious Player Animations,McVader,6186587,Modrinth: MIT,https://github.com/McVader34/Serious-Player-Animations,skip,0,仓库里物品贴图不足 10 张,batch2
+386753,dynamic-trees-quark,Dynamic Trees - Quark,MaxHyper,6112068,Modrinth: MIT,https://github.com/DynamicTreesTeam/DynamicTrees-Quark,skip,8,仓库里物品贴图不足 10 张,batch2
+1111063,it-takes-a-pillage-continuation,It Takes a Pillage Continuation,Faboslav,5987203,Modrinth: MIT,https://github.com/Faboslav/it-takes-a-pillage,skip,6,仓库里物品贴图不足 10 张,batch2
+975288,armor-of-the-ages,Armor of the Ages,dawnoftime_team,5969494,Modrinth: MIT,https://github.com/Dawn-of-Time-Project/armoroftheages,ok_default,42,仓库许可文件：MIT，未见素材单独条款,batch2
+480786,rpgdifficulty,RpgDifficulty,Globox_Z,5834341,Modrinth: MIT,https://github.com/Globox1997/RpgDifficulty,skip,0,仓库里物品贴图不足 10 张,batch2
+1205717,reintegrated-chipped,Reintegrated: Chipped,Apollo,5830601,Modrinth: MIT,https://github.com/Apollounknowndev/reintegrated,skip,0,仓库里物品贴图不足 10 张,batch2
+890745,cobblemon-spawn-notification,Cobblemon Spawn Notification,TimInc,5822489,Modrinth: MIT,https://github.com/timinc-cobble/cobblemon-spawn-notification,skip,0,仓库里物品贴图不足 10 张,batch2
+1078431,pokeblocks,Pokeblocks,MrShawn1,5807615,Modrinth: CC-BY-NC-4.0,https://github.com/Shawn11564/Pokeblocks,skip,9,仓库里物品贴图不足 10 张,batch2
+670535,tarot-cards,Tarot Cards,shiroroku,5764617,Modrinth: MIT,https://github.com/shiroroku/TarotCards,ok_default,23,仓库许可文件：MIT，未见素材单独条款,batch2
+826060,clutter,Clutter,Emil_SG,5742084,Modrinth: MIT,https://github.com/EmilsGithub/Clutter-Mod-Repository,skip,0,仓库里物品贴图不足 10 张,batch2
+709416,tinkers-levelling-addon,Tinkers' Levelling Addon,Pyre540,5706947,Modrinth: MIT,https://github.com/Pyre540/tinkers-levelling-addon,ok_explicit,29,README：代码、贴图、二进制均为 MIT,batch2
+568372,fish-of-thieves,Fish of Thieves,SteveKunG,5672874,Modrinth: MIT,https://github.com/SteveKunG/FishOfThieves,exclude,275,素材保留所有权利,batch2
+223957,backpacks,Backpacks!,Brad16840,5544674,Modrinth: Apache-2.0,https://github.com/Eclipse-Studios/backpacks,ok_default,80,仓库许可文件：Apache-2.0，未见素材单独条款,batch2
+923133,the-midnight-lurker,The Midnight Lurker,Voxla,5481334,Modrinth: MIT,https://github.com/Voxla/midnightlurker,skip,4,仓库里物品贴图不足 10 张,batch2
+1349231,cobblemonraiddens,Cobblemon Raid Dens,NecroSo1,5373509,Modrinth: MIT,https://github.com/necro50n3/cobblemon-raiddens,skip,8,仓库里物品贴图不足 10 张,batch2
+586095,goety,Goety - The Dark Arts,Polarice3,5283650,Modrinth: MIT,https://github.com/Polarice3/Goety-2,exclude,514,素材可能来自 Mojang 或其他游戏,batch2
+615948,tieredz,TieredZ,Globox_Z,5101284,Modrinth: MIT,https://github.com/Globox1997/tiered,skip,0,仓库里物品贴图不足 10 张,batch2
+1196142,create-sound-of-steam,Create: Sound of Steam,finchymcfinch,5018993,Modrinth: MIT,https://github.com/CSOS-Team/SoundOfSteam,exclude,10,依附于素材许可更严的模组,batch2
+1023532,create-cobblestone,Create Cobblestone,MrStickyPiston,4963244,Modrinth: CC0-1.0,https://github.com/StickyPiston-development/CreateCobblestone,skip,0,仓库里物品贴图不足 10 张,batch2
+1010066,create-structures-arise,Create: Structures Arise,SmartStreamLabs,4820198,Modrinth: MIT,https://github.com/SmartStreamLabs/Create--Structures-Arise,skip,0,仓库里物品贴图不足 10 张,batch2
+677675,simple-netherite-horse-armor,Simple Netherite Horse Armor,JerryLu086,4787554,Modrinth: MIT,https://github.com/JerryLu086/Netherite-Horse-Armor,skip,1,仓库里物品贴图不足 10 张,batch2
+992333,lets-do-addon-compat,[Let's Do Addon] Compat,Ninjdai,4410375,Modrinth: MIT,https://github.com/Ninjdai1/letsdo-compat-addon,skip,0,仓库里物品贴图不足 10 张,batch2
+1254643,cobblecuisine,CobbleCuisine,fyre520,4339160,Modrinth: MIT,https://github.com/Fyre520/CobbleCuisine-Java,exclude,189,素材保留所有权利,batch2
+535541,chalk-fabric,Chalk (Fabric),DaFuqsy,4336646,Modrinth: MIT,https://github.com/DaFuqs/Chalk,ok_default,32,仓库许可文件：MIT，未见素材单独条款,batch2
+623265,create-factory,Create: Factory,antopfr90,4273249,Modrinth: MIT,https://github.com/Antop90fr1/CreateFactory,unverified,26,仓库无许可文件,batch2
+637201,immersive-structures,Immersive structures,ChoiceTheorem,4113271,Modrinth: CC-BY-NC-SA-4.0,https://github.com/ChoiceTheorem/Immersive-structures,skip,0,仓库里物品贴图不足 10 张,batch2
+1302442,mobsbegone,MobsBeGone,EasyMochi,4019646,Modrinth: MIT,https://github.com/OkaeriGameStudio/MobsBeGone,skip,0,仓库里物品贴图不足 10 张,batch2
+824654,create-molten-vents,Create: Molten Vents,Apothicon,4016289,Modrinth: MIT,https://github.com/Apothicon02/Create-Molten-Vents,skip,0,仓库里物品贴图不足 10 张,batch2
+312359,dawn-of-time,Dawn of Time,dawnoftime_team,3763465,Modrinth: MIT,https://github.com/Dawn-of-Time-Project/dawnoftime,ok_default,40,仓库许可文件：MIT，未见素材单独条款,batch2
+568316,numismatic-overhaul,Numismatic Overhaul,gliscowo,3754022,Modrinth: MIT,https://github.com/wisp-forest/numismatic-overhaul,ok_default,19,仓库许可文件：MIT，未见素材单独条款,batch2
+898849,create-tweaked-controllers,Create: Tweaked Controllers,getItemFromBlock,3727866,Modrinth: MIT,https://github.com/getItemFromBlock/Create-Tweaked-Controllers,skip,3,仓库里物品贴图不足 10 张,batch2
+1035665,construction-wand-fabric,Construction Wand (Fabric),JongWasTaken,3708278,Modrinth: MIT,https://github.com/JongWasTaken/ConstructionWand-Fabric,skip,7,仓库里物品贴图不足 10 张,batch2
+848761,genshin-instruments,Genshin Instruments,StavWasPlayZ,3693611,Modrinth: CC-BY-NC-4.0,https://github.com/StavWasPlayZ/Genshin-Instruments,exclude,10,GPL/LGPL,batch2
+1094104,aquamirae-delight,Aquamirae Delight,tinfoilknight,3656377,Modrinth: MIT,https://github.com/foiledknight/Aquamirae-Delight,unverified,29,仓库无许可文件,batch2
+962878,hexalia,Hexalia,AstralyaStudios,3645948,Modrinth: MIT,https://github.com/AstralyaStudios/Hexalia,unverified,117,仓库无许可文件,batch2
+1398383,create-bits-n-bobs,Create: Bits 'n' Bobs,az_tech,3545582,Modrinth: MIT,https://github.com/Aztech-Modding/Create-Bits-n-Bobs,skip,2,仓库里物品贴图不足 10 张,batch2
+661902,infinitybuttons,Infinity Buttons,LarsMans,3507897,Modrinth: MIT,https://github.com/TeamDiopside/InfinityButtons,skip,0,仓库里物品贴图不足 10 张,batch2
+918751,create-bitterballen,Create: Bitterballen,pyzpre,3367451,Modrinth: MIT,https://github.com/electricsteve/Create-Bitterballen,unverified,63,仓库无许可文件,batch2
+558439,creeper-firework,Creeper Firework,DragonsPlus,3330107,Modrinth: MIT,https://github.com/DragonsPlusMinecraft/CreeperFirework,skip,0,仓库里物品贴图不足 10 张,batch2
+903894,ubes-delight,Ube's Delight,ChefMooon,3322048,Modrinth: MIT,https://github.com/ChefMooon/ubes-delight,ok_default,243,仓库许可文件：MIT，未见素材单独条款,batch2
+1252482,eternal-nether,Eternal Nether,Fuzs,3307274,Modrinth: MIT,https://github.com/Fuzss/eternal-nether,skip,0,仓库里物品贴图不足 10 张,batch2
+639888,amethyst-core,Amethyst Core,fzzyhmstrs,3243494,Modrinth: MIT,https://github.com/fzzyhmstrs/ac,skip,0,仓库里物品贴图不足 10 张,batch2
+1169634,accessorify,Accessorify,pajic,3181902,Modrinth: MIT,https://github.com/pajicadvance/accessorify,skip,0,仓库里物品贴图不足 10 张,batch2
+563637,aquatic-torches,Aquatic Torches,realmayus,3176240,Modrinth: MIT,https://github.com/realmayus/aquatictorches,skip,0,仓库里物品贴图不足 10 张,batch2
+411400,medievalweapons,MedievalWeapons,Globox_Z,3109975,Modrinth: MIT,https://github.com/Globox1997/MedievalWeapons,exclude,624,素材保留所有权利,batch2
+1037611,cobbleloots,Cobbleloots: Loot Balls and More!,Ripio,3102238,Modrinth: MIT,https://github.com/ResistorCat/cobbleloots,skip,3,仓库里物品贴图不足 10 张,batch2
+876129,create-enchantment-industry-fabric-legacy,[DEPRECATED]Create Enchantment Industry - Fabric Legacy,DragonsPlus,3051689,Modrinth: MIT,https://github.com/DragonsPlusMinecraft/CreateEnchantmentIndustry-Fabric,exclude,14,GPL/LGPL,batch2
+807101,collectors-reap,Collector's Reap,brnbrd,3040606,Modrinth: MIT,https://github.com/brnbrd/CollectorsReap,ok_default,200,仓库许可文件：MIT，未见素材单独条款,batch2
+1185268,shots-fired,Shots Fired,MelodicCougar7,2963923,Modrinth: Apache-2.0,https://github.com/MelodicCougar7/Shots-Fired,skip,0,仓库里物品贴图不足 10 张,batch2
+846207,cobblemon-fight-or-flight,Cobblemon - Fight or Flight,rufiaorsomething,2961832,Modrinth: MIT,https://github.com/rufiaorsomething/fightorflight,skip,2,仓库里物品贴图不足 10 张,batch2
+1082807,veggies-delight,Veggies Delight (A Farmer's Delight Add-on),Eggmain,2899173,Modrinth: MIT,https://github.com/MehdiNoui/VeggiesDelight,ok_default,79,仓库许可文件：MIT，未见素材单独条款,batch2
+1022036,cobblemon-move-inspector,Cobblemon Move Inspector,Starlotte_117,2895192,Modrinth: MIT,https://github.com/starlottemusic/CobblemonMoveInspector,skip,0,仓库里物品贴图不足 10 张,batch2
+1450604,cobblemon-catch-rate-display,Cobblemon Catch Rate Display,Akkiruk,2870495,Modrinth: MIT,https://github.com/Akkiruk/catchrate-display,skip,0,仓库里物品贴图不足 10 张,batch2
+496150,deathlog,DeathLog,gliscowo,2804317,Modrinth: MIT,https://github.com/gliscowo/deathlog,skip,0,仓库里物品贴图不足 10 张,batch2
+1207005,exposure-polaroid,Exposure: Polaroid,mortuusars,2792481,Modrinth: MIT,https://github.com/mortuusars/ExposurePolaroid,unverified,14,仓库无许可文件,batch2
+484804,better-safe-bed,Better Safe Bed,frankV,2765424,Modrinth: MIT,https://github.com/frank89722/BetterSafeBed,skip,0,仓库里物品贴图不足 10 张,batch2
+839197,distant-friends,Distant Friends,Mrbysco,2720383,Modrinth: MIT,https://github.com/Mrbysco/DistantFriends,skip,0,仓库里物品贴图不足 10 张,batch2
+608261,amethyst-imbuement,Amethyst Imbuement,fzzyhmstrs,2707767,Modrinth: MIT,https://github.com/fzzyhmstrs/ai,ok_default,246,仓库许可文件：MIT，未见素材单独条款,batch2
+564244,the-splash-milk,The Splash Milk,DragonsPlus,2665569,Modrinth: MIT,https://github.com/DragonsPlusMinecraft/SplashMilk,skip,3,仓库里物品贴图不足 10 张,batch2
+1251719,create-vibrant-vaults,Create: Vibrant Vaults,ZLT,2543621,Modrinth: MIT,https://github.com/ZLT9/create-vibrant-vaults,skip,0,仓库里物品贴图不足 10 张,batch2
+1057662,trackwork,Trackwork,Endal,2509774,Modrinth: MIT,https://github.com/Endalion/trackwork,skip,8,仓库里物品贴图不足 10 张,batch2
+1522736,create-propulsion-simulated,Create Propulsion: Simulated,kyivsec,2399518,Modrinth: MIT,https://github.com/Propulsion-Team/create-propulsion-simulated,exclude,13,依附于素材许可更严的模组,batch2
+1232978,create-mobile-packages,Create: Mobile Packages,timplay33,2358677,Modrinth: MIT,https://github.com/timplay33/Create-Mobile-Packages,skip,3,仓库里物品贴图不足 10 张,batch2
+1308987,easy-npc-core,Easy NPC: Core,Kaworru,2339591,Modrinth: MIT,https://github.com/MarkusBordihn/BOs-Easy-NPC,exclude,54,素材保留所有权利,batch2
+1263228,create-extra-gauges,Create: Extra Gauges,LiukRast,2306934,Modrinth: MIT,https://github.com/LIUKRAST/CreateExtraGauges,skip,0,仓库里物品贴图不足 10 张,batch2
+864150,dungeonz,DungeonZ,Globox_Z,2289878,Modrinth: MIT,https://github.com/Globox1997/DungeonZ,ok_default,32,仓库许可文件：MIT，未见素材单独条款,batch2
+1016482,charm-forked,Charm Forked,MuonR,2235801,Modrinth: MIT,https://github.com/muon-rw/Charm,unverified,23,仓库无许可文件,batch2
+1198527,trail-tales-delight,Trail&Tales Delight,shuixingshow,2190317,Modrinth: MIT,https://github.com/Vzling/Trail-And-Tales-Delight,ok_default,32,仓库许可文件：MIT，未见素材单独条款,batch2
+1238099,immersive-hotbar,Immersive Hotbar,DerpDerpling,2177101,Modrinth: MIT,https://github.com/DerpDerpling/Immersive-Hotbar,skip,0,仓库里物品贴图不足 10 张,batch2
+909519,casualness-delight,Casualness Delight,KawaiShio,2163076,Modrinth: MIT,https://github.com/UsubaShihori/Casualness-Delight,exclude,47,GPL/LGPL,batch2
+1190578,cobblemon-size-variations,Cobblemon Size Variations,Cudzer,2119951,Modrinth: MIT,https://github.com/Cudzer/cobblemonsizevariation,skip,5,仓库里物品贴图不足 10 张,batch2
+1321420,power-grid,Create: Power Grid,patryk3211,2118059,Modrinth: Apache-2.0,https://github.com/patryk3211/PowerGrid,exclude,54,依附于素材许可更严的模组,batch2
+946579,create-vintage-improvements,Create: Vintage Improvements,Negodya1,2074573,Modrinth: MIT,https://github.com/Negodya1/Create-Vintage-Improvements,unverified,230,仓库无许可文件,batch2
+1073641,farmers-cutting-biomes-o-plenty,Farmer's Cutting: Biomes O' Plenty,Joshcraft2002,2058666,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,batch2
+650221,elytra-physics,Elytra Physics,ImJ0shh_,2010086,Modrinth: MIT,https://github.com/OhHeyItsJosh/Elytra-Physics,skip,0,仓库里物品贴图不足 10 张,batch2
+1171658,effectual,Effectual,iMeeTake,1975545,Modrinth: MIT,https://github.com/iMeeTake/Effectual,skip,0,仓库里物品贴图不足 10 张,batch2
+662763,convenient-name-tags,Convenient Name Tags,mim1q,1964471,Modrinth: Apache-2.0,https://github.com/mim1q/ConvenientNameTags,skip,0,仓库里物品贴图不足 10 张,batch2
+317469,tofucraftreload,TofuCraftReload,SyameimaruZheng,1837241,Modrinth: MIT,https://github.com/baguchi/TofuCraftReload-Recode,unverified,664,仓库无许可文件,batch2
+868922,woodwalkers,woodwalkers,ToCraft,1776492,Modrinth: MIT,https://github.com/ToCraft/woodwalkers-mod,skip,0,仓库里物品贴图不足 10 张,batch2
+1190275,jadens-nether-expansion-delight,Jaden's Nether Expansion Delight,Chaolux,1749648,Modrinth: MIT,https://github.com/Chaolux1/NetherExpansionDelight,ok_default,43,仓库许可文件：MIT，未见素材单独条款,batch2
+1386823,copper-age-backport,Copper Age Backport,Smallinger,1682679,Modrinth: MIT,https://github.com/Smallinger/Copper-Age-Backport,exclude,19,素材可能来自 Mojang 或其他游戏,batch2
+984037,backported-wolves,Backported Wolves,Emil_SG,1674837,Modrinth: MIT,https://github.com/EmilsGithub/Backported-Wolves,skip,0,仓库里物品贴图不足 10 张,batch2
+535367,dark-waters,Dark Waters,AzureDoomC,1662480,Modrinth: MIT,https://github.com/AzureDoom/Dark-Waters,skip,0,仓库里物品贴图不足 10 张,batch2
+834329,trimmable-tools,Trimmable Tools,Apollo,1569731,Modrinth: MIT,https://github.com/Apollounknowndev/trimmable-tools,skip,0,仓库里物品贴图不足 10 张,batch2
+310187,sjap,SlashBladeJapaneseAddonPack,SyameimaruZheng,1566370,Modrinth: MIT,https://github.com/0999312/SlashBlade-Japanese-Addon-Pack-Reshaped,skip,0,仓库里物品贴图不足 10 张,batch2
+1309203,kaleidoscope-cookery,Kaleidoscope Cookery,YSBB,1557857,Modrinth: CC-BY-NC-SA-4.0,https://github.com/KaleidoscopeMods/KaleidoscopeCookery,ok_nc,175,LICENSE-ASSETS：资源文件 CC BY-NC-SA 4.0,batch2
+1203085,cobblemon-alpha-project,Cobblemon Alpha Project,Cudzer,1380273,Modrinth: MIT,https://github.com/Cudzer/cobblemonalphas,skip,0,仓库里物品贴图不足 10 张,batch2
+1022428,slashblade-resharped,SlashBlade:Resharped,SyameimaruZheng,1363662,Modrinth: MIT,https://github.com/0999312/SlashBlade_Resharped,skip,1,仓库里物品贴图不足 10 张,batch2
+1290017,touhou-little-maid-spell,Touhou Little Maid: Spell,yimeng261,1300126,Modrinth: MIT,https://github.com/yimeng261/Touhou-Little-Maid-Spell,unverified,77,仓库无许可文件,batch2
+1111965,dracolotl,Dracolotl,TrashElemental,1284946,Modrinth: MIT,https://github.com/TrashElemental/dracolotl,skip,1,仓库里物品贴图不足 10 张,batch2
+373595,gravestones,Gravestones,geometrically_,1270191,Modrinth: MIT,https://github.com/Geometrically/Gravestones,skip,0,仓库里物品贴图不足 10 张,batch2
+1294279,create-train-parts,Create Train Parts,tiestoettoet08,1209167,Modrinth: MIT,https://github.com/TiesToetToet/Create-Train-Parts,skip,0,仓库里物品贴图不足 10 张,batch2
+607221,guarding,Guarding,ExDrill,1181025,Modrinth: CC0-1.0,https://github.com/Team-Abode/guarding,skip,0,仓库里物品贴图不足 10 张,batch2
+1182393,cosy-critters,Cosy Critters & Creepy Crawlies,PigCart,1146502,Modrinth: MIT,https://github.com/PigCart/cosy-critters,skip,0,仓库里物品贴图不足 10 张,batch2
+1027182,battlemusic,Battle Music,NekoTune,1079571,Modrinth: CC-BY-4.0,https://github.com/Neko2n/mc-battle-music,skip,0,仓库里物品贴图不足 10 张,batch2
+596411,clockwork,Clockwork,joosh_7889,1048394,Modrinth: Apache-2.0,https://github.com/ValkyrienSkies/Clockwork,exclude,34,素材保留所有权利,batch2
+928290,vegan-delight,Vegan Delight,ChriSimo,1016017,Modrinth: MIT,https://github.com/SayWhatSayMon/VeganDelight,unverified,28,仓库无许可文件,batch2
+1051344,scribble,Scribble,chrrrs,1006365,Modrinth: MIT,https://github.com/chrrs/scribble,skip,0,仓库里物品贴图不足 10 张,batch2
+1395542,cobblemon-trials-edition,Cobblemon Trials Edition,Lemenok,1003977,Modrinth: MIT,https://github.com/Lemenok/Cobblemon-Trials-Edition,skip,0,仓库里物品贴图不足 10 张,batch2
+891647,cave-dweller-evolved,Cave Dweller Evolved,Cadentem,974355,Modrinth: MIT,https://github.com/SiverDX/cave_dweller,skip,0,仓库里物品贴图不足 10 张,batch2
+859262,exquisito,Exquisito,Gumillea,906986,Modrinth: MIT,https://github.com/Gumillea/Exquisito,ok_default,52,仓库许可文件：MIT，未见素材单独条款,batch2
+845831,odyssey-quests,Odyssey Quests,terrariumearth,852421,Modrinth: MIT,https://github.com/terrarium-earth/Heracles,skip,4,仓库里物品贴图不足 10 张,batch2
+1470590,field-guide,Field Guide,evanbones,851077,Modrinth: MIT,https://github.com/evanbones/Field-Guide,skip,3,仓库里物品贴图不足 10 张,batch2
+845832,odyssey-claims,Odyssey Claims,terrariumearth,762432,Modrinth: MIT,https://github.com/terrarium-earth/Cadmus,skip,0,仓库里物品贴图不足 10 张,batch2
+1126459,valkyrien-skies-tournament,Valkyrien Skies: Tournament,alex_s168,730970,Modrinth: Apache-2.0,https://github.com/alex-s168/VS-Tournament,exclude,19,依附于素材许可更严的模组,batch2
+856764,snuffles-fabric,Snuffles (Fabric),Suel_ki,730563,Modrinth: MIT,https://github.com/Suel-ki/snuffles-fabric,skip,0,仓库里物品贴图不足 10 张,batch2
+972090,eden-ring-reforked,Eden Ring Reforked,ErzeKawek,709724,Modrinth: MIT,https://github.com/ErzeKawek/EdenRing-Reforked,ok_default,19,仓库许可文件：MIT，未见素材单独条款,batch2
+880555,kitchen-karrot,Kitchen Karrot,Zoshsgahdnkc,701965,Modrinth: MIT,https://github.com/Zoshsgahdnkc/kitchenkarrot,ok_default,251,仓库许可文件：MIT，未见素材单独条款,batch2
+1200511,cobblemon-repel,Cobblemon Repel,deuli,696839,Modrinth: Apache-2.0,https://github.com/deuli/CobblemonRepel,skip,0,仓库里物品贴图不足 10 张,batch2
+1220929,immersivethunder,ImmersiveThunder,netcatgirl,658185,Modrinth: MIT,https://github.com/netcatgirl/ImmersiveThunder,skip,0,仓库里物品贴图不足 10 张,batch2
+810660,toggle-item-frames,Toggle Item Frames,iamaprogramer,575928,Modrinth: MIT,https://github.com/williamk-jr/ToggleableItemFrames,skip,0,仓库里物品贴图不足 10 张,batch2
+1300292,create-smart-bounds,Create Smart Bounds,LiukRast,561019,Modrinth: MIT,https://github.com/LIUKRAST/SmartBounds,skip,0,仓库里物品贴图不足 10 张,batch2
+1098363,dumplings-delight-reload,Dumplings Delight Reload,LirxOwO,556369,Modrinth: MIT,https://github.com/xiaoliziawa/Dumplings-Delight-1.20.1,exclude,37,移植版或与已有模组重复,batch2
+1182075,zipline,Zipline,Tomate0613,545548,Modrinth: MIT,https://github.com/Tomate0613/zipline,skip,1,仓库里物品贴图不足 10 张,batch2
+1475175,kaleidoscope-tavern,Kaleidoscope Tavern,TartaricAcid,532865,Modrinth: CC-BY-NC-SA-4.0,https://github.com/KaleidoscopeMods/KaleidoscopeTavern,ok_nc,72,LICENSE-ASSETS：资源文件 CC BY-NC-SA 4.0,batch2
+1259209,cosmopolitan,Cosmopolitan,Gumillea,506482,Modrinth: MIT,https://github.com/Gumillea/Cosmopolitan,ok_default,460,仓库许可文件：MIT，未见素材单独条款,batch2
+225812,cosmetic-armor,Cosmetic Armor,DarkhaxDev,501048,Modrinth: MIT,https://github.com/apace100/cosmetic-armor,skip,0,仓库里物品贴图不足 10 张,batch2
+946775,beans-backpacks,Beans Backpacks (Legacy),BeansGalaxy,450366,Modrinth: MIT,https://github.com/BeansGalaxy/Beans-Backpacks-2,ok_default,22,仓库许可文件：MIT，未见素材单独条款,batch2
+987725,auditory-continued,Auditory Continued,Syfe,441216,Modrinth: MIT,https://github.com/ItsSyfe/auditory-continued,skip,0,仓库里物品贴图不足 10 张,batch2
+665909,infinity-with-mending,Infinity With Mending,GoForceX,440281,Modrinth: MIT,https://github.com/GoForceX/InfinityWithMending,skip,0,仓库里物品贴图不足 10 张,batch2
+906568,create-diesel-generators-fabric,Create: Diesel Generators [Fabric],MrSterner_,436278,Modrinth: MIT,https://github.com/mrsterner/Create-Diesel-Generators-Fabric-old,exclude,57,依附于素材许可更严的模组,batch2
+543759,macrokeybinds,Macro Keybinds,Thomas7520,404124,Modrinth: CC-BY-NC-SA-4.0,https://github.com/Thomas7520/MacroKeybinds,skip,0,仓库里物品贴图不足 10 张,batch2
+1058082,immersive-snow,Immersive Snow,riis,399934,Modrinth: MIT,https://github.com/Straywave/ImmersiveSnow,skip,0,仓库里物品贴图不足 10 张,batch2
+936849,rainbow-reef,Rainbow Reef,ValiantEnvoy,393716,Modrinth: MIT,https://github.com/TheValiantSquidward/rainbow-reef,exclude,119,素材保留所有权利,batch2
+569765,mob-filter,Mob Filter,pcal43,374668,Modrinth: Apache-2.0,https://github.com/pcal43/mob-filter,skip,0,仓库里物品贴图不足 10 张,batch2
+1290628,detail-armor-bar-reconstructed,Detail Armor Bar Reconstructed,Coredex,373302,Modrinth: MIT,https://github.com/coredex-source/DetailArmorBarReconstructed,skip,0,仓库里物品贴图不足 10 张,batch2
+1030015,blazingbamboo,Blazing Bamboo,PaddedShaman,323131,Modrinth: MIT,https://github.com/PaddedShaman/BlazingBamboo,skip,6,仓库里物品贴图不足 10 张,batch2
+857310,mob-captains,Mob Captains,PuckiSilver,309676,Modrinth: MIT,https://github.com/ps-dps/MobCaptains,skip,0,仓库里物品贴图不足 10 张,batch2
+1346281,create-fly,Create Fly,ZurrTum,304308,Modrinth: CC0-1.0,https://github.com/ZurrTum/Create-Fly,exclude,107,依附于素材许可更严的模组,batch2
+1094418,braziliandelight,Brazilian Delight,DeltaboxLabs,300936,Modrinth: MIT,https://github.com/danbrown/braziliandelight,ok_default,102,仓库许可文件：MIT，未见素材单独条款,batch2
+1357568,create-shuffle-filter,Create: Shuffle Filter,Agent772,269657,Modrinth: MIT,https://github.com/Agent772/Create-ShuffleFilter,skip,2,仓库里物品贴图不足 10 张,batch2
+572592,spelunker,Spelunker,Leximon,261193,Modrinth: MIT,https://github.com/Leximon/Spelunker,skip,1,仓库里物品贴图不足 10 张,batch2
+406463,bluemap,BlueMap,TBlueF,249735,Modrinth: MIT,https://github.com/BlueMap-Minecraft/BlueMap,skip,0,仓库里物品贴图不足 10 张,batch2
+866605,simple-hud-enhanced,Simple HUD Enhanced,SoRadGaming,240085,Modrinth: MIT,https://github.com/SoRadGaming/Simple-HUD-Enhanced,skip,0,仓库里物品贴图不足 10 张,batch2
+911203,elytra-drag,Elytra Drag,bl4st,226076,Modrinth: MIT,https://github.com/bl4sterino/Elytra-Drag,skip,0,仓库里物品贴图不足 10 张,batch2
+790307,station-decoration,Station Decoration,aida64ex,183512,Modrinth: MIT,https://github.com/AIDA64S/MTR-Station-Decoration-Addon,exclude,31,素材可能来自 Mojang 或其他游戏,batch2
+890444,jagms-kiwis,Jagm's Kiwis,Jagm11,180775,Modrinth: CC-BY-NC-SA-4.0,https://github.com/J4gm/jagmkiwis-multiloader,skip,4,仓库里物品贴图不足 10 张,batch2
+899614,corn-delight-fabric,Corn Delight [Fabric/Quilt],KreloX,178430,Modrinth: MIT,https://github.com/KreloX/CornDelight,exclude,20,移植版或与已有模组重复,batch2
+575851,copper-hopper,Copper Hopper,pcal43,172507,Modrinth: MIT,https://github.com/pcal43/copper-hopper,skip,5,仓库里物品贴图不足 10 张,batch2
+406550,armored-elytra,Armored Elytra,MrMelon54,156657,Modrinth: MIT,https://github.com/DorkixAzIgazi/armored-elytra,skip,0,仓库里物品贴图不足 10 张,batch2
+661892,better-command-block-ui,Better Command Block UI,Tec,151472,Modrinth: CC0-1.0,https://github.com/Tectato/BetterCommandBlockUI,skip,0,仓库里物品贴图不足 10 张,batch2
+1328339,autototem,Autototem,mikadev,133493,Modrinth: MIT,https://github.com/Developer-Mike/fabric-autototem,skip,0,仓库里物品贴图不足 10 张,batch2
+1196075,immortalers-delight,Immortalers Delight,Renyigesai,131005,Modrinth: MIT,https://github.com/Renyigesai/immortalers_delight,ok_default,363,仓库许可文件：MIT，未见素材单独条款,batch2
+1358489,roadweaver,RoadWeaver,shiroha,129474,Modrinth: MIT,https://github.com/shiroha-233/RoadWeaver,skip,0,仓库里物品贴图不足 10 张,batch2
+1107609,villager-trading-plus,Villager Trading Plus,cassiancc,128274,Modrinth: MIT,https://github.com/cassiancc/Villager-Trading-Plus,skip,0,仓库里物品贴图不足 10 张,batch2
+976304,create-power-loader-fabric,Create: Power Loader (Fabric),Lysine,126022,Modrinth: MIT,https://github.com/hlysine/create_power_loader,skip,0,仓库里物品贴图不足 10 张,batch2
+1282762,potion-stacks,Potion Stacks,nouho,121457,Modrinth: MIT,https://github.com/nouho-mods/PotionStacks,skip,0,仓库里物品贴图不足 10 张,batch2
+1325828,simple-datapacks,Simple Datapacks,BizCub,121277,Modrinth: MIT,https://github.com/BizCub/simple-datapacks,skip,0,仓库里物品贴图不足 10 张,batch2
+990517,vmod,VMod,SpaceEye,119555,Modrinth: MIT,https://github.com/SuperSpaceEye/VMod,skip,6,仓库里物品贴图不足 10 张,batch2
+257694,bloodmagic,Kill La Killcraft,elucent_,2551,Modrinth: -,https://github.com/WayofTime/BloodMagic,exclude,361,移植版或与已有模组重复,batch2

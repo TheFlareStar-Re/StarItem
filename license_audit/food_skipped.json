@@ -1,0 +1,5194 @@
+[
+ {
+  "mr_slug": "smarter-farmers-farmers-replant",
+  "name": "Smarter Farmers (farmers replant)",
+  "mr_downloads": 12587454,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-vinery",
+  "name": "[Let's Do] Vinery",
+  "mr_downloads": 12399602,
+  "mr_license": "LicenseRef-custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "oh-the-biomes-weve-gone",
+  "name": "Oh The Biomes We've Gone",
+  "mr_downloads": 11742418,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "alexs-caves",
+  "name": "Alex's Caves",
+  "mr_downloads": 11345575,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "aquamirae",
+  "name": "Aquamirae",
+  "mr_downloads": 10947019,
+  "mr_license": "LicenseRef-Obscuria-Modding-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "natures-spirit",
+  "name": "Nature's Spirit",
+  "mr_downloads": 10649430,
+  "mr_license": "LicenseRef-Natures-Spirit-License-",
+  "parents": []
+ },
+ {
+  "mr_slug": "aether",
+  "name": "The Aether",
+  "mr_downloads": 10021323,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-herbalbrews",
+  "name": "[Let's Do] HerbalBrews",
+  "mr_downloads": 8703207,
+  "mr_license": "LicenseRef-custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-beachparty",
+  "name": "[Let's Do] Beachparty",
+  "mr_downloads": 8452371,
+  "mr_license": "LicenseRef-custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "spawn-mod",
+  "name": "Spawn",
+  "mr_downloads": 8015307,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-meadow",
+  "name": "[Let's Do] Meadow",
+  "mr_downloads": 7790259,
+  "mr_license": "LicenseRef-custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-farm-charm",
+  "name": "[Let's Do] Farm & Charm",
+  "mr_downloads": 7739501,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "slice-and-dice",
+  "name": "Create Slice & Dice",
+  "mr_downloads": 7573964,
+  "mr_license": "LicenseRef-Custom",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "lets-do-candlelight-farmcharm-compat",
+  "name": "[Let's Do] Candlelight - Farm&Charm compat",
+  "mr_downloads": 7407612,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "serene-seasons",
+  "name": "Serene Seasons",
+  "mr_downloads": 7290874,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "every-compat",
+  "name": "Every Compat (Wood Good)",
+  "mr_downloads": 6900653,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "lets-do-bakery-farmcharm-compat",
+  "name": "[Let's Do] Bakery - Farm&Charm Compat",
+  "mr_downloads": 6730360,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-brewery-farmcharm-compat",
+  "name": "[Let's Do] Brewery - Farm&Charm Compat",
+  "mr_downloads": 6577369,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "fabric-seasons-delight-compat",
+  "name": "Fabric Seasons: Delight Compat",
+  "mr_downloads": 6205506,
+  "mr_license": "MPL-2.0",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "ad-astra",
+  "name": "Ad Astra",
+  "mr_downloads": 5855706,
+  "mr_license": "LicenseRef-Terrarium-Licence",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-nethervinery",
+  "name": "[Let's Do] NetherVinery",
+  "mr_downloads": 5852743,
+  "mr_license": "LicenseRef-custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "ecologics",
+  "name": "Ecologics",
+  "mr_downloads": 5691982,
+  "mr_license": "LicenseRef-Multiple",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-central-kitchen",
+  "name": "Create: Central Kitchen",
+  "mr_downloads": 5441985,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "adorable-hamster-pets",
+  "name": "Adorable Hamster Pets",
+  "mr_downloads": 5247100,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "my-nethers-delight",
+  "name": "My Nether's Delight",
+  "mr_downloads": 5068681,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "hybrid-aquatic",
+  "name": "Hybrid Aquatic",
+  "mr_downloads": 4910523,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-wildernature",
+  "name": "[Let's Do] WilderNature",
+  "mr_downloads": 4727927,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "yungs-cave-biomes",
+  "name": "YUNG's Cave Biomes",
+  "mr_downloads": 4463423,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "gensokyo-delight-youkais-feasts",
+  "name": "Gensokyo Delight ~ Youkais' Feasts",
+  "mr_downloads": 4375933,
+  "mr_license": "LGPL-2.1-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "kaleidoscope-world-liquor",
+  "name": "Kaleidoscope World Liquor",
+  "mr_downloads": 4340416,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "universal-bone-meal",
+  "name": "Universal Bone Meal",
+  "mr_downloads": 4177801,
+  "mr_license": "MPL-2.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "harvest-with-ease",
+  "name": "Harvest with ease",
+  "mr_downloads": 4099649,
+  "mr_license": "LicenseRef-Crystal-Nest-Community-License-v1",
+  "parents": []
+ },
+ {
+  "mr_slug": "nethers-delight-refabricated",
+  "name": "Nethers Delight Refabricated",
+  "mr_downloads": 4074685,
+  "mr_license": "LGPL-2.1-only",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "jadens-nether-expansion",
+  "name": "Jaden's Nether Expansion",
+  "mr_downloads": 4028196,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "autochefs-delight",
+  "name": "Autochef's Delight",
+  "mr_downloads": 3847835,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "endergetic",
+  "name": "The Endergetic Expansion",
+  "mr_downloads": 3822379,
+  "mr_license": "LicenseRef-Abnormals-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "brewin-and-chewin",
+  "name": "Brewin' And Chewin'",
+  "mr_downloads": 3705118,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "miners-delight",
+  "name": "Miner's Delight",
+  "mr_downloads": 3644371,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "bountiful-fares",
+  "name": "Bountiful Fares",
+  "mr_downloads": 3635528,
+  "mr_license": "LicenseRef-Heccology-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "arsdelight",
+  "name": "Ars Nouveau's Flavors & Delight",
+  "mr_downloads": 3534487,
+  "mr_license": "LGPL-2.1-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "incubation",
+  "name": "Incubation",
+  "mr_downloads": 3517023,
+  "mr_license": "LicenseRef-Abnormals-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "inventory-particles",
+  "name": "Inventory Particles",
+  "mr_downloads": 3378140,
+  "mr_license": "CC-BY-ND-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "leave-my-bars-alone",
+  "name": "Leave My Bars Alone",
+  "mr_downloads": 3250194,
+  "mr_license": "MPL-2.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "sunflower-delight",
+  "name": "Sunflower Delight",
+  "mr_downloads": 3225036,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "the-undergarden",
+  "name": "The Undergarden",
+  "mr_downloads": 3022723,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "youkaishomecoming",
+  "name": "Youkai's Homecoming",
+  "mr_downloads": 2963586,
+  "mr_license": "LGPL-2.1-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "upgrade-aquatic",
+  "name": "Upgrade Aquatic",
+  "mr_downloads": 2926082,
+  "mr_license": "LicenseRef-Abnormals-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "kaleidoscopechinesefood",
+  "name": "KaleidoscopeChineseFood",
+  "mr_downloads": 2877471,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": [
+   "kaleidoscope-cookery"
+  ]
+ },
+ {
+  "mr_slug": "autumnity",
+  "name": "Autumnity",
+  "mr_downloads": 2793661,
+  "mr_license": "LicenseRef-Abnormals-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "atmospheric",
+  "name": "Atmospheric",
+  "mr_downloads": 2755446,
+  "mr_license": "LicenseRef-Abnormals-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "undergarden-delight",
+  "name": "[NoCube's] Undergarden Delight",
+  "mr_downloads": 2697577,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "blue-skies",
+  "name": "Blue Skies",
+  "mr_downloads": 2656968,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "pineapple-delight",
+  "name": "Pineapple Delight",
+  "mr_downloads": 2624104,
+  "mr_license": "LicenseRef-Pineapple-License",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "diet",
+  "name": "Diet",
+  "mr_downloads": 2620632,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "sullysmod",
+  "name": "Sully's Mod",
+  "mr_downloads": 2472991,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "the-aether-redux",
+  "name": "The Aether: Redux",
+  "mr_downloads": 2427085,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "fruits-delight",
+  "name": "Fruits Delight",
+  "mr_downloads": 2406033,
+  "mr_license": "LGPL-2.1-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "duckling",
+  "name": "Duckling",
+  "mr_downloads": 2403408,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "spelunkery",
+  "name": "Spelunkery",
+  "mr_downloads": 2362988,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "realm-rpg-fallen-adventurers",
+  "name": "Realm RPG: Fallen Adventurers",
+  "mr_downloads": 2358661,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "vintage-delight",
+  "name": "Vintage Delight",
+  "mr_downloads": 2352709,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "estrogen",
+  "name": "Estrogen",
+  "mr_downloads": 2349804,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "kaleidoscope-doll",
+  "name": "Kaleidoscope Doll",
+  "mr_downloads": 2343826,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-brewery",
+  "name": "Legacy: [Let's Do] Brewery",
+  "mr_downloads": 2339522,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "farmers-delight-compat",
+  "name": "Farmer's Delight Compat",
+  "mr_downloads": 2321624,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "goetydelight",
+  "name": "Goety's Delight",
+  "mr_downloads": 2295748,
+  "mr_license": "LGPL-2.1-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "lets-do-addon-corn-expansion",
+  "name": "[Let's Do Addon] Corn Expansion",
+  "mr_downloads": 2225172,
+  "mr_license": "LicenseRef-GPLv3-and-ARR",
+  "parents": []
+ },
+ {
+  "mr_slug": "3d-placeable-food",
+  "name": "3D Placeable Food",
+  "mr_downloads": 2194307,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "botany-pots",
+  "name": "Botany Pots",
+  "mr_downloads": 2123622,
+  "mr_license": "LGPL-2.1-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "dungeons_delight",
+  "name": "Dungeon's Delight",
+  "mr_downloads": 2115043,
+  "mr_license": "LicenseRef-AZURUNE-License",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "tough-as-nails",
+  "name": "Tough As Nails",
+  "mr_downloads": 2081398,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "natures-delight",
+  "name": "Nature's Delight",
+  "mr_downloads": 1995057,
+  "mr_license": "LicenseRef-Natures-Delight-License",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "dehydration",
+  "name": "Dehydration",
+  "mr_downloads": 1969134,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "ends-phantasm",
+  "name": "End's Phantasm",
+  "mr_downloads": 1947038,
+  "mr_license": "LicenseRef-AGNYA-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "neapolitan",
+  "name": "Neapolitan",
+  "mr_downloads": 1939703,
+  "mr_license": "LicenseRef-Abnormals-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "bloos-gacha-machine",
+  "name": "Bloo's Gacha Machine v.2",
+  "mr_downloads": 1888063,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "borninchaos",
+  "name": "Born in Chaos",
+  "mr_downloads": 1820420,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "foodeffecttooltips",
+  "name": "Food Effect Tooltips [Fabric / NeoForge]",
+  "mr_downloads": 1819258,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "addadd",
+  "name": "Additional Additions: Vanilla+ QoL, Sniffers, Music, Food",
+  "mr_downloads": 1768098,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-bakery",
+  "name": "Legacy: [Let's Do] Bakery",
+  "mr_downloads": 1730232,
+  "mr_license": "LicenseRef-custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "tensura-reincarnated",
+  "name": "Tensura: Reincarnated",
+  "mr_downloads": 1686125,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "cuisine-delight",
+  "name": "Cuisine Delight",
+  "mr_downloads": 1676804,
+  "mr_license": "LGPL-2.1-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "enlightend",
+  "name": "Enlightend",
+  "mr_downloads": 1674066,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "twilight-delight",
+  "name": "Twilight's Flavor & Delight",
+  "mr_downloads": 1667555,
+  "mr_license": "LGPL-2.1-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "bewitchment",
+  "name": "Bewitchment",
+  "mr_downloads": 1637801,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "cultural-delights",
+  "name": "Cultural Delights",
+  "mr_downloads": 1624989,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "abnormals-delight",
+  "name": "Abnormals Delight",
+  "mr_downloads": 1612288,
+  "mr_license": "LicenseRef-Abnormals-License",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "festive-delight",
+  "name": "Festive Delight - Christmas eve",
+  "mr_downloads": 1596566,
+  "mr_license": "CC-BY-ND-4.0",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "blended-compat",
+  "name": "Blended Compat",
+  "mr_downloads": 1594946,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "display-delight",
+  "name": "Display Delight",
+  "mr_downloads": 1525527,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "my-nethers-delight-refabricated",
+  "name": "My Nether's Delight Refabricated",
+  "mr_downloads": 1525166,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "drink-beer-refill",
+  "name": "Drink Beer Refill",
+  "mr_downloads": 1512038,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "tide",
+  "name": "Tide 2",
+  "mr_downloads": 1504802,
+  "mr_license": "MPL-2.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-candlelight",
+  "name": "Legacy: [Let's Do] Candlelight",
+  "mr_downloads": 1494960,
+  "mr_license": "LicenseRef-custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "moreee-apples!!!",
+  "name": "MORE APPLES!!!",
+  "mr_downloads": 1457669,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "food-effect-tooltips-forge",
+  "name": "Food Effect Tooltips (Forge)",
+  "mr_downloads": 1416898,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "buzzier-bees",
+  "name": "Buzzier Bees",
+  "mr_downloads": 1359027,
+  "mr_license": "LicenseRef-Abnormals-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "amarite",
+  "name": "Amarite",
+  "mr_downloads": 1340590,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "alcocraft",
+  "name": "AlcoCraft+",
+  "mr_downloads": 1302505,
+  "mr_license": "LicenseRef-AlcoCraft-Plus-license",
+  "parents": []
+ },
+ {
+  "mr_slug": "overweight-farming",
+  "name": "Overweight Farming",
+  "mr_downloads": 1301235,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "seed-delight",
+  "name": "Seed Delight",
+  "mr_downloads": 1272079,
+  "mr_license": "GPL-3.0-only",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "latiao-craft-2",
+  "name": "Latiao Craft 2",
+  "mr_downloads": 1240136,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "no-animal-tempt-delay",
+  "name": "No Animal Tempt Delay",
+  "mr_downloads": 1221070,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "cooking-for-blockheads",
+  "name": "Cooking for Blockheads",
+  "mr_downloads": 1180790,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "wilder-wild",
+  "name": "Wilder Wild",
+  "mr_downloads": 1175744,
+  "mr_license": "LicenseRef-FrozenBlock-Modding-Oasis-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "bettercraftingrecipes",
+  "name": "Better Crafting Recipes",
+  "mr_downloads": 1170414,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "butchery",
+  "name": "Butchery",
+  "mr_downloads": 1161132,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "simple-armor-hud",
+  "name": "Simple Armor Hud",
+  "mr_downloads": 1152589,
+  "mr_license": "LGPL-2.1-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "aquaculture",
+  "name": "Aquaculture 2",
+  "mr_downloads": 1131925,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "oceanic-delight",
+  "name": "Oceanic Delight",
+  "mr_downloads": 1126138,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "vanillacookbook",
+  "name": "Vanilla Cookbook",
+  "mr_downloads": 1108130,
+  "mr_license": "LicenseRef-Custom",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "compost",
+  "name": "Compost",
+  "mr_downloads": 1098096,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "bens-sharks",
+  "name": "Ben's Sharks",
+  "mr_downloads": 1097382,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-food",
+  "name": "Create: Food",
+  "mr_downloads": 1091543,
+  "mr_license": "GPL-3.0-only",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "cave-delight",
+  "name": "Cave Delight",
+  "mr_downloads": 1075576,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "cake-chomps",
+  "name": "Cake Chomps",
+  "mr_downloads": 1060486,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "aquaculture-delight",
+  "name": "Aquaculture Delight",
+  "mr_downloads": 1049048,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "trample-no-more",
+  "name": "Trample No More",
+  "mr_downloads": 1040340,
+  "mr_license": "LGPL-2.1-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "stellarity",
+  "name": "Stellarity",
+  "mr_downloads": 1015517,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "effect-insights",
+  "name": "Effect Insights",
+  "mr_downloads": 958727,
+  "mr_license": "MPL-2.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "keep-my-soil-tilled",
+  "name": "Keep My Soil Tilled",
+  "mr_downloads": 947214,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "seasonals",
+  "name": "Seasonals",
+  "mr_downloads": 939552,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "unusual-fish",
+  "name": "Unusual Fish",
+  "mr_downloads": 921561,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "enderscape",
+  "name": "Enderscape",
+  "mr_downloads": 908980,
+  "mr_license": "LicenseRef-Enderscape-Mod-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "peculiars",
+  "name": "Peculiars",
+  "mr_downloads": 906476,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "smidgeon-o-bliss",
+  "name": "Smidgeon o' Bliss REMASTERED",
+  "mr_downloads": 899058,
+  "mr_license": "MPL-2.0",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "aures-farmers-structures",
+  "name": "Aures - Farmers Structures",
+  "mr_downloads": 880702,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "bogismokkebab",
+  "name": "Kebab",
+  "mr_downloads": 864454,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "argentinas-delight",
+  "name": "Argentina's Delight Reborn",
+  "mr_downloads": 864207,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "immersive-vehicles",
+  "name": "Immersive Vehicles",
+  "mr_downloads": 836937,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "builders-delight",
+  "name": "Builder's Delight",
+  "mr_downloads": 814030,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "botany-trees",
+  "name": "Botany Trees",
+  "mr_downloads": 784352,
+  "mr_license": "LGPL-2.1-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "replanting-crops",
+  "name": "Replanting Crops",
+  "mr_downloads": 755909,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "dropthemeat",
+  "name": "Drop the Meat ",
+  "mr_downloads": 739241,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "terrafirmacraft",
+  "name": "TerraFirmaCraft",
+  "mr_downloads": 735592,
+  "mr_license": "EUPL-1.2",
+  "parents": []
+ },
+ {
+  "mr_slug": "thermal-cultivation",
+  "name": "Thermal Cultivation",
+  "mr_downloads": 716204,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "fetzis-asian-decoration",
+  "name": "Fetzi's Asian Decoration",
+  "mr_downloads": 714672,
+  "mr_license": "LicenseRef-Custom-License---Fetzis-Mods",
+  "parents": []
+ },
+ {
+  "mr_slug": "spooky-foods",
+  "name": "Spooky Foods",
+  "mr_downloads": 687252,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "conquesthearthfire",
+  "name": "Conquest:Hearthfire",
+  "mr_downloads": 685358,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "the-box-of-horrors",
+  "name": "The Box Of Horrors [FORGE]",
+  "mr_downloads": 682213,
+  "mr_license": "LicenseRef-",
+  "parents": []
+ },
+ {
+  "mr_slug": "despawning-eggs-hatch",
+  "name": "Despawning Eggs Hatch",
+  "mr_downloads": 647411,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "golden-foods",
+  "name": "Golden Foods!",
+  "mr_downloads": 633094,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "divinerpg",
+  "name": "DivineRPG",
+  "mr_downloads": 620565,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "evil-beetroot",
+  "name": "Evil Beetroot",
+  "mr_downloads": 619226,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "wab",
+  "name": "Wan's Ancient Beasts",
+  "mr_downloads": 606327,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "berry-good",
+  "name": "Berry Good",
+  "mr_downloads": 602773,
+  "mr_license": "LicenseRef-Abnormals-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "living-things",
+  "name": "LivingThings",
+  "mr_downloads": 577140,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "environmental",
+  "name": "Environmental",
+  "mr_downloads": 572373,
+  "mr_license": "LicenseRef-Abnormals-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "nebulus-trader-for-the-jungle",
+  "name": "Nebulus Trader for the Jungle",
+  "mr_downloads": 569232,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "mystics-biomes",
+  "name": "Mystic's Biomes",
+  "mr_downloads": 556763,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "rainbowcompound",
+  "name": "Create: Rainbow Compound",
+  "mr_downloads": 546916,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "lyivxs-furniture",
+  "name": "Furnection",
+  "mr_downloads": 544028,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "stackable-stew-and-soup",
+  "name": "Stackable Stew and Soup",
+  "mr_downloads": 541513,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "farming-for-blockheads",
+  "name": "Farming for Blockheads",
+  "mr_downloads": 533191,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "super-tools-reload",
+  "name": "Super Tools Reload",
+  "mr_downloads": 510833,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "orca-kimetsu-no-yaiba",
+  "name": "Kimetsu no Yaiba (Demon Slayer)",
+  "mr_downloads": 482842,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "ice-and-fire-delight",
+  "name": "Ice and Fire Delight",
+  "mr_downloads": 479968,
+  "mr_license": "LicenseRef-My-license",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "unearthed-journey",
+  "name": "Unearthed Journey",
+  "mr_downloads": 475014,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "thirst-canteen",
+  "name": "Thirst Canteen",
+  "mr_downloads": 474056,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "manors-bounty",
+  "name": "Manor's Bounty",
+  "mr_downloads": 461258,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "order-to-cook",
+  "name": "Order to cook下单了！",
+  "mr_downloads": 459249,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "botany-pots-tiers",
+  "name": "Botany Pots Tiers",
+  "mr_downloads": 457850,
+  "mr_license": "LGPL-2.1-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "enchanted-witchcraft",
+  "name": "Enchanted: Witchcraft",
+  "mr_downloads": 454655,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "eat-an-omelette",
+  "name": "Eat an Omelette",
+  "mr_downloads": 445628,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "more-pumpkins!",
+  "name": "Pumpkins Accelerated",
+  "mr_downloads": 439396,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "confluence",
+  "name": "Confluence: Otherworld",
+  "mr_downloads": 434900,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-cafe",
+  "name": "Create Cafe",
+  "mr_downloads": 428454,
+  "mr_license": "GPL-2.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "doggy-talents-next",
+  "name": "Doggy Talents Next",
+  "mr_downloads": 426793,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "the-dawn-era",
+  "name": "The Dawn Era (DISCONTINUED)",
+  "mr_downloads": 419265,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-ratatouille",
+  "name": "Create Ratatouille",
+  "mr_downloads": 418999,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "squish",
+  "name": "Squish",
+  "mr_downloads": 409571,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "new-sim-u-kraft",
+  "name": "New:Sim-U-Kraft",
+  "mr_downloads": 402015,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "management-wanted",
+  "name": "Five Nights at Freddy's: Management Wanted | FNAF MW",
+  "mr_downloads": 398309,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "healthy-water",
+  "name": "Healthy Water",
+  "mr_downloads": 395664,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "spice-of-life-onion",
+  "name": "Spice of Life Onion",
+  "mr_downloads": 379770,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "rats",
+  "name": "Rats",
+  "mr_downloads": 374487,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "snowpig-fabric",
+  "name": "Snow Pig [Fabric]",
+  "mr_downloads": 371380,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "ecliptic-seasons",
+  "name": "Ecliptic Seasons",
+  "mr_downloads": 369402,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "brewin-and-chewin-fabric",
+  "name": "Brewin' And Chewin' [Fabric]",
+  "mr_downloads": 360370,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "blossom",
+  "name": "Blossom",
+  "mr_downloads": 348609,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "culinary-construct",
+  "name": "Culinary Construct",
+  "mr_downloads": 346039,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "chococraft",
+  "name": "Chococraft",
+  "mr_downloads": 344177,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "experienced_crops",
+  "name": "Experienced Crops",
+  "mr_downloads": 342042,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "lavafishing",
+  "name": "Lava Fishing",
+  "mr_downloads": 338848,
+  "mr_license": "AGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "haunted-harvest",
+  "name": "Haunted Harvest",
+  "mr_downloads": 338733,
+  "mr_license": "LicenseRef-Supplementaries-Team-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "infernohttyd",
+  "name": "Inferno",
+  "mr_downloads": 334795,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "starcatcher",
+  "name": "Starcatcher",
+  "mr_downloads": 325767,
+  "mr_license": "LicenseRef-",
+  "parents": []
+ },
+ {
+  "mr_slug": "call-of-yucutan",
+  "name": "Call of Yucatán",
+  "mr_downloads": 323182,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "legacies-and-legends",
+  "name": "Legacies and Legends",
+  "mr_downloads": 311815,
+  "mr_license": "LicenseRef-Legacy-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "wetland-whimsy",
+  "name": "Wetland Whimsy",
+  "mr_downloads": 303129,
+  "mr_license": "",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "right-click-get-crops",
+  "name": "Right Click, Get Crops",
+  "mr_downloads": 302945,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "egg-delight",
+  "name": "Egg Delight",
+  "mr_downloads": 300214,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "the-aethers-delight",
+  "name": "Aether's Delight",
+  "mr_downloads": 293306,
+  "mr_license": "LicenseRef-MIT",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "scp-overtime",
+  "name": "SCP: Overtime",
+  "mr_downloads": 290570,
+  "mr_license": "LicenseRef-",
+  "parents": []
+ },
+ {
+  "mr_slug": "let-me-feed-you",
+  "name": "Let Me Feed You!",
+  "mr_downloads": 286095,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-lilis-lucky-lures",
+  "name": "[Let's Do] Lili's Lucky Lures",
+  "mr_downloads": 286045,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "mushroom-quest",
+  "name": "Mushroom Quest",
+  "mr_downloads": 285660,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "spectrum",
+  "name": "Spectrum",
+  "mr_downloads": 281349,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "caverns-and-chasms",
+  "name": "Caverns & Chasms",
+  "mr_downloads": 274807,
+  "mr_license": "LicenseRef-Abnormals-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "cursed-fate",
+  "name": "Jujutsu Kaisen: Cursed Fate",
+  "mr_downloads": 270217,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "pams-harvestcraft-2-food-core",
+  "name": "Pam's HarvestCraft 2: Food Core",
+  "mr_downloads": 266542,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "delightful-sandwiches",
+  "name": "Delightful Sandwiches",
+  "mr_downloads": 263364,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "pams-harvestcraft-2-food-extended",
+  "name": "Pam's HarvestCraft 2 - Food Extended",
+  "mr_downloads": 260690,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "goodall",
+  "name": "Goodall",
+  "mr_downloads": 257226,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "harmful-smoke",
+  "name": "Harmful smoke",
+  "mr_downloads": 252381,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "cyclic",
+  "name": "Cyclic",
+  "mr_downloads": 251063,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "scorchful",
+  "name": "Scorchful",
+  "mr_downloads": 238923,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "customcrafting",
+  "name": "CustomCrafting",
+  "mr_downloads": 237479,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "grim-kingdoms-lost-structures-ruins",
+  "name": "Grim kingdoms: Lost structures & ruins",
+  "mr_downloads": 235685,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-winery",
+  "name": "Create: Winery",
+  "mr_downloads": 231997,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "twilightdelight",
+  "name": "Twilight Delight",
+  "mr_downloads": 227080,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "fishermans-haven",
+  "name": "[HUGE UPDATE] Fisherman's Haven",
+  "mr_downloads": 225183,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "dragon-feed",
+  "name": "Dragon Feed",
+  "mr_downloads": 223088,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-broken-bad-fabric",
+  "name": "Create: Broken Bad ReBroken",
+  "mr_downloads": 222206,
+  "mr_license": "LicenseRef-Non-Commercial-Mod-License-NCML-v1",
+  "parents": []
+ },
+ {
+  "mr_slug": "cook-your-food",
+  "name": "Cook your food",
+  "mr_downloads": 222194,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "survival-instinct",
+  "name": "Survival Instinct",
+  "mr_downloads": 220011,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "pumpkin-pie-delight",
+  "name": "Pumpkin Pie Delight",
+  "mr_downloads": 215132,
+  "mr_license": "LGPL-3.0-only",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "nether-dungeons",
+  "name": "Nether Dungeons",
+  "mr_downloads": 214493,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "survive",
+  "name": "Survive",
+  "mr_downloads": 212296,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "soulfulnether",
+  "name": "Soulful Nether",
+  "mr_downloads": 209376,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "replanter-plus",
+  "name": "Replanter Plus",
+  "mr_downloads": 208767,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "crazy-chocobos!",
+  "name": "Crazy Chocobos!",
+  "mr_downloads": 207696,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "croptopia-delight",
+  "name": "Croptopia Delight",
+  "mr_downloads": 206314,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "tokusatsu-hero-instrumentality-project",
+  "name": "Tokusatsu Hero Instrumentality Project",
+  "mr_downloads": 201770,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "tofudelight",
+  "name": "TofuDelight",
+  "mr_downloads": 201233,
+  "mr_license": "LGPL-3.0-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "aylyth",
+  "name": "Aylyth",
+  "mr_downloads": 201111,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "applecore-unofficial",
+  "name": "AppleCore Unofficial 1.7.10",
+  "mr_downloads": 199830,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "pams-harvestcraft",
+  "name": "Pams HarvestCraft",
+  "mr_downloads": 197341,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "oldpotions",
+  "name": "Old Potions",
+  "mr_downloads": 195039,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "tinkers-construct-delight",
+  "name": "Tinkers Construct Delight",
+  "mr_downloads": 193687,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "industrial-craft",
+  "name": "Industrial Craft",
+  "mr_downloads": 192940,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "caerula-arbor",
+  "name": "Caerula Arbor",
+  "mr_downloads": 192288,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "mobvote-2023-crab",
+  "name": "Mobvote 2023 - Crab",
+  "mr_downloads": 191601,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "thetitansneo",
+  "name": "TheTitansNeo",
+  "mr_downloads": 185287,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "display-delight-fabric",
+  "name": "Display Delight Fabric",
+  "mr_downloads": 184996,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "craftable-notch-apple",
+  "name": "Craftable Notch Apple",
+  "mr_downloads": 177213,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "bottled-air",
+  "name": "Bottled Air",
+  "mr_downloads": 174168,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "windswept",
+  "name": "Windswept",
+  "mr_downloads": 171404,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "brewery",
+  "name": "Patbox's Brewery",
+  "mr_downloads": 169603,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "beautiful-campfires",
+  "name": "Beautiful Campfires",
+  "mr_downloads": 166507,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "no-mans-land",
+  "name": "No Man's Land",
+  "mr_downloads": 165957,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "kaleidos",
+  "name": "Kaleidos",
+  "mr_downloads": 162789,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "farmers-respite",
+  "name": "Farmer's Respite",
+  "mr_downloads": 162546,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "create-deepfried",
+  "name": "Create: Deepfried",
+  "mr_downloads": 160611,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "dietary_statistics",
+  "name": "Dietary Statistics",
+  "mr_downloads": 159710,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "anvilcraft",
+  "name": "AnvilCraft",
+  "mr_downloads": 158144,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "goated",
+  "name": "You've Goat to be Kidding Me",
+  "mr_downloads": 157739,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "harvest",
+  "name": "Harvest",
+  "mr_downloads": 157238,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "spice-of-life-apple-pie-edition",
+  "name": "Spice of Life: Apple Pie Edition",
+  "mr_downloads": 156743,
+  "mr_license": "LGPL-2.1-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "etfuturum",
+  "name": "Et Futurum Requiem",
+  "mr_downloads": 153957,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "coffee-delight",
+  "name": "Coffee Delight",
+  "mr_downloads": 152382,
+  "mr_license": "LicenseRef-Pineapple-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "ntm-extended",
+  "name": "Hbm's Nuclear Tech - Extended Edition",
+  "mr_downloads": 151349,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "the-five-nights-at-freddys-mod",
+  "name": "The Five Nights at Freddy's | FNAF Mod",
+  "mr_downloads": 150874,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "froglegs",
+  "name": "Frog Legs",
+  "mr_downloads": 150001,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "snowpig",
+  "name": "Snow Pig [Forge]",
+  "mr_downloads": 147975,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "just-more-cakes",
+  "name": "Just More Cakes!",
+  "mr_downloads": 145619,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "modern-decorations-mod",
+  "name": "MDM (formerly Modern Decorations Mod)",
+  "mr_downloads": 145481,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "vanimals",
+  "name": "Vanimals",
+  "mr_downloads": 142907,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "dungeons-content",
+  "name": "Dungeons Content",
+  "mr_downloads": 142728,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "reliquary-reincarnations",
+  "name": "Reliquary Reincarnations",
+  "mr_downloads": 142214,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "hoe-tweaks",
+  "name": "Hoe Tweaks",
+  "mr_downloads": 141962,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "decorative-storage",
+  "name": "Decorative Storage",
+  "mr_downloads": 141143,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "vanilla-plus-data-pack",
+  "name": "Vanilla+",
+  "mr_downloads": 140651,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "kubejs-delight",
+  "name": "KubeJS Delight",
+  "mr_downloads": 136755,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "cozy",
+  "name": "Cozy",
+  "mr_downloads": 135676,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "ars-elixirum",
+  "name": "Ars Elixirum",
+  "mr_downloads": 133141,
+  "mr_license": "LicenseRef-Obscuria-Ecosystem",
+  "parents": []
+ },
+ {
+  "mr_slug": "eternal-tales",
+  "name": "Eternal Tales",
+  "mr_downloads": 128036,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "fruitful-fun",
+  "name": "Fruitful Fun 🍊",
+  "mr_downloads": 126433,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "universe-76",
+  "name": "Universe 76",
+  "mr_downloads": 121627,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "block-factorys-biomes",
+  "name": "Block Factory's Biomes",
+  "mr_downloads": 121289,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "jains-desserts",
+  "name": "Jain's Desserts",
+  "mr_downloads": 120668,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "campfire-backport",
+  "name": "Campfire Backport",
+  "mr_downloads": 119947,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "lets-do-addon-fluids",
+  "name": "[Let's Do Addon] Fluids",
+  "mr_downloads": 119615,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "brazilian-expansion",
+  "name": "Brazilian Expansion",
+  "mr_downloads": 118745,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "better-mcdonalds-mod",
+  "name": "Better McDonald's Mod",
+  "mr_downloads": 117655,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "tfc-ruins",
+  "name": "TFC Ruins",
+  "mr_downloads": 114675,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "nutritious-milk",
+  "name": "Nutritious Milk",
+  "mr_downloads": 112995,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "potion-combiner",
+  "name": "Potion Combiner",
+  "mr_downloads": 111211,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "let-your-friend-eating!",
+  "name": "Let Your Friend Eating!",
+  "mr_downloads": 110050,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "water-flasks",
+  "name": "Water Flasks",
+  "mr_downloads": 109179,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "progression-reborn",
+  "name": "Progression Reborn",
+  "mr_downloads": 109115,
+  "mr_license": "LicenseRef-Legacy-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "dragns-livestock-overhaul",
+  "name": "DragN's Livestock Overhaul!",
+  "mr_downloads": 108410,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "little-tractor",
+  "name": "Little Tractor",
+  "mr_downloads": 107598,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "seasons-delight-refab-compat",
+  "name": "Fabric Seasons: Delight Refabricated Compat",
+  "mr_downloads": 106859,
+  "mr_license": "MPL-2.0",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "pastel",
+  "name": "Pastel",
+  "mr_downloads": 105273,
+  "mr_license": "LicenseRef-ARR-Assets-GNU-LGPLv3-Code",
+  "parents": []
+ },
+ {
+  "mr_slug": "ecological-replenishment-station",
+  "name": "Ecological Replenishment Station",
+  "mr_downloads": 105220,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "shipping-bin",
+  "name": "Shipping Bin",
+  "mr_downloads": 103519,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "floras-delight",
+  "name": "Flora's Delight",
+  "mr_downloads": 102318,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "stewing-baking",
+  "name": "Stewing & Baking",
+  "mr_downloads": 101587,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "edibles",
+  "name": "Edibles",
+  "mr_downloads": 101140,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "essentialgui",
+  "name": "EssentialGUI",
+  "mr_downloads": 100698,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "biobutchers-delight",
+  "name": "BioButcher's Mania",
+  "mr_downloads": 99341,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "wyrmroost",
+  "name": "Wyrmroost",
+  "mr_downloads": 99198,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "snad",
+  "name": "Snad",
+  "mr_downloads": 99042,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "pizzacraft",
+  "name": "PizzaCraft",
+  "mr_downloads": 96612,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "sky-lands",
+  "name": "Sky Lands",
+  "mr_downloads": 95810,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "culinaire",
+  "name": "Culinaire",
+  "mr_downloads": 95759,
+  "mr_license": "LicenseRef-Polyform-Shield-1.0.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "full-grown-crop-marker",
+  "name": "FullGrownCropMarker",
+  "mr_downloads": 94267,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "cobblebase",
+  "name": "Cobblebase",
+  "mr_downloads": 92497,
+  "mr_license": "MPL-2.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "kaleidoscope-texture-expansion",
+  "name": "Kaleidoscope Texture Expansion",
+  "mr_downloads": 92191,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": [
+   "farmers-delight",
+   "kaleidoscope-cookery"
+  ]
+ },
+ {
+  "mr_slug": "sweet-calamity",
+  "name": "Sweet Calamity",
+  "mr_downloads": 90496,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "call-to-battle-ww2",
+  "name": "Call to Battle",
+  "mr_downloads": 88787,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "item-components",
+  "name": "Item Components",
+  "mr_downloads": 88334,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "end-reborn",
+  "name": "End Reborn",
+  "mr_downloads": 87984,
+  "mr_license": "LicenseRef-Legacy-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "mystiasizakaya",
+  "name": "MystiasIzakaya",
+  "mr_downloads": 87422,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "hypixel-lucky-blocks",
+  "name": "Hypixel Lucky Blocks",
+  "mr_downloads": 85710,
+  "mr_license": "AFL-3.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "middle-earth",
+  "name": "Middle-earth",
+  "mr_downloads": 85545,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "oceanic",
+  "name": "Oceanic",
+  "mr_downloads": 84899,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "crop-and-kettle",
+  "name": "Crop & Kettle",
+  "mr_downloads": 84458,
+  "mr_license": "LicenseRef-CnK-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "prehistoric-fauna",
+  "name": "Prehistoric Fauna",
+  "mr_downloads": 84419,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "goblins-tyranny",
+  "name": "Goblin's Tyranny",
+  "mr_downloads": 84407,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "scape-and-run-meshi",
+  "name": "Scape and Run: Meshi",
+  "mr_downloads": 84043,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "narutocraft",
+  "name": "NarutoCraft",
+  "mr_downloads": 83699,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "vanilla-constructs",
+  "name": "Vanilla Constructs",
+  "mr_downloads": 83445,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "gift-drop",
+  "name": "Gift drop",
+  "mr_downloads": 81664,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "compat-delight",
+  "name": "Compat Delight",
+  "mr_downloads": 81624,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "bobs-originium-dream",
+  "name": "BOB's Originium dream",
+  "mr_downloads": 80844,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "nocubes-food-desire",
+  "name": "NoCube's Food Desire",
+  "mr_downloads": 80611,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "tungsten-equipment",
+  "name": "Tungsten Equipment",
+  "mr_downloads": 79723,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "cobblemon-delight",
+  "name": "Cobblemon Delight",
+  "mr_downloads": 79440,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "distant-worlds",
+  "name": "Distant Worlds",
+  "mr_downloads": 78873,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "productivetrees",
+  "name": "Productive Trees",
+  "mr_downloads": 77890,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "fishing-frontier",
+  "name": "Fishing Frontier",
+  "mr_downloads": 74589,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "choccos-mobs",
+  "name": "Chocco's Mobs",
+  "mr_downloads": 74423,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "kaleidoscope-twilight",
+  "name": "Kaleidoscope Twilight",
+  "mr_downloads": 74342,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "thenukacraft",
+  "name": "NukaCraft: Fallout mod",
+  "mr_downloads": 73640,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "reg-more-foods",
+  "name": "Reg's More Foods",
+  "mr_downloads": 72415,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "prehistoric-nature",
+  "name": "Prehistoric Nature",
+  "mr_downloads": 72288,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "ahznbs-shinobicraft",
+  "name": "AHZNB's ShinobiCraft",
+  "mr_downloads": 71308,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "magic-origins",
+  "name": "Magic  Origins",
+  "mr_downloads": 71036,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "more-berries",
+  "name": "More Berries",
+  "mr_downloads": 70750,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "hexgloop",
+  "name": "Hex Gloop",
+  "mr_downloads": 70630,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "delightful-chefs",
+  "name": "Delightful Chefs",
+  "mr_downloads": 69770,
+  "mr_license": "GPL-3.0-only",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "spice-of-life-carrot-edition-unofficial",
+  "name": "Spice of Life - Carrot Edition - Unofficial 1.7.10",
+  "mr_downloads": 69386,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "pams-harvestcraft-2-trees",
+  "name": "Pam's HarvestCraft 2 - Trees",
+  "mr_downloads": 69000,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "jurassic-saga",
+  "name": "Jurassic Saga",
+  "mr_downloads": 68963,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "aether-ii",
+  "name": "The Aether II",
+  "mr_downloads": 67951,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "burrowers",
+  "name": "Burrowers",
+  "mr_downloads": 67919,
+  "mr_license": "LGPL-2.1-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "sprout",
+  "name": "Sprout",
+  "mr_downloads": 66829,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "tomtarus-cobblemon-and-farmers-delight-tweaks",
+  "name": "Tomtaru's Cobblemon and Farmer's Delight Tweaks",
+  "mr_downloads": 66205,
+  "mr_license": "MPL-2.0",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "mushroom-villager-trader",
+  "name": "Mushroom Villager Trader",
+  "mr_downloads": 65130,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "cocktails-delight",
+  "name": "Cocktails Delight",
+  "mr_downloads": 64704,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "eatable-verity",
+  "name": "Eatable Verity",
+  "mr_downloads": 64700,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "customnpc-plus-dbc-addon",
+  "name": "CNPC+ DBC Addon",
+  "mr_downloads": 64388,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "bountiful-critters",
+  "name": "Bountiful Critters",
+  "mr_downloads": 63231,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "neepmeat",
+  "name": "NEEPMeat",
+  "mr_downloads": 62757,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "fazcraft",
+  "name": "Fazcraft [Minecraft X FNAF]",
+  "mr_downloads": 62184,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "botany-pots-mystical-agriculture-compat",
+  "name": "Botany Pots - Mystical Agriculture Compat",
+  "mr_downloads": 62144,
+  "mr_license": "LGPL-2.1-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "pams-harvestcraft-2-crops",
+  "name": "Pam's HarvestCraft 2: Crops",
+  "mr_downloads": 62128,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "queen-cats-dogs",
+  "name": "Queen Cats & Dogs",
+  "mr_downloads": 62015,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "netherite-extras",
+  "name": "Netherite Extras",
+  "mr_downloads": 61326,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "food-txf",
+  "name": "Food TXF",
+  "mr_downloads": 61028,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "irons-rpg-tweaks",
+  "name": "Iron's RPG Tweaks",
+  "mr_downloads": 60679,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "tfc-artisanal",
+  "name": "TFC Artisanal",
+  "mr_downloads": 60650,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "farmers-delight-polymer",
+  "name": "Polymer Patch for Farmer's Delight",
+  "mr_downloads": 60169,
+  "mr_license": "LGPL-3.0-only",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "testosterone",
+  "name": "Create: Testosterone",
+  "mr_downloads": 60040,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "mexicans-delight",
+  "name": "Mexican's Delight",
+  "mr_downloads": 58073,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "amethyst-nether",
+  "name": "Amethyst Nether",
+  "mr_downloads": 56956,
+  "mr_license": "LicenseRef-The-Amethystians-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "astrids-fast-food",
+  "name": "Astrid's Fast Food",
+  "mr_downloads": 56760,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "potion-api",
+  "name": "Potion API",
+  "mr_downloads": 56386,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "hybrid-birds",
+  "name": "Hybrid Birds",
+  "mr_downloads": 56202,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "caupona",
+  "name": "Caupona",
+  "mr_downloads": 56175,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "industrialupgrade",
+  "name": "[IU] Industrial Upgrade",
+  "mr_downloads": 56070,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "kaleidoscope-doll-workshop",
+  "name": "Kaleidoscope Doll Workshop",
+  "mr_downloads": 54317,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "the-ducks",
+  "name": "The Ducks",
+  "mr_downloads": 53993,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "packed-up",
+  "name": "Packed Up - A Farmer's Delight Addon",
+  "mr_downloads": 53863,
+  "mr_license": "GPL-3.0-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "dark-souls-expansion",
+  "name": "Dark Souls Expansion",
+  "mr_downloads": 53540,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "sengokujidaimod",
+  "name": "Sengoku Jidai Mod",
+  "mr_downloads": 53007,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "kiwi-boi",
+  "name": "Kiwi Boi",
+  "mr_downloads": 52970,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "dough-slime-ball-recipe",
+  "name": "Dough Slime Ball Recipe",
+  "mr_downloads": 52259,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "mysticpotions",
+  "name": "Mystic Potions",
+  "mr_downloads": 52138,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "extinction-z",
+  "name": "Extinction Z",
+  "mr_downloads": 52111,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "compostables",
+  "name": "Compostables",
+  "mr_downloads": 51251,
+  "mr_license": "LicenseRef-CC0-1.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-cheese",
+  "name": "Create: Cheese Factory",
+  "mr_downloads": 51034,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "shrek-lucky-block",
+  "name": "Shrek Lucky Block",
+  "mr_downloads": 50949,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-fastfood",
+  "name": "Create: Fastfood",
+  "mr_downloads": 50905,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "campanion",
+  "name": "Campanion",
+  "mr_downloads": 49237,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "wesleys-roguelike-dungeons",
+  "name": "Wesley's Roguelike Dungeons",
+  "mr_downloads": 48479,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "combatify",
+  "name": "Combatify",
+  "mr_downloads": 48202,
+  "mr_license": "LGPL-2.1-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "nastia`s-miracle-stones",
+  "name": "Nastia`s Miracle Stones",
+  "mr_downloads": 47998,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "moth-origin",
+  "name": "Overgrown's Origins: Moth",
+  "mr_downloads": 47939,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "neo-titans-variant",
+  "name": "Neo Titans Variant",
+  "mr_downloads": 47765,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "piglin-conservatory",
+  "name": "Piglin Conservatory v3.0",
+  "mr_downloads": 47696,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "forestry-community-edition",
+  "name": "Forestry: CE",
+  "mr_downloads": 47675,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "myriad",
+  "name": "Myriad",
+  "mr_downloads": 47056,
+  "mr_license": "LicenseRef-",
+  "parents": []
+ },
+ {
+  "mr_slug": "betterenddelight",
+  "name": "BetterEndDelight",
+  "mr_downloads": 46132,
+  "mr_license": "LicenseRef-custom-license",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "somerandomitem",
+  "name": "SomeRandomItem",
+  "mr_downloads": 46020,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "caffeinated",
+  "name": "Caffeinated",
+  "mr_downloads": 45247,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "alexs-caves-refabricated",
+  "name": "Alex's Caves: Refabricated",
+  "mr_downloads": 45185,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "nature-arise",
+  "name": "Nature Arise",
+  "mr_downloads": 44947,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "farmers-pizzeria",
+  "name": "Farmer's Pizzeria",
+  "mr_downloads": 44688,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "afkfish",
+  "name": "AFKFish",
+  "mr_downloads": 44435,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "the-dawn-era-delight",
+  "name": "The Dawn Era Delight",
+  "mr_downloads": 44268,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "spice-of-life-valheim-edition",
+  "name": "Spice of Life: Valheim Edition",
+  "mr_downloads": 44122,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "iguanatweaks-reborn",
+  "name": "Insane's Survival Overhaul (aka IguanaTweaks Reborn)",
+  "mr_downloads": 43702,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "fastfood-delight-unofficial",
+  "name": "FastFood Delight Unofficial",
+  "mr_downloads": 43653,
+  "mr_license": "GPL-3.0-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "simple-harvesting",
+  "name": "Simple Harvesting",
+  "mr_downloads": 43304,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "way-too-many-ingredients",
+  "name": "Way Too Many Ingredients [Cobblemon Sidemod]",
+  "mr_downloads": 43233,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "big-fish",
+  "name": "Big Fish",
+  "mr_downloads": 42993,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "soldisco",
+  "name": "Spice of Life: Discovery",
+  "mr_downloads": 42875,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "alexs-caves-adventure",
+  "name": "Alex's Caves: Adventure",
+  "mr_downloads": 42805,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "potion-sauce",
+  "name": "Potion Sauce",
+  "mr_downloads": 42664,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "cozycafe",
+  "name": "Cozy Cafe",
+  "mr_downloads": 42625,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "pizzadelight",
+  "name": "Pizza Delight",
+  "mr_downloads": 42144,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "starfield-pastoral",
+  "name": "Starfield Pastoral",
+  "mr_downloads": 42072,
+  "mr_license": "LicenseRef-StardewCraft-Custom-Non-Commercial-Fan-Project-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "farmhouse-decorations",
+  "name": "Farmhouse Decorations",
+  "mr_downloads": 41713,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "croptopia-chocolaterie",
+  "name": "Croptopia's Chocolaterie",
+  "mr_downloads": 41427,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "justabaguette",
+  "name": "Just A Baguette",
+  "mr_downloads": 41059,
+  "mr_license": "LicenseRef-MIT-R-NR",
+  "parents": []
+ },
+ {
+  "mr_slug": "better-sniffers",
+  "name": "Better Sniffers",
+  "mr_downloads": 40736,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "auto-feeder-helmet",
+  "name": "Auto Feeder Helmet",
+  "mr_downloads": 40718,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "rainbow-lucky-block",
+  "name": "Rainbow Lucky Block",
+  "mr_downloads": 40465,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "ocean-villager-trader",
+  "name": "Ocean Villager Trader",
+  "mr_downloads": 40062,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "fvtm",
+  "name": "Fex's Vehicle & Transportation Mod",
+  "mr_downloads": 40046,
+  "mr_license": "LicenseRef-Fexcraft-Common-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "avm-mod",
+  "name": "AvM mod",
+  "mr_downloads": 39126,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "maple",
+  "name": "Maple",
+  "mr_downloads": 38802,
+  "mr_license": "CC-BY-SA-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "bubblellaneous",
+  "name": "Bubblellaneous",
+  "mr_downloads": 38745,
+  "mr_license": "CC-BY-SA-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "bakery-villager-trader",
+  "name": "Bakery Villager Trader",
+  "mr_downloads": 38291,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "christmas-delight-(farmers-delight-addon)",
+  "name": "Christmas Delight (Farmers Delight Addon)",
+  "mr_downloads": 38204,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "ocean-world",
+  "name": "Ocean World",
+  "mr_downloads": 38156,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "nether-sheep",
+  "name": "Nether Sheep",
+  "mr_downloads": 37704,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "chovys-apocalypse",
+  "name": "Chovy's Apocalypse",
+  "mr_downloads": 37418,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "ram-origin",
+  "name": "Overgrown's Origins: Ram",
+  "mr_downloads": 37223,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "zeps-extra-crops",
+  "name": "Zeps' Extra Crops",
+  "mr_downloads": 36676,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "straw-golem-rebaled-updated",
+  "name": "Straw Golem Updated",
+  "mr_downloads": 36620,
+  "mr_license": "AGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "terrariacraft",
+  "name": "TerrariaCraft 🌳",
+  "mr_downloads": 36598,
+  "mr_license": "LicenseRef-TerrariaCraft-Mod-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "freeze-it-and-heat-it",
+  "name": "Freeze It, and Heat It!",
+  "mr_downloads": 36421,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "kaleidoscope",
+  "name": "Kaleidoscope",
+  "mr_downloads": 35944,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "more-armor",
+  "name": "More Armor",
+  "mr_downloads": 35700,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "souper-secret-settings",
+  "name": "Souper Secret Settings",
+  "mr_downloads": 35445,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "bits-and-balance",
+  "name": "Bits and Balance",
+  "mr_downloads": 35436,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "benched",
+  "name": "Benched",
+  "mr_downloads": 35223,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "alcohol",
+  "name": "Alcohol Only",
+  "mr_downloads": 35020,
+  "mr_license": "LicenseRef-GNU-GPL-v3.0-plus-Chaotic-Hell-Clause",
+  "parents": []
+ },
+ {
+  "mr_slug": "berries-and-cherries",
+  "name": "Berries and Cherries Delight",
+  "mr_downloads": 34654,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "burger-mod",
+  "name": "Burger Mod",
+  "mr_downloads": 33782,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "rationcraft",
+  "name": "Rationcraft",
+  "mr_downloads": 33325,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "craft-of-the-wild-cotw",
+  "name": "Craft Of The Wild (COTW)",
+  "mr_downloads": 33157,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "the-forest-additions",
+  "name": "The Forest Additions",
+  "mr_downloads": 33100,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "straw-golem",
+  "name": "Straw Golem",
+  "mr_downloads": 32954,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "timberreplant",
+  "name": "TimberReplant",
+  "mr_downloads": 32630,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "exotelcraft",
+  "name": "Exotelcraft",
+  "mr_downloads": 32607,
+  "mr_license": "LicenseRef-EXOTELCRAFT-LICENSE-1.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "engineers-delight",
+  "name": "Engineers Delight",
+  "mr_downloads": 32468,
+  "mr_license": "MPL-2.0",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "ripples-of-the-past-pearl-jam-addon",
+  "name": "Ripples of the Past: Pearl Jam Addon",
+  "mr_downloads": 32369,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "lighterend",
+  "name": "Lighter End",
+  "mr_downloads": 32256,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "cobblemon-stamina-reload",
+  "name": "Cobblemon: Stamina Reload",
+  "mr_downloads": 32022,
+  "mr_license": "MPL-2.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "simply-cozy",
+  "name": "Simply Cozy",
+  "mr_downloads": 32009,
+  "mr_license": "CC-BY-ND-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "p.e.k.k.a-craft",
+  "name": "P.E.K.K.A Craft",
+  "mr_downloads": 31951,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "fathoms",
+  "name": "Fathoms",
+  "mr_downloads": 31908,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "thingamajigs",
+  "name": "Thingamajigs",
+  "mr_downloads": 31732,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "star-wars-expansion",
+  "name": "Star Wars Expansion",
+  "mr_downloads": 31415,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "turkish-delight",
+  "name": "Turkish Delight",
+  "mr_downloads": 30912,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "unusualdelight",
+  "name": "Unusual Delight",
+  "mr_downloads": 30803,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "xp-from-crops",
+  "name": "Xp from Crops",
+  "mr_downloads": 30690,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "seasonal-decorations",
+  "name": "[🎄] Seasonal Decorations",
+  "mr_downloads": 30545,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "netherandend",
+  "name": "Nether & End",
+  "mr_downloads": 30483,
+  "mr_license": "LicenseRef-EBMC-1A",
+  "parents": []
+ },
+ {
+  "mr_slug": "apple-enchant",
+  "name": "Apple Enchant",
+  "mr_downloads": 30480,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "bluearchivescraft",
+  "name": "Blue Archives Craft",
+  "mr_downloads": 30448,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "valentines-blessing-lilypads-roses",
+  "name": "Valentine's Blessing (Alpha)",
+  "mr_downloads": 30354,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "puresmores",
+  "name": "Pure S'mores",
+  "mr_downloads": 30096,
+  "mr_license": "LicenseRef-MIT-R-NR",
+  "parents": []
+ },
+ {
+  "mr_slug": "petting",
+  "name": "Petting - Tame any mob!",
+  "mr_downloads": 29896,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "cooks-collection",
+  "name": "Cook's Collection",
+  "mr_downloads": 29629,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "more-food",
+  "name": "More Food",
+  "mr_downloads": 29148,
+  "mr_license": "LicenseRef-Academic-Free-License-v3.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "gothic-rpg",
+  "name": "Gothic RPG",
+  "mr_downloads": 28912,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "borukva-food",
+  "name": "Borukva Food",
+  "mr_downloads": 28845,
+  "mr_license": "CC-BY-SA-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "fishingparadise",
+  "name": "Fishing Paradise",
+  "mr_downloads": 28681,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "survivors-elegy",
+  "name": "Survivor's Elegy",
+  "mr_downloads": 28424,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "srp-calamity-catastrophe-cataclysm",
+  "name": "[SRPCCC]Scape and Run Parasites: Calamity Catastrophe Cataclysm",
+  "mr_downloads": 28418,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "terraqueous",
+  "name": "Terraqueous",
+  "mr_downloads": 28413,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "fnafs-universe-fanverse",
+  "name": "FNaF's Universe & Fanverse",
+  "mr_downloads": 28008,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "anthropophagy",
+  "name": "Anthropophagy",
+  "mr_downloads": 27997,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "stone-lucky-block",
+  "name": "Stone Lucky Block",
+  "mr_downloads": 27927,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "tooltips-txf",
+  "name": "Tooltips TXF",
+  "mr_downloads": 27867,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "gep",
+  "name": "General Essentials Pack",
+  "mr_downloads": 27702,
+  "mr_license": "LicenseRef-Fexcraft-Common-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "craft-enchanted-golden-apples",
+  "name": "Craftable Enchanted Golden Apple",
+  "mr_downloads": 27662,
+  "mr_license": "LicenseRef-Craemon-Datapack-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "pumped-desert-2",
+  "name": "Pumped Desert 2",
+  "mr_downloads": 27446,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "expression",
+  "name": "Expression: Core",
+  "mr_downloads": 27246,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "reimagining-potatoes",
+  "name": "Poisonous Potato Update",
+  "mr_downloads": 27162,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "mo-creatures-nostalgia-edition",
+  "name": "Mo’ Creatures: Nostalgia Edition",
+  "mr_downloads": 27152,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "digimobs",
+  "name": "Digimobs",
+  "mr_downloads": 26704,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "medieval-embroidery",
+  "name": "Medieval Embroidery",
+  "mr_downloads": 26360,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "volcanic-dragon-origin",
+  "name": "Overgrown's Origins: Volcanic Dragon",
+  "mr_downloads": 26081,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "healing-soup",
+  "name": "Healing Soup",
+  "mr_downloads": 25899,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "wild-lands",
+  "name": "Wild Lands",
+  "mr_downloads": 25807,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "pangteens-plants-vs-zombies",
+  "name": "PangTeen's Plants vs Zombies",
+  "mr_downloads": 25807,
+  "mr_license": "LGPL-2.1-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "food-benefits",
+  "name": "Food Benefits",
+  "mr_downloads": 25798,
+  "mr_license": "GPL-2.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "zombie-plague-2-hardcore-zombie-apocalypse",
+  "name": "Zombie Plague 2 - Hardcore Zombie Apocalypse",
+  "mr_downloads": 25730,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "immersive-cooking",
+  "name": "Immersive Cooking",
+  "mr_downloads": 25690,
+  "mr_license": "LGPL-2.1-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "coconite-no-lunge-hunger",
+  "name": "No Lunge Hunger",
+  "mr_downloads": 25608,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "binnies-mods",
+  "name": "Binnie's Mods",
+  "mr_downloads": 25461,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "hearty-meals",
+  "name": "Hearty Meals",
+  "mr_downloads": 25399,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "meultis-backrooms",
+  "name": "Meulti's Backrooms",
+  "mr_downloads": 25392,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "aures-sea-dwellers",
+  "name": "Aures - Sea Dwellers",
+  "mr_downloads": 25382,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-ratatouille-fried-delights",
+  "name": "Create: Ratatouille Fried Delights",
+  "mr_downloads": 25319,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "melancholic_hunger",
+  "name": "Melancholic Hunger & HUD",
+  "mr_downloads": 25314,
+  "mr_license": "LGPL-3.0-only",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "potted-delight",
+  "name": "Potted Delight",
+  "mr_downloads": 25224,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "tasty-vanilla",
+  "name": "Tasty Vanilla | Food Mod",
+  "mr_downloads": 25058,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "wood-enjoyer",
+  "name": "Wood Enjoyer",
+  "mr_downloads": 25001,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-vinery",
+  "name": "Create Vinery",
+  "mr_downloads": 24698,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "rainbow-christmas",
+  "name": "Rainbow Christmas",
+  "mr_downloads": 24533,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "hunger-tweaks",
+  "name": "Hunger Tweaks (RPG Tweaks)",
+  "mr_downloads": 24440,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "infused-foods",
+  "name": "Infused Foods",
+  "mr_downloads": 24361,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "asian-food-cart",
+  "name": "Asian food cart",
+  "mr_downloads": 24047,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "goat-expansion",
+  "name": "Goat Expansion",
+  "mr_downloads": 23969,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-wrapped",
+  "name": "Create: Wrapped",
+  "mr_downloads": 23428,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "skilltreemkp",
+  "name": "Passive Skill Tree Mob Kill Points",
+  "mr_downloads": 23378,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "alexs-exotic-food",
+  "name": "Alex's Exotic Food",
+  "mr_downloads": 23349,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "agritech-automated-crops",
+  "name": "AgriTech: Crops (Legacy)",
+  "mr_downloads": 23291,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "sn0wfrogscapybaras",
+  "name": "Sn0wfrog's Capybaras",
+  "mr_downloads": 23191,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "thirsty-bottles",
+  "name": "Thirsty Bottles",
+  "mr_downloads": 23047,
+  "mr_license": "LGPL-2.1-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "clumpy-bros-burger-mod",
+  "name": "Clumpy Bros: Burgers R Cool",
+  "mr_downloads": 22871,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "actual-fishing",
+  "name": "Actual Fishing",
+  "mr_downloads": 22657,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "autoeat",
+  "name": "Auto Eat",
+  "mr_downloads": 22604,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "spice-of-overhaul",
+  "name": "Spice of Overhaul",
+  "mr_downloads": 22416,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "simple-hydration",
+  "name": "Simple Hydration",
+  "mr_downloads": 22388,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "scp-objects",
+  "name": "Scp Objects",
+  "mr_downloads": 22331,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "stardew-valley-food",
+  "name": "Stardew Valley Food",
+  "mr_downloads": 22301,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "cookable-rotten-flesh",
+  "name": "Cookable Rotten Flesh",
+  "mr_downloads": 22236,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "syals-delight",
+  "name": "Syal's delight",
+  "mr_downloads": 22208,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "wild-and-wild-medicine",
+  "name": "Tonic and Wild Medicine",
+  "mr_downloads": 21658,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-cola-factory",
+  "name": "Create: Cola Factory | Updated",
+  "mr_downloads": 21588,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "new-years-delight-(a-farmers-delight-add-on)",
+  "name": "New Year's Delight (A Farmer's Delight Add-on)",
+  "mr_downloads": 21520,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "white-pumpkins",
+  "name": "White Pumpkins",
+  "mr_downloads": 21263,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "jellyfishing",
+  "name": "Jellyfishing",
+  "mr_downloads": 20861,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "edible-broken-bad-stuff",
+  "name": "edible broken bad stuff",
+  "mr_downloads": 20842,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "srdimension",
+  "name": "Scape and Run: Dimension",
+  "mr_downloads": 20663,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "auto-planter",
+  "name": "Auto Planter",
+  "mr_downloads": 20338,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "no-seeds-spam",
+  "name": "No Seeds Spam",
+  "mr_downloads": 20256,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "shakshuka-delight",
+  "name": "Shakshuka Delight",
+  "mr_downloads": 20070,
+  "mr_license": "LicenseRef-CC-Attribution-1.0-Generic",
+  "parents": []
+ },
+ {
+  "mr_slug": "rezero-experience",
+  "name": "Re:Zero Experience",
+  "mr_downloads": 20012,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "slavic-delight",
+  "name": "Slavic Delight",
+  "mr_downloads": 19925,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "prehistoric-nature-jurassic-dimension",
+  "name": "Prehistoric Nature Jurassic Dimension",
+  "mr_downloads": 19582,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "travel-bites",
+  "name": "Travel Bites",
+  "mr_downloads": 19578,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "contentcontent",
+  "name": "ContentContent",
+  "mr_downloads": 19574,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "tofu-create",
+  "name": "Tofu Create",
+  "mr_downloads": 19520,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "cafes-birding",
+  "name": "Café's Birding",
+  "mr_downloads": 18948,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "spice-of-life-valheim-reforged",
+  "name": "Spice of Life: Valheim Reforged",
+  "mr_downloads": 18787,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "realistic-farmland",
+  "name": "Realistic Farmland",
+  "mr_downloads": 18696,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "infectious-zombie-apocalypse",
+  "name": "Infectious - Zombie Apocalypse",
+  "mr_downloads": 18478,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "halo-mde",
+  "name": "Halo & MDE",
+  "mr_downloads": 18472,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "hungrier",
+  "name": "Hungrier",
+  "mr_downloads": 18301,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "subtly-dungeons",
+  "name": "Subtly Dungeons",
+  "mr_downloads": 18285,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "ecotones",
+  "name": "Ecotones",
+  "mr_downloads": 18190,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "simple-mango",
+  "name": "Simple Mango",
+  "mr_downloads": 18180,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "furry_bohe",
+  "name": "furry_bohe",
+  "mr_downloads": 18129,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "wizardry-delight",
+  "name": "Wizardry delight",
+  "mr_downloads": 18008,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "windswept-delights",
+  "name": "Windswept Delights",
+  "mr_downloads": 17937,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "arcadian-dream",
+  "name": "Arcadian Dream",
+  "mr_downloads": 17851,
+  "mr_license": "EUPL-1.2",
+  "parents": []
+ },
+ {
+  "mr_slug": "vss",
+  "name": "Visible Suspicious Stew",
+  "mr_downloads": 17783,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "progression-reborn-knives",
+  "name": "[ARCHIVED] Progression Reborn Knives",
+  "mr_downloads": 17752,
+  "mr_license": "LicenseRef-Legacy-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "chococraft-plus",
+  "name": "ChocoCraft Plus",
+  "mr_downloads": 17673,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "the-cursed-smile-horror",
+  "name": "The Cursed Smile [horror]",
+  "mr_downloads": 17574,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "recipe-integration",
+  "name": "Recipe Integration",
+  "mr_downloads": 17480,
+  "mr_license": "LicenseRef-Custom-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "vegan-delight-fabric",
+  "name": "[OLD] Vegan Delight - Fabric/Neoforge",
+  "mr_downloads": 17436,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "decent-biomes",
+  "name": "Decent Biomes (Alpha)",
+  "mr_downloads": 17375,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "ambulance",
+  "name": "Ambulance",
+  "mr_downloads": 17364,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "no-more-naturalist-cooked-egg-(farmers-delight-compat)",
+  "name": "No More Naturalist Cooked Egg (Farmers Delight Compat)",
+  "mr_downloads": 17199,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "stewdrinksound",
+  "name": "StewDrinkSound",
+  "mr_downloads": 17148,
+  "mr_license": "LicenseRef-Fy17-Project-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "lots-more-food",
+  "name": "Lot's More Food",
+  "mr_downloads": 17033,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "changshengjue",
+  "name": "ChangShengJue",
+  "mr_downloads": 16951,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "onebar",
+  "name": "OneBar",
+  "mr_downloads": 16896,
+  "mr_license": "MPL-2.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "minecraft-new-vegas",
+  "name": "Minecraft: New Vegas",
+  "mr_downloads": 16892,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "a-balanced-diet",
+  "name": "A Balanced Diet",
+  "mr_downloads": 16891,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "kubejs-mystical-agriculture",
+  "name": "KubeJS Mystical Agriculture",
+  "mr_downloads": 16462,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "bloom",
+  "name": "Bloom",
+  "mr_downloads": 16424,
+  "mr_license": "LicenseRef-Legacy-License",
+  "parents": []
+ },
+ {
+  "mr_slug": "prehistoric-nature-triassic-dimension",
+  "name": "Prehistoric Nature Triassic Dimension",
+  "mr_downloads": 16367,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "farmers-respite-unofficial-port",
+  "name": "Farmer's Respite Unofficial Port",
+  "mr_downloads": 16277,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "effishiency",
+  "name": "Effishiency",
+  "mr_downloads": 16109,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "deep-waters",
+  "name": "Deep Waters",
+  "mr_downloads": 16064,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "teleportcakes",
+  "name": "Teleport Cakes",
+  "mr_downloads": 16005,
+  "mr_license": "LicenseRef-GPL-3.0-or-later-CC-BY-NC-SA-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "the-beer-craft",
+  "name": "The Beer Craft",
+  "mr_downloads": 16005,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "prehistoric-nature-devonian-dimension",
+  "name": "Prehistoric Nature Devonian Dimension",
+  "mr_downloads": 15975,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "prehistoric-nature-precambrian-dimension",
+  "name": "Prehistoric Nature Precambrian Dimension",
+  "mr_downloads": 15970,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "youkaishomecoming-unofficial-port",
+  "name": "Youkai's Homecoming-unofficial-port",
+  "mr_downloads": 15865,
+  "mr_license": "LGPL-2.1-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "black-market-goods",
+  "name": "Black Market Goods",
+  "mr_downloads": 15757,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "prehistoric-nature-cambrian-dimension",
+  "name": "Prehistoric Nature Cambrian Dimension",
+  "mr_downloads": 15733,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "prehistoric-nature-ordovician-dimension",
+  "name": "Prehistoric Nature Ordovician Dimension",
+  "mr_downloads": 15555,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "prehistoric-nature-silurian-dimension",
+  "name": "Prehistoric Nature Silurian Dimension",
+  "mr_downloads": 15546,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "ecliptic-seasons-fabricated",
+  "name": "Ecliptic Seasons: Fabricated",
+  "mr_downloads": 15470,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "plants-vs-zombies-reimagined",
+  "name": "Plants vs Zombies: Reimagined",
+  "mr_downloads": 15440,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "prehistoric-nature-carboniferous-dimension",
+  "name": "Prehistoric Nature Carboniferous Dimension",
+  "mr_downloads": 15426,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "prehistoric-nature-permian-dimension",
+  "name": "Prehistoric Nature Permian Dimension",
+  "mr_downloads": 15369,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "rexrayandsupertools",
+  "name": "Re:XrayAndSuperTools(X光与超级工具：重生)",
+  "mr_downloads": 15325,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "born-in-chaos-fc",
+  "name": "Born in Chaos: Forgotten Content",
+  "mr_downloads": 15315,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "craziness-awakened-(orespawn-remake)",
+  "name": "Craziness Awakened (Orespawn Remake)",
+  "mr_downloads": 15112,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "creatures_squared",
+  "name": "Creatures²",
+  "mr_downloads": 15042,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "evil-seagull",
+  "name": "Evil Seagull",
+  "mr_downloads": 15030,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "endgame-reborn-knives",
+  "name": "[ARCHIVED] Endgame Reborn Knives",
+  "mr_downloads": 14928,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "clumpy-bros-clumpy-fart",
+  "name": "Clumpy Bros: Clumpy Fart",
+  "mr_downloads": 14918,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "dragns-livestock-overhaul-permafrost",
+  "name": "DragN's Livestock Overhaul: Permafrost",
+  "mr_downloads": 14876,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "beginners-delight",
+  "name": "Beginner's Delight",
+  "mr_downloads": 14876,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "valheim-delight",
+  "name": "Valheim Delight",
+  "mr_downloads": 13927,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "no-hunger",
+  "name": "No Hunger",
+  "mr_downloads": 13359,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "eat-with-ease",
+  "name": "Eat With Ease",
+  "mr_downloads": 13334,
+  "mr_license": "AGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "soldiers-delight",
+  "name": "Soldier's Delight (A Farmer's Delight Add-on)",
+  "mr_downloads": 13315,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "auto-eat",
+  "name": "Auto Eat",
+  "mr_downloads": 13003,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "roll-delight",
+  "name": "Roll Delight",
+  "mr_downloads": 12977,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "dahmersdelight",
+  "name": "Dahmer's Delight",
+  "mr_downloads": 12705,
+  "mr_license": "GPL-3.0-only",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "miners-delight!",
+  "name": "Miner's Delight!",
+  "mr_downloads": 12585,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "pokefood",
+  "name": "PokeFood",
+  "mr_downloads": 12294,
+  "mr_license": "MPL-2.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "dungeons-delight-gourmet-battles",
+  "name": "Dungeon's Delight: Gourmet Battles",
+  "mr_downloads": 12141,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "viking-ages-craft",
+  "name": "Viking Ages Craft",
+  "mr_downloads": 12139,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "farmers-delight-x-create-unbrekable-netherite-knife",
+  "name": "Farmer's Delight x Create: Unbrekable Netherite Knife",
+  "mr_downloads": 12050,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "brainrotdelight",
+  "name": "Brainrot Delight",
+  "mr_downloads": 11833,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "oaks-delight",
+  "name": "Oaks Delight",
+  "mr_downloads": 11764,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "pureberries",
+  "name": "Pure Berries",
+  "mr_downloads": 11273,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "extravagant-delight",
+  "name": "Extravagant Delight",
+  "mr_downloads": 11027,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "tfc_gourmet",
+  "name": "TFC Gourmet",
+  "mr_downloads": 10995,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "canned-goods",
+  "name": "Canned Goods :|",
+  "mr_downloads": 10988,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "sniffers_delight",
+  "name": "Sniffers Delight",
+  "mr_downloads": 10590,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "tdfp",
+  "name": "Twilight Delight:Frozen Pride",
+  "mr_downloads": 10046,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "fortuitous-feasts",
+  "name": "Fortuitous Feasts",
+  "mr_downloads": 9466,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "vsails-rope-compat",
+  "name": "Valkyrien Sails Rope Compat",
+  "mr_downloads": 9423,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "valleycraft",
+  "name": "ValleyCraft",
+  "mr_downloads": 9308,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "all-hud-bars",
+  "name": "All HUD Bars",
+  "mr_downloads": 9087,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "create-cobblemon-factories",
+  "name": "Create: Cobblemon Factories",
+  "mr_downloads": 8880,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "vanillarice",
+  "name": "Vanilla Rice",
+  "mr_downloads": 8758,
+  "mr_license": "CC-BY-SA-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "mcdonalds",
+  "name": "McDonalds - Structure ✅",
+  "mr_downloads": 8659,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "sweets",
+  "name": "Sweets [Farmer's Delight Add-on]",
+  "mr_downloads": 8522,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "off-client",
+  "name": "OFF Client",
+  "mr_downloads": 8404,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "steve`s-lava-chicken",
+  "name": "Steves Lava Chicken",
+  "mr_downloads": 8314,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "delight-o-flight",
+  "name": "Delight o' Flight",
+  "mr_downloads": 8240,
+  "mr_license": "LicenseRef-ATAS-License",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "thermals-delight",
+  "name": "Thermal's Delight",
+  "mr_downloads": 8084,
+  "mr_license": "MPL-2.0",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "balmy-food",
+  "name": "Balmy food",
+  "mr_downloads": 8051,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "delicious-kitchen-appliances",
+  "name": "Delicious Kitchen Appliances",
+  "mr_downloads": 7875,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "dragns-crop-overhaul!",
+  "name": "DragN's Crop Overhaul!",
+  "mr_downloads": 7874,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "farmerscreate",
+  "name": "FarmersCreate",
+  "mr_downloads": 7773,
+  "mr_license": "AGPL-3.0-or-later",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "ore-foods",
+  "name": "Ore Foods",
+  "mr_downloads": 7767,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "ve-food",
+  "name": "Vanilla Food Expanded",
+  "mr_downloads": 7756,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "kubas-tfc-additions",
+  "name": "kuba's tfc additions",
+  "mr_downloads": 7751,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "carnival-cuisine",
+  "name": "Carnival Cuisine",
+  "mr_downloads": 7741,
+  "mr_license": "LicenseRef-Custom",
+  "parents": []
+ },
+ {
+  "mr_slug": "you-are-my-poison",
+  "name": "You Are My Poison!",
+  "mr_downloads": 7657,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": []
+ },
+ {
+  "mr_slug": "embers-delight",
+  "name": "Embers' Delight",
+  "mr_downloads": 7584,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "ashens-better-ai",
+  "name": "Ashen's Better AI",
+  "mr_downloads": 7458,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "mo-foods",
+  "name": "Mo-Foods",
+  "mr_downloads": 7452,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "mbu-more-berry-uses!",
+  "name": "MBU: More Berry Uses! - Berry food expansion",
+  "mr_downloads": 7377,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "versecraft",
+  "name": "VerseCraft",
+  "mr_downloads": 7340,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "mr_chibismmo",
+  "name": "Mr_ChibisMMO",
+  "mr_downloads": 7004,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "the-common-sense",
+  "name": "Common Sense",
+  "mr_downloads": 6986,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "gadget",
+  "name": "gadget",
+  "mr_downloads": 6910,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "survivors-delight",
+  "name": "Survivor's Delight",
+  "mr_downloads": 6901,
+  "mr_license": "GPL-3.0-only",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "gan_delight",
+  "name": "[GD]Gan Delight Rebron",
+  "mr_downloads": 6843,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "pacicraft",
+  "name": "PaciCraft",
+  "mr_downloads": 6815,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "alexs-mobs-continued-delight",
+  "name": "Alex's Mobs Continued Delight",
+  "mr_downloads": 6757,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "cute-n-sweet!",
+  "name": "Cute n' Sweet!",
+  "mr_downloads": 6706,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "gregtech-food-option",
+  "name": "GregTech Food Option (GTFO)",
+  "mr_downloads": 6344,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "delightful-fares",
+  "name": "Delightful Fares",
+  "mr_downloads": 6313,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "ex-sartagine-requiem",
+  "name": "Ex Sartagine Requiem",
+  "mr_downloads": 6284,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "hungerless",
+  "name": "Wye's Hungerless",
+  "mr_downloads": 6262,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "kaleidoscope-cookery-satiated-shield-tuner",
+  "name": "Kaleidoscope Cookery: Satiated Shield Tuner",
+  "mr_downloads": 6163,
+  "mr_license": "LicenseRef-CC-BY-NC-SA-4.0",
+  "parents": [
+   "kaleidoscope-cookery"
+  ]
+ },
+ {
+  "mr_slug": "rotten-leather-+",
+  "name": "Rotten Leather +",
+  "mr_downloads": 6021,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "notjustsandwich",
+  "name": "Not Just Sandwich",
+  "mr_downloads": 6018,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "pantrywork",
+  "name": "Pantrywork",
+  "mr_downloads": 5957,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "psithurism",
+  "name": "Psithurism",
+  "mr_downloads": 5894,
+  "mr_license": "LicenseRef-Code-PolyForm-Shield-1.0.0-Assets-ARR",
+  "parents": []
+ },
+ {
+  "mr_slug": "more-sweet-treats",
+  "name": "More Sweet Treats! - Food Expansion",
+  "mr_downloads": 5808,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "eternalfood",
+  "name": "Eternal Food",
+  "mr_downloads": 5455,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "glowberry-delight",
+  "name": "Glowberry Delight",
+  "mr_downloads": 5438,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "create-food-filling",
+  "name": "Create: Food Filling",
+  "mr_downloads": 5398,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "pams-harvestcraft-2-nerf",
+  "name": "Pam's HarvestCraft 2 Nerf",
+  "mr_downloads": 5163,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "apples-plus",
+  "name": "L-man's Better Apples",
+  "mr_downloads": 5125,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "potluck",
+  "name": "Potluck",
+  "mr_downloads": 5040,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "mrbeast-dimension",
+  "name": "MrBeast Dimension",
+  "mr_downloads": 4987,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "obsidian-torture",
+  "name": "Obsidian Torture",
+  "mr_downloads": 4843,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "emi-farmers-delight-reforged",
+  "name": "EMI Farmer's Delight Reforged",
+  "mr_downloads": 4753,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "lokotesss-food",
+  "name": "Lokotess's Food",
+  "mr_downloads": 4744,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "random-super-mod",
+  "name": "Random Super Mod",
+  "mr_downloads": 4703,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "bens-christmas-mod",
+  "name": "Ben's Christmas Mod",
+  "mr_downloads": 4693,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "masks-n-glory",
+  "name": "Masks N Glory",
+  "mr_downloads": 4680,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "pantry-for-blockheads",
+  "name": "Pantry for Blockheads",
+  "mr_downloads": 4651,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "kubejs-kaleidoscope",
+  "name": "Kubejs Kaleidoscope",
+  "mr_downloads": 4649,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": [
+   "kaleidoscope-cookery"
+  ]
+ },
+ {
+  "mr_slug": "kamen-rider-gavv",
+  "name": "kamen rider gavv",
+  "mr_downloads": 4639,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "infinite-foods-revamped",
+  "name": "Infinite Foods Revamped",
+  "mr_downloads": 4591,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "nutritional-balance",
+  "name": "Nutritional Balance",
+  "mr_downloads": 4561,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "chefs-workbench",
+  "name": "Chef's Workbench",
+  "mr_downloads": 4396,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "yuns-cuisine",
+  "name": "Yuns Cuisine",
+  "mr_downloads": 4308,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "mrgoat2ks-yummy",
+  "name": "MrGoat2K's Yummy",
+  "mr_downloads": 4254,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "kaleidoscope-mod",
+  "name": "Kaleidoscope",
+  "mr_downloads": 4229,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "nearby-delight",
+  "name": "Nearby Delight",
+  "mr_downloads": 4221,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "bits-n-pieces",
+  "name": "Bits N Pieces",
+  "mr_downloads": 4171,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "netheragriculture",
+  "name": "Nether Agriculture",
+  "mr_downloads": 4099,
+  "mr_license": "LGPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "cutting-compat-pack-for-farmers-delight-and-regions-unexplored",
+  "name": "Cutting compat pack for Farmer's Delight and Regions Unexplored",
+  "mr_downloads": 4004,
+  "mr_license": "CC-BY-SA-4.0",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "better-farming-with-hoes-farmers-delight-compatibility",
+  "name": "Farm Better with Hoes - Farmers Delight Compatibility",
+  "mr_downloads": 3890,
+  "mr_license": "GPL-3.0-only",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "martinis-cooking-and-smelting",
+  "name": "Martini´s Cooking and Smelting",
+  "mr_downloads": 3811,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "alexs-caves-continued-delight",
+  "name": "Alex's Caves Continued Delight",
+  "mr_downloads": 3778,
+  "mr_license": "CC-BY-NC-ND-4.0",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "apex-waters",
+  "name": "Apex Waters",
+  "mr_downloads": 3761,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "eat-yourself",
+  "name": "Eat Yourself!",
+  "mr_downloads": 3740,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "progeny-mod",
+  "name": "Progeny Mod",
+  "mr_downloads": 3712,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "food-balance",
+  "name": "Food Balance",
+  "mr_downloads": 3687,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "mido-shonuns-tokyo-ghoul-revived",
+  "name": "Mido-shonun's Tokyo Ghoul Revived",
+  "mr_downloads": 3674,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "ribbe_delight",
+  "name": "Ribbe Delight",
+  "mr_downloads": 3656,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "fossils-delight",
+  "name": "Fossils Delight",
+  "mr_downloads": 3633,
+  "mr_license": "GPL-3.0-only",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "bundled-delight",
+  "name": "Bundled Delight",
+  "mr_downloads": 3622,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": [
+   "farmers-delight"
+  ]
+ },
+ {
+  "mr_slug": "cuisinecraft-zappyq",
+  "name": "CuisineCraft",
+  "mr_downloads": 3512,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "instantly-interact-internally",
+  "name": "Instantly Interact Internally",
+  "mr_downloads": 3466,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "editableedibles",
+  "name": "EditableEdibles",
+  "mr_downloads": 3464,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "concoction!",
+  "name": "Concoction!",
+  "mr_downloads": 3455,
+  "mr_license": "GPL-3.0-only",
+  "parents": []
+ },
+ {
+  "mr_slug": "anvilcraft-kaleidoscope",
+  "name": "AnvilCraft: Kaleidoscope",
+  "mr_downloads": 3410,
+  "mr_license": "LGPL-3.0-only",
+  "parents": [
+   "kaleidoscope-cookery"
+  ]
+ },
+ {
+  "mr_slug": "jgfe",
+  "name": "JGFE",
+  "mr_downloads": 3362,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "everrose",
+  "name": "Everrose",
+  "mr_downloads": 3345,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "saturative-overhaul",
+  "name": "Saturative Overhaul",
+  "mr_downloads": 3340,
+  "mr_license": "MPL-2.0",
+  "parents": [
+   "farmers-delight-refabricated"
+  ]
+ },
+ {
+  "mr_slug": "the-advanced-food",
+  "name": "The Advanced Food",
+  "mr_downloads": 3240,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "cheesy",
+  "name": "cheesy",
+  "mr_downloads": 3197,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "easy-diet",
+  "name": "Easy Diet",
+  "mr_downloads": 3177,
+  "mr_license": "LGPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "platanitos",
+  "name": "Platanitos - Food & Adventure",
+  "mr_downloads": 3161,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "campfire-creations",
+  "name": "Campfire Creations - Cooking and Food Expansion",
+  "mr_downloads": 3140,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ },
+ {
+  "mr_slug": "anvilcraft-alloyextension",
+  "name": "Anvilcraft:Alloy Extension",
+  "mr_downloads": 3134,
+  "mr_license": "GPL-3.0-or-later",
+  "parents": []
+ },
+ {
+  "mr_slug": "disc-delight",
+  "name": "Disc Delight",
+  "mr_downloads": 3029,
+  "mr_license": "LicenseRef-All-Rights-Reserved",
+  "parents": []
+ }
+]

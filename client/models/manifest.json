@@ -1,0 +1,64 @@
+{
+ "format": 1,
+ "model_version": "SIC-1.2",
+ "source": "sic16/ema_150000.pt + sic17/ema_150000.pt",
+ "files": {
+  "unet": {
+   "name": "unet.onnx",
+   "size": 243021748,
+   "sha256": "addbb7a4f2fb0f3c5a09524d736be5eb9fc6eb47719dd330478fb63b69b43e06"
+  },
+  "text_encoder": {
+   "name": "text_encoder.onnx",
+   "size": 76114147,
+   "sha256": "ecfb0aba159c04b92225bfb606b4baf2e499ff14917c8b5a2e08cc7507f2ed74"
+  },
+  "tokenizer": {
+   "name": "tokenizer.json",
+   "size": 6766333,
+   "sha256": "89a865f026735dfeb9060d79fa7703f4096fef7c244fe9b587a2dbbcfcbbb608"
+  },
+  "aliases": {
+   "name": "aliases.json",
+   "size": 601372,
+   "sha256": "3bb8556acde499335fa46a9caff2802cd9a34c207451679333489eed7c38590a"
+  },
+  "unet_names": {
+   "name": "unet_names.onnx",
+   "size": 243021748,
+   "sha256": "50678793a9483465d68c5b575fd29d7fa65c1b3592aa44a4ea972a987c09ff2a"
+  },
+  "known_names": {
+   "name": "known_names.json",
+   "size": 583450,
+   "sha256": "0fd4ea5863e0847cd58c4bf821aa4ceb69d8a59a4b2ba8cbaccf030218c0dea9"
+  }
+ },
+ "text": {
+  "encoder": "intfloat/multilingual-e5-small",
+  "max_len": 32,
+  "dim": 384,
+  "lowercase": true,
+  "names_output": "names_hidden_state"
+ },
+ "diffusion": {
+  "timesteps": 1000,
+  "schedule": "cosine",
+  "prediction": "v"
+ },
+ "sizes": {
+  "16": 0,
+  "32": 1
+ },
+ "trained_sizes": [
+  16
+ ],
+ "has_source": true,
+ "defaults": {
+  "steps": 30,
+  "guidance": 5.5,
+  "size": 16,
+  "count": 3,
+  "source": 0.0
+ }
+}

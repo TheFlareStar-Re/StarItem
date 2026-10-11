@@ -1,0 +1,205 @@
+﻿project_id,slug,name,author,downloads,cf_license,repo,verdict,item_textures_in_repo,note,batch
+223852,storage-drawers,Storage Drawers,Texelsaur,240400000,MIT License,https://github.com/jaquadro/StorageDrawers,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+398521,farmers-delight,Farmer's Delight,vectorwing,236800000,MIT License,https://github.com/vectorwing/FarmersDelight,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+74072,tinkers-construct,Tinkers Construct,mDiyo,194700000,MIT License,https://github.com/SlimeKnights/TinkersConstruct,ok_explicit,,README：代码、贴图、二进制均为 MIT,original
+268560,mekanism,Mekanism,bradyaidanc,176600000,MIT License,https://github.com/mekanism/Mekanism,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+243076,refined-storage,Refined Storage,raoulvdberge,156500000,MIT License,https://github.com/refinedmods/refinedstorage2,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+268566,mekanism-generators,Mekanism Generators,bradyaidanc,156500000,MIT License,https://github.com/mekanism/Mekanism,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+298187,building-gadgets,Building Gadgets,Direwolf20,155800000,MIT License,https://github.com/Direwolf20-MC/BuildingGadgets,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+266515,industrial-foregoing,Industrial Foregoing,Buuz135,151000000,MIT License,https://github.com/InnovativeOnlineIndustries/Industrial-Foregoing,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+246640,mystical-agriculture,Mystical Agriculture,BlakeBr0,146800000,MIT License,https://github.com/BlakeBr0/MysticalAgriculture,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+312353,artifacts,Artifacts,ochotonida,146300000,MIT License,https://github.com/ochotonida/artifacts,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+245174,ender-storage-1-8,Ender Storage 1.8.+,covers1624,145700000,MIT,https://github.com/TheCBProject/EnderStorage,ok_default,52,仓库许可文件：MIT，未见素材单独条款,fill
+64578,ender-io,Ender IO,crazypants_mc_the_second,128000000,Public Domain,https://github.com/Team-EnderIO/EnderIO,ok_default,,仓库许可文件：Unlicense，未见素材单独条款,original
+268567,mekanism-tools,Mekanism Tools,bradyaidanc,120500000,MIT License,https://github.com/mekanism/Mekanism,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+256247,mystical-agradditions,Mystical Agradditions,BlakeBr0,116400000,MIT License,https://github.com/BlakeBr0/MysticalAgradditions,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+236307,integrated-dynamics,Integrated Dynamics,kroeser,115700000,MIT License,https://github.com/CyclopsMC/IntegratedDynamics,ok_explicit,,README：代码和图片均为 MIT,original
+64760,security-craft,Security Craft,Geforce132,106300000,MIT License,https://github.com/Geforce132/SecurityCraft,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+250277,extreme-reactors,Extreme Reactors,ZeroNoRyouki,99100000,MIT License,https://github.com/ZeroNoRyouki/ExtremeReactors2,ok_weak,,仓库无许可文件；mods.toml 声明 MIT,original
+224218,compact-machines,Compact Machines,davenonymous,98900000,MIT,https://github.com/CompactMods/CompactMachines,ok_default,10,仓库许可文件：MIT，未见素材单独条款,fill
+237664,iron-furnaces,Iron Furnaces,XenoMustache,96800000,Apache License version 2.0,https://github.com/Qelifern/IronFurnacesNeoForge,ok_default,,NeoForge 仓库为 Apache 2.0；旧仓库 Qelifern/IronFurnaces 是 GPL-3.0，只能用新版,original
+399558,construction-wand,Construction Wand,ThetaDev,89800000,MIT License,https://github.com/Theta-Dev/ConstructionWand,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+290209,rftools-power,RFTools Power,McJty,87600000,MIT,https://github.com/McJtyMods/RFToolsPower,ok_default,6,仓库许可文件：MIT，未见素材单独条款,fill
+224641,rftools,RFTools,McJty,81000000,MIT License,https://github.com/McJtyMods/RFTools,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+226410,projecte,ProjectE,SinKillerJ,79600000,MIT License,https://github.com/sinkillerj/ProjectE,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+496394,nethers-delight,Nether's Delight,lumpazl,77200000,MIT License,https://github.com/Chefs-Delight/NethersDelight_Forge,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+284497,iron-jetpacks,Iron Jetpacks,BlakeBr0,76600000,MIT License,https://github.com/BlakeBr0/IronJetpacks,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+250763,rftools-control,RFTools Control,McJty,76100000,MIT License,https://github.com/McJtyMods/RFToolsControl,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+252239,spartan-shields,Spartan Shields,ObliviousSpartan,72000000,Apache License version 2.0,https://github.com/ObliviousSpartan/SpartanShields,ok_default,,仓库许可文件：Apache-2.0，未见素材单独条款,original
+347706,rftools-builder,RFTools Builder,McJty,69700000,MIT License,https://github.com/McJtyMods/RFToolsBuilder,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+342466,rftools-utility,RFTools Utility,McJty,68200000,MIT License,https://github.com/McJtyMods/RFToolsUtility,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+361026,occultism,Occultism,kli_kli,67300000,MIT License,https://github.com/klikli-dev/occultism,ok_explicit,,THIRD_PARTY_NOTICES：未列出的素材随项目 MIT；列出的第三方图标为 CC BY 3.0，需署名,original
+278141,spartan-weaponry,Spartan Weaponry,ObliviousSpartan,63400000,Apache License version 2.0,https://github.com/ObliviousSpartan/SpartanWeaponry,ok_default,,仓库许可文件：Apache-2.0，未见素材单独条款,original
+74120,natura,Natura,mDiyo,63300000,Creative Commons Attribution 3.0 Unported,https://github.com/progwml6/Natura,ok_explicit,,LICENSE.md：贴图 CC BY 3.0，需署名,original
+841262,oceans-delight,Ocean's Delight,scouter567,61300000,MIT License,https://github.com/Scouter456/Oceans_Delight,ok_weak,,仓库里的 LICENSE.txt 是 Forge 模板自带的；mods.toml 声明 MIT,original
+351748,mining-gadgets,Mining Gadgets,Direwolf20,61200000,MIT,https://github.com/Direwolf20-MC/MiningGadgets,ok_default,62,仓库许可文件：MIT，未见素材单独条款,fill
+556861,functional-storage,Functional Storage,Buuz135,59500000,MIT License,https://github.com/Buuz135/FunctionalStorage,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+311377,betternether,BetterNether,Quiqueck,58900000,MIT License,https://github.com/quiqueck/BetterNether,partial,,LICENSE.ASSETS：item/*_boat.png、*_chest_boat.png 等为 CC BY-NC-SA 4.0（不商用，保留）；其余 MIT,original
+251792,simply-jetpacks-2,Simply Jetpacks 2,Tomson124,55100000,MIT License,https://github.com/Tomson124/SimplyJetpacks2,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+297039,silent-gear,Silent Gear,SilentChaos512,55000000,MIT License,https://github.com/SilentChaos512/Silent-Gear,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+378609,toms-storage,Tom's Simple Storage Mod,tom54541,54600000,MIT,https://github.com/tom5454/Toms-Storage,ok_default,8,仓库许可文件：MIT，未见素材单独条款,fill
+223008,opencomputers,OpenComputers,Sangar,52900000,MIT License,https://github.com/MightyPirates/OpenComputers,ok_explicit,,LICENSE：贴图为 CC0，除非另有标注,original
+413596,betterend,BetterEnd,Quiqueck,51200000,MIT License,https://github.com/quiqueck/BetterEnd,partial,,LICENSE.ASSETS：gui/infusion.png 等 3 个文件为 CC BY-NC-SA 4.0，不涉及物品贴图；其余 MIT,original
+250617,ceramics,Ceramics,KnightMiner,50900000,MIT License,https://github.com/KnightMiner/Ceramics,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+350006,rftools-storage,RFTools Storage,McJty,50800000,MIT License,https://github.com/McJtyMods/RFToolsStorage,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+626839,laserio,LaserIO,Direwolf20,49000000,MIT,https://github.com/Direwolf20-MC/LaserIO,ok_default,23,仓库许可文件：MIT，未见素材单独条款,fill
+431725,advanced-peripherals,Advanced Peripherals,srrendi,48900000,Apache License version 2.0,https://github.com/IntelligenceModding/AdvancedPeripherals,ok_default,,仓库许可文件：Apache-2.0，未见素材单独条款,original
+240950,rftools-dimensions,RFTools Dimensions,McJty,48800000,MIT License,https://github.com/McJtyMods/RFToolsDimensions,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+306626,natures-aura,Nature's Aura,Ellpeck,48700000,MIT License,https://github.com/Ellpeck/NaturesAura,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+252818,dynamictrees,Dynamic Trees,MaxHyper,48600000,MIT,https://github.com/DynamicTreesTeam/DynamicTrees,ok_default,25,仓库许可文件：MIT，未见素材单独条款,fill
+552574,hostile-neural-networks,Hostile Neural Networks,Shadows_of_Fire,48100000,MIT License,https://github.com/Shadows-of-Fire/Hostile-Neural-Networks,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+228702,project-red-core,Project Red - Core,MrTJP,47800000,MIT License,https://github.com/MrTJP/ProjectRed,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+637529,delightful,Delightful,brnbrd,47600000,MIT License,https://github.com/brnbrd/Delightful,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+659110,regions-unexplored,Regions Unexplored,Apollo,47300000,MIT,https://github.com/Apollounknowndev/RegionsUnexplored,ok_default,159,仓库许可文件：MIT，未见素材单独条款,fill
+223622,advanced-generators,Advanced Generators,bdew,46300000,MIT,https://github.com/bdew-minecraft/generators,ok_default,24,仓库许可文件：MIT，未见素材单独条款,fill
+576124,bygone-nether,Bygone Nether,izofar,46200000,MIT License,https://github.com/izofar/bygone-nether,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+268387,extended-crafting,Extended Crafting,BlakeBr0,46000000,MIT License,https://github.com/BlakeBr0/ExtendedCrafting,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+233342,fairy-lights,Fairy Lights,pau101,44000000,MIT,https://github.com/pau101/Fairy-Lights,ok_default,62,仓库许可文件：MIT，未见素材单独条款,fill
+74610,evilcraft,EvilCraft,kroeser,43900000,Public Domain,https://github.com/CyclopsMC/EvilCraft,ok_explicit,,README：代码和图片 CC BY 4.0，需署名（CurseForge 写的是 Public Domain）,original
+238761,pickle-tweaks,Pickle Tweaks,BlakeBr0,41700000,MIT License,https://github.com/BlakeBr0/PickleTweaks,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+233564,techreborn,Tech Reborn,modmuss50,39000000,MIT License,https://github.com/TechReborn/TechReborn,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+226254,nuclearcraft-mod,NuclearCraft,tomdodd4598,38100000,MIT License,https://github.com/tomdodd4598/NuclearCraft,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+253462,steves-carts-reborn,Steve's Carts Reborn,modmuss50,37300000,MIT License,https://github.com/TechReborn/StevesCarts,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+248027,scaling-health,Scaling Health,SilentChaos512,37100000,MIT,https://github.com/SilentChaos512/ScalingHealth,ok_default,20,仓库许可文件：MIT，未见素材单独条款,fill
+387638,more-red,More Red,Commoble,36900000,MIT,https://github.com/Commoble/morered,ok_default,5,仓库许可文件：MIT，未见素材单独条款,fill
+235595,not-enough-wands,Not Enough Wands,romelo333,35400000,MIT License,https://github.com/romelo333/notenoughwands1.8.8,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+835687,better-archeology,Better Archeology,ruven,35100000,MIT License,https://github.com/Pandarix/BetterArcheology-MultiLoaded,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+225635,agricraft,AgriCraft,InfinityRaider,34600000,MIT License,https://github.com/AgriCraft/AgriCraft,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+662675,ends-delight,End's Delight,foggyhillside,32300000,MIT License,https://github.com/FoggyHillside/End-s-Delight,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+65764,magic-bees,Magic Bees,MysteriousAges,32100000,WTFPL,https://github.com/ForestryMC/MagicBees,ok_default,,LICENSE 为 WTFPL，未见素材单独条款,original
+410902,fabric-waystones,Wraith Waystones,LordDeatHunter,31800000,MIT,https://github.com/LordDeatHunter/FabricWaystones,ok_default,19,仓库许可文件：MIT，未见素材单独条款,fill
+266936,jaopca,JAOPCA,TheLMiffy1111,31400000,MIT,https://github.com/TheLMiffy1111/JAOPCA,ok_default,48,仓库许可文件：MIT，未见素材单独条款,fill
+284007,inspirations,Inspirations,KnightMiner,31300000,MIT License,https://github.com/KnightMiner/Inspirations,partial,,TEXTURE_LICENSE：两张书架方块贴图为 CC BY-NC-SA 4.0，不涉及物品贴图；其余 MIT,original
+229049,project-red-exploration,Project Red - Exploration,MrTJP,31200000,MIT License,https://github.com/MrTJP/ProjectRed,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+405388,modern-industrialization,Modern Industrialization,thetechnici4n,29100000,MIT License,https://github.com/AztechMC/Modern-Industrialization,ok_explicit,,README：素材全部 CC0；部分贴图改自 GregTech 等他人作品,original
+670011,nether-depths-upgrade,Nether Depths Upgrade,scouter567,27200000,MIT License,https://github.com/Scouter456/Nether_Depths_Upgrade,ok_weak,,仓库无许可文件；mods.toml 声明 MIT,original
+583318,shield-expansion,Shield Expansion,Nekomaster1000,27000000,Apache License version 2.0,https://github.com/infernalstudios/Shield-Expansion,ok_default,,仓库许可文件：Apache-2.0，未见素材单独条款,original
+871755,exposure,Exposure,mortuusars,26500000,MIT License,https://github.com/mortuusars/Exposure,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+253689,wolf-armor-and-storage,Wolf Armor and Storage Legacy,saturniidae,25700000,MIT License,https://github.com/Smallinger/wolf-armor-and-storage-legacy,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+274338,useful-backpacks,Useful Backpacks,HyCraftHD,25000000,Apache License version 2.0,https://github.com/MC-U-Team/Useful-Backpacks,ok_default,,仓库许可文件：Apache-2.0，未见素材单独条款,original
+262692,yoyos,Yoyos,jozufozu,24700000,MIT License,https://github.com/Jozufozu/Yoyos,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+266784,scannable,Scannable,Sangar,24300000,MIT License,https://github.com/MightyPirates/Scannable,ok_explicit,,LICENSE：贴图为 CC0，除非另有标注,original
+241941,chickens,Chickens,setycz,23400000,MIT,https://github.com/setycz/ChickensMod,ok_default,5,仓库许可文件：LGPL/MIT，未见素材单独条款,fill
+1002348,just-dire-things,Just Dire Things,Direwolf20,23100000,MIT License,https://github.com/Direwolf20-MC/JustDireThings,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+220311,silents-gems,Silent's Gems,SilentChaos512,23000000,MIT License,https://github.com/SilentChaos512/SilentGems,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+295780,roots-classic,Roots Classic,Lothrazar,22900000,MIT License,https://github.com/Lothrazar/RootsClassic,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+236542,advanced-rocketry,Advanced Rocketry,zmaster587,22700000,MIT License,https://github.com/Advanced-Rocketry/AdvancedRocketry,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+289043,no-tree-punching,No Tree Punching,AlcatrazEscapee,22500000,MIT License,https://github.com/alcatrazEscapee/no-tree-punching,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+452500,sushigocrafting,Sushi Go Crafting,Buuz135,22300000,MIT License,https://github.com/Buuz135/SushiGoCrafting,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+230111,project-red-fabrication,Project Red - Fabrication,MrTJP,21700000,MIT,https://github.com/MrTJP/ProjectRed,ok_default,12,仓库许可文件：MIT，未见素材单独条款,fill
+620770,expanded-delight,Expanded Delight,ianm1647,20300000,MIT License,https://github.com/ianm1647/expandeddelight,ok_weak,,仓库只有 NeoForge 模板的许可；gradle.properties 声明 MIT,original
+456151,things-fabric,Things [Fabric],gliscowo,20000000,MIT License,https://github.com/wisp-forest/things,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+484967,kobolds,Kobolds!,Jusey1,19500000,MIT License,https://github.com/Jusey1/kobolds,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+892827,crabbers-delight,Crabber's Delight,AlabasterLeking,19400000,MIT License,https://github.com/AlabasterLeking/Crabbers-Delight,ok_weak,,仓库无许可文件；gradle.properties 声明 MIT,original
+78057,tinkers-mechworks,Tinkers' Mechworks,mDiyo,19200000,Creative Commons Attribution 3.0 Unported,https://github.com/SlimeKnights/TinkersMechworks,ok_explicit,,README：贴图 CC BY 3.0，需署名,original
+344696,potion-fingers-redux,Potion Rings,Shivaxi,18900000,WTFPL,https://github.com/Duck-XYZ/potion_rings,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+395078,infernal-expansion,Infernal Expansion,InfernalStudios,18800000,Apache License version 2.0,https://github.com/infernalstudios/Infernal-Expansion,ok_default,,仓库许可文件：Apache-2.0，未见素材单独条款,original
+237541,totemic,Totemic,ljfa2,18600000,MIT License,https://github.com/TeamTotemic/Totemic,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+274456,ex-nihilo-creatio,Ex Nihilo: Creatio,BloodWorkXGaming,18400000,MIT License,https://github.com/BloodyMods/ExNihiloCreatio,partial,,README：Crushed Sky Stone 贴图衍生自 AE2，为 CC BY-NC-SA 3.0，需剔除；其余 MIT,original
+1080592,eternal-starlight,Eternal Starlight,LeoLezury,17600000,MIT License,https://github.com/LeoMinecraftModding/eternal-starlight,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+1068418,extended-industrialization,Extended Industrialization,swedzish,17500000,MIT License,https://github.com/Swedz/Extended-Industrialization,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+300777,embers-rekindled,Embers Rekindled,BordListian,16700000,MIT License,https://github.com/RCXcrafter/EmbersRekindled,ok_default,,仓库许可文件：MIT，未见素材单独条款,original
+243121,quark,Quark,Vazkii,256978370,Modrinth: -,https://github.com/VazkiiMods/Quark,ok_nc,218,LICENSE：整个模组 CC BY-NC-SA 3.0,batch2
+223794,applied-energistics-2,Applied Energistics 2,thetechnici4n,227810587,Modrinth: -,https://github.com/AppliedEnergistics/Applied-Energistics-2,ok_nc,130,README：贴图和模型 CC BY-NC-SA 3.0（代码 LGPL）,batch2
+224791,blood-magic,Blood Magic,WayofTime,109716588,Modrinth: CC-BY-4.0,https://github.com/WayofTime/BloodMagic,ok_explicit,361,LICENSE：整个项目 CC BY 4.0，需署名,batch2
+228404,actually-additions,Actually Additions,Ellpeck,97119478,Modrinth: -,https://github.com/Ellpeck/ActuallyAdditions,ok_default,116,仓库许可文件：MIT，未见素材单独条款,batch2
+239286,cyclic,Cyclic,Lothrazar,84991658,Modrinth: -,https://github.com/Lothrazar/Cyclic,ok_default,263,LICENSE 为 MIT；item/charm 目录的 CREDIT.txt 提到可能用了 CC BY-SA 3.0 的素材,batch2
+1156098,construction-sticks,Construction Sticks,Mrbysco,23867973,Modrinth: MIT,https://github.com/Mrbysco/ConstructionSticks,ok_default,13,仓库许可文件：MIT，未见素材单独条款,batch2
+646668,create-big-cannons,Create Big Cannons,rbasamoyai,23708270,Modrinth: -,https://github.com/Cannoneers-of-Create/CreateBigCannons,ok_nc,46,LICENSE：手绘贴图和模型 CC BY-NC-SA 4.0,batch2
+632066,mariums-soulslike-weaponry,Marium's Soulslike Weaponry,mariumbacchus,21197519,Modrinth: CC0-1.0,https://github.com/mariumbacchus/Soulslike-Weaponry,ok_default,249,仓库许可文件：CC0，未见素材单独条款,batch2
+533748,chalk,Chalk,mortuusars,20993948,Modrinth: MIT,https://github.com/mortuusars/Chalk,ok_default,20,仓库许可文件：MIT，未见素材单独条款,batch2
+579484,cognition-mod,Cognition (Experience Obelisk),cyanog3n,20123424,Modrinth: -,https://github.com/terrarium-earth/Cognition,ok_default,40,仓库许可文件：MIT，未见素材单独条款,batch2
+1030830,oritech,Oritech,rearth,17654918,Modrinth: CC-BY-4.0,https://github.com/Rearth/Oritech,ok_nc,134,LICENSE 为 CC0；README：部分素材来自 techarium（CC BY-NC 4.0）和 malcolmriley（CC BY 4.0），需署名,batch2
+363392,building-wands,Building Wands,nicguzzo,14810406,Modrinth: Apache-2.0,https://github.com/nicguzzo/wands,ok_default,12,仓库许可文件：Apache-2.0，未见素材单独条款,batch2
+229523,armourers-workshop,Armourer's Workshop,RiskyKen,11017471,Modrinth: CC-BY-NC-SA-3.0,https://github.com/Armourers-Workshop/Armourers-Workshop,ok_nc,102,LICENSE：CC BY-NC-SA 3.0,batch2
+422972,habitat,Habitat,schnappdragon,8437882,Modrinth: MIT,https://github.com/SnappyDragon64/Habitat,ok_default,15,仓库许可文件：MIT，未见素材单独条款,batch2
+897171,medieval-origins-revival,Medieval Origins Revival,MuonR,7113961,Modrinth: MIT,https://github.com/muon-rw/Medieval-Origins-Revival,ok_explicit,18,LICENSE：素材 CC BY 4.0，需署名,batch2
+1106612,rustic-delight,Rustic Delight,PhantomWing,6736876,Modrinth: MIT,https://github.com/PhantomWing/RusticDelight,ok_default,123,仓库许可文件：MIT，未见素材单独条款,batch2
+492939,biomancy,Biomancy,Elenterius,6334259,Modrinth: MIT,https://github.com/Elenterius/Biomancy,ok_nc,95,LICENSE：美术素材 CC BY-NC 4.0（代码 MIT）,batch2
+975288,armor-of-the-ages,Armor of the Ages,dawnoftime_team,5969494,Modrinth: MIT,https://github.com/Dawn-of-Time-Project/armoroftheages,ok_default,42,仓库许可文件：MIT，未见素材单独条款,batch2
+670535,tarot-cards,Tarot Cards,shiroroku,5764617,Modrinth: MIT,https://github.com/shiroroku/TarotCards,ok_default,23,仓库许可文件：MIT，未见素材单独条款,batch2
+709416,tinkers-levelling-addon,Tinkers' Levelling Addon,Pyre540,5706947,Modrinth: MIT,https://github.com/Pyre540/tinkers-levelling-addon,ok_explicit,29,README：代码、贴图、二进制均为 MIT,batch2
+223957,backpacks,Backpacks!,Brad16840,5544674,Modrinth: Apache-2.0,https://github.com/Eclipse-Studios/backpacks,ok_default,80,仓库许可文件：Apache-2.0，未见素材单独条款,batch2
+535541,chalk-fabric,Chalk (Fabric),DaFuqsy,4336646,Modrinth: MIT,https://github.com/DaFuqs/Chalk,ok_default,32,仓库许可文件：MIT，未见素材单独条款,batch2
+312359,dawn-of-time,Dawn of Time,dawnoftime_team,3763465,Modrinth: MIT,https://github.com/Dawn-of-Time-Project/dawnoftime,ok_default,40,仓库许可文件：MIT，未见素材单独条款,batch2
+568316,numismatic-overhaul,Numismatic Overhaul,gliscowo,3754022,Modrinth: MIT,https://github.com/wisp-forest/numismatic-overhaul,ok_default,19,仓库许可文件：MIT，未见素材单独条款,batch2
+903894,ubes-delight,Ube's Delight,ChefMooon,3322048,Modrinth: MIT,https://github.com/ChefMooon/ubes-delight,ok_default,243,仓库许可文件：MIT，未见素材单独条款,batch2
+807101,collectors-reap,Collector's Reap,brnbrd,3040606,Modrinth: MIT,https://github.com/brnbrd/CollectorsReap,ok_default,200,仓库许可文件：MIT，未见素材单独条款,batch2
+1082807,veggies-delight,Veggies Delight (A Farmer's Delight Add-on),Eggmain,2899173,Modrinth: MIT,https://github.com/MehdiNoui/VeggiesDelight,ok_default,79,仓库许可文件：MIT，未见素材单独条款,batch2
+608261,amethyst-imbuement,Amethyst Imbuement,fzzyhmstrs,2707767,Modrinth: MIT,https://github.com/fzzyhmstrs/ai,ok_default,246,仓库许可文件：MIT，未见素材单独条款,batch2
+864150,dungeonz,DungeonZ,Globox_Z,2289878,Modrinth: MIT,https://github.com/Globox1997/DungeonZ,ok_default,32,仓库许可文件：MIT，未见素材单独条款,batch2
+1198527,trail-tales-delight,Trail&Tales Delight,shuixingshow,2190317,Modrinth: MIT,https://github.com/Vzling/Trail-And-Tales-Delight,ok_default,32,仓库许可文件：MIT，未见素材单独条款,batch2
+1190275,jadens-nether-expansion-delight,Jaden's Nether Expansion Delight,Chaolux,1749648,Modrinth: MIT,https://github.com/Chaolux1/NetherExpansionDelight,ok_default,43,仓库许可文件：MIT，未见素材单独条款,batch2
+1309203,kaleidoscope-cookery,Kaleidoscope Cookery,YSBB,1557857,Modrinth: CC-BY-NC-SA-4.0,https://github.com/KaleidoscopeMods/KaleidoscopeCookery,ok_nc,175,LICENSE-ASSETS：资源文件 CC BY-NC-SA 4.0,batch2
+859262,exquisito,Exquisito,Gumillea,906986,Modrinth: MIT,https://github.com/Gumillea/Exquisito,ok_default,52,仓库许可文件：MIT，未见素材单独条款,batch2
+972090,eden-ring-reforked,Eden Ring Reforked,ErzeKawek,709724,Modrinth: MIT,https://github.com/ErzeKawek/EdenRing-Reforked,ok_default,19,仓库许可文件：MIT，未见素材单独条款,batch2
+880555,kitchen-karrot,Kitchen Karrot,Zoshsgahdnkc,701965,Modrinth: MIT,https://github.com/Zoshsgahdnkc/kitchenkarrot,ok_default,251,仓库许可文件：MIT，未见素材单独条款,batch2
+1475175,kaleidoscope-tavern,Kaleidoscope Tavern,TartaricAcid,532865,Modrinth: CC-BY-NC-SA-4.0,https://github.com/KaleidoscopeMods/KaleidoscopeTavern,ok_nc,72,LICENSE-ASSETS：资源文件 CC BY-NC-SA 4.0,batch2
+1259209,cosmopolitan,Cosmopolitan,Gumillea,506482,Modrinth: MIT,https://github.com/Gumillea/Cosmopolitan,ok_default,460,仓库许可文件：MIT，未见素材单独条款,batch2
+946775,beans-backpacks,Beans Backpacks (Legacy),BeansGalaxy,450366,Modrinth: MIT,https://github.com/BeansGalaxy/Beans-Backpacks-2,ok_default,22,仓库许可文件：MIT，未见素材单独条款,batch2
+1094418,braziliandelight,Brazilian Delight,DeltaboxLabs,300936,Modrinth: MIT,https://github.com/danbrown/braziliandelight,ok_default,102,仓库许可文件：MIT，未见素材单独条款,batch2
+1196075,immortalers-delight,Immortalers Delight,Renyigesai,131005,Modrinth: MIT,https://github.com/Renyigesai/immortalers_delight,ok_default,363,仓库许可文件：MIT，未见素材单独条款,batch2
+577805,corn-delight,Corn Delight,SyameimaruZheng,14296362,Modrinth: MIT,https://github.com/0999312/Corn-Delight,ok_default,25,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+365507,extended-mushrooms,Extended Mushrooms,thecech12,6844177,Modrinth: MIT,https://github.com/cech12/ExtendedMushrooms,ok_default,27,仓库许可文件：MIT，未见素材单独条款,food
+977515,more-delight-forge,More Delight (for Farmer's Delight),axperty,5447019,Modrinth: MIT,https://github.com/axperty/moredelight,ok_default,41,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1007788,barbeques-delight,Barbeque's Delight [Forge/NeoForge],lcy0x1,3814552,Modrinth: MIT,https://github.com/Minecraft-LightLand/BarbequesDelight,ok_default,30,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+485539,copper-pot,Copper Pot,davigj,2544499,Modrinth: MIT,https://github.com/davidjjung/copperpot,ok_default,20,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1136471619947907,muffins-thais-delight,Muffin's Thai's Delight,firemuffin303,2309969,Modrinth: MIT,https://github.com/FireMuffin303/Muffins-ThaiDelight,ok_default,146,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food_mr
+268373,simply-tea,Simply Tea!,EpicSquid315,2273301,Modrinth: MIT,https://github.com/KnightMiner/SimplyTea,ok_default,29,仓库许可文件：MIT，未见素材单独条款,food
+1093375,dumplings-delight-rewrapped,Dumplings Delight Rewrapped,Joshcraft2002,2200852,Modrinth: MIT,https://github.com/Joshcraft2002/Dumplings-Delight-Rewrapped,ok_default,39,LICENSE：MIT；移植自 FoggyHillside 的 Dumplings Delight（原作在 Modrinth 声明 MIT）；农夫乐事的附属,food
+842106,extradelight,ExtraDelight,Lance5057,2103996,Modrinth: CC-BY-NC-SA-4.0,https://github.com/Lance5057/ExtraDelight,ok_nc,823,仓库无许可文件；gradle.properties、mods.toml 和 Modrinth 页面均声明 CC BY-NC-SA 4.0（非商用）；农夫乐事的附属,food
+469185,raven-coffee,Raven Coffee Mod,TheWandererRaven,1998988,Modrinth: Apache-2.0,https://github.com/TheWandererRaven/RavenCoffeeMod,ok_default,104,仓库许可文件：Apache-2.0，未见素材单独条款,food
+1134366,christmas-delight,Christmas Delight,ThePoupyBuTers,1643483,Modrinth: MIT,https://github.com/Cat-Plays/Christmas_Delight-Fabric_1.21,ok_default,31,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属；CurseForge 关闭了第三方下载，从 Modrinth 下载,food_mr
+265715,butchercraft,Butchercraft,Lance5057,1080855,Modrinth: CC-BY-NC-SA-4.0,https://github.com/Lance5057/Butchercraft,ok_nc,170,LICENSE.md：整个项目 CC BY-NC-SA 4.0,food
+927591,frights-delight,Fright's Delight,ChefMooon,1061509,Modrinth: MIT,https://github.com/ChefMooon/frights-delight,ok_default,85,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1212197,hearth-and-harvest,Hearth and Harvest,AlabasterLeking,958327,Modrinth: MIT,https://github.com/AlabasterLeking/Hearth-And-Harvest,ok_weak,194,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT；农夫乐事的附属,food
+285105,enhanced-farming,Enhanced Farming,Mrbysco,912716,Modrinth: MIT,https://github.com/Mrbysco/Enhanced-Farming,ok_default,122,仓库许可文件：MIT，未见素材单独条款,food
+1148583,hotkettles,Hot Kettles,slainlight,910387,Modrinth: MIT,https://github.com/matthewperiut/hotkettles,ok_weak,23,仓库无许可文件；fabric.mod.json、mods.toml 和 Modrinth 页面声明 MIT,food
+694309,kawaii-dishes,Kawaii Dishes,roseisproot,578447,Modrinth: MIT,https://github.com/OHakimen/KawaiiDishes,ok_default,314,仓库许可文件：MIT，未见素材单独条款,food
+1394406,fungi-delight,Fungi Delight (A Farmer's Delight Add-on),Eggmain,443455,Modrinth: MIT,https://github.com/MehdiNoui/FungiDelight,ok_default,14,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1193532,ramadan-delight,Ramadan Delight (A Farmer's Delight Add-on),Eggmain,436161,Modrinth: MIT,https://github.com/MehdiNoui/RamadanDelight,ok_default,49,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1214686031383885,angling,Angling,EightSidedSquare,359669,Modrinth: CC0-1.0,https://github.com/8s2/Angling,ok_explicit,30,LICENSE：CC0,food_mr
+1191781,bakeries,Bakeries,Renyigesai,277205,Modrinth: CC-BY-NC-SA-4.0,https://github.com/Renyigesai/bakery,ok_nc,179,LICENSE-ASSETS.txt：资源文件 CC BY-NC-SA 4.0,food
+496631,foodables,Foodables,TruthSt,218603,Modrinth: MIT,https://github.com/CanINotUseTruth/Foodables,ok_default,226,仓库许可文件：MIT，未见素材单独条款；CurseForge 关闭了第三方下载，从 Modrinth 下载,food_mr
+1209304,vanilla-delight,Vanilla Delights,Chaolux,214551,Modrinth: MIT,https://github.com/Chaolux1/VanillaDelight,ok_default,48,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+531645,candy-world-recaramelized, Candy World - ReCaramelized,Mrbysco,214268,Modrinth: MIT,https://github.com/Mrbysco/CandyWorld,ok_default,46,仓库许可文件：MIT，未见素材单独条款,food
+1383091,legume-delight,Legume Delight,pawjwp,208207,Modrinth: CC-BY-NC-SA-4.0,https://github.com/pawjwp/Legume-Delight,ok_nc,26,LICENSE.txt：整个项目 CC BY-NC-SA 4.0；农夫乐事的附属,food
+1506363,kaleidoscope-dimensions-wine,Kaleidoscope：Dimensions wine,wither_redstone,165071,Modrinth: CC-BY-4.0,https://github.com/WitherRedstone/Kaleidoscope-DimensionsWine,ok_nc,85,LICENSE.md：assets 目录 CC BY-NC-SA 4.0（森罗物语酒馆的附属）,food
+900242,usefulfood-reborn,UsefulFood Reborn,skniro,131408,Modrinth: MIT,https://github.com/skniro/UsefulFood-Reborn,ok_default,357,仓库许可文件：MIT，未见素材单独条款,food
+1084580258560419,farmers-delight-expansion,Farmer's Delight Expansion,keishispl,114604,Modrinth: MIT,https://github.com/keishispl/farmers-delight-expansion,ok_default,11,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food_mr
+1123932800178745,vegehenna,Vegehenna: A vegetarian's heaven?,ivangeevo,113847,Modrinth: CC-BY-4.0,https://github.com/ivangeevo/vegehenna,ok_explicit,17,LICENSE：整个项目 CC BY 4.0，需署名,food_mr
+1230799,easters-delight,Easter's Delight,PhantomWing,77182,Modrinth: MIT,https://github.com/PhantomWing/EasterDelight,ok_default,21,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+576755,bodacious-berries,bodacious berries,eristhea,70944,Modrinth: MIT,https://github.com/rosebudmods/bodacious-berries,ok_default,52,仓库许可文件：MIT，未见素材单独条款,food
+818651,super-apple,Super Apple,skniro,68349,Modrinth: MIT,https://github.com/skniro/Agree-Super_Apple,ok_default,57,仓库许可文件：MIT，未见素材单独条款,food
+1105956883749130,sakura_mod,Sakura Mod,Syameimaru_Zheng,68134,Modrinth: MIT,https://github.com/0999312/Sakura_mod,ok_default,334,LICENSE：MIT；resources 里附带的是农夫乐事的 MIT 许可,food_mr
+1008482582868879,nears,Nears,digitalpear,66664,Modrinth: Apache-2.0,https://github.com/DigitalPear/Nears-Fabric,ok_default,13,仓库许可文件：Apache-2.0，未见素材单独条款,food_mr
+646126,light-meals,Light Meals,Hashtag233,56427,Modrinth: MIT,https://github.com/Hashtag233/LightMeals,ok_explicit,71,仓库根目录和 resources 目录下的 LICENSE 均为 MIT,food
+1125840457436663,farmers-delight-plus,Farmer's Delight: Plus,Johnyele,55549,Modrinth: MIT,https://github.com/Johnyel/FarmersDelightPlus,ok_default,39,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food_mr
+1214575775059180,farmers-expanse,Farmers Expanse,patrickrich07,41935,Modrinth: MIT,https://github.com/Greddode/Farmers-Expanse,ok_weak,79,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT；农夫乐事的附属,food_mr
+1049923864754080,gone-fishing,Gone Fishing!,Patbox,40989,Modrinth: MIT,https://github.com/patbox/gone-fishing,ok_default,68,仓库许可文件：MIT，未见素材单独条款,food_mr
+701458,hibernal-herbs,Hibernal Herbs,DakotaPrideModding,39694,Modrinth: MIT,https://github.com/DakotaPride/Hibernal-Herbs,ok_default,233,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1051417582433534,fishing-101,Fishing 101,Macck209,38393,Modrinth: MIT,https://github.com/Macck209/Fishing101,ok_default,62,仓库许可文件：MIT，未见素材单独条款,food_mr
+1325695,peruvians-delight,Peruvian's Delight,GiulianoMMPP,36472,Modrinth: MIT,https://github.com/GiulianoMaPe/PeruviansDelight-1.20.1-Forge,ok_weak,57,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT；农夫乐事的附属,food
+1289374,avaritias-delight,Avaritia's Delight,IAFEnvoy,35829,Modrinth: MIT,https://github.com/Nova-Committee/AvaritiaDelight,ok_default,47,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1175343944535604,farmers-crops,Farmer's Crops,JCS,35764,Modrinth: MIT,https://github.com/JCS-Mecabricks/Farmers-Crops,ok_explicit,11,LICENSE：CC0,food_mr
+1216857,tea-aroma,Tea Aroma,foggyhillside,32509,Modrinth: MIT,https://github.com/FoggyHillside/Tea-Aroma,ok_default,27,仓库许可文件：MIT，未见素材单独条款,food
+1472019,paper-kite-manor,Paper Kite Manor,KaziCat,30821,Modrinth: MIT,https://github.com/MasterMarisa/PaperKiteManor,ok_explicit,81,LICENSE-ASSETS：资源文件 MIT,food
+1228903,arbitrary-delight,Arbitrary Delight,Ri0t69,27894,Modrinth: MIT,https://github.com/VaporRi0t/Arbitrary-Delight,ok_default,57,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1124616808172784,spanish-delight,Spanish Delight,DevJulen,23562,Modrinth: MIT,https://github.com/DevJulen/SpanishDelight-Forge,ok_weak,17,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT；农夫乐事的附属,food_mr
+1221962,yeast-n-feast,Yeast 'n Feast,AstralyaStudios,19175,Modrinth: MIT,https://github.com/AstralyaStudios/YeastNFeast,ok_weak,82,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT,food
+1460499,eternal-starlight-delight,Eternal Starlight's Delight,Minor2CCh,18922,Modrinth: MIT,https://github.com/Minor2CCh/EternalStarlightDelight,ok_default,56,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属；CurseForge 关闭了第三方下载，从 Modrinth 下载,food_mr
+834671,spoiledz,SpoiledZ,Globox_Z,17924,Modrinth: MIT,https://github.com/Globox1997/SpoiledZ,ok_default,64,仓库许可文件：MIT，未见素材单独条款；CurseForge 关闭了第三方下载，从 Modrinth 下载,food_mr
+1130285129125133,photosynthesis,Photosynthesis,Zuiron,17901,Modrinth: MIT,https://github.com/Zuiron/Photosynthesis,ok_default,556,仓库许可文件：MIT，未见素材单独条款,food_mr
+977960,modern-delight,Modern Delight,zombie_cute,17379,Modrinth: MIT,https://github.com/zombiecute/ModernDelight,ok_default,217,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1099840554943519,tasty-supplies,Tasty Supplies,OneShrimpADay,15777,Modrinth: MIT,https://github.com/atomic-junky/tasty-supplies,ok_default,114,仓库许可文件：MIT，未见素材单独条款,food_mr
+877703,valleymans-beans,Valleyman's bean,thejurassicking1,13382,Modrinth: Apache-2.0,https://github.com/Floi1/Valleymans-Beans-mod,ok_default,51,仓库许可文件：Apache-2.0，未见素材单独条款,food
+1666863,kaleidoscope-grilling,Kaleidoscope Grilling,breezeth,12754,Modrinth: BSD-3-Clause,https://github.com/breezeth-CN/KaleidoscopeGrilling,ok_nc,273,LICENSE-ASSETS：资源文件 CC BY-NC-SA 4.0；森罗物语厨房的附属,food
+1010716630735461,crafty-cuisine,Crafty Cuisine - Vanilla Inspired Food,randommcsomethin,12746,Modrinth: MIT,https://github.com/RandomMcSomethin/Crafty-Cuisine,ok_default,32,仓库许可文件：MIT，未见素材单独条款,food_mr
+1417861,critters-delight,Critters Delight,DakotaPrideModding,12142,Modrinth: MIT,https://github.com/dakotapride/critters-delight,ok_weak,84,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT；农夫乐事的附属,food
+1086742986377731,millet-delight,Millet Delight,DreaMemory2,11201,Modrinth: MIT,https://github.com/DreaMemory2/MilletDelight,ok_default,42,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food_mr
+1163447985303974,veggie-delight,Veggie Delight,ElectroArtifex,10353,Modrinth: MIT,https://github.com/ElectroArtifex/veggiedelight-1.20.1,ok_weak,28,仓库无许可文件；fabric.mod.json 声明 CC BY 4.0，Modrinth 页面声明 MIT；农夫乐事的附属,food_mr
+1203062849798409,large-meals,Large Meals,KreloX,9354,Modrinth: MIT,https://github.com/KreloX/Large-Meals,ok_weak,18,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT；农夫乐事的附属,food_mr
+1042078405846532,vietnams-delight-reborn,Vietnam's Delight Reborn,,9127,Modrinth: Apache-2.0,https://github.com/MikeStorm03/vietnams-delight,ok_default,11,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food_mr
+1491375,realisticdining,realisticdining,EEWW245,6530,Modrinth: MIT,https://github.com/EEWW245/realisticdining,ok_default,83,仓库许可文件：MIT，未见素材单独条款；森罗物语厨房的附属,food
+1113658,maple-delight,Maple Delight,HoldWind,6134,Modrinth: MIT,https://github.com/HLHT-Studios/maple-delight,ok_default,17,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1060877847871435,bagels-baking,Bagel's Baking,hugeblank,3961,Modrinth: MIT,https://github.com/hugeblank/Bagels_Baking,ok_default,233,仓库许可文件：MIT，未见素材单独条款,food_mr

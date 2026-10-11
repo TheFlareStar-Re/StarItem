@@ -1,0 +1,6547 @@
+[
+ {
+  "mr_slug": "rightclickharvest",
+  "name": "RightClickHarvest",
+  "mr_downloads": 12656669,
+  "mr_license": "MIT",
+  "repo": "JamCoreModding/right-click-harvest",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "neoforge",
+   "quilt",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "jamlib",
+    "title": "JamLib",
+    "license": "MIT"
+   },
+   {
+    "slug": "qsl",
+    "title": "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "architectury-api",
+    "title": "Architectury API",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1045079906860860,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Cnejf5xM",
+  "cf_slug": "rightclickharvest",
+  "cf_name": "RightClickHarvest",
+  "cf_license": "",
+  "author": "",
+  "cf_downloads": 12656669,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "createaddition",
+  "name": "Create Crafts & Additions",
+  "mr_downloads": 11019408,
+  "mr_license": "MIT",
+  "repo": "mrh0/createaddition",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "forge",
+   "neoforge",
+   "quilt",
+   "storage",
+   "technology",
+   "transportation",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "jei",
+    "title": "Just Enough Items (JEI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "create",
+    "title": "Create",
+    "license": "LicenseRef-Create-Mod-License"
+   },
+   {
+    "slug": "create-fabric",
+    "title": "Create Fabric",
+    "license": "MIT"
+   },
+   {
+    "slug": "flywheel",
+    "title": "Flywheel (Legacy)",
+    "license": "MIT"
+   },
+   {
+    "slug": "cc-tweaked",
+    "title": "CC: Tweaked",
+    "license": "LicenseRef-CCPL"
+   },
+   {
+    "slug": "cc-restitched",
+    "title": "CC: Restitched",
+    "license": "LicenseRef-Custom"
+   }
+  ],
+  "project_id": 1163699431754787,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "kU1G12Nn",
+  "cf_slug": "createaddition",
+  "cf_name": "Create Crafts & Additions",
+  "cf_license": "",
+  "author": "mrh0",
+  "cf_downloads": 11019408,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 41,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "lets-do-addon-structures",
+  "name": "[Let's Do Addon] Structures",
+  "mr_downloads": 3859875,
+  "mr_license": "MIT",
+  "repo": "Ninjdai1/letsdo-addon-structures",
+  "parents": [],
+  "categories": [
+   "datapack",
+   "decoration",
+   "fabric",
+   "food",
+   "forge",
+   "quilt",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "lets-do-bloomingnature",
+    "title": "[Let's Do] BloomingNature",
+    "license": "LicenseRef-Custom"
+   },
+   {
+    "slug": "lets-do-nethervinery",
+    "title": "[Let's Do] NetherVinery",
+    "license": "LicenseRef-custom"
+   },
+   {
+    "slug": "lets-do-meadow",
+    "title": "[Let's Do] Meadow",
+    "license": "LicenseRef-custom"
+   },
+   {
+    "slug": "lets-do-vinery",
+    "title": "[Let's Do] Vinery",
+    "license": "LicenseRef-custom"
+   }
+  ],
+  "project_id": 1008496688026426,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "2PaVx3ow",
+  "cf_slug": "lets-do-addon-structures",
+  "cf_name": "[Let's Do Addon] Structures",
+  "cf_license": "",
+  "author": "Ninjdai",
+  "cf_downloads": 3859875,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "ctov-chefs-delight-compat",
+  "name": "CTOV - Chef's delight Compat",
+  "mr_downloads": 2664988,
+  "mr_license": "CC-BY-NC-4.0",
+  "repo": "ChoiceTheorem/ChoiceTheorem-s-overhauled-village",
+  "parents": [],
+  "categories": [
+   "datapack",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "quilt",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "chefs-delight",
+    "title": "Chef's Delight - Farmer's Delight Villagers",
+    "license": "MIT"
+   },
+   {
+    "slug": "farmers-delight-fabric",
+    "title": "[Deprecated] Farmer's Delight [Fabric]",
+    "license": "MIT"
+   },
+   {
+    "slug": "ct-overhaul-village",
+    "title": "ChoiceTheorem's Overhauled Village",
+    "license": "CC-BY-NC-ND-4.0"
+   }
+  ],
+  "project_id": 1022567651761951,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "6PJbKvJH",
+  "cf_slug": "ctov-chefs-delight-compat",
+  "cf_name": "CTOV - Chef's delight Compat",
+  "cf_license": "",
+  "author": "ChoiceTheorem",
+  "cf_downloads": 2664988,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "CC-BY-NC"
+    ],
+    "snippets": [
+     "a. Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, perfor",
+     "b. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights."
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "muffins-thais-delight",
+  "name": "Muffin's Thai's Delight",
+  "mr_downloads": 2309969,
+  "mr_license": "MIT",
+  "repo": "FireMuffin303/Muffins-ThaiDelight",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "adventure",
+   "fabric",
+   "food",
+   "forge",
+   "mobs",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "farmers-delight-fabric",
+    "title": "[Deprecated] Farmer's Delight [Fabric]",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1136471619947907,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "ckesjTu7",
+  "cf_slug": "muffins-thais-delight",
+  "cf_name": "Muffin's Thai's Delight",
+  "cf_license": "",
+  "author": "firemuffin303",
+  "cf_downloads": 2309969,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 146,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "onion-onion",
+  "name": "Onion Onion",
+  "mr_downloads": 2075135,
+  "mr_license": "MIT",
+  "repo": "davidjjung/oniononion",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "forge",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "frame-changer",
+    "title": "Frame Changer",
+    "license": "MIT"
+   },
+   {
+    "slug": "blueprint",
+    "title": "Blueprint",
+    "license": "LicenseRef-Abnormals-License"
+   },
+   {
+    "slug": "overweight-farming",
+    "title": "Overweight Farming",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "architectury-api",
+    "title": "Architectury API",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1201419920272155,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "vC6rKlKN",
+  "cf_slug": "onion-onion",
+  "cf_name": "Onion Onion",
+  "cf_license": "",
+  "author": "davigj",
+  "cf_downloads": 2075135,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 4,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "milky-way",
+  "name": "Milky Way",
+  "mr_downloads": 1930194,
+  "mr_license": "MIT",
+  "repo": "davidjjung/milkyway",
+  "parents": [],
+  "categories": [
+   "cursed",
+   "food",
+   "forge",
+   "game-mechanics",
+   "mobs",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "environmental",
+    "title": "Environmental",
+    "license": "LicenseRef-Abnormals-License"
+   },
+   {
+    "slug": "caverns-and-chasms",
+    "title": "Caverns & Chasms",
+    "license": "LicenseRef-Abnormals-License"
+   },
+   {
+    "slug": "buzzier-bees",
+    "title": "Buzzier Bees",
+    "license": "LicenseRef-Abnormals-License"
+   },
+   {
+    "slug": "blueprint",
+    "title": "Blueprint",
+    "license": "LicenseRef-Abnormals-License"
+   },
+   {
+    "slug": "goated",
+    "title": "You've Goat to be Kidding Me",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "cobblemon",
+    "title": "Cobblemon",
+    "license": "MPL-2.0"
+   },
+   {
+    "slug": "milk-all-the-mobs",
+    "title": "Milk All The Mobs",
+    "license": "LicenseRef-All-Rights-Reserved"
+   }
+  ],
+  "project_id": 1041636986576185,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Bp2dMRrt",
+  "cf_slug": "milky-way",
+  "cf_name": "Milky Way",
+  "cf_license": "",
+  "author": "davigj",
+  "cf_downloads": 1930194,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "fishermens-trap",
+  "name": "Fishermen's Trap [Neo/Fabric]",
+  "mr_downloads": 1295201,
+  "mr_license": "MIT",
+  "repo": "Uraneptus/Fishermens-Trap",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "forge",
+   "neoforge"
+  ],
+  "deps": [],
+  "project_id": 1168665265840469,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "ltRggnDx",
+  "cf_slug": "fishermens-trap",
+  "cf_name": "Fishermen's Trap [Neo/Fabric]",
+  "cf_license": "",
+  "author": "TooManyKitKats",
+  "cf_downloads": 1295201,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 1,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "eating-animations",
+  "name": "Eating Animations",
+  "mr_downloads": 1115087,
+  "mr_license": "MIT",
+  "repo": "MatyrobbrtMods/EatingAnimationForge",
+  "parents": [],
+  "categories": [
+   "food",
+   "forge",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "gml",
+    "title": "GroovyModLoader (GML)",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1116678950355801,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "X8CISwXp",
+  "cf_slug": "eating-animations",
+  "cf_name": "Eating Animations",
+  "cf_license": "",
+  "author": "Matyrobbrt",
+  "cf_downloads": 1115087,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 120,
+  "nested": [
+   "src/main/resources/assets/eatinganimation/textures/item/LICENSE"
+  ],
+  "ok": true
+ },
+ {
+  "mr_slug": "crop-growth-modifier",
+  "name": "Crop Growth Modifier",
+  "mr_downloads": 1092450,
+  "mr_license": "MIT",
+  "repo": "augustsaintfreytag/minecraft-crop-growth-modifier",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "game-mechanics",
+   "utility"
+  ],
+  "deps": [],
+  "project_id": 1064884840870849,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "IQKhvsfJ",
+  "cf_slug": "crop-growth-modifier",
+  "cf_name": "Crop Growth Modifier",
+  "cf_license": "",
+  "author": "Saint",
+  "cf_downloads": 1092450,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "cornucopia-reborn",
+  "name": "Cornucopia Reborn",
+  "mr_downloads": 993241,
+  "mr_license": "MIT",
+  "repo": "BmtUltra/Cornucopia",
+  "parents": [],
+  "categories": [
+   "food",
+   "forge",
+   "storage",
+   "utility"
+  ],
+  "deps": [],
+  "project_id": 1167594497977627,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "laatdxjH",
+  "cf_slug": "cornucopia-reborn",
+  "cf_name": "Cornucopia Reborn",
+  "cf_license": "",
+  "author": "BmtUltra",
+  "cf_downloads": 993241,
+  "modrinth_only": true,
+  "docs": {},
+  "items": null,
+  "nested": [],
+  "ok": false
+ },
+ {
+  "mr_slug": "midas-hunger",
+  "name": "Midas Hunger",
+  "mr_downloads": 948668,
+  "mr_license": "MIT",
+  "repo": "Accieo/Midas-Hunger",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "forge",
+   "neoforge",
+   "quilt",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1128893519396251,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "abF2tqnb",
+  "cf_slug": "midas-hunger",
+  "cf_name": "Midas Hunger",
+  "cf_license": "",
+  "author": "Accieo",
+  "cf_downloads": 948668,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.es-ES.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 18,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "hunger-remover",
+  "name": "Hunger Remover",
+  "mr_downloads": 605580,
+  "mr_license": "Apache-2.0",
+  "repo": "SmushyTaco/Hunger-Remover",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food"
+  ],
+  "deps": [
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "owo-lib",
+    "title": "oωo (owo-lib)",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-language-kotlin",
+    "title": "Fabric Language Kotlin",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "modmenu",
+    "title": "Mod Menu",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1049016551645072,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Duxl9QUS",
+  "cf_slug": "hunger-remover",
+  "cf_name": "Hunger Remover",
+  "cf_license": "",
+  "author": "SmushyTaco",
+  "cf_downloads": 605580,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "some-assembly-required",
+  "name": "Create: Some Assembly Required",
+  "mr_downloads": 517682,
+  "mr_license": "MIT",
+  "repo": "ochotonida/some-assembly-required",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "decoration",
+   "food",
+   "forge",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "create",
+    "title": "Create",
+    "license": "LicenseRef-Create-Mod-License"
+   }
+  ],
+  "project_id": 1160501105659752,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "jZi8ogTA",
+  "cf_slug": "some-assembly-required",
+  "cf_name": "Create: Some Assembly Required",
+  "cf_license": "",
+  "author": "ochotonida",
+  "cf_downloads": 517682,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 67,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "matcha-flavoured",
+  "name": "Matcha Flavoured",
+  "mr_downloads": 469034,
+  "mr_license": "CC-BY-NC-SA-4.0",
+  "repo": "kleiwright/matcha-flavoured",
+  "parents": [],
+  "categories": [
+   "16x",
+   "datapack",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "minecraft",
+   "neoforge",
+   "quilt",
+   "vanilla-like"
+  ],
+  "deps": [
+   {
+    "slug": "matcha-flavoured",
+    "title": "Matcha Flavoured",
+    "license": "CC-BY-NC-SA-4.0"
+   }
+  ],
+  "project_id": 1092584602473987,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "QI0EmgZ1",
+  "cf_slug": "matcha-flavoured",
+  "cf_name": "Matcha Flavoured",
+  "cf_license": "",
+  "author": "klei_wright",
+  "cf_downloads": 469034,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "CC-BY-NC"
+    ],
+    "snippets": [
+     "a. Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, perfor",
+     "d. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights."
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "#### Ciren They composed the \"Golden\" music disc. In memory of my dog who died recently. #### Klei All other textures were made by me, check the license and steal as you wish. If you just like the resource pack and none of the design changes, feel free to make an off-shoot of this pack and get rid of my messy nonsense. Make sure you credit, share under the same license, and DON'T SELL IT! (Yes even on the bedrock sto",
+     "Go check out Raspmary’s modpack [here](https://www.curseforge.com/minecraft/modpacks/raspberry-flavoured). #### JermsyBoy My resource pack was made to mirror JermsyBoy’s original texture pack as closely as possible. I thought he did great work but unfortunately has since stopped developing the project. Further, the textures had copyright protections on them, thus my pack was made to mimic it whilst still allowing eve"
+    ]
+   }
+  },
+  "items": 766,
+  "nested": [
+   "MF_datapack/CREDITS.txt"
+  ],
+  "ok": true
+ },
+ {
+  "mr_slug": "enchanted-golden-apple-addition",
+  "name": "Enchanted Golden Apple Addition",
+  "mr_downloads": 396755,
+  "mr_license": "MIT",
+  "repo": "Jerrycyx/Enchanted-Golden-Apple-Addition",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "datapack",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "neoforge",
+   "quilt",
+   "utility"
+  ],
+  "deps": [],
+  "project_id": 1109326149055086,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "V2kNw0dS",
+  "cf_slug": "enchanted-golden-apple-addition",
+  "cf_name": "Enchanted Golden Apple Addition",
+  "cf_license": "",
+  "author": "Jerrycyx",
+  "cf_downloads": 396755,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "angling",
+  "name": "Angling",
+  "mr_downloads": 359669,
+  "mr_license": "CC0-1.0",
+  "repo": "8s2/Angling",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "decoration",
+   "fabric",
+   "food",
+   "mobs",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "geckolib",
+    "title": "Geckolib",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1214686031383885,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "yxfPh2QX",
+  "cf_slug": "angling",
+  "cf_name": "Angling",
+  "cf_license": "",
+  "author": "EightSidedSquare",
+  "cf_downloads": 359669,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "CC0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 30,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "gipples-galore",
+  "name": "Gipples Galore",
+  "mr_downloads": 335176,
+  "mr_license": "CC-BY-NC-SA-4.0",
+  "repo": "DigitalPear/False-Futures-Fabric",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "cursed",
+   "fabric",
+   "food",
+   "mobs",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "geckolib",
+    "title": "Geckolib",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1093531047916915,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "QYfKDJOV",
+  "cf_slug": "gipples-galore",
+  "cf_name": "Gipples Galore",
+  "cf_license": "",
+  "author": "KingRolly",
+  "cf_downloads": 335176,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 5,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "homeostatic",
+  "name": "Homeostatic",
+  "mr_downloads": 317872,
+  "mr_license": "MIT",
+  "repo": "wendall911/Homeostatic",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "adventure",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "magical-psi-revival",
+    "title": "Magical Psi: Revival",
+    "license": "LicenseRef-Psi-License"
+   },
+   {
+    "slug": "mobchampions",
+    "title": "Mob Champions",
+    "license": "MIT"
+   },
+   {
+    "slug": "homeostatic-seasons",
+    "title": "Homeostatic Seasons",
+    "license": "MIT"
+   },
+   {
+    "slug": "eternal-starlight",
+    "title": "Eternal Starlight",
+    "license": "MIT"
+   },
+   {
+    "slug": "actually-harvest",
+    "title": "Actually Harvest",
+    "license": "MIT"
+   },
+   {
+    "slug": "creeper-fireworks-mod",
+    "title": "Creeper Fireworks Mod",
+    "license": "MIT"
+   },
+   {
+    "slug": "lets-do-wildernature",
+    "title": "[Let's Do] WilderNature",
+    "license": "LicenseRef-Custom"
+   },
+   {
+    "slug": "lets-do-candlelight-farmcharm-compat",
+    "title": "[Let's Do] Candlelight - Farm&Charm compat",
+    "license": "LicenseRef-Custom"
+   },
+   {
+    "slug": "oh-the-biomes-weve-gone",
+    "title": "Oh The Biomes We've Gone",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "lets-do-brewery-farmcharm-compat",
+    "title": "[Let's Do] Brewery - Farm&Charm Compat",
+    "license": "LicenseRef-Custom"
+   },
+   {
+    "slug": "lets-do-bakery-farmcharm-compat",
+    "title": "[Let's Do] Bakery - Farm&Charm Compat",
+    "license": "LicenseRef-Custom"
+   },
+   {
+    "slug": "lets-do-farm-charm",
+    "title": "[Let's Do] Farm & Charm",
+    "license": "LicenseRef-Custom"
+   },
+   {
+    "slug": "lets-do-herbalbrews",
+    "title": "[Let's Do] HerbalBrews",
+    "license": "LicenseRef-custom"
+   },
+   {
+    "slug": "the-undergarden",
+    "title": "The Undergarden",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "more-food-xd",
+    "title": "More Food xD",
+    "license": "MIT"
+   },
+   {
+    "slug": "betterdays",
+    "title": "Better Days",
+    "license": "LGPL-3.0-or-later"
+   },
+   {
+    "slug": "ready-player-fun",
+    "title": "Ready Player Fun",
+    "license": "MIT"
+   },
+   {
+    "slug": "simpletextoverlay",
+    "title": "Overlay: Compass Light Biome Season & More",
+    "license": "MIT"
+   },
+   {
+    "slug": "tinkersurvival",
+    "title": "Tinkers' Survival",
+    "license": "MIT"
+   },
+   {
+    "slug": "survivalist-essentials",
+    "title": "Survivalist Essentials",
+    "license": "MIT"
+   },
+   {
+    "slug": "charged-charms",
+    "title": "Charged Charms",
+    "license": "LGPL-3.0-or-later"
+   },
+   {
+    "slug": "homeostatic",
+    "title": "Homeostatic",
+    "license": "MIT"
+   },
+   {
+    "slug": "scuba-gear",
+    "title": "Scuba Gear",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "ecologics",
+    "title": "Ecologics",
+    "license": "LicenseRef-Multiple"
+   },
+   {
+    "slug": "regions-unexplored",
+    "title": "Regions Unexplored",
+    "license": "MIT"
+   },
+   {
+    "slug": "primal-winter",
+    "title": "Primal Winter",
+    "license": "MIT"
+   },
+   {
+    "slug": "lets-do-meadow",
+    "title": "[Let's Do] Meadow",
+    "license": "LicenseRef-custom"
+   },
+   {
+    "slug": "fruitful-fun",
+    "title": "Fruitful Fun 🍊",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "create-cafe",
+    "title": "Create Cafe",
+    "license": "GPL-2.0-only"
+   },
+   {
+    "slug": "xercamod",
+    "title": "XercaMod",
+    "license": "GPL-3.0-or-later"
+   },
+   {
+    "slug": "kobolds",
+    "title": "Kobolds",
+    "license": "MIT"
+   },
+   {
+    "slug": "jei",
+    "title": "Just Enough Items (JEI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "sprout",
+    "title": "Sprout",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "tinkers-construct",
+    "title": "Tinkers' Construct",
+    "license": "MIT"
+   },
+   {
+    "slug": "lets-do-vinery",
+    "title": "[Let's Do] Vinery",
+    "license": "LicenseRef-custom"
+   },
+   {
+    "slug": "terralith",
+    "title": "Terralith",
+    "license": "LicenseRef-Stardust-Labs-License"
+   },
+   {
+    "slug": "leave-my-bars-alone",
+    "title": "Leave My Bars Alone",
+    "license": "MPL-2.0"
+   },
+   {
+    "slug": "create",
+    "title": "Create",
+    "license": "LicenseRef-Create-Mod-License"
+   },
+   {
+    "slug": "patchouli",
+    "title": "Patchouli",
+    "license": "CC-BY-NC-SA-3.0"
+   },
+   {
+    "slug": "biomesyougo",
+    "title": "Oh The Biomes You'll Go",
+    "license": "LicenseRef-Multiple"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1176865498582014,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "oDobngty",
+  "cf_slug": "homeostatic",
+  "cf_name": "Homeostatic",
+  "cf_license": "",
+  "author": "wendall911",
+  "cf_downloads": 317872,
+  "modrinth_only": true,
+  "docs": {
+   "CREDITS.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 6,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "firmalife",
+  "name": "Firmalife",
+  "mr_downloads": 270080,
+  "mr_license": "MIT",
+  "repo": "eerussianguy/firmalife",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "food",
+   "forge",
+   "game-mechanics",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "terrafirmacraft",
+    "title": "TerraFirmaCraft",
+    "license": "EUPL-1.2"
+   },
+   {
+    "slug": "jei",
+    "title": "Just Enough Items (JEI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "patchouli",
+    "title": "Patchouli",
+    "license": "CC-BY-NC-SA-3.0"
+   }
+  ],
+  "project_id": 1019728598148282,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "5bKeBHw2",
+  "cf_slug": "firmalife",
+  "cf_name": "Firmalife",
+  "cf_license": "",
+  "author": "eerussianguy",
+  "cf_downloads": 270080,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 334,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "salt",
+  "name": "Salt",
+  "mr_downloads": 262332,
+  "mr_license": "MIT",
+  "repo": "mortuusars/Salt",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "food",
+   "forge",
+   "game-mechanics",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "jei",
+    "title": "Just Enough Items (JEI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "appleskin",
+    "title": "AppleSkin",
+    "license": "Unlicense"
+   }
+  ],
+  "project_id": 1045282276011633,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "CrDd9QcD",
+  "cf_slug": "salt",
+  "cf_name": "Salt",
+  "cf_license": "",
+  "author": "mortuusars",
+  "cf_downloads": 262332,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 3,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "pigs-have-litters",
+  "name": "Pigs Have Litters",
+  "mr_downloads": 173343,
+  "mr_license": "MIT",
+  "repo": "Pepperoni-Jabroni/PigsHaveLitters",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "modmenu",
+    "title": "Mod Menu",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1149659582606794,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "gUq8KoTS",
+  "cf_slug": "pigs-have-litters",
+  "cf_name": "Pigs Have Litters",
+  "cf_license": "",
+  "author": "Pepperoni-Jabroni",
+  "cf_downloads": 173343,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MPL-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "farmersdelight-notreepunching-pot",
+  "name": "Farmer's Delight x No Tree Punching Cooking Pot",
+  "mr_downloads": 140289,
+  "mr_license": "MIT",
+  "repo": "Joshcraft2002/farmersdelight-notreepunching-pot",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "datapack",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "quilt",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "no-tree-punching",
+    "title": "No Tree Punching",
+    "license": "MIT"
+   },
+   {
+    "slug": "farmers-delight-fabric",
+    "title": "[Deprecated] Farmer's Delight [Fabric]",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1097856576891108,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Rmopk4aS",
+  "cf_slug": "farmersdelight-notreepunching-pot",
+  "cf_name": "Farmer's Delight x No Tree Punching Cooking Pot",
+  "cf_license": "",
+  "author": "Joshcraft2002",
+  "cf_downloads": 140289,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "origins-dietary-delights",
+  "name": "Overgrown's Origins: Dietary Delights",
+  "mr_downloads": 135471,
+  "mr_license": "CC0-1.0",
+  "repo": "0vergrown/Origins-Dietary-Delights",
+  "parents": [],
+  "categories": [
+   "datapack",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "library",
+   "management",
+   "neoforge",
+   "quilt",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "origins-forge",
+    "title": "Origins (Forge)",
+    "license": "MIT"
+   },
+   {
+    "slug": "origins",
+    "title": "Origins",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1040541456943086,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "BVkoXkly",
+  "cf_slug": "origins-dietary-delights",
+  "cf_name": "Overgrown's Origins: Dietary Delights",
+  "cf_license": "",
+  "author": "Overgrown",
+  "cf_downloads": 135471,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "lifestealfr",
+  "name": "LifeSteal FR",
+  "mr_downloads": 134406,
+  "mr_license": "MIT",
+  "repo": "Stoupy51/LifeSteal",
+  "parents": [],
+  "categories": [
+   "datapack",
+   "economy",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "neoforge",
+   "quilt",
+   "social"
+  ],
+  "deps": [],
+  "project_id": 1011515475739955,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "3Gjekf6h",
+  "cf_slug": "lifestealfr",
+  "cf_name": "LifeSteal FR",
+  "cf_license": "",
+  "author": "Stoupy51",
+  "cf_downloads": 134406,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 5,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "spanish-delight-refabricated",
+  "name": "Spanish Delight Refabricated",
+  "mr_downloads": 130343,
+  "mr_license": "MIT",
+  "repo": "macuguita/Spanish-Delight-Refabricated",
+  "parents": [
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "adventure",
+   "fabric",
+   "food",
+   "quilt",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "emi",
+    "title": "EMI",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1049435902605967,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "E2LV3K2B",
+  "cf_slug": "spanish-delight-refabricated",
+  "cf_name": "Spanish Delight Refabricated",
+  "cf_license": "",
+  "author": "macuguita",
+  "cf_downloads": 130343,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 17,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "sushigocrafting",
+  "name": "Sushi Go Crafting",
+  "mr_downloads": 130215,
+  "mr_license": "MIT",
+  "repo": "Buuz135/SushiGoCrafting",
+  "parents": [],
+  "categories": [
+   "food",
+   "forge",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "titanium",
+    "title": "Titanium",
+    "license": "MIT"
+   },
+   {
+    "slug": "jei",
+    "title": "Just Enough Items (JEI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "patchouli",
+    "title": "Patchouli",
+    "license": "CC-BY-NC-SA-3.0"
+   }
+  ],
+  "project_id": 1056886907914222,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "G9WbcGQ2",
+  "cf_slug": "sushigocrafting",
+  "cf_name": "Sushi Go Crafting",
+  "cf_license": "",
+  "author": "buuz135",
+  "cf_downloads": 130215,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 67,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "btwce",
+  "name": "Better Than Wolves: CE",
+  "mr_downloads": 124797,
+  "mr_license": "CC-BY-4.0",
+  "repo": "BTW-Community/BTW-Public",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "cursed",
+   "decoration",
+   "equipment",
+   "food",
+   "game-mechanics",
+   "legacy-fabric",
+   "mobs",
+   "technology"
+  ],
+  "deps": [],
+  "project_id": 1090550631160176,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "PiC4CKoa",
+  "cf_slug": "btwce",
+  "cf_name": "Better Than Wolves: CE",
+  "cf_license": "",
+  "author": "TheLadyDawn",
+  "cf_downloads": 124797,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [],
+    "snippets": [
+     "a. Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, perfor",
+     "c. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights."
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "> You are free to modify and redistribute portions of BTW and its code as you wish, but I (FlowerChild) would appreciate acknowledgment if you do so. Keep in mind however that parts of BTW may be based on modified versions of Mojang's code and assets, and it is left to anyone redistributing portions of BTW to make sure they are appropriately considering Mojang's intellectual property and licensing as well."
+    ]
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "farmers-delight-expansion",
+  "name": "Farmer's Delight Expansion",
+  "mr_downloads": 114604,
+  "mr_license": "MIT",
+  "repo": "keishispl/farmers-delight-expansion",
+  "parents": [
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "jei",
+    "title": "Just Enough Items (JEI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "farmers-delight-fabric",
+    "title": "[Deprecated] Farmer's Delight [Fabric]",
+    "license": "MIT"
+   },
+   {
+    "slug": "rei",
+    "title": "Roughly Enough Items (REI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "emi",
+    "title": "EMI",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1084580258560419,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "O158bLYR",
+  "cf_slug": "farmers-delight-expansion",
+  "cf_name": "Farmer's Delight Expansion",
+  "cf_license": "",
+  "author": "keishispl",
+  "cf_downloads": 114604,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 11,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "vegehenna",
+  "name": "Vegehenna: A vegetarian's heaven?",
+  "mr_downloads": 113847,
+  "mr_license": "CC-BY-4.0",
+  "repo": "ivangeevo/vegehenna",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "game-mechanics",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "btwr-shared-library",
+    "title": "BTWR: Shared Library",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1123932800178745,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "ZBuCNYpF",
+  "cf_slug": "vegehenna",
+  "cf_name": "Vegehenna: A vegetarian's heaven?",
+  "cf_license": "",
+  "author": "ivangeevo",
+  "cf_downloads": 113847,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "CC-BY"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 17,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "dew-drop-mod-compat",
+  "name": "Dew Drop Mod Compat",
+  "mr_downloads": 113155,
+  "mr_license": "CC-BY-NC-SA-4.0",
+  "repo": "coolbot100s/Dew-Drop-Mod-Compat",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "datapack",
+   "food",
+   "forge",
+   "game-mechanics",
+   "library",
+   "neoforge",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "sturdy-farmland",
+    "title": "Sturdy Farmland",
+    "license": "CC-BY-NC-SA-4.0"
+   },
+   {
+    "slug": "dew-drop-watering-cans",
+    "title": "Watering Cans [Dew Drop]",
+    "license": "CC-BY-NC-SA-4.0"
+   },
+   {
+    "slug": "lets-do-farm-charm",
+    "title": "[Let's Do] Farm & Charm",
+    "license": "LicenseRef-Custom"
+   },
+   {
+    "slug": "aether",
+    "title": "The Aether",
+    "license": "LicenseRef-Custom"
+   },
+   {
+    "slug": "farming-for-blockheads",
+    "title": "Farming for Blockheads",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "forbidden-arcanus",
+    "title": "Forbidden and Arcanus ",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "immersive-weathering",
+    "title": "Immersive Weathering",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "mystical-agradditions",
+    "title": "Mystical Agradditions",
+    "license": "MIT"
+   },
+   {
+    "slug": "mystical-agriculture",
+    "title": "Mystical Agriculture",
+    "license": "MIT"
+   },
+   {
+    "slug": "biome-makeover",
+    "title": "Biome Makeover",
+    "license": "LicenseRef-Custom"
+   }
+  ],
+  "project_id": 1059057196081409,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "GljZYEtt",
+  "cf_slug": "dew-drop-mod-compat",
+  "cf_name": "Dew Drop Mod Compat",
+  "cf_license": "",
+  "author": "coolbot100s",
+  "cf_downloads": 113155,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "CC-BY-NC"
+    ],
+    "snippets": [
+     "a. Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, perfor",
+     "d. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights."
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "pearfection",
+  "name": "Pearfection",
+  "mr_downloads": 101523,
+  "mr_license": "Apache-2.0",
+  "repo": "DigitalPear/Pearfection-Fabric",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "mobs"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1151833858305041,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "h77S83wP",
+  "cf_slug": "pearfection",
+  "cf_name": "Pearfection",
+  "cf_license": "",
+  "author": "digitalpear",
+  "cf_downloads": 101523,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 9,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "ezbowls",
+  "name": "ezbowls",
+  "mr_downloads": 98017,
+  "mr_license": "CC0-1.0",
+  "repo": "penPNG/ezbowls",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "game-mechanics",
+   "management",
+   "utility"
+  ],
+  "deps": [],
+  "project_id": 1213039085174491,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "yUfhKaFv",
+  "cf_slug": "ezbowls",
+  "cf_name": "ezbowls",
+  "cf_license": "",
+  "author": "penPNG",
+  "cf_downloads": 98017,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "CC0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "farm-3x3",
+  "name": "Farm 3x3",
+  "mr_downloads": 93495,
+  "mr_license": "MIT",
+  "repo": "Raixu27/Farm3x3",
+  "parents": [],
+  "categories": [
+   "datapack",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "neoforge",
+   "quilt"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1135144120558797,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "cNHrBKWb",
+  "cf_slug": "farm-3x3",
+  "cf_name": "Farm 3x3",
+  "cf_license": "",
+  "author": "Raixu27",
+  "cf_downloads": 93495,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "classic-enchanted-golden-apple-crafting",
+  "name": "Classic Enchanted Golden Apple Crafting",
+  "mr_downloads": 92676,
+  "mr_license": "MIT",
+  "repo": "Jerrycyx/Classic-Enchanted-Golden-Apple-Crafting",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "datapack",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "neoforge",
+   "optimization",
+   "quilt",
+   "utility"
+  ],
+  "deps": [],
+  "project_id": 1104632896708913,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Ti7URSCn",
+  "cf_slug": "classic-enchanted-golden-apple-crafting",
+  "cf_name": "Classic Enchanted Golden Apple Crafting",
+  "cf_license": "",
+  "author": "Jerrycyx",
+  "cf_downloads": 92676,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "backrooms",
+  "name": "The Backrooms",
+  "mr_downloads": 90574,
+  "mr_license": "MIT",
+  "repo": "v-fast/BackroomsMod",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "cursed",
+   "decoration",
+   "fabric",
+   "food",
+   "mobs",
+   "quilt",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "libu",
+    "title": "LibuLib",
+    "license": "MIT"
+   },
+   {
+    "slug": "yacl",
+    "title": "YetAnotherConfigLib (YACL)",
+    "license": "LGPL-3.0-or-later"
+   },
+   {
+    "slug": "geckolib",
+    "title": "Geckolib",
+    "license": "MIT"
+   },
+   {
+    "slug": "satin-api",
+    "title": "Satin API",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "qsl",
+    "title": "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "modmenu",
+    "title": "Mod Menu",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1028396329483438,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "83vrcdt0",
+  "cf_slug": "backrooms",
+  "cf_name": "The Backrooms",
+  "cf_license": "",
+  "author": "Lumaa",
+  "cf_downloads": 90574,
+  "modrinth_only": true,
+  "docs": {
+   "CREDITS.md": {
+    "kinds": [],
+    "snippets": [
+     "### Additional credits - The [Backrooms Movie](https://w.wiki/KbY8), directed by [Kane Parsons](https://www.youtube.com/@kanepixels) - Archives of [the original Backrooms images](https://archive.org/download/backrooms-photos/807OREGON/) ([and some more](https://archive.org/download/backrooms-reference-fabfinds/01/)) pictured by Bob Mazza at 807 Oregon St, Oshkosh, WI 54902 (United States of America)"
+    ]
+   },
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 7,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "kaleidoscope-deco",
+  "name": "Kaleidoscope Deco",
+  "mr_downloads": 70554,
+  "mr_license": "CC-BY-NC-SA-4.0",
+  "repo": "KaleidoscopeMods/KaleidoscopeDeco",
+  "parents": [],
+  "categories": [
+   "datapack",
+   "decoration",
+   "fabric",
+   "food",
+   "forge",
+   "minecraft",
+   "neoforge",
+   "quilt"
+  ],
+  "deps": [],
+  "project_id": 1054384403327240,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "FRT0g2ye",
+  "cf_slug": "kaleidoscope-deco",
+  "cf_name": "Kaleidoscope Deco",
+  "cf_license": "",
+  "author": "YSBB",
+  "cf_downloads": 70554,
+  "modrinth_only": true,
+  "docs": {
+   "LICENCE": {
+    "kinds": [
+     "GPL"
+    ],
+    "snippets": [
+     "b) Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by a written offer, valid for at least three years and valid for as long as you offer spare parts or customer support for that product model, to give anyone who possesses the object code either (1) a copy of the Corresponding Source for all the software in the product that is covered by this Licens",
+     "An \"entity transaction\" is a transaction transferring control of an organization, or substantially all assets of one, or subdividing an organization, or merging organizations. If propagation of a covered work results from an entity transaction, each party to that transaction who receives a copy of the work also receives whatever licenses to the work the party's predecessor in interest had or could give under the prev"
+    ]
+   },
+   "LICENSE-ASSETS.txt": {
+    "kinds": [
+     "CC-BY-NC",
+     "CC-BY"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "README_EN.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 255,
+  "nested": [
+   "sets/credit_excp.config.json",
+   "src/kaleidoscope_credits/data/kaleidoscope/advancement/_tutorial/credits/credits.json",
+   "src/kaleidoscope_doll/data/kaleidoscope/function/doll/index/credits.mcfunction"
+  ],
+  "ok": true
+ },
+ {
+  "mr_slug": "sakura_mod",
+  "name": "Sakura Mod",
+  "mr_downloads": 68134,
+  "mr_license": "MIT",
+  "repo": "0999312/Sakura_mod",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "equipment",
+   "food",
+   "forge",
+   "neoforge",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "jei",
+    "title": "Just Enough Items (JEI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "mmlib",
+    "title": "Mysterious Mountain Lib",
+    "license": "MIT"
+   },
+   {
+    "slug": "patchouli",
+    "title": "Patchouli",
+    "license": "CC-BY-NC-SA-3.0"
+   }
+  ],
+  "project_id": 1105956883749130,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "U5QgI9Bi",
+  "cf_slug": "sakura_mod",
+  "cf_name": "Sakura Mod",
+  "cf_license": "",
+  "author": "Syameimaru_Zheng",
+  "cf_downloads": 68134,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 334,
+  "nested": [
+   "src/main/resources/licenses/LICENSE-FarmerDelight"
+  ],
+  "ok": true
+ },
+ {
+  "mr_slug": "nears",
+  "name": "Nears",
+  "mr_downloads": 66664,
+  "mr_license": "Apache-2.0",
+  "repo": "DigitalPear/Nears-Fabric",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "quilt",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1008482582868879,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "2PL7NFzr",
+  "cf_slug": "nears",
+  "cf_name": "Nears",
+  "cf_license": "",
+  "author": "digitalpear",
+  "cf_downloads": 66664,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 13,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "granular-hunger",
+  "name": "Granular Hunger",
+  "mr_downloads": 61474,
+  "mr_license": "CC0-1.0",
+  "repo": "Tetro48/FabricMod-GranularHunger",
+  "parents": [],
+  "categories": [
+   "cursed",
+   "fabric",
+   "food",
+   "game-mechanics"
+  ],
+  "deps": [
+   {
+    "slug": "yacl",
+    "title": "YetAnotherConfigLib (YACL)",
+    "license": "LGPL-3.0-or-later"
+   },
+   {
+    "slug": "appleskin",
+    "title": "AppleSkin",
+    "license": "Unlicense"
+   },
+   {
+    "slug": "fabric-language-kotlin",
+    "title": "Fabric Language Kotlin",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1005100012554016,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "1RmtIvwG",
+  "cf_slug": "granular-hunger",
+  "cf_name": "Granular Hunger",
+  "cf_license": "",
+  "author": "Tetro48",
+  "cf_downloads": 61474,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "CC0"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "miteequilibrium",
+  "name": "MITE:Equilibrium",
+  "mr_downloads": 57655,
+  "mr_license": "MIT",
+  "repo": "Lithewings/MITE_Equilibrium",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "equipment",
+   "fabric",
+   "food",
+   "mobs",
+   "neoforge",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "forgified-fabric-api",
+    "title": "Forgified Fabric API",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "connector",
+    "title": "Sinytra Connector",
+    "license": "MIT"
+   },
+   {
+    "slug": "patchouli",
+    "title": "Patchouli",
+    "license": "CC-BY-NC-SA-3.0"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1193234651441522,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "ss0GuuSA",
+  "cf_slug": "miteequilibrium",
+  "cf_name": "MITE:Equilibrium",
+  "cf_license": "",
+  "author": "Riz_0",
+  "cf_downloads": 57655,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 98,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "tropics",
+  "name": "Tropics",
+  "mr_downloads": 56743,
+  "mr_license": "MIT",
+  "repo": "maximmods/Tropics",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "game-mechanics",
+   "quilt",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "lib39",
+    "title": "Lib39",
+    "license": "MIT"
+   },
+   {
+    "slug": "kahur",
+    "title": "Kahur",
+    "license": "MIT"
+   },
+   {
+    "slug": "qsl",
+    "title": "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1112771915331236,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "W1Paq97E",
+  "cf_slug": "tropics",
+  "cf_name": "Tropics",
+  "cf_license": "",
+  "author": "Maximum",
+  "cf_downloads": 56743,
+  "modrinth_only": true,
+  "docs": {},
+  "items": null,
+  "nested": [],
+  "ok": false
+ },
+ {
+  "mr_slug": "farmers-delight-plus",
+  "name": "Farmer's Delight: Plus",
+  "mr_downloads": 55549,
+  "mr_license": "MIT",
+  "repo": "Johnyel/FarmersDelightPlus",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "decoration",
+   "food",
+   "forge"
+  ],
+  "deps": [],
+  "project_id": 1125840457436663,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "ZjUUZ0PX",
+  "cf_slug": "farmers-delight-plus",
+  "cf_name": "Farmer's Delight: Plus",
+  "cf_license": "",
+  "author": "Johnyele",
+  "cf_downloads": 55549,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 39,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "moisturization",
+  "name": "Moisturization",
+  "mr_downloads": 54441,
+  "mr_license": "MIT",
+  "repo": "RandomMcSomethin/moisturization",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "technology"
+  ],
+  "deps": [
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "simple-copper-pipes",
+    "title": "Simple Copper Pipes",
+    "license": "LicenseRef-FrozenBlock-Modding-Oasis-License-v1.0"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "modmenu",
+    "title": "Mod Menu",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1117840992126886,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "XSeiXn6s",
+  "cf_slug": "moisturization",
+  "cf_name": "Moisturization",
+  "cf_license": "",
+  "author": "randommcsomethin",
+  "cf_downloads": 54441,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "farmers-delight-extended",
+  "name": "Farmer's Delight: Extended",
+  "mr_downloads": 53984,
+  "mr_license": "MIT",
+  "repo": "eeveebeby/FarmersDelight-Extended",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "food",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "create",
+    "title": "Create",
+    "license": "LicenseRef-Create-Mod-License"
+   }
+  ],
+  "project_id": 1045652199909297,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "CxjQ2P6f",
+  "cf_slug": "farmers-delight-extended",
+  "cf_name": "Farmer's Delight: Extended",
+  "cf_license": "",
+  "author": "eeveebeby",
+  "cf_downloads": 53984,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "TEMPLATE_LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 53,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "no-wasting-horse-food",
+  "name": "No Wasting Horse Food",
+  "mr_downloads": 51163,
+  "mr_license": "MIT",
+  "repo": "RedRam567/RedRamMinecraftMods",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "mobs",
+   "utility"
+  ],
+  "deps": [],
+  "project_id": 1085926432385997,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "OOmXxWw9",
+  "cf_slug": "no-wasting-horse-food",
+  "cf_name": "No Wasting Horse Food",
+  "cf_license": "",
+  "author": "RedRam567",
+  "cf_downloads": 51163,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [
+   "datapacks/CoarseDirtToDirt/LICENSE",
+   "mods/EnchantableShears/LICENSE",
+   "mods/NoSpawningOnIce/LICENSE",
+   "mods/NoWastingHorseFood/LICENSE"
+  ],
+  "ok": true
+ },
+ {
+  "mr_slug": "unicopia",
+  "name": "Unicopia",
+  "mr_downloads": 46781,
+  "mr_license": "MIT",
+  "repo": "Sollace/Unicopia",
+  "parents": [
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "adventure",
+   "fabric",
+   "food",
+   "game-mechanics",
+   "magic",
+   "quilt"
+  ],
+  "deps": [
+   {
+    "slug": "kirin",
+    "title": "Kirin",
+    "license": "MIT"
+   },
+   {
+    "slug": "unicopia",
+    "title": "Unicopia",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabwork",
+    "title": "Fabwork",
+    "license": "MIT"
+   },
+   {
+    "slug": "farmers-delight-fabric",
+    "title": "[Deprecated] Farmer's Delight [Fabric]",
+    "license": "MIT"
+   },
+   {
+    "slug": "emi",
+    "title": "EMI",
+    "license": "MIT"
+   },
+   {
+    "slug": "big-pony",
+    "title": "Big Pony",
+    "license": "MIT"
+   },
+   {
+    "slug": "hd-skins",
+    "title": "HD Skins",
+    "license": "MIT"
+   },
+   {
+    "slug": "mine-little-pony",
+    "title": "Mine Little Pony",
+    "license": "MIT"
+   },
+   {
+    "slug": "trinkets",
+    "title": "Trinkets",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1032837352770904,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "9K7RJlvM",
+  "cf_slug": "unicopia",
+  "cf_name": "Unicopia",
+  "cf_license": "",
+  "author": "Sollace",
+  "cf_downloads": 46781,
+  "modrinth_only": true,
+  "docs": {
+   "OLD-README.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "README_CN.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "README_RU.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 293,
+  "nested": [
+   "src/main/resources/credits.txt"
+  ],
+  "ok": true
+ },
+ {
+  "mr_slug": "wills-farming-tweaks",
+  "name": "Will's Farming Tweaks",
+  "mr_downloads": 45038,
+  "mr_license": "MIT",
+  "repo": "WillPoulson/Wills-Farming-Tweaks",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "equipment",
+   "fabric",
+   "food",
+   "game-mechanics",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1085096290227306,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "OAAPRdFq",
+  "cf_slug": "wills-farming-tweaks",
+  "cf_name": "Will's Farming Tweaks",
+  "cf_license": "",
+  "author": "WillPoulson",
+  "cf_downloads": 45038,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "wcsm",
+  "name": "Chinese-style school and home: Unofficial version",
+  "mr_downloads": 42634,
+  "mr_license": "MIT",
+  "repo": "bii20081Aztec/CSSAHUV",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "forge",
+   "mobs",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "chinese-school-home-expansion-material-pack",
+    "title": "Chinese School & Home Expansion Material Pack",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "geckolib",
+    "title": "Geckolib",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1183139570244412,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "q0H2SzoC",
+  "cf_slug": "wcsm",
+  "cf_name": "Chinese-style school and home: Unofficial version",
+  "cf_license": "",
+  "author": "Noel-Cornehl",
+  "cf_downloads": 42634,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 44,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "farmers-expanse",
+  "name": "Farmers Expanse",
+  "mr_downloads": 41935,
+  "mr_license": "MIT",
+  "repo": "Greddode/Farmers-Expanse",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "food",
+   "neoforge"
+  ],
+  "deps": [],
+  "project_id": 1214575775059180,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "yvj40jgi",
+  "cf_slug": "farmers-expanse",
+  "cf_name": "Farmers Expanse",
+  "cf_license": "",
+  "author": "patrickrich07",
+  "cf_downloads": 41935,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "TEMPLATE_LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 79,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "gone-fishing",
+  "name": "Gone Fishing!",
+  "mr_downloads": 40989,
+  "mr_license": "MIT",
+  "repo": "patbox/gone-fishing",
+  "parents": [],
+  "categories": [
+   "equipment",
+   "fabric",
+   "food",
+   "game-mechanics"
+  ],
+  "deps": [
+   {
+    "slug": "polymer",
+    "title": "Polymer",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1049923864754080,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "EAw8Gldo",
+  "cf_slug": "gone-fishing",
+  "cf_name": "Gone Fishing!",
+  "cf_license": "",
+  "author": "Patbox",
+  "cf_downloads": 40989,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 68,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "herbal-delight",
+  "name": "Herbal Delight",
+  "mr_downloads": 40142,
+  "mr_license": "CC0-1.0",
+  "repo": "Super-McTea/herbal-delight",
+  "parents": [
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food"
+  ],
+  "deps": [
+   {
+    "slug": "farmers-delight-fabric",
+    "title": "[Deprecated] Farmer's Delight [Fabric]",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1069628932184154,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Jlr5zYqo",
+  "cf_slug": "herbal-delight",
+  "cf_name": "Herbal Delight",
+  "cf_license": "",
+  "author": "Super_McTea",
+  "cf_downloads": 40142,
+  "modrinth_only": true,
+  "docs": {},
+  "items": null,
+  "nested": [],
+  "ok": false
+ },
+ {
+  "mr_slug": "fishing-101",
+  "name": "Fishing 101",
+  "mr_downloads": 38393,
+  "mr_license": "MIT",
+  "repo": "Macck209/Fishing101",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "equipment",
+   "fabric",
+   "food"
+  ],
+  "deps": [],
+  "project_id": 1051417582433534,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "EbEalvSA",
+  "cf_slug": "fishing-101",
+  "cf_name": "Fishing 101",
+  "cf_license": "",
+  "author": "Macck209",
+  "cf_downloads": 38393,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 62,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "localizedfishingtables",
+  "name": "LocalizedFishingTables",
+  "mr_downloads": 36760,
+  "mr_license": "MIT",
+  "repo": "Simplexity-Development/localized_fishing_tables",
+  "parents": [],
+  "categories": [
+   "datapack",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "mobs",
+   "neoforge",
+   "quilt"
+  ],
+  "deps": [
+   {
+    "slug": "terralith",
+    "title": "Terralith",
+    "license": "LicenseRef-Stardust-Labs-License"
+   }
+  ],
+  "project_id": 1040134362581371,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "BOaS7IZn",
+  "cf_slug": "localizedfishingtables",
+  "cf_name": "LocalizedFishingTables",
+  "cf_license": "",
+  "author": "Rhythmic",
+  "cf_downloads": 36760,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "milk_plus",
+  "name": "Milk+",
+  "mr_downloads": 35765,
+  "mr_license": "MIT",
+  "repo": "TropheusJ/Milk-Plus",
+  "parents": [],
+  "categories": [
+   "cursed",
+   "fabric",
+   "food",
+   "quilt"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1085255072413076,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "OCxj9VC8",
+  "cf_slug": "milk_plus",
+  "cf_name": "Milk+",
+  "cf_license": "",
+  "author": "tropheusj",
+  "cf_downloads": 35765,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 1,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "farmers-crops",
+  "name": "Farmer's Crops",
+  "mr_downloads": 35764,
+  "mr_license": "MIT",
+  "repo": "JCS-Mecabricks/Farmers-Crops",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "fabric",
+   "food"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1175343944535604,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "nn1lRyR2",
+  "cf_slug": "farmers-crops",
+  "cf_name": "Farmer's Crops",
+  "cf_license": "",
+  "author": "JCS",
+  "cf_downloads": 35764,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "CC0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 11,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "coffeecraft",
+  "name": "CoffeeCraft",
+  "mr_downloads": 34894,
+  "mr_license": "MIT",
+  "repo": "vautheman/coffeecraft",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "food",
+   "forge"
+  ],
+  "deps": [
+   {
+    "slug": "geckolib",
+    "title": "Geckolib",
+    "license": "MIT"
+   },
+   {
+    "slug": "patchouli",
+    "title": "Patchouli",
+    "license": "CC-BY-NC-SA-3.0"
+   }
+  ],
+  "project_id": 1091721302266676,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Q2nuGziu",
+  "cf_slug": "coffeecraft",
+  "cf_name": "CoffeeCraft",
+  "cf_license": "",
+  "author": "blockbrothers.mods",
+  "cf_downloads": 34894,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/vautheman/coffeecraft/mc1.20.1/.assets/banner-curseforge.png\" alt=\"Logo\" width=\"100%\"></p> <h1 align=\"center\">CoffeeCraft <br> <a href=\"https://patreon.com/BlockBrothers\"><img src=\"https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dblockbrothers%26type%3Dpatrons&style=flat&label=Supporters&color=ff5733\" al"
+    ]
+   }
+  },
+  "items": 8,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "mystias_izakaya",
+  "name": "mystia_izakaya",
+  "mr_downloads": 32581,
+  "mr_license": "MIT",
+  "repo": "Crystal1921/mystias_izakaya",
+  "parents": [],
+  "categories": [
+   "food",
+   "neoforge"
+  ],
+  "deps": [],
+  "project_id": 1206200936734076,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "wYHYKbT2",
+  "cf_slug": "mystias_izakaya",
+  "cf_name": "mystia_izakaya",
+  "cf_license": "",
+  "author": "Crystal1921",
+  "cf_downloads": 32581,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "TEMPLATE_LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 233,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "kaleidoscope-nether-refabricated",
+  "name": "Kaleidoscope Nether Refabricated",
+  "mr_downloads": 28146,
+  "mr_license": "MIT",
+  "repo": "NightEpiphany/KaleidoscopeNether-Refabricated",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "kaleidoscope-cookery-refabricated",
+    "title": "Kaleidoscope Cookery Refabricated",
+    "license": "CC-BY-NC-SA-4.0"
+   },
+   {
+    "slug": "forge-config-api-port",
+    "title": "Forge Config API Port",
+    "license": "MPL-2.0"
+   }
+  ],
+  "project_id": 1158517663173156,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "j0n7o8uq",
+  "cf_slug": "kaleidoscope-nether-refabricated",
+  "cf_name": "Kaleidoscope Nether Refabricated",
+  "cf_license": "",
+  "author": "NightEpiphany0401",
+  "cf_downloads": 28146,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 104,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "oceans-delight-polymer-port",
+  "name": "Ocean's Delight (Polymer Port)",
+  "mr_downloads": 25137,
+  "mr_license": "MIT",
+  "repo": "SunPhoen1x/Oceans-Delight-Port",
+  "parents": [
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "adventure",
+   "decoration",
+   "fabric",
+   "food",
+   "game-mechanics",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "polymer",
+    "title": "Polymer",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1136113998792297,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "ceMWRYd7",
+  "cf_slug": "oceans-delight-polymer-port",
+  "cf_name": "Ocean's Delight (Polymer Port)",
+  "cf_license": "",
+  "author": "Sun_Phoen1x",
+  "cf_downloads": 25137,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 22,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "createdoener",
+  "name": "Create Döner",
+  "mr_downloads": 24616,
+  "mr_license": "MIT",
+  "repo": "PixelboysTM/createdoener",
+  "parents": [],
+  "categories": [
+   "food",
+   "forge",
+   "game-mechanics",
+   "technology"
+  ],
+  "deps": [
+   {
+    "slug": "create",
+    "title": "Create",
+    "license": "LicenseRef-Create-Mod-License"
+   }
+  ],
+  "project_id": 1123701466783626,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Z7pgiD50",
+  "cf_slug": "createdoener",
+  "cf_name": "Create Döner",
+  "cf_license": "",
+  "author": "PixelboysTM",
+  "cf_downloads": 24616,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "ARR"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 3,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "spanish-delight",
+  "name": "Spanish Delight",
+  "mr_downloads": 23562,
+  "mr_license": "MIT",
+  "repo": "DevJulen/SpanishDelight-Forge",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "adventure",
+   "food",
+   "forge",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "jei",
+    "title": "Just Enough Items (JEI)",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1124616808172784,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "ZNwp9Ods",
+  "cf_slug": "spanish-delight",
+  "cf_name": "Spanish Delight",
+  "cf_license": "",
+  "author": "DevJulen",
+  "cf_downloads": 23562,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "<p dir=\"auto\"><span style=\"font-size: 14px;\">⚙️ <strong>Dependencies:</strong></span></p> <p dir=\"auto\"><span style=\"font-size: 14px;\">You will need <strong>Farmers Delight</strong> and Forge to run this mod, and optionally but highly recommended <strong>JEI</strong> !</span></p> <p dir=\"auto\"><span style=\"font-size: 14px;\">🧾 <strong>More:</strong></span></p> <p dir=\"auto\"><span style=\"font-size: 14px;\">I'm planning "
+    ]
+   }
+  },
+  "items": 17,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "psittacine",
+  "name": "Psittacine",
+  "mr_downloads": 20849,
+  "mr_license": "CC-BY-NC-SA-4.0",
+  "repo": "MisterHyacinth/Psittacine",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "game-mechanics",
+   "mobs",
+   "utility",
+   "worldgen"
+  ],
+  "deps": [],
+  "project_id": 1205482231705679,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "wLd3PXzz",
+  "cf_slug": "psittacine",
+  "cf_name": "Psittacine",
+  "cf_license": "",
+  "author": "MisterHyacinth",
+  "cf_downloads": 20849,
+  "modrinth_only": true,
+  "docs": {
+   "CREDITS": {
+    "kinds": [],
+    "snippets": []
+   },
+   "LICENSE": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 15,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "optimal-eat",
+  "name": "Optimal Eat",
+  "mr_downloads": 20628,
+  "mr_license": "Apache-2.0",
+  "repo": "sootysplash/optimal-eat",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "game-mechanics",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "modmenu",
+    "title": "Mod Menu",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1167092476718613,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "lRkuxv8P",
+  "cf_slug": "optimal-eat",
+  "cf_name": "Optimal Eat",
+  "cf_license": "",
+  "author": "sootysplash",
+  "cf_downloads": 20628,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "bygone",
+  "name": "The Bygone",
+  "mr_downloads": 20472,
+  "mr_license": "MIT",
+  "repo": "jamieohdev/the-bygone",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "decoration",
+   "equipment",
+   "fabric",
+   "food",
+   "mobs",
+   "neoforge",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "jinxedlib",
+    "title": "JinxedLib",
+    "license": "LicenseRef-KekeCreations-License-Version-1.0-January-2025"
+   },
+   {
+    "slug": "custom-portal-api-reforged",
+    "title": "Custom Portal API Reforged",
+    "license": "MIT"
+   },
+   {
+    "slug": "lithostitched",
+    "title": "Lithostitched",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1088162861087303,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "P29i0RkN",
+  "cf_slug": "bygone",
+  "cf_name": "The Bygone",
+  "cf_license": "",
+  "author": "juniperdev",
+  "cf_downloads": 20472,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "assets.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "credits.txt": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 151,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "crystal-tools",
+  "name": "Crystal Tools",
+  "mr_downloads": 20447,
+  "mr_license": "MIT",
+  "repo": "will-y/crystal-tools",
+  "parents": [],
+  "categories": [
+   "equipment",
+   "food",
+   "forge",
+   "neoforge",
+   "technology",
+   "utility"
+  ],
+  "deps": [],
+  "project_id": 1159714339911033,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "jLrLpmWX",
+  "cf_slug": "crystal-tools",
+  "cf_name": "Crystal Tools",
+  "cf_license": "",
+  "author": "will-y",
+  "cf_downloads": 20447,
+  "modrinth_only": true,
+  "docs": {
+   "CREDITS.txt": {
+    "kinds": [],
+    "snippets": []
+   },
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 34,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "tough-as-nails-create-addon",
+  "name": "Tough As Nails Create Addon",
+  "mr_downloads": 19326,
+  "mr_license": "MIT",
+  "repo": "LorpOOO/Tought-As-Nails-Create-Addon",
+  "parents": [],
+  "categories": [
+   "food",
+   "forge",
+   "neoforge",
+   "storage",
+   "technology",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "tough-as-nails",
+    "title": "Tough As Nails",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "create",
+    "title": "Create",
+    "license": "LicenseRef-Create-Mod-License"
+   }
+  ],
+  "project_id": 1121813519917026,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "YaauRYg6",
+  "cf_slug": "tough-as-nails-create-addon",
+  "cf_name": "Tough As Nails Create Addon",
+  "cf_license": "",
+  "author": "Lorp_OOO",
+  "cf_downloads": 19326,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   },
+   "TEMPLATE_LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 11,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "photosynthesis",
+  "name": "Photosynthesis",
+  "mr_downloads": 17901,
+  "mr_license": "MIT",
+  "repo": "Zuiron/Photosynthesis",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "game-mechanics",
+   "mobs",
+   "technology",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "snow-real-magic",
+    "title": "Snow! Real Magic! ⛄",
+    "license": "MIT"
+   },
+   {
+    "slug": "rightclickharvest",
+    "title": "RightClickHarvest",
+    "license": "MIT"
+   },
+   {
+    "slug": "rei",
+    "title": "Roughly Enough Items (REI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "create-fabric",
+    "title": "Create Fabric",
+    "license": "MIT"
+   },
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "patchouli",
+    "title": "Patchouli",
+    "license": "CC-BY-NC-SA-3.0"
+   },
+   {
+    "slug": "wthit",
+    "title": "WTHIT",
+    "license": "CC-BY-NC-SA-4.0"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "modmenu",
+    "title": "Mod Menu",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1130285129125133,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "azk3ASDN",
+  "cf_slug": "photosynthesis",
+  "cf_name": "Photosynthesis",
+  "cf_license": "",
+  "author": "Zuiron",
+  "cf_downloads": 17901,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 556,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "borukva-food-exotic",
+  "name": "Borukva Food Exotic",
+  "mr_downloads": 17831,
+  "mr_license": "Apache-2.0",
+  "repo": "SunPhoen1x/Borukva-Food-Exotic",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food"
+  ],
+  "deps": [
+   {
+    "slug": "borukva-food",
+    "title": "Borukva Food",
+    "license": "CC-BY-SA-4.0"
+   },
+   {
+    "slug": "polymer",
+    "title": "Polymer",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1178349396401971,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "odwLjifj",
+  "cf_slug": "borukva-food-exotic",
+  "cf_name": "Borukva Food Exotic",
+  "cf_license": "",
+  "author": "Sun_Phoen1x",
+  "cf_downloads": 17831,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [],
+    "snippets": [
+     "a. Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, perfor",
+     "d. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights."
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 71,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "foodstats",
+  "name": "食物增强",
+  "mr_downloads": 17535,
+  "mr_license": "CC-BY-NC-SA-4.0",
+  "repo": "minghai987/minecraft_mod_foodstats",
+  "parents": [
+   "kaleidoscope-cookery"
+  ],
+  "categories": [
+   "food",
+   "forge",
+   "game-mechanics",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "kaleidoscopetavern",
+    "title": "Kaleidoscope Tavern",
+    "license": "CC-BY-NC-SA-4.0"
+   },
+   {
+    "slug": "jei",
+    "title": "Just Enough Items (JEI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1081786441309128,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "NDtYqsVE",
+  "cf_slug": "foodstats",
+  "cf_name": "食物增强",
+  "cf_license": "",
+  "author": "ming_hai",
+  "cf_downloads": 17535,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "CC-BY-NC"
+    ],
+    "snippets": [
+     "a. Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, perfor",
+     "d. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights."
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "death-animations",
+  "name": "Death Animations [WIP]",
+  "mr_downloads": 17015,
+  "mr_license": "Apache-2.0",
+  "repo": "Tschipcraft/deathanimations_test",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "datapack",
+   "decoration",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "mobs",
+   "quilt"
+  ],
+  "deps": [],
+  "project_id": 1200879651961634,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "v2b8FzRy",
+  "cf_slug": "death-animations",
+  "cf_name": "Death Animations [WIP]",
+  "cf_license": "",
+  "author": "Tschipcraft",
+  "cf_downloads": 17015,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 1,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "solar-cooker",
+  "name": "Solar Cooker",
+  "mr_downloads": 16811,
+  "mr_license": "MIT",
+  "repo": "cech12/SolarCooker",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "neoforge",
+   "quilt",
+   "technology",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "jei",
+    "title": "Just Enough Items (JEI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "modmenu",
+    "title": "Mod Menu",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1066482471496372,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "IsSapAeq",
+  "cf_slug": "solar-cooker",
+  "cf_name": "Solar Cooker",
+  "cf_license": "",
+  "author": "cech12",
+  "cf_downloads": 16811,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 1,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "resource-cracker",
+  "name": "Resource Cracker/Tools",
+  "mr_downloads": 16781,
+  "mr_license": "MIT",
+  "repo": "Morthen-Mods/Resource-Cracker",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "neoforge",
+   "quilt"
+  ],
+  "deps": [
+   {
+    "slug": "resource-config-api",
+    "title": "Resource Config API",
+    "license": "MIT"
+   },
+   {
+    "slug": "resource-library",
+    "title": "Resource Library",
+    "license": "MIT"
+   },
+   {
+    "slug": "simple-config-api",
+    "title": "Simple Config API [Discontinued]",
+    "license": "MIT"
+   },
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "forge-config-api-port",
+    "title": "Forge Config API Port",
+    "license": "MPL-2.0"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "modmenu",
+    "title": "Mod Menu",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1154761572614123,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "hwfBSwLz",
+  "cf_slug": "resource-cracker",
+  "cf_name": "Resource Cracker/Tools",
+  "cf_license": "",
+  "author": "Morthen",
+  "cf_downloads": 16781,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 42,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "more-crustacean",
+  "name": "More Crustacean",
+  "mr_downloads": 16762,
+  "mr_license": "CC-BY-NC-SA-4.0",
+  "repo": "whiteheket/More-Crustacean",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "equipment",
+   "fabric",
+   "food",
+   "mobs",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "nutritionz",
+    "title": "NutritionZ",
+    "license": "MIT"
+   },
+   {
+    "slug": "geckolib",
+    "title": "Geckolib",
+    "license": "MIT"
+   },
+   {
+    "slug": "farmers-delight-fabric",
+    "title": "[Deprecated] Farmer's Delight [Fabric]",
+    "license": "MIT"
+   },
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1060261888642521,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "H6wY3SJ7",
+  "cf_slug": "more-crustacean",
+  "cf_name": "More Crustacean",
+  "cf_license": "",
+  "author": "White_Heket",
+  "cf_downloads": 16762,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "umapyoi-fabric",
+  "name": "Umapyoi Fabricated",
+  "mr_downloads": 16759,
+  "mr_license": "MIT",
+  "repo": "LeadRDRK/umapyoi-fabric",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "equipment",
+   "fabric",
+   "food",
+   "magic",
+   "social"
+  ],
+  "deps": [
+   {
+    "slug": "trinkets-updated",
+    "title": "Trinkets Updated",
+    "license": "MIT"
+   },
+   {
+    "slug": "create-fly",
+    "title": "Create Fly",
+    "license": "CC0-1.0"
+   },
+   {
+    "slug": "trinkets-canary",
+    "title": "Trinkets Canary",
+    "license": "MIT"
+   },
+   {
+    "slug": "modonomicon",
+    "title": "Modonomicon",
+    "license": "MIT AND CC-BY-4.0"
+   },
+   {
+    "slug": "yacl",
+    "title": "YetAnotherConfigLib (YACL)",
+    "license": "LGPL-3.0-or-later"
+   },
+   {
+    "slug": "create-fabric",
+    "title": "Create Fabric",
+    "license": "MIT"
+   },
+   {
+    "slug": "patchouli",
+    "title": "Patchouli",
+    "license": "CC-BY-NC-SA-3.0"
+   },
+   {
+    "slug": "owo-lib",
+    "title": "oωo (owo-lib)",
+    "license": "MIT"
+   },
+   {
+    "slug": "trinkets",
+    "title": "Trinkets",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1207857375730106,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "x1Rd7p5W",
+  "cf_slug": "umapyoi-fabric",
+  "cf_name": "Umapyoi Fabricated",
+  "cf_license": "",
+  "author": "Lead",
+  "cf_downloads": 16759,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 67,
+  "nested": [
+   "src/main/resources/assets/umapyoi/patchouli_books/trainers_manual/en_us/entries/prologue/credits.json",
+   "src/main/resources/assets/umapyoi/patchouli_books/trainers_manual/ja_jp/entries/prologue/credits.json",
+   "src/main/resources/assets/umapyoi/patchouli_books/trainers_manual/ko_kr/entries/prologue/credits.json",
+   "src/main/resources/assets/umapyoi/patchouli_books/trainers_manual/zh_cn/entries/prologue/credits.json",
+   "src/main/resources/assets/umapyoi/patchouli_books/trainers_manual/zh_hk/entries/prologue/credits.json",
+   "src/main/resources/assets/umapyoi/patchouli_books/trainers_manual/zh_tw/entries/prologue/credits.json"
+  ],
+  "ok": true
+ },
+ {
+  "mr_slug": "nether-additions",
+  "name": "Nether Additions",
+  "mr_downloads": 16010,
+  "mr_license": "Apache-2.0",
+  "repo": "FlenarnDev/Nether-Additions",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "decoration",
+   "fabric",
+   "food",
+   "quilt"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1157965973970714,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "ir4voTKE",
+  "cf_slug": "nether-additions",
+  "cf_name": "Nether Additions",
+  "cf_license": "",
+  "author": "flenarn",
+  "cf_downloads": 16010,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "Apache-2.0"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 7,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "origins-rockeater",
+  "name": "Origins: Rockeater",
+  "mr_downloads": 15779,
+  "mr_license": "MIT",
+  "repo": "Kawatt/Rockeater-Origin",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "datapack",
+   "fabric",
+   "food"
+  ],
+  "deps": [
+   {
+    "slug": "origins",
+    "title": "Origins",
+    "license": "MIT"
+   },
+   {
+    "slug": "pehkui",
+    "title": "Pehkui",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1044100724769187,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "CWPukpKF",
+  "cf_slug": "origins-rockeater",
+  "cf_name": "Origins: Rockeater",
+  "cf_license": "",
+  "author": "Kawatt",
+  "cf_downloads": 15779,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "tasty-supplies",
+  "name": "Tasty Supplies",
+  "mr_downloads": 15777,
+  "mr_license": "MIT",
+  "repo": "atomic-junky/tasty-supplies",
+  "parents": [],
+  "categories": [
+   "16x",
+   "adventure",
+   "datapack",
+   "equipment",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "items",
+   "minecraft",
+   "neoforge",
+   "quilt",
+   "tweaks",
+   "vanilla-like"
+  ],
+  "deps": [],
+  "project_id": 1099840554943519,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "SLkQznH5",
+  "cf_slug": "tasty-supplies",
+  "cf_name": "Tasty Supplies",
+  "cf_license": "",
+  "author": "OneShrimpADay",
+  "cf_downloads": 15777,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 114,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "el-and-ls-dye-mod",
+  "name": "El and L's Dyes",
+  "mr_downloads": 15619,
+  "mr_license": "MIT",
+  "repo": "Tellios-Projects/Mint",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "decoration",
+   "fabric",
+   "food",
+   "game-mechanics",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "geckolib",
+    "title": "Geckolib",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-language-kotlin",
+    "title": "Fabric Language Kotlin",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1041272014180165,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "BicFZT9B",
+  "cf_slug": "el-and-ls-dye-mod",
+  "cf_name": "El and L's Dyes",
+  "cf_license": "",
+  "author": "Leafenzo",
+  "cf_downloads": 15619,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT",
+     "ARR"
+    ],
+    "snippets": [
+     "Clauses are as follows: - The \"Non-Compat Assets\" (anything under paths \"common/src/resources/assets/mint\") are All Rights Reserved, unless otherwise noted."
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 381,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "timo",
+  "name": "Timo",
+  "mr_downloads": 15405,
+  "mr_license": "BSD-3-Clause",
+  "repo": "MC-datapack/Timo",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "cursed",
+   "datapack",
+   "fabric",
+   "food",
+   "forge",
+   "neoforge",
+   "optimization",
+   "quilt",
+   "technology",
+   "utility",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "just-enough-resources-jer",
+    "title": "Just Enough Resources (JER)",
+    "license": "LicenseRef-Dont-Be-a-Jerk"
+   },
+   {
+    "slug": "jei",
+    "title": "Just Enough Items (JEI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "datapackportals",
+    "title": "Datapack Portals",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1104576566013213,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Th80Dayj",
+  "cf_slug": "timo",
+  "cf_name": "Timo",
+  "cf_license": "",
+  "author": "Timo_11",
+  "cf_downloads": 15405,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "BSD"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "repurposed-structures-farmers-delight-compat",
+  "name": "Repurposed Structures - Farmer's Delight Compat",
+  "mr_downloads": 3763906,
+  "mr_license": "MIT",
+  "repo": "TelepathicGrunt/RepurposedStructuresCompatDatapacks",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "datapack",
+   "fabric",
+   "neoforge",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "farmers-delight-fabric",
+    "title": "[Deprecated] Farmer's Delight [Fabric]",
+    "license": "MIT"
+   },
+   {
+    "slug": "repurposed-structures-fabric",
+    "title": "Repurposed Structures - Fabric",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "repurposed-structures-forge",
+    "title": "Repurposed Structures - Neoforge/Forge",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1088377666515096,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "P5wB88AS",
+  "cf_slug": "repurposed-structures-farmers-delight-compat",
+  "cf_name": "Repurposed Structures - Farmer's Delight Compat",
+  "cf_license": "",
+  "author": "TelepathicGrunt",
+  "cf_downloads": 3763906,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "kitchen-projectiles",
+  "name": "Kitchen Projectiles",
+  "mr_downloads": 108672,
+  "mr_license": "MIT",
+  "repo": "ThePotatoArchivist/KitchenProjectiles",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "equipment",
+   "fabric",
+   "game-mechanics",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "forgified-fabric-api",
+    "title": "Forgified Fabric API",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "enchancement",
+    "title": "Enchancement",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1040713790949923,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "BYmvNgRP",
+  "cf_slug": "kitchen-projectiles",
+  "cf_name": "Kitchen Projectiles",
+  "cf_license": "",
+  "author": "ThePotatoArchivist",
+  "cf_downloads": 108672,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "project-mmo-farmers-delight",
+  "name": "Project MMO: Farmer's Delight Compat",
+  "mr_downloads": 39089,
+  "mr_license": "CC-BY-4.0",
+  "repo": "Silvertide7/pmmo_farmers_compat",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "forge",
+   "game-mechanics",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "project-mmo",
+    "title": "Project MMO",
+    "license": "LicenseRef-All-Rights-Reserved"
+   }
+  ],
+  "project_id": 1163171334414467,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "kKiocPqN",
+  "cf_slug": "project-mmo-farmers-delight",
+  "cf_name": "Project MMO: Farmer's Delight Compat",
+  "cf_license": "",
+  "author": "Silvertide",
+  "cf_downloads": 39089,
+  "modrinth_only": true,
+  "docs": {
+   "CREDITS.txt": {
+    "kinds": [],
+    "snippets": []
+   },
+   "LICENSE.txt": {
+    "kinds": [
+     "ARR"
+    ],
+    "snippets": []
+   },
+   "README.txt": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "storage-delight-polymer",
+  "name": "Polymer Patch for Storage Delight",
+  "mr_downloads": 13692,
+  "mr_license": "MIT",
+  "repo": "SunPhoen1x/Storage-Delight-Patch",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "decoration",
+   "fabric",
+   "food",
+   "quilt",
+   "storage",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "storage-delight",
+    "title": "Storage Delight",
+    "license": "MIT"
+   },
+   {
+    "slug": "polymer",
+    "title": "Polymer",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1052107799597197,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "EnNzknvx",
+  "cf_slug": "storage-delight-polymer",
+  "cf_name": "Polymer Patch for Storage Delight",
+  "cf_license": "",
+  "author": "Sun_Phoen1x",
+  "cf_downloads": 13692,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "more-delight-polymer",
+  "name": "Polymer Patch for More Delight",
+  "mr_downloads": 13561,
+  "mr_license": "MIT",
+  "repo": "SunPhoen1x/More-Deligth-Patch",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "decoration",
+   "fabric",
+   "food",
+   "quilt",
+   "storage",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "more-delight",
+    "title": "More Delight (for Farmer's Delight)",
+    "license": "MIT"
+   },
+   {
+    "slug": "polymer",
+    "title": "Polymer",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1095537392960006,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "R7zLAe7K",
+  "cf_slug": "more-delight-polymer",
+  "cf_name": "Polymer Patch for More Delight",
+  "cf_license": "",
+  "author": "Sun_Phoen1x",
+  "cf_downloads": 13561,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "hungersdelight",
+  "name": "Hunger's Delight",
+  "mr_downloads": 11869,
+  "mr_license": "MIT",
+  "repo": "nico-nico-nyx/hungersdelight",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "game-mechanics"
+  ],
+  "deps": [],
+  "project_id": 1113094926111817,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "W76AqSmv",
+  "cf_slug": "hungersdelight",
+  "cf_name": "Hunger's Delight",
+  "cf_license": "",
+  "author": "Nico_Nico_Nyx",
+  "cf_downloads": 11869,
+  "modrinth_only": true,
+  "docs": {},
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "creates-delight",
+  "name": "Create's Delight",
+  "mr_downloads": 11267,
+  "mr_license": "MIT",
+  "repo": "Phoupraw/CreateSDelightFabricJava",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food"
+  ],
+  "deps": [
+   {
+    "slug": "enchlevel-langpatch",
+    "title": "Enchantment Level Language Patch",
+    "license": "WTFPL"
+   },
+   {
+    "slug": "farmers-delight-fabric",
+    "title": "[Deprecated] Farmer's Delight [Fabric]",
+    "license": "MIT"
+   },
+   {
+    "slug": "rei",
+    "title": "Roughly Enough Items (REI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "create-fabric",
+    "title": "Create Fabric",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1120246325478135,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Y90FLPCZ",
+  "cf_slug": "creates-delight",
+  "cf_name": "Create's Delight",
+  "cf_license": "",
+  "author": "phoupraw",
+  "cf_downloads": 11267,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 37,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "millet-delight",
+  "name": "Millet Delight",
+  "mr_downloads": 11201,
+  "mr_license": "MIT",
+  "repo": "DreaMemory2/MilletDelight",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "fabric",
+   "food",
+   "neoforge",
+   "utility"
+  ],
+  "deps": [],
+  "project_id": 1086742986377731,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Od9qsrfH",
+  "cf_slug": "millet-delight",
+  "cf_name": "Millet Delight",
+  "cf_license": "",
+  "author": "DreaMemory2",
+  "cf_downloads": 11201,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 42,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "veggie-delight",
+  "name": "Veggie Delight",
+  "mr_downloads": 10353,
+  "mr_license": "MIT",
+  "repo": "ElectroArtifex/veggiedelight-1.20.1",
+  "parents": [
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "fabric",
+   "food",
+   "quilt",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "extra-mod-integrations",
+    "title": "EMI Addon: Extra Mod Integrations",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1163447985303974,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "kPanBM3S",
+  "cf_slug": "veggie-delight",
+  "cf_name": "Veggie Delight",
+  "cf_license": "",
+  "author": "ElectroArtifex",
+  "cf_downloads": 10353,
+  "modrinth_only": true,
+  "docs": {},
+  "items": 28,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "slavic-cuisine",
+  "name": "Slavic Cuisine",
+  "mr_downloads": 9813,
+  "mr_license": "MIT",
+  "repo": "palkercode/slavic-cuisine",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "food",
+   "forge"
+  ],
+  "deps": [],
+  "project_id": 1054772121691570,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "FYIDon7y",
+  "cf_slug": "slavic-cuisine",
+  "cf_name": "Slavic Cuisine",
+  "cf_license": "",
+  "author": "Palker",
+  "cf_downloads": 9813,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "ARR"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 7,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "crate-delight-polymer",
+  "name": "Polymer Patch for Crate Delight",
+  "mr_downloads": 9771,
+  "mr_license": "MIT",
+  "repo": "SunPhoen1x/Crate-Delight-Patch",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "decoration",
+   "fabric",
+   "food",
+   "quilt"
+  ],
+  "deps": [
+   {
+    "slug": "crate-delight",
+    "title": "Crate Delight",
+    "license": "MIT"
+   },
+   {
+    "slug": "polymer",
+    "title": "Polymer",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1163751429991196,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "kUw12L2C",
+  "cf_slug": "crate-delight-polymer",
+  "cf_name": "Polymer Patch for Crate Delight",
+  "cf_license": "",
+  "author": "Sun_Phoen1x",
+  "cf_downloads": 9771,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "large-meals",
+  "name": "Large Meals",
+  "mr_downloads": 9354,
+  "mr_license": "MIT",
+  "repo": "KreloX/Large-Meals",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "neoforge"
+  ],
+  "deps": [],
+  "project_id": 1203062849798409,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "vf2Brcj3",
+  "cf_slug": "large-meals",
+  "cf_name": "Large Meals",
+  "cf_license": "",
+  "author": "KreloX",
+  "cf_downloads": 9354,
+  "modrinth_only": true,
+  "docs": {},
+  "items": 18,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "vietnams-delight-reborn",
+  "name": "Vietnam's Delight Reborn",
+  "mr_downloads": 9127,
+  "mr_license": "Apache-2.0",
+  "repo": "MikeStorm03/vietnams-delight",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "fabric",
+   "neoforge",
+   "quilt"
+  ],
+  "deps": [
+   {
+    "slug": "corn-delight-fabric",
+    "title": "Corn Delight [Fabric/Quilt]",
+    "license": "MIT"
+   },
+   {
+    "slug": "custombrewrecipes",
+    "title": "CustomBrewRecipes",
+    "license": "CC0-1.0"
+   },
+   {
+    "slug": "corn-delight",
+    "title": "Corn Delight",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1042078405846532,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "BwoSkioe",
+  "cf_slug": "vietnams-delight-reborn",
+  "cf_name": "Vietnam's Delight Reborn",
+  "cf_license": "",
+  "author": "",
+  "cf_downloads": 9127,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 11,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "spanish-delight-polymer",
+  "name": "Polymer Patch for Spanish Delight",
+  "mr_downloads": 8896,
+  "mr_license": "MIT",
+  "repo": "SunPhoen1x/Spanish-Delight-Patch",
+  "parents": [
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "adventure",
+   "fabric",
+   "food",
+   "quilt",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "spanish-delight-refabricated",
+    "title": "Spanish Delight Refabricated",
+    "license": "MIT"
+   },
+   {
+    "slug": "spanish-delight",
+    "title": "Spanish Delight",
+    "license": "MIT"
+   },
+   {
+    "slug": "polymer",
+    "title": "Polymer",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1062748690180690,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Hoj0HHPe",
+  "cf_slug": "spanish-delight-polymer",
+  "cf_name": "Polymer Patch for Spanish Delight",
+  "cf_license": "",
+  "author": "Sun_Phoen1x",
+  "cf_downloads": 8896,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "touhoupixelcanteen",
+  "name": "Gensokyo Izakaya",
+  "mr_downloads": 8499,
+  "mr_license": "MIT",
+  "repo": "Aurora4123/TouhouPixelCanteen",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "forge",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "improperui-forged",
+    "title": "ImproperUI Forged",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1157761475107223,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "inTiC56F",
+  "cf_slug": "touhoupixelcanteen",
+  "cf_name": "Gensokyo Izakaya",
+  "cf_license": "",
+  "author": "HatsukiYukina",
+  "cf_downloads": 8499,
+  "modrinth_only": true,
+  "docs": {
+   "CREDITS.txt": {
+    "kinds": [],
+    "snippets": []
+   },
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 23,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "ttcrc",
+  "name": "Terrestria, Traverse & Cinderscape Recipe Compat",
+  "mr_downloads": 8411,
+  "mr_license": "MIT",
+  "repo": "22858/ttcrc",
+  "parents": [
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "datapack",
+   "fabric",
+   "game-mechanics",
+   "quilt",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "farmers-delight-fabric",
+    "title": "[Deprecated] Farmer's Delight [Fabric]",
+    "license": "MIT"
+   },
+   {
+    "slug": "create-fabric",
+    "title": "Create Fabric",
+    "license": "MIT"
+   },
+   {
+    "slug": "cinderscapes",
+    "title": "Cinderscapes",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "terrestria",
+    "title": "Terrestria",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "traverse",
+    "title": "Traverse",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1133141314428117,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "bo1hiuaD",
+  "cf_slug": "ttcrc",
+  "cf_name": "Terrestria, Traverse & Cinderscape Recipe Compat",
+  "cf_license": "",
+  "author": "taguima",
+  "cf_downloads": 8411,
+  "modrinth_only": true,
+  "docs": {},
+  "items": null,
+  "nested": [],
+  "ok": false
+ },
+ {
+  "mr_slug": "abundant-delight",
+  "name": "Abundant Delight",
+  "mr_downloads": 7102,
+  "mr_license": "MIT",
+  "repo": "Magafin/Abundant_Delight",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "decoration",
+   "food",
+   "game-mechanics",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "abundant-atmosphere",
+    "title": "Abundant Atmosphere",
+    "license": "LicenseRef-All-Rights-Reserved"
+   }
+  ],
+  "project_id": 1004371904348717,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "1Ey816bd",
+  "cf_slug": "abundant-delight",
+  "cf_name": "Abundant Delight",
+  "cf_license": "",
+  "author": "Magafin",
+  "cf_downloads": 7102,
+  "modrinth_only": true,
+  "docs": {},
+  "items": 11,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "enderscapes-delight",
+  "name": "Enderscape's Delight",
+  "mr_downloads": 6171,
+  "mr_license": "MIT",
+  "repo": "BrixianBlu/Enderscape-s-Delight",
+  "parents": [
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "adventure",
+   "fabric",
+   "food",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "enderscape",
+    "title": "Enderscape",
+    "license": "LicenseRef-Enderscape-Mod-License"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1168884096132191,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "lxIYCOcB",
+  "cf_slug": "enderscapes-delight",
+  "cf_name": "Enderscape's Delight",
+  "cf_license": "",
+  "author": "blubrixian",
+  "cf_downloads": 6171,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "CC0"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 17,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "teyvats-delight",
+  "name": "Teyvat's Delight",
+  "mr_downloads": 5973,
+  "mr_license": "MIT",
+  "repo": "Gu0che/teyvat-delight-neoforge",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "adventure",
+   "decoration",
+   "food",
+   "forge",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "caelus",
+    "title": "Caelus API",
+    "license": "LGPL-3.0-or-later"
+   },
+   {
+    "slug": "curios",
+    "title": "Curios API",
+    "license": "LGPL-3.0-or-later"
+   }
+  ],
+  "project_id": 1211465753239653,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "y2yKs7iH",
+  "cf_slug": "teyvats-delight",
+  "cf_name": "Teyvat's Delight",
+  "cf_license": "",
+  "author": "Gu0che",
+  "cf_downloads": 5973,
+  "modrinth_only": true,
+  "docs": {
+   "ASSETS_LICENSE.md": {
+    "kinds": [],
+    "snippets": [
+     "# 资产许可 / Asset License",
+     "Source code and technical data are licensed under [MIT](LICENSE). Textures, models, animations, and audio assets are excluded from the MIT license.",
+     "Third-party assets remain the property of their respective rights holders and are subject to their terms."
+    ]
+   },
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 177,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "immersive-cooking-adoon",
+  "name": "Immersive Cooking & Farming",
+  "mr_downloads": 4410,
+  "mr_license": "MIT",
+  "repo": "akkiserver-dev/Immersive-Cooking",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "food",
+   "forge",
+   "neoforge",
+   "technology",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "brewin-and-chewin",
+    "title": "Brewin' And Chewin'",
+    "license": "LicenseRef-All-Rights-Reserved"
+   },
+   {
+    "slug": "lets-do-farm-charm",
+    "title": "[Let's Do] Farm & Charm",
+    "license": "LicenseRef-Custom"
+   },
+   {
+    "slug": "lets-do-vinery",
+    "title": "[Let's Do] Vinery",
+    "license": "LicenseRef-custom"
+   },
+   {
+    "slug": "immersiveengineering",
+    "title": "Immersive Engineering",
+    "license": "LicenseRef-Custom"
+   }
+  ],
+  "project_id": 1056306649884927,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "FzJEChtX",
+  "cf_slug": "immersive-cooking-adoon",
+  "cf_name": "Immersive Cooking & Farming",
+  "cf_license": "",
+  "author": "akki697222",
+  "cf_downloads": 4410,
+  "modrinth_only": true,
+  "docs": {
+   "CREDITS.md": {
+    "kinds": [],
+    "snippets": [
+     "# Immersive Cooking - Credits - vectorwing / Farmer's Delight - Cookpot active sounds - BluSunrize / Immersive Engineering - Base mod concept and multiblock/rendering framework - Flaxbeard & TwistedGate / Immersive Petroleum - Implementation reference for multiblock mechanisms - fridge_compressor_hum_noises.wav (Advanced Wine Cellar sounds) by sarana -- https://freesound.org/s/110460/ -- License: Attribution 4.0"
+    ]
+   },
+   "LICENSE.md": {
+    "kinds": [
+     "MPL-2.0"
+    ],
+    "snippets": []
+   },
+   "LICENSE_FARMERSDELIGHT": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "LICENSE_IE": {
+    "kinds": [],
+    "snippets": [
+     "#### On the topic of *resources*: - Always give credit to original artists/creators - Always ask for permission before copying assets - Addon mods are allowed to use and remix art & model assets for the sole purpose of being addons. When in doubt, better ask."
+    ]
+   },
+   "NOTICE.md": {
+    "kinds": [
+     "MIT",
+     "MPL-2.0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 4,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "equestria-delight",
+  "name": "Equestria Delight",
+  "mr_downloads": 4311,
+  "mr_license": "MIT",
+  "repo": "tiffbu/equestria_delight",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "decoration",
+   "food",
+   "forge"
+  ],
+  "deps": [
+   {
+    "slug": "ponyorigins",
+    "title": "Pony Origins",
+    "license": "LicenseRef-0BSD"
+   }
+  ],
+  "project_id": 1023541973960736,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "6gT7LZnE",
+  "cf_slug": "equestria-delight",
+  "cf_name": "Equestria Delight",
+  "cf_license": "",
+  "author": "tiffbu",
+  "cf_downloads": 4311,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 1,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "salmonberry-addition",
+  "name": "Salmonberry Addition",
+  "mr_downloads": 4011,
+  "mr_license": "MIT",
+  "repo": "VIDN1TE/SalmonberryAddition",
+  "parents": [],
+  "categories": [
+   "food",
+   "forge"
+  ],
+  "deps": [],
+  "project_id": 1094292345923613,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "Qm4JeAEX",
+  "cf_slug": "salmonberry-addition",
+  "cf_name": "Salmonberry Addition",
+  "cf_license": "",
+  "author": "VIDN1TE",
+  "cf_downloads": 4011,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 6,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "international-food",
+  "name": "International Food - A Farmer's Delight Addon",
+  "mr_downloads": 3915,
+  "mr_license": "MIT",
+  "repo": "Tommybutz-Original/International_Food",
+  "parents": [
+   "farmers-delight",
+   "farmers-delight-refabricated"
+  ],
+  "categories": [
+   "equipment",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "mobs",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "geckolib",
+    "title": "Geckolib",
+    "license": "MIT"
+   },
+   {
+    "slug": "architectury-api",
+    "title": "Architectury API",
+    "license": "LGPL-3.0-only"
+   }
+  ],
+  "project_id": 1027896964107925,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "7v8mgPun",
+  "cf_slug": "international-food",
+  "cf_name": "International Food - A Farmer's Delight Addon",
+  "cf_license": "",
+  "author": "tommybutz_Original",
+  "cf_downloads": 3915,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "cutt_promix",
+  "name": "Pro Assistant Cutting Board",
+  "mr_downloads": 3827,
+  "mr_license": "MIT",
+  "repo": "HQBDH/cutt_promix",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "forge",
+   "neoforge"
+  ],
+  "deps": [],
+  "project_id": 1202501485897895,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "vV9R7uD9",
+  "cf_slug": "cutt_promix",
+  "cf_name": "Pro Assistant Cutting Board",
+  "cf_license": "",
+  "author": "HQBDH",
+  "cf_downloads": 3827,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "irregular-chef",
+  "name": "Irregular Chef",
+  "mr_downloads": 3391,
+  "mr_license": "MIT",
+  "repo": "davidjjung/irregularchef",
+  "parents": [
+   "farmers-delight"
+  ],
+  "categories": [
+   "cursed",
+   "food",
+   "forge"
+  ],
+  "deps": [
+   {
+    "slug": "autumnity",
+    "title": "Autumnity",
+    "license": "LicenseRef-Abnormals-License"
+   },
+   {
+    "slug": "neapolitan",
+    "title": "Neapolitan",
+    "license": "LicenseRef-Abnormals-License"
+   },
+   {
+    "slug": "environmental",
+    "title": "Environmental",
+    "license": "LicenseRef-Abnormals-License"
+   },
+   {
+    "slug": "blueprint",
+    "title": "Blueprint",
+    "license": "LicenseRef-Abnormals-License"
+   },
+   {
+    "slug": "atmospheric",
+    "title": "Atmospheric",
+    "license": "LicenseRef-Abnormals-License"
+   },
+   {
+    "slug": "upgrade-aquatic",
+    "title": "Upgrade Aquatic",
+    "license": "LicenseRef-Abnormals-License"
+   }
+  ],
+  "project_id": 1049545474763888,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "E4H6Qvjs",
+  "cf_slug": "irregular-chef",
+  "cf_name": "Irregular Chef",
+  "cf_license": "",
+  "author": "davigj",
+  "cf_downloads": 3391,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 20,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "crafty-cuisine",
+  "name": "Crafty Cuisine - Vanilla Inspired Food",
+  "mr_downloads": 12746,
+  "mr_license": "MIT",
+  "repo": "RandomMcSomethin/Crafty-Cuisine",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food"
+  ],
+  "deps": [
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1010716630735461,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "32fgIQw1",
+  "cf_slug": "crafty-cuisine",
+  "cf_name": "Crafty Cuisine - Vanilla Inspired Food",
+  "cf_license": "",
+  "author": "randommcsomethin",
+  "cf_downloads": 12746,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 32,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "betafood",
+  "name": "BetaFood",
+  "mr_downloads": 12221,
+  "mr_license": "MIT",
+  "repo": "jumanji144/BetaFood",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "game-mechanics",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1077375502058230,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "LyEp7If8",
+  "cf_slug": "betafood",
+  "cf_name": "BetaFood",
+  "cf_license": "",
+  "author": "Nowilltolife",
+  "cf_downloads": 12221,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "silly-eatables",
+  "name": "Silly Eatables",
+  "mr_downloads": 8879,
+  "mr_license": "MIT",
+  "repo": "Classics-Craftworks/Silly-Eatables",
+  "parents": [],
+  "categories": [
+   "cursed",
+   "datapack",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "neoforge",
+   "quilt",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1036498612621660,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "AMZruzFM",
+  "cf_slug": "silly-eatables",
+  "cf_name": "Silly Eatables",
+  "cf_license": "",
+  "author": "Classic",
+  "cf_downloads": 8879,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "retro-hunger-mod",
+  "name": "Retro Hunger Mod",
+  "mr_downloads": 8308,
+  "mr_license": "MIT",
+  "repo": "Shi3ofreniR/RetroHungerMod",
+  "parents": [],
+  "categories": [
+   "food",
+   "forge",
+   "game-mechanics"
+  ],
+  "deps": [],
+  "project_id": 1075016704947542,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "LIi5h0ac",
+  "cf_slug": "retro-hunger-mod",
+  "cf_name": "Retro Hunger Mod",
+  "cf_license": "",
+  "author": "ImNero",
+  "cf_downloads": 8308,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE.txt": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "moreupgradetemplate",
+  "name": "MoreUpgradeTemplate(更多锻造模板)",
+  "mr_downloads": 8064,
+  "mr_license": "MIT",
+  "repo": "lyingice/more-upgrade-template",
+  "parents": [],
+  "categories": [
+   "equipment",
+   "food",
+   "forge",
+   "neoforge",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "spear-core",
+    "title": "Spear Core",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1025154612946638,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "78rNwPvS",
+  "cf_slug": "moreupgradetemplate",
+  "cf_name": "MoreUpgradeTemplate(更多锻造模板)",
+  "cf_license": "",
+  "author": "lying-ice",
+  "cf_downloads": 8064,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 1187,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "actionhunger",
+  "name": "ActionHunger",
+  "mr_downloads": 7904,
+  "mr_license": "CC0-1.0",
+  "repo": "Minenash/ActionHunger",
+  "parents": [],
+  "categories": [
+   "fabric",
+   "food",
+   "game-mechanics",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1110085455041509,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "VG7CYY0D",
+  "cf_slug": "actionhunger",
+  "cf_name": "ActionHunger",
+  "cf_license": "",
+  "author": "VoidLock",
+  "cf_downloads": 7904,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "CC0"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "sauces",
+  "name": "Sauces",
+  "mr_downloads": 5755,
+  "mr_license": "MIT",
+  "repo": "AOMIAOMAO/Sauces",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food",
+   "game-mechanics",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "farmers-delight-fabric",
+    "title": "[Deprecated] Farmer's Delight [Fabric]",
+    "license": "MIT"
+   },
+   {
+    "slug": "rei",
+    "title": "Roughly Enough Items (REI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "emi",
+    "title": "EMI",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1103661111502105,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "TR0k7lEH",
+  "cf_slug": "sauces",
+  "cf_name": "Sauces",
+  "cf_license": "",
+  "author": "MaoMao",
+  "cf_downloads": 5755,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 8,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "minerslunchbox",
+  "name": "Miner's Lunchbox",
+  "mr_downloads": 5331,
+  "mr_license": "MIT",
+  "repo": "Nova-Committee/MinersLunchbox",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "cursed",
+   "fabric",
+   "food",
+   "quilt",
+   "storage"
+  ],
+  "deps": [],
+  "project_id": 1143896824204012,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "erNpBpzY",
+  "cf_slug": "minerslunchbox",
+  "cf_name": "Miner's Lunchbox",
+  "cf_license": "",
+  "author": "moechakucha",
+  "cf_downloads": 5331,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 4,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "carnival-foods",
+  "name": "Carnival Foods",
+  "mr_downloads": 5083,
+  "mr_license": "Apache-2.0",
+  "repo": "AnAwesomGuy/carnival-foods",
+  "parents": [],
+  "categories": [
+   "decoration",
+   "fabric",
+   "food"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1207334215549507,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "wsEZr1KV",
+  "cf_slug": "carnival-foods",
+  "cf_name": "Carnival Foods",
+  "cf_license": "",
+  "author": "AnAwesomGuy",
+  "cf_downloads": 5083,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 6,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "create-more-potatoes",
+  "name": "Create More Potatoes",
+  "mr_downloads": 4945,
+  "mr_license": "MIT",
+  "repo": "Forsteri123/CreateMorePotatoes",
+  "parents": [],
+  "categories": [
+   "equipment",
+   "fabric",
+   "food",
+   "forge"
+  ],
+  "deps": [
+   {
+    "slug": "create",
+    "title": "Create",
+    "license": "LicenseRef-Create-Mod-License"
+   },
+   {
+    "slug": "create-fabric",
+    "title": "Create Fabric",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1044882174623962,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "CkAtymPy",
+  "cf_slug": "create-more-potatoes",
+  "cf_name": "Create More Potatoes",
+  "cf_license": "",
+  "author": "Forsteri123",
+  "cf_downloads": 4945,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "ARR"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 9,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "magicalfoods",
+  "name": "Magical Foods Pack",
+  "mr_downloads": 4890,
+  "mr_license": "MIT",
+  "repo": "Tchongas/datapacks",
+  "parents": [],
+  "categories": [
+   "cursed",
+   "datapack",
+   "fabric",
+   "food",
+   "forge",
+   "game-mechanics",
+   "magic",
+   "neoforge",
+   "quilt"
+  ],
+  "deps": [
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1149081200541115,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "gKensbmd",
+  "cf_slug": "magicalfoods",
+  "cf_name": "Magical Foods Pack",
+  "cf_license": "",
+  "author": "tchongass1",
+  "cf_downloads": 4890,
+  "modrinth_only": true,
+  "docs": {},
+  "items": 32,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "nourished",
+  "name": "Nourished",
+  "mr_downloads": 4590,
+  "mr_license": "MIT",
+  "repo": "kgbcupcake/nourished",
+  "parents": [],
+  "categories": [
+   "food",
+   "game-mechanics",
+   "management",
+   "neoforge"
+  ],
+  "deps": [
+   {
+    "slug": "marieslib",
+    "title": "MariesLib",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "modonomicon",
+    "title": "Modonomicon",
+    "license": "MIT AND CC-BY-4.0"
+   },
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "patchouli",
+    "title": "Patchouli",
+    "license": "CC-BY-NC-SA-3.0"
+   }
+  ],
+  "project_id": 1149837286058282,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "gXy6YNys",
+  "cf_slug": "nourished",
+  "cf_name": "Nourished",
+  "cf_license": "",
+  "author": "kgbcupcake",
+  "cf_downloads": 4590,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 5,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "memefoods",
+  "name": "Meme Foods",
+  "mr_downloads": 4340,
+  "mr_license": "MIT",
+  "repo": "DaRealPSL/brainrotfoods",
+  "parents": [],
+  "categories": [
+   "cursed",
+   "fabric",
+   "food"
+  ],
+  "deps": [],
+  "project_id": 1114905277144901,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "WcyFkuBx",
+  "cf_slug": "memefoods",
+  "cf_name": "Meme Foods",
+  "cf_license": "",
+  "author": "DaRealPSL",
+  "cf_downloads": 4340,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "CC0"
+    ],
+    "snippets": []
+   }
+  },
+  "items": 11,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "bagels-baking",
+  "name": "Bagel's Baking",
+  "mr_downloads": 3961,
+  "mr_license": "MIT",
+  "repo": "hugeblank/Bagels_Baking",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "decoration",
+   "fabric",
+   "food"
+  ],
+  "deps": [
+   {
+    "slug": "rei",
+    "title": "Roughly Enough Items (REI)",
+    "license": "MIT"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   }
+  ],
+  "project_id": 1060877847871435,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "HHmtZbjv",
+  "cf_slug": "bagels-baking",
+  "cf_name": "Bagel's Baking",
+  "cf_license": "",
+  "author": "hugeblank",
+  "cf_downloads": 3961,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 233,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "bettereats",
+  "name": "BetterEats",
+  "mr_downloads": 3634,
+  "mr_license": "MIT",
+  "repo": "Meldeq-crypto/BetterEats",
+  "parents": [],
+  "categories": [
+   "equipment",
+   "fabric",
+   "food",
+   "management",
+   "utility"
+  ],
+  "deps": [],
+  "project_id": 1130649255061099,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "b69Vfm0Z",
+  "cf_slug": "bettereats",
+  "cf_name": "BetterEats",
+  "cf_license": "",
+  "author": "Maldeq-crypto",
+  "cf_downloads": 3634,
+  "modrinth_only": true,
+  "docs": {
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "b1.7.3-not-enough-food",
+  "name": "[b1.7.3] Not Enough Food",
+  "mr_downloads": 3628,
+  "mr_license": "MIT",
+  "repo": "louiszn/not-enough-food",
+  "parents": [],
+  "categories": [
+   "babric",
+   "food",
+   "game-mechanics",
+   "utility"
+  ],
+  "deps": [
+   {
+    "slug": "stationapi",
+    "title": "StationAPI",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1101595724863078,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "SqeHTuI2",
+  "cf_slug": "b1.7.3-not-enough-food",
+  "cf_name": "[b1.7.3] Not Enough Food",
+  "cf_license": "",
+  "author": "louiszn",
+  "cf_downloads": 3628,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": []
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "assorted-discoveries",
+  "name": "Assorted Discoveries",
+  "mr_downloads": 3188,
+  "mr_license": "MIT",
+  "repo": "rndmaccess/assorted-discoveries-fabric",
+  "parents": [],
+  "categories": [
+   "adventure",
+   "decoration",
+   "fabric",
+   "food",
+   "worldgen"
+  ],
+  "deps": [
+   {
+    "slug": "cloth-config",
+    "title": "Cloth Config API",
+    "license": "LGPL-3.0-only"
+   },
+   {
+    "slug": "fabric-api",
+    "title": "Fabric API",
+    "license": "Apache-2.0"
+   },
+   {
+    "slug": "modmenu",
+    "title": "Mod Menu",
+    "license": "MIT"
+   }
+  ],
+  "project_id": 1128232231482326,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "aPbDj9i2",
+  "cf_slug": "assorted-discoveries",
+  "cf_name": "Assorted Discoveries",
+  "cf_license": "",
+  "author": "rndmaccess",
+  "cf_downloads": 3188,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE.md": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": [
+     "## Code and Asset License (MIT):",
+     "------------------------------------------------------------------------------ ### THIRD-PARTY ASSET NOTICES AND LICENSES",
+     "The following assets are used under the MIT License (included below):",
+     "1. Copied Assets: - Paths: * `assets/assorted-discoveries/crate_bottom.png` * `assets/assorted-discoveries/bag_bottom.png` (originally `rice_bag_bottom.png`) * `assets/assorted-discoveries/bag_side_tied.png` (originally `rice_bag_side_tied.png`) - Usage: Used exactly as-is from Farmer's Delight for crates. - Copyright: Copyright (c) 2020 vectorwing"
+    ]
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "Assets for this project are licensed under All Rights Reserved. The code for this project is licensed under the MIT license. This license can be found here: [LICENSE](./LICENSE.md)."
+    ]
+   }
+  },
+  "items": 63,
+  "nested": [],
+  "ok": true
+ },
+ {
+  "mr_slug": "chefs-dream",
+  "name": "Chef's Dream",
+  "mr_downloads": 3894,
+  "mr_license": "MIT",
+  "repo": "lemoncodes237/chefs-dream",
+  "parents": [],
+  "categories": [
+   "datapack",
+   "fabric",
+   "food",
+   "forge",
+   "neoforge",
+   "quilt"
+  ],
+  "deps": [],
+  "project_id": 1173224154346020,
+  "status": "not on CurseForge under the same name",
+  "mr_id": "nBhv0Mku",
+  "cf_slug": "chefs-dream",
+  "cf_name": "Chef's Dream",
+  "cf_license": "",
+  "author": "YJMinecraft",
+  "cf_downloads": 3894,
+  "modrinth_only": true,
+  "docs": {
+   "LICENSE": {
+    "kinds": [
+     "MIT"
+    ],
+    "snippets": []
+   },
+   "README.md": {
+    "kinds": [],
+    "snippets": [
+     "## License The required resource pack utilizes some textures from the Croptopia mod and Farmer's Delight mod under the MIT License."
+    ]
+   }
+  },
+  "items": 0,
+  "nested": [],
+  "ok": true
+ }
+]

@@ -1,0 +1,648 @@
+t-shirt	T恤	tee|tee shirt|短袖T恤
+white dress shirt	白衬衫	dress shirt|衬衣
+polo shirt	Polo衫	翻领T恤|马球衫
+hawaiian shirt	夏威夷衬衫	aloha shirt|花衬衫
+plaid flannel shirt	格子衬衫	flannel shirt|法兰绒衬衫
+hoodie	连帽卫衣	hooded sweatshirt|卫衣|帽衫
+knit sweater	毛衣	pullover|jumper|针织衫
+cardigan	开衫	cardigan sweater|针织开衫
+turtleneck sweater	高领毛衣	turtleneck|polo neck
+tank top	背心	sleeveless shirt|无袖背心
+blue jeans	牛仔裤	jeans|denim pants
+shorts	短裤	short pants|休闲短裤
+cargo pants	工装裤	cargo trousers
+sweatpants	运动裤	joggers|卫裤
+leggings	打底裤	tights|紧身裤
+pleated skirt	百褶裙	pleated mini skirt
+tutu	芭蕾舞裙	ballet tutu|蓬蓬裙
+red evening gown	红色晚礼服	evening dress|晚礼服
+wedding dress	婚纱	bridal gown
+sundress	吊带裙	summer dress|太阳裙
+qipao	旗袍	cheongsam
+kimono	和服	
+hanbok	韩服	
+sari	纱丽	saree
+kilt	苏格兰裙	tartan kilt|格子裙
+hanfu robe	汉服	hanfu
+poncho	套头斗篷	庞乔斗篷|南美披风
+cape	披风	cloak|斗篷
+suit jacket	西装外套	blazer|西服
+tuxedo	男士礼服	dinner jacket|无尾礼服
+waistcoat	西装马甲	vest|马甲
+trench coat	风衣	
+leather jacket	皮夹克	biker jacket|皮衣
+denim jacket	牛仔外套	jean jacket|牛仔夹克
+puffer jacket	羽绒服	down jacket|棉服
+yellow raincoat	雨衣	raincoat|rain slicker
+bomber jacket	飞行夹克	flight jacket
+varsity jacket	棒球服	letterman jacket|棒球夹克
+bathrobe	浴袍	dressing gown
+pajamas	睡衣	pyjamas|pjs
+overalls	背带裤	dungarees
+swim trunks	泳裤	swimming trunks|沙滩裤
+one-piece swimsuit	连体泳衣	swimsuit|泳衣
+bikini	比基尼	
+wetsuit	潜水服	diving suit|湿式潜水衣
+bra	文胸	brassiere|胸罩
+boxer shorts	平角内裤	boxers|四角裤
+briefs	三角内裤	underpants|内裤
+socks	袜子	pair of socks
+striped knee socks	条纹长筒袜	knee-high socks
+apron	围裙	kitchen apron
+soccer jersey	足球球衣	football shirt|球衣
+basketball jersey	篮球服	basketball uniform|篮球背心
+karate gi	空手道服	martial arts uniform|道服
+leotard	体操服	gymnastics leotard
+graduation gown	学士服	academic gown
+baseball cap	棒球帽	cap|鸭舌帽
+beanie	毛线帽	knit cap|针织帽
+top hat	礼帽	高礼帽|高顶礼帽
+fedora	软呢帽	fedora hat|绅士帽
+bowler hat	圆顶礼帽	derby hat
+cowboy hat	牛仔帽	western hat
+straw hat	草帽	sun hat
+beret	贝雷帽	
+bucket hat	渔夫帽	fisherman hat
+sombrero	墨西哥草帽	墨西哥帽
+flat cap	报童帽	newsboy cap
+ushanka	雷锋帽	fur hat|trapper hat|护耳帽
+conical bamboo hat	斗笠	rice hat|竹笠
+turban	包头巾	
+fez	菲斯帽	tarboosh|土耳其毡帽
+graduation cap	学士帽	mortarboard|方帽
+party hat	派对帽	cone party hat|生日帽
+santa hat	圣诞帽	
+witch hat	女巫帽	wizard hat|巫师帽
+jester hat	小丑帽	fool's cap
+crown	王冠	royal crown|皇冠
+tiara	钻石头冠	diadem|皇冠头饰
+paper crown	纸皇冠	paper party crown
+chef hat	厨师帽	toque
+pirate hat	海盗帽	tricorn hat|三角帽
+viking helmet	维京头盔	horned helmet|牛角盔
+sun visor	空顶帽	visor|遮阳帽
+headband	发带	sweatband|头带
+earmuffs	耳罩	ear warmers|保暖耳罩
+bandana	头巾	kerchief|方巾
+bridal veil	新娘头纱	veil|头纱
+swim cap	泳帽	swimming cap
+bicycle helmet	自行车头盔	bike helmet|骑行头盔
+motorcycle helmet	摩托车头盔	crash helmet
+football helmet	橄榄球头盔	american football helmet
+flower crown	花环头饰	floral wreath|花冠
+hair bow	蝴蝶结发夹	bow hair clip
+bunny ears headband	兔耳朵发箍	rabbit ears
+red sneaker	红色运动鞋	sneaker|trainer|运动鞋
+high-top canvas shoe	高帮帆布鞋	canvas sneaker|帆布鞋
+running shoe	跑鞋	jogging shoe|跑步鞋
+leather dress shoe	皮鞋	oxford shoe|牛津鞋
+loafer	乐福鞋	penny loafer|懒人鞋
+high heel shoe	高跟鞋	stiletto|pump
+ballet slipper	芭蕾舞鞋	pointe shoe|足尖鞋
+sandal	凉鞋	
+flip-flop	人字拖	thong sandal|夹脚拖
+slipper	拖鞋	house slipper|棉拖鞋
+foam clog	洞洞鞋	clog sandal
+wooden clog	木鞋	dutch clog
+geta	木屐	japanese wooden sandal
+cowboy boot	牛仔靴	western boot
+rain boot	雨靴	wellington boot|rubber boot|雨鞋
+hiking boot	登山靴	trekking boot|登山鞋
+combat boot	军靴	military boot|作战靴
+snow boot	雪地靴	sheepskin boot|winter boot
+knee-high boot	长筒靴	tall boot|高筒靴
+ice skate	冰鞋	figure skate|溜冰鞋
+roller skate	旱冰鞋	quad skate|四轮滑冰鞋
+inline skate	直排轮滑鞋	单排轮滑鞋|轮滑鞋
+soccer cleat	足球鞋	football boot|钉鞋
+ski boot	滑雪靴	
+moccasin	莫卡辛鞋	软皮鞋
+espadrille	草编鞋	麻底鞋
+cloth shoe	布鞋	chinese cloth shoe|老北京布鞋
+embroidered shoe	绣花鞋	
+swim fin	脚蹼	flipper|diving fin|蛙鞋
+shoelace	鞋带	
+backpack	双肩包	rucksack|背包|书包
+hiking backpack	登山包	trekking pack
+leather handbag	手提包	handbag|purse|女包
+tote bag	托特包	canvas tote|帆布袋
+messenger bag	邮差包	shoulder bag|斜挎包
+briefcase	公文包	attache case
+duffel bag	旅行袋	gym bag|行李袋
+rolling suitcase	拉杆箱	suitcase|行李箱|旅行箱
+fanny pack	腰包	waist bag|belt bag
+clutch bag	手拿包	evening clutch|晚宴包
+drawstring bag	束口袋	drawstring pouch|抽绳袋
+coin purse	零钱包	change purse
+leather wallet	钱包	wallet|皮夹
+guitar case	吉他盒	guitar hard case|琴盒
+golf bag	高尔夫球包	
+makeup bag	化妆包	cosmetic bag
+eyeglasses	眼镜	spectacles|glasses
+round glasses	圆框眼镜	round spectacles
+sunglasses	太阳镜	shades|墨镜
+aviator sunglasses	飞行员墨镜	pilot sunglasses|蛤蟆镜
+monocle	单片眼镜	
+swim goggles	泳镜	swimming goggles
+ski goggles	滑雪镜	snow goggles|雪镜
+3d glasses	3D眼镜	red-blue glasses|红蓝眼镜
+opera glasses	观剧望远镜	theater binoculars
+eye patch	独眼罩	pirate eye patch|海盗眼罩
+sleep mask	睡眠眼罩	eye mask
+glasses case	眼镜盒	
+contact lens case	隐形眼镜盒	
+masquerade mask	假面舞会面具	venetian mask|威尼斯面具
+snorkel mask	浮潜面镜	diving mask|潜水镜
+snorkel	呼吸管	浮潜呼吸管
+diamond ring	钻戒	engagement ring|钻石戒指
+gold ring	金戒指	gold band|wedding band
+pearl necklace	珍珠项链	string of pearls
+gold chain necklace	金项链	gold chain
+pendant necklace	吊坠项链	pendant|吊坠
+locket	相片吊坠盒	locket pendant|盒式吊坠
+choker	颈链	choker necklace|项圈
+jade pendant	玉佩	jade charm|玉坠
+jade bangle	玉镯	jade bracelet|翡翠手镯
+silver bangle	银手镯	bangle
+charm bracelet	串饰手链	bracelet|手链
+friendship bracelet	编织手绳	woven bracelet|手绳
+prayer beads	佛珠	mala beads|念珠|手串
+anklet	脚链	ankle bracelet
+hoop earrings	圈形耳环	hoop earring|大耳环
+stud earrings	耳钉	ear stud
+drop earrings	耳坠	dangle earrings
+brooch	胸针	pin brooch
+cufflinks	袖扣	cuff links
+tie clip	领带夹	tie bar
+necktie	领带	tie
+bow tie	领结	bowtie|蝴蝶领结
+knit scarf	围巾	scarf|winter scarf
+silk scarf	丝巾	
+shawl	披肩	wrap
+leather belt	皮带	belt|腰带
+suspenders	背带	braces|吊裤带
+knit gloves	毛线手套	gloves|wool gloves
+leather gloves	皮手套	
+fingerless gloves	露指手套	half-finger gloves
+mittens	连指手套	mitts
+umbrella	雨伞	
+oil-paper umbrella	油纸伞	paper parasol|parasol
+folding fan	折扇	hand fan|纸扇
+round silk fan	团扇	circular fan
+hairpin	发簪	hair stick|簪子
+hair clip	发夹	barrette|发卡
+bobby pin	一字夹	hair grip
+scrunchie	发圈	hair tie|大肠发圈
+pocket watch	怀表	
+wristwatch	手表	analog watch|腕表
+digital watch	电子表	digital wristwatch
+smartwatch	智能手表	smart watch
+stopwatch	秒表	
+whistle	哨子	referee whistle|口哨
+keychain	钥匙扣	key ring|钥匙圈
+lapel pin	徽章	pin badge|enamel pin|胸章
+gold medal	金牌	medal|奖牌
+trophy cup	奖杯	trophy|gold cup
+award rosette	奖章绶带	prize ribbon|rosette
+handkerchief	手帕	hankie|手绢
+lanyard badge	挂绳工牌	lanyard|胸牌
+walking cane	手杖	walking stick|拐杖
+wig	假发	
+fake mustache	假胡子	stick-on moustache
+ring box	戒指盒	wedding ring box
+jewelry box	首饰盒	jewellery box|珠宝盒
+lipstick	口红	lip stick
+lip balm	润唇膏	lip salve|唇膏
+nail polish	指甲油	nail varnish
+perfume bottle	香水瓶	perfume|fragrance|香水
+powder compact	粉饼盒	compact mirror|粉饼
+hand mirror	手持镜	handheld mirror|手镜
+eyeshadow palette	眼影盘	eye shadow
+mascara	睫毛膏	mascara wand
+makeup brush	化妆刷	powder brush
+makeup sponge	美妆蛋	beauty sponge
+eyelash curler	睫毛夹	
+eyeliner pencil	眼线笔	eyeliner
+foundation bottle	粉底液	liquid foundation
+false eyelashes	假睫毛	fake lashes
+nail clipper	指甲刀	nail clippers|指甲钳
+nail file	指甲锉	emery board
+tweezers	镊子	eyebrow tweezers|眉毛夹
+comb	梳子	hair comb
+hairbrush	发刷	paddle brush|气垫梳
+hair dryer	吹风机	blow dryer|电吹风
+curling iron	卷发棒	curling wand
+hair straightener	直发夹板	flat iron|直发器
+hair roller	卷发筒	hair curler
+electric shaver	电动剃须刀	electric razor
+safety razor	剃须刀	razor|刮胡刀
+straight razor	直柄剃刀	cut-throat razor|折叠剃刀
+shaving brush	剃须刷	
+hair clippers	电推剪	hair trimmer|理发器
+barber scissors	理发剪	hair scissors|hairdressing shears
+toothbrush	牙刷	
+toothpaste tube	牙膏	toothpaste
+dental floss	牙线	
+bar of soap	香皂	soap bar|肥皂
+shampoo bottle	洗发水	shampoo
+lotion bottle	乳液瓶	body lotion|润肤露
+face cream jar	面霜	cream jar|moisturizer
+sunscreen tube	防晒霜	sunblock
+deodorant stick	止汗棒	deodorant|止汗剂
+cotton swab	棉签	cotton bud
+bath sponge	沐浴球	loofah|bath pouf|浴花
+bath bomb	泡澡球	浴盐球
+sheet mask	面膜	facial mask
+hairspray can	发胶	hair spray
+shower cap	浴帽	
+jade roller	玉石滚轮	facial roller|按摩滚轮
+soccer ball	足球	football
+basketball	篮球	
+volleyball	排球	
+american football	橄榄球	gridiron football|美式橄榄球
+rugby ball	英式橄榄球	
+baseball	棒球	
+softball	垒球	
+tennis ball	网球	
+golf ball	高尔夫球	
+table tennis ball	乒乓球	
+bowling ball	保龄球	
+bowling pin	保龄球瓶	tenpin
+billiard eight ball	黑八台球	eight ball|8号球|桌球
+cricket ball	板球	
+beach ball	沙滩球	inflatable beach ball
+dodgeball	躲避球	rubber playground ball
+medicine ball	药球	weighted ball|实心球
+exercise ball	瑜伽球	stability ball|健身球
+shuttlecock	羽毛球	badminton birdie
+hockey puck	冰球	ice hockey puck
+petanque ball	滚球	boules|bocce ball|地掷球
+sepak takraw ball	藤球	rattan ball
+lacrosse stick	长曲棍球杆	袋棍球杆
+croquet mallet	槌球杆	门球杆
+baseball bat	棒球棒	球棒
+baseball glove	棒球手套	baseball mitt|catcher's mitt
+tennis racket	网球拍	tennis racquet
+badminton racket	羽毛球拍	
+table tennis paddle	乒乓球拍	table tennis bat
+golf club	高尔夫球杆	golf iron|golf driver
+hockey stick	冰球杆	ice hockey stick
+field hockey stick	曲棍球杆	
+cricket bat	板球拍	
+pool cue	台球杆	billiard cue|球杆
+basketball hoop	篮球架	backboard|篮筐
+soccer goal	足球门	球门
+boxing glove	拳击手套	
+punching bag	沙袋	heavy bag|拳击沙袋
+goalkeeper glove	守门员手套	goalie glove
+skateboard	滑板	
+kick scooter	滑板车	scooter
+snowboard	单板滑雪板	
+skis	双板滑雪板	pair of skis|滑雪板
+ski pole	滑雪杖	
+surfboard	冲浪板	
+oar	船桨	paddle
+kayak	皮划艇	
+sled	雪橇	sledge|toboggan
+recurve bow	反曲弓	archery bow|弓
+arrow	箭	archery arrow|箭矢
+archery target	箭靶	bullseye target|靶子
+dartboard	飞镖盘	
+dart	飞镖	
+fencing foil	花剑	fencing sword
+fencing mask	击剑面罩	
+javelin	标枪	
+discus	铁饼	
+shot put	铅球	
+hurdle	跨栏架	track hurdle|栏架
+relay baton	接力棒	
+pommel horse	鞍马	
+gymnastic rings	吊环	still rings
+gymnastics ribbon	艺术体操彩带	rhythmic ribbon|体操丝带
+trampoline	蹦床	
+flying disc	飞盘	throwing disc
+boomerang	回旋镖	
+kite	风筝	diamond kite
+fishing rod	钓鱼竿	fishing pole|鱼竿
+fishing float	鱼漂	fishing bobber|浮漂
+carabiner	登山扣	climbing carabiner|快挂
+ice axe	冰镐	
+shin guard	护腿板	shin pad
+knee pad	护膝	
+kickboard	浮板	swim kickboard|游泳浮板
+life jacket	救生衣	life vest
+swim ring	游泳圈	inflatable ring|pool float
+scuba tank	潜水气瓶	diving cylinder|氧气瓶
+horse saddle	马鞍	saddle
+table tennis table	乒乓球桌	
+pool table	台球桌	billiard table
+foosball table	桌上足球	table football
+curling stone	冰壶	curling rock
+nunchaku	双节棍	nunchucks
+bamboo kendo sword	竹剑	shinai
+karate black belt	黑带	martial arts belt
+unicycle	独轮车	
+pogo stick	弹跳杆	跳跳杆
+stilts	高跷	
+jump rope	跳绳	skipping rope
+dumbbell	哑铃	
+barbell	杠铃	
+kettlebell	壶铃	
+weight plate	杠铃片	barbell plate
+yoga mat	瑜伽垫	exercise mat
+yoga block	瑜伽砖	
+resistance band	弹力带	exercise band|阻力带
+hand gripper	握力器	grip strengthener
+ab wheel	健腹轮	ab roller
+foam roller	泡沫轴	
+treadmill	跑步机	
+exercise bike	动感单车	stationary bike|健身车
+weight bench	卧推凳	bench press
+chest expander	拉力器	spring expander
+weightlifting belt	举重腰带	lifting belt
+plastic toy hoop	呼啦圈	exercise hoop
+sports water bottle	运动水壶	water bottle
+protein shaker	摇摇杯	shaker bottle
+wristband	护腕	sweat wristband
+fitness tracker band	运动手环	fitness tracker|智能手环
+teddy bear	泰迪熊	stuffed bear|玩具熊|毛绒熊
+plush bunny	毛绒兔子	stuffed rabbit|兔子玩偶
+plush dinosaur	毛绒恐龙	stuffed dinosaur
+rag doll	布娃娃	cloth doll
+fashion doll	洋娃娃	doll|换装娃娃
+matryoshka doll	俄罗斯套娃	nesting doll|套娃
+tumbler doll	不倒翁	roly-poly toy
+rubber duck	橡皮鸭	bath duck|小黄鸭
+toy robot	玩具机器人	tin robot|铁皮机器人
+toy car	玩具小汽车	die-cast car|玩具车
+remote control car	遥控车	rc car
+toy train	玩具火车	wooden train
+toy airplane	玩具飞机	
+paper airplane	纸飞机	paper plane
+toy sailboat	玩具帆船	toy boat
+rocking horse	摇摇木马	木马
+building bricks	积木	plastic bricks|拼插积木
+wooden alphabet blocks	字母积木	abc blocks|wooden blocks
+stacking block tower	叠叠乐	wooden block tower
+stacking rings toy	叠叠圈	ring stacker|套圈玩具
+puzzle cube	魔方	magic cube|3x3 cube
+jigsaw puzzle piece	拼图块	puzzle piece|拼图
+tangram	七巧板	
+nine linked rings	九连环	chinese ring puzzle
+burr puzzle	鲁班锁	luban lock|孔明锁
+yo-yo	悠悠球	溜溜球
+spinning top	陀螺	top
+fidget spinner	指尖陀螺	
+kendama	剑玉	cup-and-ball toy
+diabolo	空竹	chinese yo-yo
+jianzi	毽子	chinese shuttlecock|featherball
+bean bag	沙包	beanbag toy
+glass marbles	玻璃弹珠	marbles|弹珠
+bouncy ball	弹力球	rubber ball|弹弹球
+slingshot	弹弓	catapult
+spring toy	彩虹圈	walking spring|弹簧玩具
+pinwheel	风车	toy windmill|纸风车
+bamboo dragonfly	竹蜻蜓	bamboo-copter
+bubble wand	泡泡棒	bubble blower|吹泡泡
+water gun	水枪	squirt gun
+foam dart blaster	软弹枪	toy dart gun
+jack-in-the-box	惊喜盒	弹簧小丑盒
+music box	八音盒	音乐盒
+snow globe	雪花水晶球	snowglobe|雪景球
+kaleidoscope	万花筒	
+wind-up toy	发条玩具	clockwork toy
+tin frog	铁皮青蛙	wind-up frog
+tricycle	儿童三轮车	trike
+toy wagon	玩具拖车	red wagon|小拉车
+sand bucket and shovel	沙滩桶	sand pail|beach bucket
+toy soldier	玩具兵	tin soldier|锡兵
+action figure	可动人偶	figurine|手办
+dollhouse	娃娃屋	doll house|玩具屋
+hand puppet	手偶	sock puppet|布袋木偶
+marionette	提线木偶	string puppet
+shadow puppet	皮影	皮影戏人偶
+baby rattle	摇铃	rattle
+pellet drum	拨浪鼓	rattle drum
+fairy wand	魔法棒	magic wand|star wand
+modeling clay	橡皮泥	modelling clay|彩泥
+virtual pet toy	电子宠物机	egg-shaped virtual pet
+handheld game console	掌上游戏机	handheld console|掌机
+game controller	游戏手柄	gamepad
+arcade joystick	街机摇杆	joystick
+arcade cabinet	街机	arcade machine
+pinball machine	弹珠台	
+claw machine	抓娃娃机	crane game
+vr headset	VR头显	virtual reality headset|VR眼镜
+chessboard	国际象棋棋盘	chess board
+chess knight	国际象棋马	knight chess piece
+chess king	国际象棋王	king chess piece
+chess pawn	国际象棋兵	pawn
+checkers board	西洋跳棋	draughts|checkers
+go board	围棋棋盘	goban|围棋盘
+go stones	围棋子	black and white go stones
+xiangqi piece	象棋棋子	chinese chess piece|中国象棋
+shogi piece	将棋棋子	japanese chess piece
+mahjong tile	麻将牌	mahjong|麻将
+domino	多米诺骨牌	domino tile|骨牌
+backgammon board	双陆棋	backgammon
+chinese checkers board	中国跳棋	star halma|跳棋
+ludo board	飞行棋	ludo|aeroplane chess
+mancala board	播棋	mancala
+tic-tac-toe board	井字棋	noughts and crosses
+game pawn	棋子	game token|board game piece
+six-sided die	骰子	dice|d6|色子
+twenty-sided die	二十面骰	d20|icosahedral die
+dice cup	骰盅	dice shaker|骰子杯
+playing card deck	扑克牌	deck of cards|纸牌
+ace of spades	黑桃A	ace of spades card
+joker card	小丑牌	joker|大王
+tarot card	塔罗牌	
+hanafuda card	花札	japanese flower card|花牌
+trading card	集换式卡牌	collectible card
+poker chip	筹码	casino chip
+roulette wheel	轮盘赌	roulette
+slot machine	老虎机	fruit machine
+hourglass	沙漏	sand timer
+letter tile	字母牌	word game tile
+bingo card	宾果卡	
+dreidel	犹太陀螺	光明节陀螺
+chess clock	棋钟	game clock
+pick-up sticks	挑棍游戏	mikado sticks|游戏棒
+jacks	抓子游戏	knucklebones|抓石子
+acoustic guitar	吉他	guitar|木吉他|民谣吉他
+electric guitar	电吉他	
+bass guitar	贝斯	electric bass|电贝司
+ukulele	尤克里里	四弦琴
+banjo	班卓琴	
+mandolin	曼陀林	
+lute	鲁特琴	
+violin	小提琴	fiddle
+cello	大提琴	
+double bass	低音提琴	contrabass|upright bass
+harp	竖琴	
+lyre	里拉琴	
+grand piano	三角钢琴	piano|钢琴
+upright piano	立式钢琴	
+electronic keyboard	电子琴	synthesizer|keyboard
+accordion	手风琴	
+harmonica	口琴	mouth organ
+melodica	口风琴	
+hurdy-gurdy	手摇风琴	轮擦提琴
+trumpet	小号	
+trombone	长号	
+french horn	圆号	法国号
+tuba	大号	
+saxophone	萨克斯	sax|萨克斯管
+clarinet	单簧管	黑管
+oboe	双簧管	
+bassoon	巴松管	大管
+flute	长笛	transverse flute
+recorder	竖笛	
+pan flute	排箫	panpipes
+ocarina	陶笛	
+bagpipes	风笛	苏格兰风笛
+didgeridoo	迪吉里杜管	
+alphorn	阿尔卑斯长号	alpine horn
+kazoo	卡祖笛	
+vuvuzela	呜呜祖拉	
+jaw harp	口簧琴	mouth harp|口弦
+drum kit	架子鼓	drum set|爵士鼓
+snare drum	军鼓	小军鼓
+bass drum	低音大鼓	kick drum
+timpani	定音鼓	kettledrum
+taiko drum	太鼓	
+bongo drums	邦戈鼓	bongos
+conga drum	康加鼓	
+djembe	非洲鼓	金贝鼓
+tabla	塔布拉鼓	
+cajon	卡宏鼓	箱鼓
+steel drum	钢鼓	steelpan
+handpan	手碟	
+tambourine	铃鼓	
+maracas	沙锤	沙球
+castanets	响板	
+triangle instrument	三角铁	triangle
+cymbals	镲	crash cymbals|钹
+gong	锣	铜锣
+xylophone	木琴	
+cowbell	牛铃	
+handbell	手摇铃	hand bell
+kalimba	拇指琴	thumb piano|卡林巴
+rainstick	雨声筒	rain stick
+singing bowl	颂钵	tibetan singing bowl
+drumsticks	鼓棒	鼓槌
+erhu	二胡	
+pipa	琵琶	
+guzheng	古筝	
+guqin	古琴	
+dizi	笛子	bamboo flute|竹笛
+sheng	笙	
+suona	唢呐	
+yangqin	扬琴	
+yueqin	月琴	moon lute
+hulusi	葫芦丝	
+xun	埙	
+bianzhong	编钟	
+muyu	木鱼	wooden fish
+morin khuur	马头琴	horsehead fiddle
+shamisen	三味线	
+koto	日本筝	
+shakuhachi	尺八	
+sitar	西塔琴	
+balalaika	巴拉莱卡琴	俄罗斯三角琴
+oud	乌德琴	
+theremin	特雷门琴	
+metronome	节拍器	
+tuning fork	音叉	
+guitar pick	吉他拨片	plectrum|拨片
+violin bow	琴弓	
+music stand	乐谱架	谱架
+conductor baton	指挥棒	
+microphone	麦克风	mic|话筒
+sheet music	乐谱	music score
+vinyl record	黑胶唱片	lp record
+gramophone	留声机	phonograph
+paintbrush	画笔	artist brush
+paint palette	调色板	artist palette|调色盘
+paint tube	颜料管	oil paint tube|颜料
+watercolor set	水彩颜料盒	watercolor pan set|水彩盒
+easel	画架	
+blank canvas	画布	stretched canvas|油画框
+colored pencils	彩色铅笔	coloured pencils|彩铅
+crayon	蜡笔	wax crayon
+marker pen	马克笔	felt-tip marker
+charcoal stick	炭笔	drawing charcoal|木炭条
+sketchbook	素描本	drawing pad|速写本
+spray paint can	喷漆罐	aerosol paint
+palette knife	调色刀	painting knife|刮刀
+airbrush	喷笔	
+wooden mannequin	木头人偶	artist mannequin|素描木偶
+pottery wheel	陶艺拉坯机	potter's wheel
+calligraphy brush	毛笔	ink brush
+ink stone	砚台	inkstone
+ink stick	墨锭	墨条
+seal stamp	印章	chop|name seal
+seal paste	印泥	red ink paste
+knitting needles	毛衣针	棒针
+ball of yarn	毛线球	yarn ball|毛线团
+crochet hook	钩针	
+embroidery hoop	刺绣绷	embroidery frame|绣花绷
+sewing needle	缝衣针	needle|针
+spool of thread	线轴	thread spool|线团
+thimble	顶针	
+pin cushion	针插	pincushion
+sewing machine	缝纫机	
+tailor tape measure	软尺	tailor's tape|皮尺
+fabric scissors	裁缝剪刀	tailor's shears
+button	纽扣	扣子
+zipper	拉链	zip
+safety pin	别针	安全别针
+dress form	人台	sewing mannequin|裁缝模特
+origami crane	千纸鹤	paper crane|纸鹤
+paper-cut art	剪纸	chinese paper cutting
+chinese knot	中国结	
+picture frame	相框	photo frame
+film camera	胶片相机	analog camera|胶卷相机
+instant camera	即时成像相机	instant print camera
+telescope	天文望远镜	
+binoculars	双筒望远镜	
+stamp album	集邮册	stamp collection book
+ship in a bottle	瓶中船	model ship in bottle
+butterfly net	捕虫网	insect net
+juggling clubs	杂耍棒	juggling pins
+crystal ball	水晶球	fortune teller ball
+disco ball	迪斯科球	mirror ball|镜面球
+clapperboard	场记板	film clapper board
+theater masks	戏剧面具	comedy and tragedy masks
+peking opera mask	京剧脸谱	脸谱
+lion dance head	舞狮头	醒狮头
+balloon	气球	red balloon|party balloon
+balloon dog	气球小狗	balloon animal
+water balloon	水球	water bomb
+birthday candle	生日蜡烛	
+party popper	礼花筒	confetti popper|手拧礼炮
+party blower	吹龙口哨	party horn|blowout
+gift box	礼物盒	present|wrapped gift|礼盒
+ribbon bow	蝴蝶结	gift bow|丝带蝴蝶结
+pinata	皮纳塔	piñata|彩罐
+bunting flags	三角彩旗	pennant banner|彩旗串
+paper streamer	彩带卷	streamers|彩带
+paper lantern	纸灯笼	red lantern|灯笼
+sky lantern	孔明灯	kongming lantern|天灯
+sparkler	手持烟花	仙女棒|烟花棒
+firecrackers	鞭炮	爆竹
+firework rocket	烟花火箭	skyrocket|窜天猴
+red envelope	红包	hongbao|利是
+christmas stocking	圣诞袜	
+christmas ornament	圣诞彩球	bauble|圣诞球
+jack-o'-lantern	南瓜灯	halloween pumpkin
+easter egg	复活节彩蛋	painted egg|彩蛋
+glow stick	荧光棒	light stick
+flower lei	夏威夷花环	lei|flower garland
+greeting card	贺卡	
+admission ticket	门票	ticket stub|票根
+whoopee cushion	放屁垫	整蛊坐垫
+foam finger	泡沫手指	加油手套
+pom-poms	啦啦队花球	cheerleader pom-poms|手花
+megaphone	喇叭筒	cheer megaphone|扩音器
+thunder sticks	加油棒	inflatable cheer sticks|充气棒

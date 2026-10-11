@@ -1,0 +1,1253 @@
+[
+ {
+  "project_id": "223852",
+  "slug": "storage-drawers",
+  "name": "Storage Drawers",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/jaquadro/StorageDrawers"
+  ],
+  "modrinth": {
+   "slug": "storagedrawers",
+   "source_url": "https://github.com/jaquadro/StorageDrawers",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "398521",
+  "slug": "farmers-delight",
+  "name": "Farmer's Delight",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/vectorwing/FarmersDelight"
+  ],
+  "modrinth": {
+   "slug": "farmers-delight",
+   "source_url": "https://github.com/vectorwing/FarmersDelight",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "74072",
+  "slug": "tinkers-construct",
+  "name": "Tinkers Construct",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/SlimeKnights/TinkersConstruct"
+  ],
+  "modrinth": {
+   "slug": "tinkers-construct",
+   "source_url": "https://github.com/SlimeKnights/TinkersConstruct",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "268560",
+  "slug": "mekanism",
+  "name": "Mekanism",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/mekanism-mod/Mekanism"
+  ],
+  "modrinth": {
+   "slug": "mekanism",
+   "source_url": "https://github.com/mekanism/Mekanism",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "243076",
+  "slug": "refined-storage",
+  "name": "Refined Storage",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "refined-storage",
+   "source_url": "https://github.com/refinedmods/refinedstorage2",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "268566",
+  "slug": "mekanism-generators",
+  "name": "Mekanism Generators",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/mekanism-mod/Mekanism"
+  ],
+  "modrinth": {
+   "slug": "mekanism-generators",
+   "source_url": "https://github.com/mekanism/Mekanism",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "298187",
+  "slug": "building-gadgets",
+  "name": "Building Gadgets",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/Direwolf20-MC/BuildingGadgets"
+  ],
+  "modrinth": null
+ },
+ {
+  "project_id": "266515",
+  "slug": "industrial-foregoing",
+  "name": "Industrial Foregoing",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "industrial-foregoing",
+   "source_url": "https://github.com/Buuz135/Industrial-Foregoing",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "246640",
+  "slug": "mystical-agriculture",
+  "name": "Mystical Agriculture",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "mystical-agriculture",
+   "source_url": "https://github.com/BlakeBr0/MysticalAgriculture",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "312353",
+  "slug": "artifacts",
+  "name": "Artifacts",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "artifacts",
+   "source_url": "https://github.com/ochotonida/artifacts",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "64578",
+  "slug": "ender-io",
+  "name": "Ender IO",
+  "cf_license": "Public Domain",
+  "cf_repos": [
+   "https://github.com/Team-EnderIO/EnderIO",
+   "https://github.com/SleepyTrousers/EnderIO"
+  ],
+  "modrinth": {
+   "slug": "enderio",
+   "source_url": "https://github.com/Team-EnderIO/EnderIO",
+   "license": "Unlicense"
+  }
+ },
+ {
+  "project_id": "268567",
+  "slug": "mekanism-tools",
+  "name": "Mekanism Tools",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/mekanism-mod/Mekanism"
+  ],
+  "modrinth": {
+   "slug": "mekanism-tools",
+   "source_url": "https://github.com/mekanism/Mekanism",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "256247",
+  "slug": "mystical-agradditions",
+  "name": "Mystical Agradditions",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "mystical-agradditions",
+   "source_url": "https://github.com/BlakeBr0/MysticalAgradditions",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "236307",
+  "slug": "integrated-dynamics",
+  "name": "Integrated Dynamics",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/CyclopsMC/IntegratedDynamics",
+   "https://github.com/CyclopsMC/CyclopsCore"
+  ],
+  "modrinth": {
+   "slug": "integrated-dynamics",
+   "source_url": "https://github.com/CyclopsMC/IntegratedDynamics/",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "64760",
+  "slug": "security-craft",
+  "name": "Security Craft",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/Geforce132/SecurityCraft"
+  ],
+  "modrinth": {
+   "slug": "security-craft",
+   "source_url": "https://github.com/Geforce132/SecurityCraft",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "250277",
+  "slug": "extreme-reactors",
+  "name": "Extreme Reactors",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "extreme-reactors",
+   "source_url": "https://github.com/ZeroNoRyouki/ExtremeReactors2",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "237664",
+  "slug": "iron-furnaces",
+  "name": "Iron Furnaces",
+  "cf_license": "Apache License version 2.0",
+  "cf_repos": [
+   "https://github.com/Qelifern/IronFurnacesNeoForge",
+   "https://github.com/Qelifern/IronFurnaces"
+  ],
+  "modrinth": {
+   "slug": "iron-furnaces",
+   "source_url": "https://github.com/Qelifern/IronFurnaces",
+   "license": "Apache-2.0"
+  }
+ },
+ {
+  "project_id": "399558",
+  "slug": "construction-wand",
+  "name": "Construction Wand",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/Theta-Dev/ConstructionWand"
+  ],
+  "modrinth": {
+   "slug": "construction-wand",
+   "source_url": "https://github.com/Theta-Dev/ConstructionWand",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "224641",
+  "slug": "rftools",
+  "name": "RFTools",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/McJty/RFTools"
+  ],
+  "modrinth": null
+ },
+ {
+  "project_id": "226410",
+  "slug": "projecte",
+  "name": "ProjectE",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/sinkillerj/ProjectE"
+  ],
+  "modrinth": null
+ },
+ {
+  "project_id": "496394",
+  "slug": "nethers-delight",
+  "name": "Nether's Delight",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/Chefs-Delight/NethersDelight_Forge"
+  ],
+  "modrinth": {
+   "slug": "nethers-delight",
+   "source_url": null,
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "284497",
+  "slug": "iron-jetpacks",
+  "name": "Iron Jetpacks",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "iron-jetpacks",
+   "source_url": "https://github.com/BlakeBr0/IronJetpacks",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "250763",
+  "slug": "rftools-control",
+  "name": "RFTools Control",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/McJty/RFToolsControl"
+  ],
+  "modrinth": {
+   "slug": "rftools-control",
+   "source_url": "https://github.com/McJtyMods/RFToolsControl",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "252239",
+  "slug": "spartan-shields",
+  "name": "Spartan Shields",
+  "cf_license": "Apache License version 2.0",
+  "cf_repos": [
+   "https://github.com/ObliviousSpartan/SpartanShields"
+  ],
+  "modrinth": {
+   "slug": "spartan-shields",
+   "source_url": "https://github.com/ObliviousSpartan/SpartanShields",
+   "license": "Apache-2.0"
+  }
+ },
+ {
+  "project_id": "347706",
+  "slug": "rftools-builder",
+  "name": "RFTools Builder",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "rftools-builder",
+   "source_url": "https://github.com/McJtyMods/RFToolsBuilder",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "342466",
+  "slug": "rftools-utility",
+  "name": "RFTools Utility",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "rftools-utility",
+   "source_url": "https://github.com/McJtyMods/RFToolsUtility",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "361026",
+  "slug": "occultism",
+  "name": "Occultism",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/klikli-dev/occultism"
+  ],
+  "modrinth": {
+   "slug": "occultism",
+   "source_url": "https://github.com/klikli-dev/occultism",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "278141",
+  "slug": "spartan-weaponry",
+  "name": "Spartan Weaponry",
+  "cf_license": "Apache License version 2.0",
+  "cf_repos": [
+   "https://github.com/ObliviousSpartan/SpartanWeaponry"
+  ],
+  "modrinth": {
+   "slug": "spartan-weaponry",
+   "source_url": "https://github.com/ObliviousSpartan/SpartanWeaponry",
+   "license": "Apache-2.0"
+  }
+ },
+ {
+  "project_id": "74120",
+  "slug": "natura",
+  "name": "Natura",
+  "cf_license": "Creative Commons Attribution 3.0 Unported",
+  "cf_repos": [],
+  "modrinth": null
+ },
+ {
+  "project_id": "841262",
+  "slug": "oceans-delight",
+  "name": "Ocean's Delight",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "oceans-delight",
+   "source_url": "https://github.com/Scouter456/Oceans_Delight",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "556861",
+  "slug": "functional-storage",
+  "name": "Functional Storage",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "functional-storage",
+   "source_url": "https://github.com/Buuz135/FunctionalStorage",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "311377",
+  "slug": "betternether",
+  "name": "BetterNether",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/paulevsGitch/BetterNether"
+  ],
+  "modrinth": {
+   "slug": "betternether",
+   "source_url": "https://github.com/quiqueck/BetterNether",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "415438",
+  "slug": "croptopia",
+  "name": "Croptopia",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/ExcessiveAmountsOfZombies/Croptopia"
+  ],
+  "modrinth": null
+ },
+ {
+  "project_id": "256141",
+  "slug": "rustic",
+  "name": "Rustic",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/the-realest-stu/Rustic"
+  ],
+  "modrinth": {
+   "slug": "rustic",
+   "source_url": "https://github.com/cadaverous-eris/Rustic",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "251792",
+  "slug": "simply-jetpacks-2",
+  "name": "Simply Jetpacks 2",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "simply-jetpacks-2",
+   "source_url": "https://github.com/Tomson124/SimplyJetpacks2",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "297039",
+  "slug": "silent-gear",
+  "name": "Silent Gear",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/SilentChaos512/Silent-Gear",
+   "https://github.com/SilentChaos512/SGear-Basic-Metals",
+   "https://github.com/SilentChaos512/SGear-Just-Gems",
+   "https://github.com/ByPaco10/ExtremeReactorsSupportForSilentGear"
+  ],
+  "modrinth": {
+   "slug": "silent-gear",
+   "source_url": "https://github.com/SilentChaos512/Silent-Gear",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "223008",
+  "slug": "opencomputers",
+  "name": "OpenComputers",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "opencomputers",
+   "source_url": "https://github.com/MightyPirates/OpenComputers",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "413596",
+  "slug": "betterend",
+  "name": "BetterEnd",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/paulevsGitch/BetterEnd"
+  ],
+  "modrinth": {
+   "slug": "betterend",
+   "source_url": "https://github.com/quiqueck/BetterEnd",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "250617",
+  "slug": "ceramics",
+  "name": "Ceramics",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "ceramics",
+   "source_url": "https://github.com/KnightMiner/Ceramics",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "350006",
+  "slug": "rftools-storage",
+  "name": "RFTools Storage",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "rftools-storage",
+   "source_url": "https://github.com/McJtyMods/RFToolsStorage",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "431725",
+  "slug": "advanced-peripherals",
+  "name": "Advanced Peripherals",
+  "cf_license": "Apache License version 2.0",
+  "cf_repos": [
+   "https://github.com/Seniorendi/AdvancedPeripherals"
+  ],
+  "modrinth": {
+   "slug": "advancedperipherals",
+   "source_url": "https://github.com/Seniorendi/AdvancedPeripherals",
+   "license": "Apache-2.0"
+  }
+ },
+ {
+  "project_id": "240950",
+  "slug": "rftools-dimensions",
+  "name": "RFTools Dimensions",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/McJty/RFToolsDimensions"
+  ],
+  "modrinth": {
+   "slug": "rftools-dimensions",
+   "source_url": "https://github.com/McJtyMods/RFToolsDimensions",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "306626",
+  "slug": "natures-aura",
+  "name": "Nature's Aura",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/Ellpeck/NaturesAura"
+  ],
+  "modrinth": {
+   "slug": "natures-aura",
+   "source_url": "https://github.com/Ellpeck/NaturesAura",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "552574",
+  "slug": "hostile-neural-networks",
+  "name": "Hostile Neural Networks",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/Shadows-of-Fire/Hostile-Neural-Networks"
+  ],
+  "modrinth": {
+   "slug": "hostile-neural-networks",
+   "source_url": "https://github.com/Shadows-of-Fire/Hostile-Neural-Networks",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "228702",
+  "slug": "project-red-core",
+  "name": "Project Red - Core",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/MrTJP/ProjectRed"
+  ],
+  "modrinth": {
+   "slug": "project-red-core",
+   "source_url": "https://github.com/MrTJP/ProjectRed",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "637529",
+  "slug": "delightful",
+  "name": "Delightful",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/brnbrd/Delightful"
+  ],
+  "modrinth": {
+   "slug": "delightful",
+   "source_url": null,
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "576124",
+  "slug": "bygone-nether",
+  "name": "Bygone Nether",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/izofar/bygone-nether"
+  ],
+  "modrinth": {
+   "slug": "bygone-nether",
+   "source_url": "https://github.com/izofar/bygone-nether",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "268387",
+  "slug": "extended-crafting",
+  "name": "Extended Crafting",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/BlakeBr0/ExtendedCrafting"
+  ],
+  "modrinth": {
+   "slug": "extended-crafting",
+   "source_url": "https://github.com/BlakeBr0/ExtendedCrafting",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "74610",
+  "slug": "evilcraft",
+  "name": "EvilCraft",
+  "cf_license": "Public Domain",
+  "cf_repos": [
+   "https://github.com/rubensworks/EvilCraft",
+   "https://github.com/CyclopsMC/CyclopsCore"
+  ],
+  "modrinth": {
+   "slug": "evilcraft",
+   "source_url": "https://github.com/CyclopsMC/EvilCraft/",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "238761",
+  "slug": "pickle-tweaks",
+  "name": "Pickle Tweaks",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "pickle-tweaks",
+   "source_url": "https://github.com/BlakeBr0/PickleTweaks",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "233564",
+  "slug": "techreborn",
+  "name": "Tech Reborn",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "techreborn",
+   "source_url": "https://github.com/TechReborn/TechReborn",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "226254",
+  "slug": "nuclearcraft-mod",
+  "name": "NuclearCraft",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/turbodiesel4598/NuclearCraft"
+  ],
+  "modrinth": {
+   "slug": "nuclearcraft",
+   "source_url": "https://github.com/tomdodd4598/NuclearCraft",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "253462",
+  "slug": "steves-carts-reborn",
+  "name": "Steve's Carts Reborn",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "steves-carts-reborn",
+   "source_url": "https://github.com/TechReborn/StevesCarts",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "335673",
+  "slug": "dank-storage",
+  "name": "Dank Storage",
+  "cf_license": "Public Domain",
+  "cf_repos": [
+   "https://github.com/LXGaming/MixinBootstrap"
+  ],
+  "modrinth": null
+ },
+ {
+  "project_id": "609977",
+  "slug": "ae2-things-forge",
+  "name": "AE2 Things [Forge]",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": null
+ },
+ {
+  "project_id": "235595",
+  "slug": "not-enough-wands",
+  "name": "Not Enough Wands",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/romelo333/notenoughwands"
+  ],
+  "modrinth": {
+   "slug": "not-enough-wands",
+   "source_url": "https://github.com/romelo333/notenoughwands1.8.8",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "835687",
+  "slug": "better-archeology",
+  "name": "Better Archeology",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/Pandarix/BetterArcheology"
+  ],
+  "modrinth": {
+   "slug": "better-archeology",
+   "source_url": "https://github.com/Pandarix/BetterArcheology-MultiLoaded",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "225635",
+  "slug": "agricraft",
+  "name": "AgriCraft",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "agricraft",
+   "source_url": "https://github.com/AgriCraft/AgriCraft",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "662675",
+  "slug": "ends-delight",
+  "name": "End's Delight",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "ends-delight",
+   "source_url": "https://github.com/FoggyHillside/End-s-Delight",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "65764",
+  "slug": "magic-bees",
+  "name": "Magic Bees",
+  "cf_license": "WTFPL",
+  "cf_repos": [
+   "https://github.com/MagicBees/MagicBees"
+  ],
+  "modrinth": null
+ },
+ {
+  "project_id": "284007",
+  "slug": "inspirations",
+  "name": "Inspirations",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/KnightMiner/Inspirations"
+  ],
+  "modrinth": {
+   "slug": "inspirations",
+   "source_url": "https://github.com/KnightMiner/Inspirations",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "229049",
+  "slug": "project-red-exploration",
+  "name": "Project Red - Exploration",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/MrTJP/ProjectRed"
+  ],
+  "modrinth": {
+   "slug": "project-red-exploration",
+   "source_url": "https://github.com/MrTJP/ProjectRed",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "400058",
+  "slug": "mythicbotany",
+  "name": "MythicBotany",
+  "cf_license": "Apache License version 2.0",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "mythicbotany",
+   "source_url": "https://github.com/noeppi-noeppi/MythicBotany",
+   "license": "Apache-2.0"
+  }
+ },
+ {
+  "project_id": "294815",
+  "slug": "aiot-botania",
+  "name": "AIOT Botania",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/MelanX/aiotbotania"
+  ],
+  "modrinth": {
+   "slug": "aiot-botania",
+   "source_url": "https://github.com/ChaoticTrials/AIOTBotania",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "430636",
+  "slug": "theurgy",
+  "name": "Theurgy",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/klikli-dev/theurgy"
+  ],
+  "modrinth": {
+   "slug": "theurgy",
+   "source_url": "https://github.com/klikli-dev/theurgy",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "405388",
+  "slug": "modern-industrialization",
+  "name": "Modern Industrialization",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "modern-industrialization",
+   "source_url": "https://github.com/AztechMC/Modern-Industrialization",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "246183",
+  "slug": "roots",
+  "name": "Roots 4",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/mysticmods/roots"
+  ],
+  "modrinth": null
+ },
+ {
+  "project_id": "282940",
+  "slug": "mystical-world",
+  "name": "Mystical World",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": null
+ },
+ {
+  "project_id": "670011",
+  "slug": "nether-depths-upgrade",
+  "name": "Nether Depths Upgrade",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "nether-depths-upgrade",
+   "source_url": "https://github.com/Scouter456/Nether_Depths_Upgrade",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "583318",
+  "slug": "shield-expansion",
+  "name": "Shield Expansion",
+  "cf_license": "Apache License version 2.0",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "shield-expansion",
+   "source_url": "https://github.com/infernalexp/Shield-Expansion",
+   "license": "Apache-2.0"
+  }
+ },
+ {
+  "project_id": "871755",
+  "slug": "exposure",
+  "name": "Exposure",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/mortuusars/Exposure"
+  ],
+  "modrinth": {
+   "slug": "exposure",
+   "source_url": "https://github.com/mortuusars/Exposure",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "253689",
+  "slug": "wolf-armor-and-storage",
+  "name": "Wolf Armor and Storage Legacy",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/satyrnidae/wolfarmor"
+  ],
+  "modrinth": {
+   "slug": "wolf-armor-and-storage-legacy",
+   "source_url": "https://github.com/Smallinger/wolf-armor-and-storage-legacy",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "274338",
+  "slug": "useful-backpacks",
+  "name": "Useful Backpacks",
+  "cf_license": "Apache License version 2.0",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "useful-backpacks",
+   "source_url": "https://github.com/MC-U-Team/Useful-Backpacks",
+   "license": "Apache-2.0"
+  }
+ },
+ {
+  "project_id": "262692",
+  "slug": "yoyos",
+  "name": "Yoyos",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/Jozufozu/Yoyos",
+   "https://github.com/iglee42/Yoyos-Relaunched"
+  ],
+  "modrinth": null
+ },
+ {
+  "project_id": "266784",
+  "slug": "scannable",
+  "name": "Scannable",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "scannable",
+   "source_url": "https://github.com/MightyPirates/Scannable",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "646668",
+  "slug": "create-big-cannons",
+  "name": "Create Big Cannons",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/Cannoneers-of-Create/CreateBigCannons"
+  ],
+  "modrinth": {
+   "slug": "create-big-cannons",
+   "source_url": "https://github.com/Cannoneers-of-Create/CreateBigCannons",
+   "license": "LicenseRef-Create-Big-Cannons-License"
+  }
+ },
+ {
+  "project_id": "1002348",
+  "slug": "just-dire-things",
+  "name": "Just Dire Things",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": null
+ },
+ {
+  "project_id": "220311",
+  "slug": "silents-gems",
+  "name": "Silent's Gems",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/SilentChaos512/SilentGems"
+  ],
+  "modrinth": {
+   "slug": "silents-gems",
+   "source_url": "https://github.com/SilentChaos512/SilentGems",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "295780",
+  "slug": "roots-classic",
+  "name": "Roots Classic",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/PrinceOfAmber/RootsClassic"
+  ],
+  "modrinth": null
+ },
+ {
+  "project_id": "236542",
+  "slug": "advanced-rocketry",
+  "name": "Advanced Rocketry",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": null
+ },
+ {
+  "project_id": "235328",
+  "slug": "food-expansion",
+  "name": "Food Expansion",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": null
+ },
+ {
+  "project_id": "289043",
+  "slug": "no-tree-punching",
+  "name": "No Tree Punching",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/alcatrazEscapee/no-tree-punching"
+  ],
+  "modrinth": {
+   "slug": "no-tree-punching",
+   "source_url": "https://github.com/alcatrazEscapee/no-tree-punching/",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "452500",
+  "slug": "sushigocrafting",
+  "name": "Sushi Go Crafting",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "sushigocrafting",
+   "source_url": "https://github.com/Buuz135/SushiGoCrafting",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "429625",
+  "slug": "eidolon",
+  "name": "Eidolon",
+  "cf_license": "BSD License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "eidolon",
+   "source_url": null,
+   "license": "LicenseRef-All-Rights-Reserved"
+  }
+ },
+ {
+  "project_id": "273502",
+  "slug": "defiled-lands",
+  "name": "Defiled Lands",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/Lykrast/DefiledLands"
+  ],
+  "modrinth": {
+   "slug": "defiled-lands",
+   "source_url": "https://github.com/Lykrast/DefiledLands",
+   "license": "LicenseRef-MIT-Code-Only"
+  }
+ },
+ {
+  "project_id": "260360",
+  "slug": "better-survival-mod",
+  "name": "Better Survival mod",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": null
+ },
+ {
+  "project_id": "620770",
+  "slug": "expanded-delight",
+  "name": "Expanded Delight",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/ianm1647/expandeddelight"
+  ],
+  "modrinth": {
+   "slug": "expanded-delight",
+   "source_url": "https://github.com/ianm1647/expandeddelight",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "456151",
+  "slug": "things-fabric",
+  "name": "Things [Fabric]",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": null
+ },
+ {
+  "project_id": "484967",
+  "slug": "kobolds",
+  "name": "Kobolds!",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "kobolds",
+   "source_url": "https://github.com/Jusey1/kobolds",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "892827",
+  "slug": "crabbers-delight",
+  "name": "Crabber's Delight",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "crabbers-delight",
+   "source_url": "https://github.com/AlabasterLeking/Crabbers-Delight",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "78057",
+  "slug": "tinkers-mechworks",
+  "name": "Tinkers' Mechworks",
+  "cf_license": "Creative Commons Attribution 3.0 Unported",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "tinkers-mechworks",
+   "source_url": "https://github.com/SlimeKnights/TinkersMechworks",
+   "license": "CC-BY-3.0"
+  }
+ },
+ {
+  "project_id": "344696",
+  "slug": "potion-fingers-redux",
+  "name": "Potion Rings",
+  "cf_license": "WTFPL",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "potion-rings",
+   "source_url": "https://github.com/CallumHerr/potion_rings",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "395078",
+  "slug": "infernal-expansion",
+  "name": "Infernal Expansion",
+  "cf_license": "Apache License version 2.0",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "infernal-expansion",
+   "source_url": "https://github.com/infernalexp/Infernal-Expansion",
+   "license": "Apache-2.0"
+  }
+ },
+ {
+  "project_id": "237541",
+  "slug": "totemic",
+  "name": "Totemic",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "fenns_totemic",
+   "source_url": "https://github.com/TeamTotemic/Totemic",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "274456",
+  "slug": "ex-nihilo-creatio",
+  "name": "Ex Nihilo: Creatio",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/BloodyMods/ExNihiloCreatio"
+  ],
+  "modrinth": null
+ },
+ {
+  "project_id": "628972",
+  "slug": "farmers-knives",
+  "name": "Farmer's Knives",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/ianm1647/farmersknives"
+  ],
+  "modrinth": {
+   "slug": "farmers-knives",
+   "source_url": "https://github.com/ianm1647/farmersknives",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "1080592",
+  "slug": "eternal-starlight",
+  "name": "Eternal Starlight",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/LeoMinecraftModding/eternal-starlight"
+  ],
+  "modrinth": {
+   "slug": "eternal-starlight",
+   "source_url": "https://github.com/LeoMinecraftModding/eternal-starlight/",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "1068418",
+  "slug": "extended-industrialization",
+  "name": "Extended Industrialization",
+  "cf_license": "MIT License",
+  "cf_repos": [],
+  "modrinth": {
+   "slug": "extended-industrialization",
+   "source_url": "https://github.com/Swedz/Extended-Industrialization",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "869316",
+  "slug": "create-diesel-generators",
+  "name": "Create: Diesel Generators",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/user-attachments/assets",
+   "https://github.com/george8188625/Create-Diesel-Generators"
+  ],
+  "modrinth": {
+   "slug": "create-diesel-generators",
+   "source_url": "https://github.com/george8188625/Create-Diesel-Generators",
+   "license": "MIT"
+  }
+ },
+ {
+  "project_id": "300777",
+  "slug": "embers-rekindled",
+  "name": "Embers Rekindled",
+  "cf_license": "MIT License",
+  "cf_repos": [
+   "https://github.com/RCXcrafter/EmbersRekindled"
+  ],
+  "modrinth": {
+   "slug": "embers",
+   "source_url": "https://github.com/RCXcrafter/EmbersRekindled",
+   "license": "MIT"
+  }
+ }
+]

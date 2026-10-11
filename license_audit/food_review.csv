@@ -1,0 +1,362 @@
+﻿project_id,slug,name,author,downloads,cf_license,repo,verdict,item_textures_in_repo,note,batch
+570544,eating-animation-forge,Eating Animation,matyrobbrt,26091398,Modrinth: MIT,https://github.com/Theoness1/EatingAnimation,skip,955,不是食物类，本批不收,food
+979761,storage-delight-forge,Storage Delight,axperty,16107741,Modrinth: MIT,https://github.com/axperty/storagedelight,skip,0,仓库里物品贴图不足 10 张,food
+551524,creeperhost-presents-steves-carts,CreeperHost Presents Steve's Carts,Official_CreeperHost,15148685,Modrinth: MIT,https://github.com/CreeperHost/StevesCarts2,unverified,191,仓库无许可文件,food
+577805,corn-delight,Corn Delight,SyameimaruZheng,14296362,Modrinth: MIT,https://github.com/0999312/Corn-Delight,ok_default,25,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1045079906860860,rightclickharvest,RightClickHarvest,,12656669,Modrinth: MIT,https://github.com/JamCoreModding/right-click-harvest,skip,0,仓库里物品贴图不足 10 张,food_mr
+689579,applied-cooking,Applied Cooking,ItsSebastrn,11559577,Modrinth: MIT,https://github.com/Sebastrn/AppliedCooking,skip,1,仓库里物品贴图不足 10 张,food
+1163699431754787,createaddition,Create Crafts & Additions,mrh0,11019408,Modrinth: MIT,https://github.com/mrh0/createaddition,exclude,41,依附于素材许可更严的模组,food_mr
+918638,moderately-enough-effect-descriptions-meed,Moderately Enough Effect Descriptions (MEED),NeonCranberries,9449441,Modrinth: CC-BY-NC-SA-4.0,https://github.com/NeonCranberries/MEED,skip,0,仓库里物品贴图不足 10 张,food
+1094819,farmers-cutting-oh-the-biomes-weve-gone,Farmer's Cutting: Oh The Biomes We've Gone,Joshcraft2002,7381730,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+412225,harvest-scythes,Harvest Scythes,LordDeatHunter,7334004,Modrinth: MIT,https://github.com/LordDeatHunter/HarvestScythes,skip,137,不是食物类，本批不收,food
+347337,useful-hats,Useful Hats,thecech12,7136868,Modrinth: MIT,https://github.com/cech12/UsefulHats,skip,22,不是食物类，本批不收,food
+365507,extended-mushrooms,Extended Mushrooms,thecech12,6844177,Modrinth: MIT,https://github.com/cech12/ExtendedMushrooms,ok_default,27,仓库许可文件：MIT，未见素材单独条款,food
+563464,easy-mob-farm,Easy Mob Farm,Kaworru,5985421,Modrinth: MIT,https://github.com/MarkusBordihn/BOs-Easy-Mob-Farm,skip,161,不是食物类，本批不收,food
+977515,more-delight-forge,More Delight (for Farmer's Delight),axperty,5447019,Modrinth: MIT,https://github.com/axperty/moredelight,ok_default,41,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1162577,maidsoul-kitchen,Maidsoul Kitchen,Azumic,4203492,Modrinth: MIT,https://github.com/Wall-ev/MaidsoulKitchen,skip,4,仓库里物品贴图不足 10 张,food
+1008496688026426,lets-do-addon-structures,[Let's Do Addon] Structures,Ninjdai,3859875,Modrinth: MIT,https://github.com/Ninjdai1/letsdo-addon-structures,skip,0,仓库里物品贴图不足 10 张,food_mr
+1007788,barbeques-delight,Barbeque's Delight [Forge/NeoForge],lcy0x1,3814552,Modrinth: MIT,https://github.com/Minecraft-LightLand/BarbequesDelight,ok_default,30,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1088377666515096,repurposed-structures-farmers-delight-compat,Repurposed Structures - Farmer's Delight Compat,TelepathicGrunt,3763906,Modrinth: MIT,https://github.com/TelepathicGrunt/RepurposedStructuresCompatDatapacks,skip,0,仓库里物品贴图不足 10 张,food_mr
+558850,compat-o-plenty,Compat O' Plenty (Forge),tdstress,3380019,Modrinth: Apache-2.0,https://github.com/KreloX/compat-o-plenty,exclude,21,依附于素材许可更严的模组；农夫乐事的附属,food
+480657,replanter,Replanter,Areuthreateningme,3249292,Modrinth: MIT,https://github.com/kregerl/Replanter,skip,0,仓库里物品贴图不足 10 张,food
+958291,crate-delight-forge,Crate Delight,axperty,3062584,Modrinth: MIT,https://github.com/axperty/cratedelight,skip,0,仓库里物品贴图不足 10 张,food
+318416,spice-of-fabric,Spice of Fabric,Siphalor,3039854,Modrinth: MIT,https://github.com/Siphalor/spiceoffabric,skip,6,仓库里物品贴图不足 10 张,food
+299086,extrabotany,Extrabotany,ExtraMeteorP,2951897,Modrinth: MIT,https://github.com/Lounode/Extrabotany,skip,122,不是食物类，本批不收,food
+1022567651761951,ctov-chefs-delight-compat,CTOV - Chef's delight Compat,ChoiceTheorem,2664988,Modrinth: CC-BY-NC-4.0,https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village,skip,0,仓库里物品贴图不足 10 张,food_mr
+1083158,avaritianeo,AvaritiaNeo,AquaThree,2660302,Modrinth: MIT,https://github.com/AquaThree/AvaritiaNeo,skip,47,不是食物类，本批不收,food
+417553,unlit-campfire,Unlit Campfire,thecech12,2646151,Modrinth: MIT,https://github.com/cech12/UnlitCampfire,skip,2,仓库里物品贴图不足 10 张,food
+923277,garnished,Create: Garnished,DakotaPrideModding,2642793,Modrinth: MIT,https://github.com/DakotaPride/create-garnished,exclude,392,依附于素材许可更严的模组,food
+1132546,farmers-croptopia,Farmer's (Delight) Croptopia,ACCBDD,2630771,Modrinth: Apache-2.0,https://github.com/ACCBDD/farmers-croptopia,skip,0,仓库里物品贴图不足 10 张,food
+884119,more-sniffer-flowers,More Sniffer Flowers,Nikdo53,2618531,Modrinth: MIT,https://github.com/Nikdo53/MoreSnifferFlowers,skip,130,不是食物类，本批不收,food
+485539,copper-pot,Copper Pot,davigj,2544499,Modrinth: MIT,https://github.com/davidjjung/copperpot,ok_default,20,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+75334,hunger-strike,Hunger Strike,Texelsaur,2369246,Modrinth: MIT,https://github.com/jaquadro/HungerStrike,skip,0,仓库里物品贴图不足 10 张,food
+1136471619947907,muffins-thais-delight,Muffin's Thai's Delight,firemuffin303,2309969,Modrinth: MIT,https://github.com/FireMuffin303/Muffins-ThaiDelight,ok_default,146,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food_mr
+268373,simply-tea,Simply Tea!,EpicSquid315,2273301,Modrinth: MIT,https://github.com/KnightMiner/SimplyTea,ok_default,29,仓库许可文件：MIT，未见素材单独条款,food
+1093375,dumplings-delight-rewrapped,Dumplings Delight Rewrapped,Joshcraft2002,2200852,Modrinth: MIT,https://github.com/Joshcraft2002/Dumplings-Delight-Rewrapped,ok_default,39,LICENSE：MIT；移植自 FoggyHillside 的 Dumplings Delight（原作在 Modrinth 声明 MIT）；农夫乐事的附属,food
+842106,extradelight,ExtraDelight,Lance5057,2103996,Modrinth: CC-BY-NC-SA-4.0,https://github.com/Lance5057/ExtraDelight,ok_nc,823,仓库无许可文件；gradle.properties、mods.toml 和 Modrinth 页面均声明 CC BY-NC-SA 4.0（非商用）；农夫乐事的附属,food
+635510,warden-tools,Warden Tools,TriQue,2103327,Modrinth: MIT,https://github.com/TriQue06/wardentools,skip,38,不是食物类，本批不收,food
+1201419920272155,onion-onion,Onion Onion,davigj,2075135,Modrinth: MIT,https://github.com/davidjjung/oniononion,skip,4,仓库里物品贴图不足 10 张,food_mr
+469185,raven-coffee,Raven Coffee Mod,TheWandererRaven,1998988,Modrinth: Apache-2.0,https://github.com/TheWandererRaven/RavenCoffeeMod,ok_default,104,仓库许可文件：Apache-2.0，未见素材单独条款,food
+1041636986576185,milky-way,Milky Way,davigj,1930194,Modrinth: MIT,https://github.com/davidjjung/milkyway,skip,0,仓库里物品贴图不足 10 张,food_mr
+973932,quality-food,Quality Food,Cadentem,1888511,Modrinth: MIT,https://github.com/SiverDX/quality_food,skip,3,仓库里物品贴图不足 10 张,food
+623969,re-avaritia,Re:Avaritia,cnlimiter,1852076,Modrinth: MIT,https://github.com/Nova-Committee/Re-Avaritia,skip,181,不是食物类，本批不收,food
+939092,vampires-delight,Vampire's Delight,GridExpert,1707373,Modrinth: MIT,https://github.com/TheGridExpert/VampiresDelight,exclude,59,依附于素材许可更严的模组；农夫乐事的附属,food
+836471,respiteful,Respiteful,DragonsPlus,1682571,Modrinth: MIT,https://github.com/DragonsPlusMinecraft/Respiteful,exclude,19,依附于素材许可更严的模组；农夫乐事的附属,food
+1134366,christmas-delight,Christmas Delight,ThePoupyBuTers,1643483,Modrinth: MIT,https://github.com/Cat-Plays/Christmas_Delight-Fabric_1.21,ok_default,31,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属；CurseForge 关闭了第三方下载，从 Modrinth 下载,food_mr
+646425,tameable-beasts,Tameable Beasts,themodderg,1585621,Modrinth: MIT,https://github.com/themodderg/Tameable-Beasts,unverified,55,仓库无许可文件,food
+576449,coxinha-utilities,Coxinha Utilities,Luligabi12,1524896,Modrinth: Apache-2.0,https://github.com/Luligabi1/CoxinhaUtilities,skip,,仓库里物品贴图不足 10 张,food
+374143,sandwichable,Sandwichable,FoundationGames,1515543,Modrinth: MIT,https://github.com/FoundationGames/Sandwichable,skip,,仓库里物品贴图不足 10 张,food
+1133629,farmers-cutting-regions-unexplored,Farmer's Cutting: Regions Unexplored,Joshcraft2002,1432394,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+1265613,mystical-automation,Mystical Automation,BlakeBr0,1429340,Modrinth: MIT,https://github.com/BlakeBr0/MysticalAutomation,skip,,仓库里物品贴图不足 10 张,food
+702063,croptopia-additions,Croptopia Additions,Numerosity,1355951,Modrinth: MIT,https://github.com/Numerosityy/CroptopiaAdditions,exclude,14,依附于素材许可更严的模组,food
+1076278,actually-harvest,Actually Harvest,wendall911,1353449,Modrinth: MIT,https://github.com/wendall911/ActuallyHarvest,skip,0,仓库里物品贴图不足 10 张,food
+1168665265840469,fishermens-trap,Fishermen's Trap [Neo/Fabric],TooManyKitKats,1295201,Modrinth: MIT,https://github.com/Uraneptus/Fishermens-Trap,skip,1,仓库里物品贴图不足 10 张,food_mr
+1126465,fintastic,Fintastic,VoidArkana,1267011,Modrinth: MIT,https://github.com/VoidArkana/Fintastic,exclude,84,依附于素材许可更严的模组,food
+920504,cannibal-conundrum,Cannibal Conundrum,SirPancakes,1164915,Modrinth: MIT,https://github.com/Clockwork-Interactive/CannibalConundrum,skip,7,仓库里物品贴图不足 10 张,food
+1232926,create-chocolate-fountain,Create: Chocolate Fountain,flaulox,1161221,Modrinth: MIT,https://github.com/flaulox/CreateChocolateFountain,skip,0,仓库里物品贴图不足 10 张,food
+1172429,sturdy-farmland-growth-edition,Sturdy Farmland - Growth Edition,Chakyl,1144046,Modrinth: CC-BY-NC-SA-4.0,https://github.com/Chakyl/Dew-Drop-Farmland-growth,skip,9,仓库里物品贴图不足 10 张,food
+1116678950355801,eating-animations,Eating Animations,Matyrobbrt,1115087,Modrinth: MIT,https://github.com/MatyrobbrtMods/EatingAnimationForge,skip,120,不是食物类，本批不收,food_mr
+694279,tfc-cast-iron-grill,TFC Cast Iron Grill,HermitOwO,1106123,Modrinth: MIT,https://github.com/HermitOwO/TFC-CastIronGrill,skip,2,仓库里物品贴图不足 10 张,food
+1064884840870849,crop-growth-modifier,Crop Growth Modifier,Saint,1092450,Modrinth: MIT,https://github.com/augustsaintfreytag/minecraft-crop-growth-modifier,skip,0,仓库里物品贴图不足 10 张,food_mr
+265715,butchercraft,Butchercraft,Lance5057,1080855,Modrinth: CC-BY-NC-SA-4.0,https://github.com/Lance5057/Butchercraft,ok_nc,170,LICENSE.md：整个项目 CC BY-NC-SA 4.0,food
+927591,frights-delight,Fright's Delight,ChefMooon,1061509,Modrinth: MIT,https://github.com/ChefMooon/frights-delight,ok_default,85,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1287394,agritech-evolved,Agritech: Evolved (ATE),misterdmodding,1046159,Modrinth: MIT,https://github.com/deonjonker123/AgritechEvolved,skip,13,不是食物类，本批不收,food
+1165928,lenderscataclysm-delight,L_Ender 's Cataclysm Delight,Chaolux,1023739,Modrinth: MIT,https://github.com/Chaolux1/LendersDelight,exclude,69,依附于素材许可更严的模组；农夫乐事的附属,food
+1236537,create-garnished-reworked,Create: Garnished Reworked,DakotaPrideModding,1016319,Modrinth: MIT,https://github.com/DakotaPride/create-garnished-forge,exclude,125,依附于素材许可更严的模组,food
+1167594497977627,cornucopia-reborn,Cornucopia Reborn,BmtUltra,993241,Modrinth: MIT,https://github.com/BmtUltra/Cornucopia,unverified,,仓库打不开,food_mr
+1260229,create-mechanical-confection,Create:Mechanical Confection,Aupoex,980251,Modrinth: MIT,https://github.com/Aupoex/Create-Mechanical-Confection,skip,8,仓库里物品贴图不足 10 张,food
+698244,valoria,Valoria,IriDark,976425,Modrinth: CC-BY-NC-4.0,https://github.com/IriDark/Valoria,skip,771,不是食物类，本批不收,food
+364918,spoiled,Spoiled,Mrbysco,960755,Modrinth: MIT,https://github.com/Mrbysco/Spoiled,skip,0,仓库里物品贴图不足 10 张,food
+1212197,hearth-and-harvest,Hearth and Harvest,AlabasterLeking,958327,Modrinth: MIT,https://github.com/AlabasterLeking/Hearth-And-Harvest,ok_weak,194,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT；农夫乐事的附属,food
+1128893519396251,midas-hunger,Midas Hunger,Accieo,948668,Modrinth: MIT,https://github.com/Accieo/Midas-Hunger,skip,18,不是食物类，本批不收,food_mr
+285105,enhanced-farming,Enhanced Farming,Mrbysco,912716,Modrinth: MIT,https://github.com/Mrbysco/Enhanced-Farming,ok_default,122,仓库许可文件：MIT，未见素材单独条款,food
+1148583,hotkettles,Hot Kettles,slainlight,910387,Modrinth: MIT,https://github.com/matthewperiut/hotkettles,ok_weak,23,仓库无许可文件；fabric.mod.json、mods.toml 和 Modrinth 页面声明 MIT,food
+1275340,delightful-creators-forge,Delightful Creators,Flomik,857392,Modrinth: CC0-1.0,https://github.com/Flomik10002/DelightfulCreatorsFabric,exclude,51,依附于素材许可更严的模组；农夫乐事的附属,food
+408480,chest-cavity,Chest Cavity,TigerOfTroy,837549,Modrinth: CC0-1.0,https://github.com/Tigereye504/chestcavity,unverified,186,仓库无许可文件,food
+1334659,garden-trails,Garden Trails,dawnoftime_team,817645,Modrinth: MIT,https://github.com/Dawn-of-Time-Project/gardentrails,skip,25,不是食物类，本批不收,food
+1076015,farmers-cutting-quark,Farmer's Cutting: Quark,Joshcraft2002,793917,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+1131152,farmers-cutting-twilight-forest,Farmer's Cutting: Twilight Forest,Joshcraft2002,763328,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+1016925,delightful-burgers,Delightful Burgers,luhcarti,743499,Modrinth: MIT,https://github.com/luhcartimods/DelightfulBurgers,skip,4,仓库里物品贴图不足 10 张,food
+615985,cooked-carrots,Cooked Carrots,Mars,722155,Modrinth: MIT,https://github.com/Mars-The-Planet/Cooked-Carrots,skip,1,仓库里物品贴图不足 10 张,food
+1302716,seasonal-lets-do,Seasonal Let's Do,xhyrom,627206,Modrinth: Apache-2.0,https://github.com/xHyroM/seasonal-letsdo,skip,0,仓库里物品贴图不足 10 张,food
+452816,food-effects,Food Effects,InfernalStudios,626904,Modrinth: Apache-2.0,https://github.com/infernalstudios/Food-Effects,skip,0,仓库里物品贴图不足 10 张,food
+1049016551645072,hunger-remover,Hunger Remover,SmushyTaco,605580,Modrinth: Apache-2.0,https://github.com/SmushyTaco/Hunger-Remover,skip,0,仓库里物品贴图不足 10 张,food_mr
+1531135,delight-lib,Delight Lib,axperty,594176,Modrinth: MIT,https://github.com/axperty/delightlib,skip,0,仓库里物品贴图不足 10 张,food
+901711,respite-creators-fabric,Respite Creators [Fabric],Flomik,579028,Modrinth: CC0-1.0,https://github.com/Flomik10002/RespiteCreatorsFabric,exclude,15,依附于素材许可更严的模组；农夫乐事的附属,food
+694309,kawaii-dishes,Kawaii Dishes,roseisproot,578447,Modrinth: MIT,https://github.com/OHakimen/KawaiiDishes,ok_default,314,仓库许可文件：MIT，未见素材单独条款,food
+306845,kamen-rider-craft,Kamen Rider Craft,trainfanz,557854,Modrinth: MIT,https://github.com/kelcok22/Kamen_Rider_Craft,exclude,4095,素材可能来自 Mojang 或其他游戏,food
+1149270,farmers-cutting-the-aether,Farmer's Cutting: The Aether,Joshcraft2002,554751,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+1171176,stacked-blocks-farmers-delight,Stacked Blocks: Farmer's Delight,axperty,552293,Modrinth: MIT,https://github.com/axperty/stackedblocks-farmersdelight,skip,0,仓库里物品贴图不足 10 张,food
+373456,food-expansion-reimagined,Food Expansion: Reimagined,raulsmartin,521708,Modrinth: MIT,https://github.com/raulsmartin/Food-Expansion,exclude,41,素材可能来自许可未核实的原作,food
+1160501105659752,some-assembly-required,Create: Some Assembly Required,ochotonida,517682,Modrinth: MIT,https://github.com/ochotonida/some-assembly-required,exclude,67,依附于素材许可更严的模组；农夫乐事的附属,food_mr
+1049917,dynamic-trees-for-natures-spirit,Dynamic Trees for Nature's Spirit,joe_vettek,517308,Modrinth: MIT,https://github.com/DynamicTreesTeam/DynamicTrees-NaturesSpirit,unverified,24,仓库无许可文件,food
+485532,reaping,Reaping,jamalam360,501160,Modrinth: MIT,https://github.com/JamCoreModding/Reaping,skip,5,仓库里物品贴图不足 10 张,food
+863479,sprinklerz,Sprinklerz,TelloVilla,472657,Modrinth: MIT,https://github.com/TelloVilla/Sprinklerz,skip,0,仓库里物品贴图不足 10 张,food
+1092584602473987,matcha-flavoured,Matcha Flavoured,klei_wright,469034,Modrinth: CC-BY-NC-SA-4.0,https://github.com/kleiwright/matcha-flavoured,exclude,766,素材可能来自 Mojang 或其他游戏,food_mr
+1450970,starcatchers-delight,Starcatcher's Delight - Let's Do: Kaleidoscope edition,wdiscute,460447,Modrinth: MIT,https://github.com/wdiscute/Starcatcher-Delight,exclude,63,依附于素材许可更严的模组；农夫乐事、森罗物语厨房的附属,food
+1166929,crate-delight-croptopia,Crate Delight: Croptopia,axperty,450281,Modrinth: MIT,https://github.com/axperty/cratedelightcroptopia,skip,0,仓库里物品贴图不足 10 张,food
+965533,peculiar-primordials,Peculiar Primordials,ValiantEnvoy,445667,Modrinth: MIT,https://github.com/TheValiantSquidward/PeculiarPrimordials,exclude,35,依附于素材许可更严的模组,food
+517224,food-pluss,Food+,theone_ss,445639,Modrinth: MIT,https://github.com/Theoness1/Food-plus,exclude,91,素材保留所有权利,food
+1017637,tfc-electrical-appliances,TFC Electrical Appliances,Vasakot,443499,Modrinth: MIT,https://github.com/V-asakot/TFC-Electrical-Appliances,skip,2,仓库里物品贴图不足 10 张,food
+1394406,fungi-delight,Fungi Delight (A Farmer's Delight Add-on),Eggmain,443455,Modrinth: MIT,https://github.com/MehdiNoui/FungiDelight,ok_default,14,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1193532,ramadan-delight,Ramadan Delight (A Farmer's Delight Add-on),Eggmain,436161,Modrinth: MIT,https://github.com/MehdiNoui/RamadanDelight,ok_default,49,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1113260,pizza-delight,Pizza Delight,Tiviacz1337,420722,Modrinth: MIT,https://github.com/AidanTilanus/Pizza-Delight,exclude,11,依附于素材许可更严的模组；农夫乐事的附属,food
+1109326149055086,enchanted-golden-apple-addition,Enchanted Golden Apple Addition,Jerrycyx,396755,Modrinth: MIT,https://github.com/Jerrycyx/Enchanted-Golden-Apple-Addition,skip,0,仓库里物品贴图不足 10 张,food_mr
+826583,thedirtystuff,The Dirty Stuff,bogismok,362993,Modrinth: MIT,https://github.com/bogismok/thedirtystuff,unverified,10,仓库无许可文件,food
+1214686031383885,angling,Angling,EightSidedSquare,359669,Modrinth: CC0-1.0,https://github.com/8s2/Angling,ok_explicit,30,LICENSE：CC0,food_mr
+941186,let-fish-love,Let Fish Love,TooManyKitKats,356933,Modrinth: MIT,https://github.com/Uraneptus/LetFishLove,skip,4,仓库里物品贴图不足 10 张,food
+1266919,calypsos-candy-workshop,Calypso's Candy Workshop,yuriscat,340269,Modrinth: MIT,https://github.com/LNatit/CandyWorkshop,exclude,128,素材保留所有权利,food
+1093531047916915,gipples-galore,Gipples Galore,KingRolly,335176,Modrinth: CC-BY-NC-SA-4.0,https://github.com/DigitalPear/False-Futures-Fabric,skip,5,仓库里物品贴图不足 10 张,food_mr
+1176865498582014,homeostatic,Homeostatic,wendall911,317872,Modrinth: MIT,https://github.com/wendall911/Homeostatic,skip,6,仓库里物品贴图不足 10 张,food_mr
+1485550,agritech,Agritech (AT2),misterdmodding,314793,Modrinth: MIT,https://github.com/deonjonker123/AgritechTwo,skip,1,仓库里物品贴图不足 10 张,food
+1343472,farmers-cutting-natures-spirit,Farmer's Cutting: Nature's Spirit,Joshcraft2002,314275,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+850610,maturi-delight,Maturi Delight,baguchiMC,311693,Modrinth: MIT,https://github.com/baguchi/MaturiDelight,skip,8,仓库里物品贴图不足 10 张,food
+1081410,frycooks-delight,Frycook's Delight,Somfunambulist,307337,Modrinth: MIT,https://github.com/Uraneptus/FrycooksDelight,exclude,11,GPL/LGPL；农夫乐事的附属,food
+776121,umapyoi,Umapyoi,SyameimaruZheng,287503,Modrinth: MIT,https://github.com/0999312/umapyoi,exclude,67,素材可能来自 Mojang 或其他游戏,food
+1191781,bakeries,Bakeries,Renyigesai,277205,Modrinth: CC-BY-NC-SA-4.0,https://github.com/Renyigesai/bakery,ok_nc,179,LICENSE-ASSETS.txt：资源文件 CC BY-NC-SA 4.0,food
+905897,create-drinks,Create: Drinks,Sietse,276610,Modrinth: MIT,https://github.com/VidTDM/create-drinks-1.21.1,skip,7,仓库里物品贴图不足 10 张,food
+1019728598148282,firmalife,Firmalife,eerussianguy,270080,Modrinth: MIT,https://github.com/eerussianguy/firmalife,exclude,334,依附于素材许可更严的模组,food_mr
+1045282276011633,salt,Salt,mortuusars,262332,Modrinth: MIT,https://github.com/mortuusars/Salt,skip,3,仓库里物品贴图不足 10 张,food_mr
+1337144,lemonskin,LemonSkin,myxazaur,253527,Modrinth: MIT,https://github.com/myxazaur/LemonSkin,skip,0,仓库里物品贴图不足 10 张,food
+1504275,create-gears-and-tavern,Create: Gears and Tavern,yision1,228155,Modrinth: BSD-3-Clause,https://github.com/yision1/GearsandTavern,skip,0,仓库里物品贴图不足 10 张,food
+1109288,foodvariations,Spice of Life: Classic Edition [1.20.1],leopoko,224572,Modrinth: MIT,https://github.com/leopoko/solclassic_v2,skip,3,仓库里物品贴图不足 10 张,food
+576920,a-cute-little-crock-pot,A Cute Little Crock Pot,nosrick_,222641,Modrinth: MIT,https://github.com/Nosrick/crock-pot-mod,skip,3,仓库里物品贴图不足 10 张,food
+627322,tooltiptweaks,Tooltip Tweaks,lunarbunten,222519,Modrinth: MIT,https://github.com/Penumbra-MC/Tooltip-Tweaks,skip,0,仓库里物品贴图不足 10 张,food
+496631,foodables,Foodables,TruthSt,218603,Modrinth: MIT,https://github.com/CanINotUseTruth/Foodables,ok_default,226,仓库许可文件：MIT，未见素材单独条款；CurseForge 关闭了第三方下载，从 Modrinth 下载,food_mr
+1437573,cobblemon-better-campfire-pot,Cobblemon: Better Campfire Pot,CoolerProMC,218519,Modrinth: MIT,https://github.com/CoolerProYT/Better-Campfire-Pot,skip,44,不是食物类，本批不收,food
+1209304,vanilla-delight,Vanilla Delights,Chaolux,214551,Modrinth: MIT,https://github.com/Chaolux1/VanillaDelight,ok_default,48,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+531645,candy-world-recaramelized, Candy World - ReCaramelized,Mrbysco,214268,Modrinth: MIT,https://github.com/Mrbysco/CandyWorld,ok_default,46,仓库许可文件：MIT，未见素材单独条款,food
+1383091,legume-delight,Legume Delight,pawjwp,208207,Modrinth: CC-BY-NC-SA-4.0,https://github.com/pawjwp/Legume-Delight,ok_nc,26,LICENSE.txt：整个项目 CC BY-NC-SA 4.0；农夫乐事的附属,food
+822475,classic-food,Classic Food,Mrbysco,194195,Modrinth: MIT,https://github.com/Mrbysco/ClassicFood,skip,0,仓库里物品贴图不足 10 张,food
+541632,suspicious-zombification,Suspicious Zombification,bl4ckscor3,188290,Modrinth: MIT,https://github.com/bl4ckscor3/SuspiciousZombification,skip,15,不是食物类，本批不收,food
+1214409,create-dimension-steamworks-realm,"Create: Dimension, Steamworks Realm",Reggarf,184815,Modrinth: MIT,https://github.com/Reggarfgod/Create-Dimension,skip,1,仓库里物品贴图不足 10 张,food
+1171398,carrot-rarity,Carrot Rarity,Somfunambulist,184074,Modrinth: MIT,https://github.com/somfunambulist/CarrotRarity-1.20.1,skip,5,仓库里物品贴图不足 10 张,food
+1131041,farmers-cutting-eternal-starlight,Farmer's Cutting: Eternal Starlight,Joshcraft2002,180550,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+610880,supernatural,Supernatural,Jusey1,174391,Modrinth: MIT,https://github.com/Jusey1/Supernatural,skip,74,不是食物类，本批不收,food
+1149659582606794,pigs-have-litters,Pigs Have Litters,Pepperoni-Jabroni,173343,Modrinth: MIT,https://github.com/Pepperoni-Jabroni/PigsHaveLitters,skip,0,仓库里物品贴图不足 10 张,food_mr
+1375081,cobblemon-farmers,Cobblemon Farmers,Chakyl,170227,Modrinth: MIT,https://github.com/Chakyl/cobblemon-farmers,skip,25,不是食物类，本批不收,food
+1506363,kaleidoscope-dimensions-wine,Kaleidoscope：Dimensions wine,wither_redstone,165071,Modrinth: CC-BY-4.0,https://github.com/WitherRedstone/Kaleidoscope-DimensionsWine,ok_nc,85,LICENSE.md：assets 目录 CC BY-NC-SA 4.0（森罗物语酒馆的附属）,food
+624669,leather-craft,Leather Craft,yigitguven,157002,Modrinth: MIT,https://github.com/yigit-guven/Leather-Craft,skip,0,仓库里物品贴图不足 10 张,food
+1129797,farmers-cutting-nethers-exoticism,Farmer's Cutting: Nether's Exoticism,Joshcraft2002,154090,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+404410,meal-api,Meal API,FoundationGames,146378,Modrinth: MIT,https://github.com/FoundationGames/MealAPI,skip,0,仓库里物品贴图不足 10 张,food
+1192754,golden-apple-tree,Golden Apple Tree,skniro,141053,Modrinth: MIT,https://github.com/skniro/GoldenAppleTree,skip,0,仓库里物品贴图不足 10 张,food
+1097856576891108,farmersdelight-notreepunching-pot,Farmer's Delight x No Tree Punching Cooking Pot,Joshcraft2002,140289,Modrinth: MIT,https://github.com/Joshcraft2002/farmersdelight-notreepunching-pot,skip,0,仓库里物品贴图不足 10 张,food_mr
+1070455,create-blazing-hot,Create: Blazing Hot,dudko,137253,Modrinth: MIT,https://github.com/dudek26/Create-Blazing-Hot,exclude,70,依附于素材许可更严的模组,food
+1264015,right-click-and-milk,Right Click and Milk (A Farmer's Delight Add-on),jasbrela,136240,Modrinth: MIT,https://github.com/jasbrela/right-click-and-milk,skip,0,仓库里物品贴图不足 10 张,food
+1040541456943086,origins-dietary-delights,Overgrown's Origins: Dietary Delights,Overgrown,135471,Modrinth: CC0-1.0,https://github.com/0vergrown/Origins-Dietary-Delights,skip,0,仓库里物品贴图不足 10 张,food_mr
+1011515475739955,lifestealfr,LifeSteal FR,Stoupy51,134406,Modrinth: MIT,https://github.com/Stoupy51/LifeSteal,skip,5,仓库里物品贴图不足 10 张,food_mr
+503374,bloxys-structures,Bloxy's Structures,BloxyMath,133240,Modrinth: MIT,https://github.com/ItzBloxy/Bloxys-Structures,unverified,,仓库打不开,food
+323671,more-apples,More Apples,lightninghawk63,132715,Modrinth: MIT,https://github.com/Stoupy51/MoreApples,skip,0,仓库里物品贴图不足 10 张,food
+900242,usefulfood-reborn,UsefulFood Reborn,skniro,131408,Modrinth: MIT,https://github.com/skniro/UsefulFood-Reborn,ok_default,357,仓库许可文件：MIT，未见素材单独条款,food
+1049435902605967,spanish-delight-refabricated,Spanish Delight Refabricated,macuguita,130343,Modrinth: MIT,https://github.com/macuguita/Spanish-Delight-Refabricated,exclude,17,移植版或与已有模组重复；农夫乐事的附属,food_mr
+1056886907914222,sushigocrafting,Sushi Go Crafting,buuz135,130215,Modrinth: MIT,https://github.com/Buuz135/SushiGoCrafting,skip,67,已在清单中（同一项目或同一仓库）,food_mr
+1333495,clutterbestiary,Clutter: Bestiary,Emil_SG,126255,Modrinth: MIT,https://github.com/EmilsGithub/Clutter-Bestiary,skip,83,不是食物类，本批不收,food
+1090550631160176,btwce,Better Than Wolves: CE,TheLadyDawn,124797,Modrinth: CC-BY-4.0,https://github.com/BTW-Community/BTW-Public,skip,0,仓库里物品贴图不足 10 张,food_mr
+1027702,contagion,Contagion - A Zombie Infection / Infectious Mod,MCModsPete,117497,Modrinth: MIT,https://github.com/MC-Mods-Pete/Contagion,skip,3,仓库里物品贴图不足 10 张,food
+1084580258560419,farmers-delight-expansion,Farmer's Delight Expansion,keishispl,114604,Modrinth: MIT,https://github.com/keishispl/farmers-delight-expansion,ok_default,11,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food_mr
+1123932800178745,vegehenna,Vegehenna: A vegetarian's heaven?,ivangeevo,113847,Modrinth: CC-BY-4.0,https://github.com/ivangeevo/vegehenna,ok_explicit,17,LICENSE：整个项目 CC BY 4.0，需署名,food_mr
+1059057196081409,dew-drop-mod-compat,Dew Drop Mod Compat,coolbot100s,113155,Modrinth: CC-BY-NC-SA-4.0,https://github.com/coolbot100s/Dew-Drop-Mod-Compat,skip,0,仓库里物品贴图不足 10 张,food_mr
+1111580,tfc-creepy-crawlies,TFC: Creepy-crawlies,rtcornejo,109846,Modrinth: MIT,https://github.com/RTCornejo/tfc-creepycrawlies,skip,2,仓库里物品贴图不足 10 张,food
+335918,fabric-craftable-enchanted-golden-apple,Craftable Enchanted Golden Apple,SmushyTaco,109200,Modrinth: Apache-2.0,https://github.com/SmushyTaco/Craftable-Enchanted-Golden-Apple,skip,0,仓库里物品贴图不足 10 张,food
+1040713790949923,kitchen-projectiles,Kitchen Projectiles,ThePotatoArchivist,108672,Modrinth: MIT,https://github.com/ThePotatoArchivist/KitchenProjectiles,skip,0,仓库里物品贴图不足 10 张,food_mr
+1151833858305041,pearfection,Pearfection,digitalpear,101523,Modrinth: Apache-2.0,https://github.com/DigitalPear/Pearfection-Fabric,skip,9,仓库里物品贴图不足 10 张,food_mr
+1147454,stardew-fishing-fabric,Stardew Fishing Fabric,kltyton,99060,Modrinth: MIT,https://github.com/kltyton/stardewfishing-fabric,exclude,83,素材可能来自 Mojang 或其他游戏,food
+1213039085174491,ezbowls,ezbowls,penPNG,98017,Modrinth: CC0-1.0,https://github.com/penPNG/ezbowls,skip,0,仓库里物品贴图不足 10 张,food_mr
+884742,thirst-was-reclaimed,Thirst Was Reclaimed,mlus,95497,Modrinth: MIT,https://github.com/mlus-asuka/Thirst-Was-Reclaimed,skip,5,仓库里物品贴图不足 10 张,food
+1135144120558797,farm-3x3,Farm 3x3,Raixu27,93495,Modrinth: MIT,https://github.com/Raixu27/Farm3x3,skip,0,仓库里物品贴图不足 10 张,food_mr
+1350048,vampirism-irons-spells-compatibility,Vampirism Iron's Spells Compatibility,xsharov_,93228,Modrinth: MIT,https://github.com/xsharov/VampireSpellsAddon,skip,0,仓库里物品贴图不足 10 张,food
+1104632896708913,classic-enchanted-golden-apple-crafting,Classic Enchanted Golden Apple Crafting,Jerrycyx,92676,Modrinth: MIT,https://github.com/Jerrycyx/Classic-Enchanted-Golden-Apple-Crafting,skip,0,仓库里物品贴图不足 10 张,food_mr
+1259032,hybrid-delights,Hybrid Delights,HybridLabs,92577,Modrinth: MIT,https://github.com/hybridlabs/hybrid-delights,exclude,47,依附于素材许可更严的模组；农夫乐事的附属,food
+1546835,millager,Millager (Village Defenders),LZYZL6,92540,Modrinth: MIT,https://github.com/lzyzl6/Millager,skip,0,仓库里物品贴图不足 10 张,food
+1028396329483438,backrooms,The Backrooms,Lumaa,90574,Modrinth: MIT,https://github.com/v-fast/BackroomsMod,skip,7,仓库里物品贴图不足 10 张,food_mr
+1058421,more-composter-variants,More Composter Variants,pnku,88210,Modrinth: MIT,https://github.com/pnk2u/More-Composter-Variants,skip,0,仓库里物品贴图不足 10 张,food
+1207967,farmers-cutting-blue-skies,Farmer's Cutting: Blue Skies,Joshcraft2002,87334,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+1467057,maid-restaurant,Maid Restaurant,KomeijiMarisa,87158,Modrinth: BSD-3-Clause,https://github.com/MasterMarisa/MaidRestaurant,skip,4,仓库里物品贴图不足 10 张,food
+1379029,decorative-food,TW‘s  Decorative Food,666daji,82083,Modrinth: MIT,https://github.com/Tenacious-Wonder/Decorative-Food,skip,0,仓库里物品贴图不足 10 张,food
+1254661,umapyoi-delight,Umapyoi Delight,kusozakoatama10k,77906,Modrinth: MIT,https://github.com/KusozakoAtama10k/Umapyoi-Delight,exclude,62,素材可能来自 Mojang 或其他游戏；农夫乐事的附属,food
+1230799,easters-delight,Easter's Delight,PhantomWing,77182,Modrinth: MIT,https://github.com/PhantomWing/EasterDelight,ok_default,21,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+576755,bodacious-berries,bodacious berries,eristhea,70944,Modrinth: MIT,https://github.com/rosebudmods/bodacious-berries,ok_default,52,仓库许可文件：MIT，未见素材单独条款,food
+1054384403327240,kaleidoscope-deco,Kaleidoscope Deco,YSBB,70554,Modrinth: CC-BY-NC-SA-4.0,https://github.com/KaleidoscopeMods/KaleidoscopeDeco,exclude,255,数据包，不是 jar 模组,food_mr
+818651,super-apple,Super Apple,skniro,68349,Modrinth: MIT,https://github.com/skniro/Agree-Super_Apple,ok_default,57,仓库许可文件：MIT，未见素材单独条款,food
+1105956883749130,sakura_mod,Sakura Mod,Syameimaru_Zheng,68134,Modrinth: MIT,https://github.com/0999312/Sakura_mod,ok_default,334,LICENSE：MIT；resources 里附带的是农夫乐事的 MIT 许可,food_mr
+1008482582868879,nears,Nears,digitalpear,66664,Modrinth: Apache-2.0,https://github.com/DigitalPear/Nears-Fabric,ok_default,13,仓库许可文件：Apache-2.0，未见素材单独条款,food_mr
+1062901,sturdy-farmland,Sturdy Farmland,coolbot100s,65832,Modrinth: CC-BY-NC-SA-4.0,https://github.com/coolbot100s/Dew-Drop-Farmland,skip,0,仓库里物品贴图不足 10 张,food
+1339974,choppers-delight,Chopper's Delight,PhantomWing,65324,Modrinth: MIT,https://github.com/PhantomWing/ChoppersDelight,skip,0,仓库里物品贴图不足 10 张,food
+1114065,farmers-cutting-betternether,Farmer's Cutting: BetterNether,Joshcraft2002,64613,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+1146834,farmers-cutting-betterend,Farmer's Cutting: BetterEnd,Joshcraft2002,63562,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+1580791,kaleidoscope-compat,Kaleidoscope Compat,BmtUltra,62168,Modrinth: MIT,https://github.com/BmtUltra/Kaleidoscope-Compat,unverified,,仓库打不开；森罗物语厨房的附属,food
+1467850,dungeons-dimensions-nether,Dungeons Dimensions: Nether,Redupro,62094,Modrinth: CC-BY-NC-SA-4.0,https://github.com/Red-Programmer/mcd_d_nether-ml,skip,25,不是食物类，本批不收,food
+1005100012554016,granular-hunger,Granular Hunger,Tetro48,61474,Modrinth: CC0-1.0,https://github.com/Tetro48/FabricMod-GranularHunger,skip,0,仓库里物品贴图不足 10 张,food_mr
+1193234651441522,miteequilibrium,MITE:Equilibrium,Riz_0,57655,Modrinth: MIT,https://github.com/Lithewings/MITE_Equilibrium,skip,98,不是食物类，本批不收,food_mr
+1112771915331236,tropics,Tropics,Maximum,56743,Modrinth: MIT,https://github.com/maximmods/Tropics,unverified,,仓库打不开,food_mr
+1394201,kaleidoscope-cookery-refabricated,Kaleidoscope Cookery Refabricated,NightEpiphany,56622,Modrinth: CC-BY-NC-SA-4.0,https://github.com/NightEpiphany/KaleidoscopeCookery-Refabricated,exclude,562,移植版或与已有模组重复；农夫乐事的附属,food
+646126,light-meals,Light Meals,Hashtag233,56427,Modrinth: MIT,https://github.com/Hashtag233/LightMeals,ok_explicit,71,仓库根目录和 resources 目录下的 LICENSE 均为 MIT,food
+1125840457436663,farmers-delight-plus,Farmer's Delight: Plus,Johnyele,55549,Modrinth: MIT,https://github.com/Johnyel/FarmersDelightPlus,ok_default,39,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food_mr
+952880,frog-petting,Pet Frogs and More!,Trinketina,54780,Modrinth: MIT,https://github.com/Trinketina/Frog-Petting,skip,0,仓库里物品贴图不足 10 张,food
+1117840992126886,moisturization,Moisturization,randommcsomethin,54441,Modrinth: MIT,https://github.com/RandomMcSomethin/moisturization,skip,0,仓库里物品贴图不足 10 张,food_mr
+1045652199909297,farmers-delight-extended,Farmer's Delight: Extended,eeveebeby,53984,Modrinth: MIT,https://github.com/eeveebeby/FarmersDelight-Extended,exclude,53,依附于素材许可更严的模组；农夫乐事的附属,food_mr
+938715,better-biomes,[1.21.11 UPDATE] Better Biomes,CrypticVerse,52435,Modrinth: MIT,https://github.com/CrypticVerse/BetterBiomes,skip,16,不是食物类，本批不收,food
+1085926432385997,no-wasting-horse-food,No Wasting Horse Food,RedRam567,51163,Modrinth: MIT,https://github.com/RedRam567/RedRamMinecraftMods,skip,0,仓库里物品贴图不足 10 张,food_mr
+1355287,the-silver-age,The Silver Age,PhantomWing,49582,Modrinth: MIT,https://github.com/PhantomWing/TheSilverAge,skip,37,不是食物类，本批不收,food
+1501134,tweaks-delight,Tweaks Delight,axperty,49358,Modrinth: MIT,https://github.com/axperty/tweaksdelight,skip,1,仓库里物品贴图不足 10 张,food
+1078562,more-beehive-variants,More Beehive Variants,pnku,49323,Modrinth: CC-BY-NC-SA-4.0,https://github.com/pnk2u/More-Beehive-Variants,skip,0,仓库里物品贴图不足 10 张,food
+1074382,more-smoker-variants,More Smoker Variants,pnku,49186,Modrinth: MIT,https://github.com/pnk2u/More-Smoker-Variants,skip,0,仓库里物品贴图不足 10 张,food
+1475865,kaleidoscope-tavern-refabricated,Kaleidoscope Tavern Refabricated,NightEpiphany,47031,Modrinth: CC-BY-NC-SA-4.0,https://github.com/NightEpiphany/KaleidoscopeTavern-Refabricated,exclude,72,移植版或与已有模组重复,food
+1032837352770904,unicopia,Unicopia,Sollace,46781,Modrinth: MIT,https://github.com/Sollace/Unicopia,exclude,293,素材可能来自 Mojang 或其他游戏；农夫乐事的附属,food_mr
+1467064,kaleidoscope-cookery-automation,KaleidoscopeCookery-Automation,KomeijiMarisa,45929,Modrinth: BSD-3-Clause,https://github.com/MasterMarisa/KaleidoscopeCookery-Automation,skip,0,仓库里物品贴图不足 10 张,food
+1048415,garnished-additions,Create: Garnished Additions,PanPandaa,45122,Modrinth: MIT,https://github.com/PanPanda1/Garnished-Additions,exclude,310,依附于素材许可更严的模组,food
+1085096290227306,wills-farming-tweaks,Will's Farming Tweaks,WillPoulson,45038,Modrinth: MIT,https://github.com/WillPoulson/Wills-Farming-Tweaks,skip,0,仓库里物品贴图不足 10 张,food_mr
+230819,food-overhaul,Food Overhaul,DenisMasterHerobrine,44500,Modrinth: MIT,https://github.com/TheRedBrain/food-overhaul,skip,0,仓库里物品贴图不足 10 张,food
+1390419,more-ornamental-plants,Ornamental Plants,XiaoXiangJinLan,44070,Modrinth: MIT,https://github.com/XiaoXiangJinLan/MoreOrnamentalPlants,skip,172,不是食物类，本批不收,food
+1096916,more-fishing-rod-variants,More (Fishing) Rod Variants (MStV+),pnku,42961,Modrinth: CC-BY-NC-SA-4.0,https://github.com/pnk2u/More-Fishing-Rod-Variants,skip,40,不是食物类，本批不收,food
+1183139570244412,wcsm,Chinese-style school and home: Unofficial version,Noel-Cornehl,42634,Modrinth: MIT,https://github.com/bii20081Aztec/CSSAHUV,exclude,44,依附于素材许可更严的模组,food_mr
+1214575775059180,farmers-expanse,Farmers Expanse,patrickrich07,41935,Modrinth: MIT,https://github.com/Greddode/Farmers-Expanse,ok_weak,79,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT；农夫乐事的附属,food_mr
+955799,jaiz-mobs,Jaiz Mobs,JaizYT,41335,Modrinth: MIT,https://github.com/Jaiz15/jaizmobs-mod,unverified,32,仓库无许可文件,food
+1049923864754080,gone-fishing,Gone Fishing!,Patbox,40989,Modrinth: MIT,https://github.com/patbox/gone-fishing,ok_default,68,仓库许可文件：MIT，未见素材单独条款,food_mr
+1358034,farm-3x3-farmers-delight-compatibility,Farm 3x3 Farmer's Delight Compatibility,Raixu27,40934,Modrinth: MIT,https://github.com/Raixu27/Farm3x3-Farmers-Delight-Compatibility,skip,0,仓库里物品贴图不足 10 张,food
+1069628932184154,herbal-delight,Herbal Delight,Super_McTea,40142,Modrinth: CC0-1.0,https://github.com/Super-McTea/herbal-delight,unverified,,仓库打不开；农夫乐事的附属,food_mr
+903338,cake-delight,Cake Delight,xhanhh,40029,Modrinth: CC-BY-NC-SA-4.0,https://github.com/xhanhh/CakeDelight-fabric,exclude,16,依附于素材许可更严的模组；农夫乐事的附属,food
+701458,hibernal-herbs,Hibernal Herbs,DakotaPrideModding,39694,Modrinth: MIT,https://github.com/DakotaPride/Hibernal-Herbs,ok_default,233,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1033824,better-farming-right-click,Better Farming Right Click  + Right Click Harvest,CakeIsTastyDeveloper,39414,Modrinth: MIT,https://github.com/cakeGit/Better-Farming-Right-Click,skip,0,仓库里物品贴图不足 10 张,food
+1163171334414467,project-mmo-farmers-delight,Project MMO: Farmer's Delight Compat,Silvertide,39089,Modrinth: CC-BY-4.0,https://github.com/Silvertide7/pmmo_farmers_compat,skip,0,仓库里物品贴图不足 10 张,food_mr
+1051417582433534,fishing-101,Fishing 101,Macck209,38393,Modrinth: MIT,https://github.com/Macck209/Fishing101,ok_default,62,仓库许可文件：MIT，未见素材单独条款,food_mr
+1105140,prehistoric-dinosaurs,Prehistoric Dinosaurs,aeladran,38179,Modrinth: MIT,https://github.com/NecroCrab/dinos-1.20.1,skip,21,不是食物类，本批不收,food
+1467051,ponder-for-kaleidoscope-cookery,Ponder For Kaleidoscope Cookery,KomeijiMarisa,37066,Modrinth: BSD-3-Clause,https://github.com/MasterMarisa/PonderForKaleidoscopeCookery,skip,0,仓库里物品贴图不足 10 张,food
+1380916,bettervannilafishes,BetterVannilaFishes,niannian,36773,Modrinth: MIT,https://github.com/Team-EcologicalReplenishmentStation/BetterVannilaFishes,exclude,311,素材保留所有权利,food
+1040134362581371,localizedfishingtables,LocalizedFishingTables,Rhythmic,36760,Modrinth: MIT,https://github.com/Simplexity-Development/localized_fishing_tables,skip,0,仓库里物品贴图不足 10 张,food_mr
+1325695,peruvians-delight,Peruvian's Delight,GiulianoMMPP,36472,Modrinth: MIT,https://github.com/GiulianoMaPe/PeruviansDelight-1.20.1-Forge,ok_weak,57,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT；农夫乐事的附属,food
+1048431,garnished-botany-pots,Garnished Botany Pots,PanPandaa,36110,Modrinth: MIT,https://github.com/PanPanda1/Garnished-Botany-Pots,skip,0,仓库里物品贴图不足 10 张,food
+1289374,avaritias-delight,Avaritia's Delight,IAFEnvoy,35829,Modrinth: MIT,https://github.com/Nova-Committee/AvaritiaDelight,ok_default,47,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1085255072413076,milk_plus,Milk+,tropheusj,35765,Modrinth: MIT,https://github.com/TropheusJ/Milk-Plus,skip,1,仓库里物品贴图不足 10 张,food_mr
+1175343944535604,farmers-crops,Farmer's Crops,JCS,35764,Modrinth: MIT,https://github.com/JCS-Mecabricks/Farmers-Crops,ok_explicit,11,LICENSE：CC0,food_mr
+1091721302266676,coffeecraft,CoffeeCraft,blockbrothers.mods,34894,Modrinth: MIT,https://github.com/vautheman/coffeecraft,skip,8,仓库里物品贴图不足 10 张,food_mr
+1079760,more-feeding-trough-variants,More Feeding Trough Variants,pnku,34842,Modrinth: MIT,https://github.com/pnk2u/More-Feeding-Trough-Variants,skip,0,仓库里物品贴图不足 10 张,food
+1206200936734076,mystias_izakaya,mystia_izakaya,Crystal1921,32581,Modrinth: MIT,https://github.com/Crystal1921/mystias_izakaya,exclude,233,素材可能来自 Mojang 或其他游戏,food_mr
+919216,diabolical-delights,Diabolical Delights,AzureDoomC,32567,Modrinth: MIT,https://github.com/AzureDoom/Diabolical-Delights,skip,0,仓库里物品贴图不足 10 张,food
+1216857,tea-aroma,Tea Aroma,foggyhillside,32509,Modrinth: MIT,https://github.com/FoggyHillside/Tea-Aroma,ok_default,27,仓库许可文件：MIT，未见素材单独条款,food
+1472019,paper-kite-manor,Paper Kite Manor,KaziCat,30821,Modrinth: MIT,https://github.com/MasterMarisa/PaperKiteManor,ok_explicit,81,LICENSE-ASSETS：资源文件 MIT,food
+1373281,energized-power-farmers-delight,Energized Power - Farmer's Delight,JDDev0,30795,Modrinth: MIT,https://github.com/JDDev0/EnergizedPower-FarmersDelight,skip,0,仓库里物品贴图不足 10 张,food
+1257544,poopsky,PoopSky,ALTNOIR_,30527,Modrinth: MIT,https://github.com/Altnoir/PoopSkyMod,skip,137,不是食物类，本批不收,food
+956695,nutritionz,NutritionZ,xR4YM0ND,29552,Modrinth: MIT,https://github.com/xR4YM0ND/NutritionZ,skip,0,仓库里物品贴图不足 10 张,food
+1349534,more-than-apples,More Than Apples,JONE_500,28276,Modrinth: MIT,https://github.com/JONE500I007/more-than-apples-1.21.1,skip,0,仓库里物品贴图不足 10 张,food
+1158517663173156,kaleidoscope-nether-refabricated,Kaleidoscope Nether Refabricated,NightEpiphany0401,28146,Modrinth: MIT,https://github.com/NightEpiphany/KaleidoscopeNether-Refabricated,exclude,104,移植版或与已有模组重复,food_mr
+1228903,arbitrary-delight,Arbitrary Delight,Ri0t69,27894,Modrinth: MIT,https://github.com/VaporRi0t/Arbitrary-Delight,ok_default,57,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+1037146,happy-pride-moth,Happy Pride Moth!,DakotaPrideModding,27559,Modrinth: MIT,https://github.com/DakotaPride/Pride-Moths,skip,33,不是食物类，本批不收,food
+1467226,spice-of-life-maid,Spice of Life: Maid,KomeijiMarisa,27203,Modrinth: BSD-3-Clause,https://github.com/MasterMarisa/Spice-of-Life-Maid,skip,0,仓库里物品贴图不足 10 张,food
+1327410,cutting-delight,Cutting Delight,JaronZ,25624,Modrinth: MIT,https://github.com/Jaronline/CuttingDelight,skip,0,仓库里物品贴图不足 10 张,food
+1136113998792297,oceans-delight-polymer-port,Ocean's Delight (Polymer Port),Sun_Phoen1x,25137,Modrinth: MIT,https://github.com/SunPhoen1x/Oceans-Delight-Port,exclude,22,移植版或与已有模组重复；农夫乐事的附属,food_mr
+354750,golden-berries,Golden Berries,AzureDoomC,25009,Modrinth: MIT,https://github.com/AzureDoom/GoldenBerriesML,skip,2,仓库里物品贴图不足 10 张,food
+1123701466783626,createdoener,Create Döner,PixelboysTM,24616,Modrinth: MIT,https://github.com/PixelboysTM/createdoener,skip,3,仓库里物品贴图不足 10 张,food_mr
+1124616808172784,spanish-delight,Spanish Delight,DevJulen,23562,Modrinth: MIT,https://github.com/DevJulen/SpanishDelight-Forge,ok_weak,17,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT；农夫乐事的附属,food_mr
+1365939,functional-armor-trims,Functional Armor Trims,RubberToe,23194,Modrinth: MIT,https://github.com/RubberToe-06/functional_trims,skip,0,仓库里物品贴图不足 10 张,food
+1268890,genderless,Create: Genderless,DakotaPrideModding,22631,Modrinth: MIT,https://github.com/dakotapride/create-genderless,unverified,33,仓库无许可文件,food
+967854,clientharvest,ClientHarvest,PainfulPaladins,22076,Modrinth: MIT,https://github.com/PainfulPaladins-Mods/Client-Harvest,skip,0,仓库里物品贴图不足 10 张,food
+1144166,rustic-pancakes,Rustic Pancakes,PhantomWing,21122,Modrinth: MIT,https://github.com/PhantomWing/RusticPancakes,skip,5,仓库里物品贴图不足 10 张,food
+1328556,create-delicious-teas,Create: delicious teas,_Portality_,21038,Modrinth: MIT,https://github.com/Urtalita/create-tea,skip,3,仓库里物品贴图不足 10 张,food
+1076299,nemos-farming,Nemo's Farming,NemoNotFound,21005,Modrinth: MIT,https://github.com/NemoNotFound/NemosFarming,skip,9,仓库里物品贴图不足 10 张,food
+1205482231705679,psittacine,Psittacine,MisterHyacinth,20849,Modrinth: CC-BY-NC-SA-4.0,https://github.com/MisterHyacinth/Psittacine,unverified,15,仓库无许可文件,food_mr
+1167092476718613,optimal-eat,Optimal Eat,sootysplash,20628,Modrinth: Apache-2.0,https://github.com/sootysplash/optimal-eat,skip,0,仓库里物品贴图不足 10 张,food_mr
+1088162861087303,bygone,The Bygone,juniperdev,20472,Modrinth: MIT,https://github.com/jamieohdev/the-bygone,skip,151,不是食物类，本批不收,food_mr
+1159714339911033,crystal-tools,Crystal Tools,will-y,20447,Modrinth: MIT,https://github.com/will-y/crystal-tools,skip,34,不是食物类，本批不收,food_mr
+1247488,crops-xp,Crops XP,Nodecount,19433,Modrinth: CC0-1.0,https://github.com/nodecount/crops_xp,skip,0,仓库里物品贴图不足 10 张,food
+1299724,farmers-cutting-collection,Farmer's Cutting Collection,Joshcraft2002,19406,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+1121813519917026,tough-as-nails-create-addon,Tough As Nails Create Addon,Lorp_OOO,19326,Modrinth: MIT,https://github.com/LorpOOO/Tought-As-Nails-Create-Addon,exclude,11,依附于素材许可更严的模组,food_mr
+1221962,yeast-n-feast,Yeast 'n Feast,AstralyaStudios,19175,Modrinth: MIT,https://github.com/AstralyaStudios/YeastNFeast,ok_weak,82,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT,food
+1460499,eternal-starlight-delight,Eternal Starlight's Delight,Minor2CCh,18922,Modrinth: MIT,https://github.com/Minor2CCh/EternalStarlightDelight,ok_default,56,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属；CurseForge 关闭了第三方下载，从 Modrinth 下载,food_mr
+639754,emerald-craft-mod,Emerald Craft,Viola_Siemens,18640,Modrinth: MIT,https://github.com/Viola-Siemens/EmeraldCraftMod,skip,103,不是食物类，本批不收,food
+388391,white-rabbit,White Rabbit,Virtuoel,18581,Modrinth: MIT,https://github.com/Virtuoel/WhiteRabbit,skip,1,仓库里物品贴图不足 10 张,food
+1630823,farmers-delight-meal-mastery,Farmer's Delight: Meal Mastery,XircTwerk,18478,Modrinth: MIT,https://github.com/XircTwerk/Meal-Mastery,skip,0,仓库里物品贴图不足 10 张,food
+834671,spoiledz,SpoiledZ,Globox_Z,17924,Modrinth: MIT,https://github.com/Globox1997/SpoiledZ,ok_default,64,仓库许可文件：MIT，未见素材单独条款；CurseForge 关闭了第三方下载，从 Modrinth 下载,food_mr
+1130285129125133,photosynthesis,Photosynthesis,Zuiron,17901,Modrinth: MIT,https://github.com/Zuiron/Photosynthesis,ok_default,556,仓库许可文件：MIT，未见素材单独条款,food_mr
+1178349396401971,borukva-food-exotic,Borukva Food Exotic,Sun_Phoen1x,17831,Modrinth: Apache-2.0,https://github.com/SunPhoen1x/Borukva-Food-Exotic,exclude,71,依附于素材许可更严的模组,food_mr
+1081786441309128,foodstats,食物增强,ming_hai,17535,Modrinth: CC-BY-NC-SA-4.0,https://github.com/minghai987/minecraft_mod_foodstats,skip,0,仓库里物品贴图不足 10 张,food_mr
+977960,modern-delight,Modern Delight,zombie_cute,17379,Modrinth: MIT,https://github.com/zombiecute/ModernDelight,ok_default,217,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+974853,kafs-valentine-special,Kaf's Valentine Special,iamkaf,17281,Modrinth: MIT,https://github.com/iamkaf/valentine,skip,50,不是食物类，本批不收,food
+1200879651961634,death-animations,Death Animations [WIP],Tschipcraft,17015,Modrinth: Apache-2.0,https://github.com/Tschipcraft/deathanimations_test,skip,1,仓库里物品贴图不足 10 张,food_mr
+1066482471496372,solar-cooker,Solar Cooker,cech12,16811,Modrinth: MIT,https://github.com/cech12/SolarCooker,skip,1,仓库里物品贴图不足 10 张,food_mr
+1154761572614123,resource-cracker,Resource Cracker/Tools,Morthen,16781,Modrinth: MIT,https://github.com/Morthen-Mods/Resource-Cracker,skip,42,不是食物类，本批不收,food_mr
+1060261888642521,more-crustacean,More Crustacean,White_Heket,16762,Modrinth: CC-BY-NC-SA-4.0,https://github.com/whiteheket/More-Crustacean,skip,0,仓库里物品贴图不足 10 张,food_mr
+1207857375730106,umapyoi-fabric,Umapyoi Fabricated,Lead,16759,Modrinth: MIT,https://github.com/LeadRDRK/umapyoi-fabric,exclude,67,素材可能来自 Mojang 或其他游戏,food_mr
+1130482,farmers-cutting-cinderscapes,Farmer's Cutting: Cinderscapes,Joshcraft2002,16652,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+1116683,instant-feedback,Instant Feedback,drexhd,16524,Modrinth: MIT,https://github.com/DrexHD/InstantFeedback,skip,2,仓库里物品贴图不足 10 张,food
+1366682,croptopia-refabricated,Croptopia Refabricated,pcal43,16358,Modrinth: MIT,https://github.com/pcal43/croptopia-refabricated,exclude,394,移植版或与已有模组重复,food
+1130409,farmers-cutting-terrestria,Farmer's Cutting: Terrestria,Joshcraft2002,16237,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+1157965973970714,nether-additions,Nether Additions,flenarn,16010,Modrinth: Apache-2.0,https://github.com/FlenarnDev/Nether-Additions,skip,7,仓库里物品贴图不足 10 张,food_mr
+1044100724769187,origins-rockeater,Origins: Rockeater,Kawatt,15779,Modrinth: MIT,https://github.com/Kawatt/Rockeater-Origin,skip,0,仓库里物品贴图不足 10 张,food_mr
+1099840554943519,tasty-supplies,Tasty Supplies,OneShrimpADay,15777,Modrinth: MIT,https://github.com/atomic-junky/tasty-supplies,ok_default,114,仓库许可文件：MIT，未见素材单独条款,food_mr
+1041272014180165,el-and-ls-dye-mod,El and L's Dyes,Leafenzo,15619,Modrinth: MIT,https://github.com/Tellios-Projects/Mint,exclude,381,素材保留所有权利,food_mr
+1104576566013213,timo,Timo,Timo_11,15405,Modrinth: BSD-3-Clause,https://github.com/MC-datapack/Timo,skip,0,仓库里物品贴图不足 10 张,food_mr
+1468005,spice-of-life-maids-dream,Spice of Life: Maids' Dream,KomeijiMarisa,14269,Modrinth: BSD-3-Clause,https://github.com/MasterMarisa/Spice-of-LIfe--Maids-Dream,skip,1,仓库里物品贴图不足 10 张,food
+1052107799597197,storage-delight-polymer,Polymer Patch for Storage Delight,Sun_Phoen1x,13692,Modrinth: MIT,https://github.com/SunPhoen1x/Storage-Delight-Patch,skip,0,仓库里物品贴图不足 10 张,food_mr
+1095537392960006,more-delight-polymer,Polymer Patch for More Delight,Sun_Phoen1x,13561,Modrinth: MIT,https://github.com/SunPhoen1x/More-Deligth-Patch,skip,0,仓库里物品贴图不足 10 张,food_mr
+877703,valleymans-beans,Valleyman's bean,thejurassicking1,13382,Modrinth: Apache-2.0,https://github.com/Floi1/Valleymans-Beans-mod,ok_default,51,仓库许可文件：Apache-2.0，未见素材单独条款,food
+1097126,palestinian-delight,Palestinian Delight,Dweblenod,13060,Modrinth: CC0-1.0,https://github.com/Dweblenod/palestiniandelight,skip,6,仓库里物品贴图不足 10 张,food
+997272,no-gui-fd,No Gui FD,strangesmell123,12915,Modrinth: MIT,https://github.com/StrangeSmell/NoGuiFD,skip,0,仓库里物品贴图不足 10 张,food
+846009,cropped,Cropped,NyakoFox,12803,Modrinth: CC0-1.0,https://github.com/NyakoFox/cropped,skip,0,仓库里物品贴图不足 10 张,food
+1666863,kaleidoscope-grilling,Kaleidoscope Grilling,breezeth,12754,Modrinth: BSD-3-Clause,https://github.com/breezeth-CN/KaleidoscopeGrilling,ok_nc,273,LICENSE-ASSETS：资源文件 CC BY-NC-SA 4.0；森罗物语厨房的附属,food
+1010716630735461,crafty-cuisine,Crafty Cuisine - Vanilla Inspired Food,randommcsomethin,12746,Modrinth: MIT,https://github.com/RandomMcSomethin/Crafty-Cuisine,ok_default,32,仓库许可文件：MIT，未见素材单独条款,food_mr
+1528435,kaleidoscope-bloodwine,Kaleidoscope_bloodwine,baiyin1223,12443,Modrinth: MIT,https://github.com/baiyin1223/Kaleidoscope_bloodwine,exclude,12,依附于素材许可更严的模组,food
+1077375502058230,betafood,BetaFood,Nowilltolife,12221,Modrinth: MIT,https://github.com/jumanji144/BetaFood,skip,0,仓库里物品贴图不足 10 张,food_mr
+1417861,critters-delight,Critters Delight,DakotaPrideModding,12142,Modrinth: MIT,https://github.com/dakotapride/critters-delight,ok_weak,84,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT；农夫乐事的附属,food
+972940,chili-bullet-weapons,Chili Bullet Weapons,Iunius118,12131,Modrinth: MIT,https://github.com/Iunius118/ChiliBulletWeapons,skip,51,不是食物类，本批不收,food
+1113094926111817,hungersdelight,Hunger's Delight,Nico_Nico_Nyx,11869,Modrinth: MIT,https://github.com/nico-nico-nyx/hungersdelight,skip,0,仓库里物品贴图不足 10 张,food_mr
+670348,delightful-froge,Delightful Froge,gliscowo,11708,Modrinth: MIT,https://github.com/wisp-forest/delightful-froge,skip,0,仓库里物品贴图不足 10 张,food
+1362825,eidolon-edoni,Eidolon:Edoni,StarOcean,11273,Modrinth: MIT,https://github.com/0Starocean0/EidolonEdoni,unverified,66,仓库无许可文件；农夫乐事的附属,food
+1120246325478135,creates-delight,Create's Delight,phoupraw,11267,Modrinth: MIT,https://github.com/Phoupraw/CreateSDelightFabricJava,exclude,37,依附于素材许可更严的模组,food_mr
+1086742986377731,millet-delight,Millet Delight,DreaMemory2,11201,Modrinth: MIT,https://github.com/DreaMemory2/MilletDelight,ok_default,42,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food_mr
+1323969,farmers-tea-resteeped,Farmer's Tea Resteeped,KreloX,11187,Modrinth: MIT,https://github.com/KreloX/farmers-tea,skip,0,仓库里物品贴图不足 10 张,food
+1129464,frights-and-foliage,Frights and Foliage,Pillowfort,10792,Modrinth: MIT,https://github.com/Nasache/frights_and_foliage-1.20.1,unverified,43,仓库无许可文件,food
+1108334,barklings,Barklings,Pillowfort,10540,Modrinth: MIT,https://github.com/Nasache/barklings-V1.21,unverified,23,仓库无许可文件,food
+1163447985303974,veggie-delight,Veggie Delight,ElectroArtifex,10353,Modrinth: MIT,https://github.com/ElectroArtifex/veggiedelight-1.20.1,ok_weak,28,仓库无许可文件；fabric.mod.json 声明 CC BY 4.0，Modrinth 页面声明 MIT；农夫乐事的附属,food_mr
+1146512,farmers-cutting-promenade,Farmer's Cutting: Promenade,Joshcraft2002,10158,Modrinth: MIT,https://github.com/Joshcraft2002/farmers-cutting,skip,0,仓库里物品贴图不足 10 张,food
+1054772121691570,slavic-cuisine,Slavic Cuisine,Palker,9813,Modrinth: MIT,https://github.com/palkercode/slavic-cuisine,skip,7,仓库里物品贴图不足 10 张,food_mr
+1163751429991196,crate-delight-polymer,Polymer Patch for Crate Delight,Sun_Phoen1x,9771,Modrinth: MIT,https://github.com/SunPhoen1x/Crate-Delight-Patch,skip,0,仓库里物品贴图不足 10 张,food_mr
+1530208,kaleidoscope-end-refabricated,Kaleidoscope End Refabricated,NightEpiphany,9418,Modrinth: MIT,https://github.com/NightEpiphany/KaleidoscopeEnd-Refabricated,exclude,55,移植版或与已有模组重复,food
+927880,eraverns-more-animal-products,Eravern's more animal products,eravern,9362,Modrinth: MIT,https://github.com/Entita70/eraverns-animal-products-1.21.1-neoforge,unverified,20,仓库无许可文件,food
+1203062849798409,large-meals,Large Meals,KreloX,9354,Modrinth: MIT,https://github.com/KreloX/Large-Meals,ok_weak,18,仓库无许可文件；gradle.properties 和 Modrinth 页面声明 MIT；农夫乐事的附属,food_mr
+1352735,cad-editor,CAD Editor,Rinorsi,9166,Modrinth: MIT,https://github.com/Rinorsi/CAD-Editor-public,skip,0,仓库里物品贴图不足 10 张,food
+926047,hardcore-survival,Hardcore Survival,FrozenRain,9165,Modrinth: MIT,https://github.com/FrozenRainDev/Hardcore-Survival,unverified,89,仓库无许可文件,food
+1042078405846532,vietnams-delight-reborn,Vietnam's Delight Reborn,,9127,Modrinth: Apache-2.0,https://github.com/MikeStorm03/vietnams-delight,ok_default,11,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food_mr
+1490740,mooncake-delight,Mooncake Delight,wither_redstone,9114,Modrinth: CC-BY-4.0,https://github.com/WitherRedstone/Mooncake-Delight,exclude,137,素材保留所有权利；农夫乐事的附属,food
+1239046,no-mans-delight,No Man's Delight,Magafin,8923,Modrinth: MIT,https://github.com/Magafin/NoMansDelight,exclude,25,依附于素材许可更严的模组；农夫乐事的附属,food
+1062748690180690,spanish-delight-polymer,Polymer Patch for Spanish Delight,Sun_Phoen1x,8896,Modrinth: MIT,https://github.com/SunPhoen1x/Spanish-Delight-Patch,skip,0,仓库里物品贴图不足 10 张,food_mr
+1036498612621660,silly-eatables,Silly Eatables,Classic,8879,Modrinth: MIT,https://github.com/Classics-Craftworks/Silly-Eatables,skip,0,仓库里物品贴图不足 10 张,food_mr
+1112816,rusticdelight-refabricated,RusticDelight: Refabricated,Moaswies,8592,Modrinth: MIT,https://github.com/ShangguanXi/RusticDelight-Refabricated,exclude,32,移植版或与已有模组重复；农夫乐事的附属,food
+923612,hoes-are-scythes,Hoes Are Scythes,tayhz,8560,Modrinth: MIT,https://github.com/TAH24/hoes-are-scythes,skip,0,仓库里物品贴图不足 10 张,food
+1157761475107223,touhoupixelcanteen,Gensokyo Izakaya,HatsukiYukina,8499,Modrinth: MIT,https://github.com/Aurora4123/TouhouPixelCanteen,exclude,23,素材可能来自 Mojang 或其他游戏；农夫乐事的附属,food_mr
+1147914,saturated-eating,Saturated Eating,SmushyTaco,8495,Modrinth: Apache-2.0,https://github.com/SmushyTaco/Saturated-Eating,skip,0,仓库里物品贴图不足 10 张,food
+1133141314428117,ttcrc,"Terrestria, Traverse & Cinderscape Recipe Compat",taguima,8411,Modrinth: MIT,https://github.com/22858/ttcrc,unverified,,仓库打不开；农夫乐事的附属,food_mr
+1075016704947542,retro-hunger-mod,Retro Hunger Mod,ImNero,8308,Modrinth: MIT,https://github.com/Shi3ofreniR/RetroHungerMod,skip,0,仓库里物品贴图不足 10 张,food_mr
+1025154612946638,moreupgradetemplate,MoreUpgradeTemplate(更多锻造模板),lying-ice,8064,Modrinth: MIT,https://github.com/lyingice/more-upgrade-template,skip,1187,不是食物类，本批不收,food_mr
+1110085455041509,actionhunger,ActionHunger,VoidLock,7904,Modrinth: CC0-1.0,https://github.com/Minenash/ActionHunger,skip,0,仓库里物品贴图不足 10 张,food_mr
+1004371904348717,abundant-delight,Abundant Delight,Magafin,7102,Modrinth: MIT,https://github.com/Magafin/Abundant_Delight,exclude,11,依附于素材许可更严的模组；农夫乐事的附属,food_mr
+1491375,realisticdining,realisticdining,EEWW245,6530,Modrinth: MIT,https://github.com/EEWW245/realisticdining,ok_default,83,仓库许可文件：MIT，未见素材单独条款；森罗物语厨房的附属,food
+1208339,cavern-root,Cavern Root,BILLTFI9,6504,Modrinth: Apache-2.0,https://github.com/BILLTFI9/Cavern-Root,skip,0,仓库里物品贴图不足 10 张,food
+1168884096132191,enderscapes-delight,Enderscape's Delight,blubrixian,6171,Modrinth: MIT,https://github.com/BrixianBlu/Enderscape-s-Delight,exclude,17,依附于素材许可更严的模组；农夫乐事的附属,food_mr
+1113658,maple-delight,Maple Delight,HoldWind,6134,Modrinth: MIT,https://github.com/HLHT-Studios/maple-delight,ok_default,17,仓库许可文件：MIT，未见素材单独条款；农夫乐事的附属,food
+400286,melon-slabs,Melon slabs,I_totally_exist,5987,Modrinth: MIT,https://github.com/ITotallyExist/Melon-slabs,skip,7,仓库里物品贴图不足 10 张,food
+1211465753239653,teyvats-delight,Teyvat's Delight,Gu0che,5973,Modrinth: MIT,https://github.com/Gu0che/teyvat-delight-neoforge,exclude,177,素材保留所有权利；农夫乐事的附属,food_mr
+880635,deathly-hallows,Deathly Hallows,pydingabsorber,5961,Modrinth: MIT,https://github.com/PydingAbsorber/DeathlyHallows,skip,31,不是食物类，本批不收,food
+1103661111502105,sauces,Sauces,MaoMao,5755,Modrinth: MIT,https://github.com/AOMIAOMAO/Sauces,skip,8,仓库里物品贴图不足 10 张,food_mr
+953740,metabolism,Metabolism,lilypuree,5655,Modrinth: MIT,https://github.com/lilypuree/Metabolism,skip,0,仓库里物品贴图不足 10 张,food
+1503179,delta-delight,Delta Delight,YongYaoHun,5387,Modrinth: MIT,https://github.com/2382958980/delta_delight,exclude,82,素材可能来自 Mojang 或其他游戏,food
+1143896824204012,minerslunchbox,Miner's Lunchbox,moechakucha,5331,Modrinth: MIT,https://github.com/Nova-Committee/MinersLunchbox,skip,4,仓库里物品贴图不足 10 张,food_mr
+1212597,auto-eater,Auto Eater,nicolas_reig,5256,Modrinth: MIT,https://github.com/nicolas-reig/Auto-Eater,skip,0,仓库里物品贴图不足 10 张,food
+659583,better-snowball-fight,Better Snowball Fight,linngdu664,5204,Modrinth: MIT,https://github.com/linngdu664/Better-Snowball-Fight-2,exclude,89,GPL/LGPL,food
+1207334215549507,carnival-foods,Carnival Foods,AnAwesomGuy,5083,Modrinth: Apache-2.0,https://github.com/AnAwesomGuy/carnival-foods,skip,6,仓库里物品贴图不足 10 张,food_mr
+1104988,food-n-fuel,Food N' Fuel,NateVG,5024,Modrinth: MIT,https://github.com/Nat3VG/forge-fnf,unverified,67,仓库无许可文件,food
+1044882174623962,create-more-potatoes,Create More Potatoes,Forsteri123,4945,Modrinth: MIT,https://github.com/Forsteri123/CreateMorePotatoes,skip,9,仓库里物品贴图不足 10 张,food_mr
+1149081200541115,magicalfoods,Magical Foods Pack,tchongass1,4890,Modrinth: MIT,https://github.com/Tchongas/datapacks,exclude,32,数据包，不是 jar 模组,food_mr
+1149837286058282,nourished,Nourished,kgbcupcake,4590,Modrinth: MIT,https://github.com/kgbcupcake/nourished,skip,5,仓库里物品贴图不足 10 张,food_mr
+1056306649884927,immersive-cooking-adoon,Immersive Cooking & Farming,akki697222,4410,Modrinth: MIT,https://github.com/akkiserver-dev/Immersive-Cooking,skip,4,仓库里物品贴图不足 10 张,food_mr
+1114905277144901,memefoods,Meme Foods,DaRealPSL,4340,Modrinth: MIT,https://github.com/DaRealPSL/brainrotfoods,skip,11,不是食物类，本批不收,food_mr
+1023541973960736,equestria-delight,Equestria Delight,tiffbu,4311,Modrinth: MIT,https://github.com/tiffbu/equestria_delight,skip,1,仓库里物品贴图不足 10 张,food_mr
+1094292345923613,salmonberry-addition,Salmonberry Addition,VIDN1TE,4011,Modrinth: MIT,https://github.com/VIDN1TE/SalmonberryAddition,skip,6,仓库里物品贴图不足 10 张,food_mr
+1060877847871435,bagels-baking,Bagel's Baking,hugeblank,3961,Modrinth: MIT,https://github.com/hugeblank/Bagels_Baking,ok_default,233,仓库许可文件：MIT，未见素材单独条款,food_mr
+1027896964107925,international-food,International Food - A Farmer's Delight Addon,tommybutz_Original,3915,Modrinth: MIT,https://github.com/Tommybutz-Original/International_Food,skip,0,仓库里物品贴图不足 10 张,food_mr
+1173224154346020,chefs-dream,Chef's Dream,YJMinecraft,3894,Modrinth: MIT,https://github.com/lemoncodes237/chefs-dream,skip,0,仓库里物品贴图不足 10 张,food_mr
+1202501485897895,cutt_promix,Pro Assistant Cutting Board,HQBDH,3827,Modrinth: MIT,https://github.com/HQBDH/cutt_promix,skip,0,仓库里物品贴图不足 10 张,food_mr
+1130649255061099,bettereats,BetterEats,Maldeq-crypto,3634,Modrinth: MIT,https://github.com/Meldeq-crypto/BetterEats,skip,0,仓库里物品贴图不足 10 张,food_mr
+1101595724863078,b1.7.3-not-enough-food,[b1.7.3] Not Enough Food,louiszn,3628,Modrinth: MIT,https://github.com/louiszn/not-enough-food,skip,0,仓库里物品贴图不足 10 张,food_mr
+1049545474763888,irregular-chef,Irregular Chef,davigj,3391,Modrinth: MIT,https://github.com/davidjjung/irregularchef,exclude,20,依附于素材许可更严的模组；农夫乐事的附属,food_mr
+1128232231482326,assorted-discoveries,Assorted Discoveries,rndmaccess,3188,Modrinth: MIT,https://github.com/rndmaccess/assorted-discoveries-fabric,exclude,63,素材保留所有权利,food_mr

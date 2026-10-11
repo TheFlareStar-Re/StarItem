@@ -1,0 +1,725 @@
+red bicycle	自行车	bike|单车|脚踏车
+mountain bike	山地车	山地自行车|MTB
+penny-farthing	高轮自行车	high wheeler|大小轮自行车
+tricycle	三轮车	trike|儿童三轮车
+unicycle	独轮车	单轮车
+kick scooter	滑板车	push scooter
+motor scooter	踏板摩托车	moped|小绵羊|电瓶车
+motorcycle	摩托车	motorbike|机车
+sedan car	轿车	car|小汽车|saloon
+red sports car	跑车	sports car|超跑
+yellow taxi	出租车	cab|的士|计程车
+police car	警车	patrol car|巡逻车
+fire truck	消防车	fire engine|救火车
+ambulance	救护车	急救车
+city bus	公交车	bus|公共汽车|巴士
+school bus	校车	yellow school bus|校巴
+double-decker bus	双层巴士	双层公交车
+trolleybus	无轨电车	trolley bus
+minivan	面包车	people carrier|MPV
+pickup truck	皮卡车	pickup|皮卡
+dump truck	自卸卡车	tipper|翻斗车|泥头车
+cement mixer truck	水泥搅拌车	concrete mixer|混凝土搅拌车
+garbage truck	垃圾车	refuse truck|环卫车
+tanker truck	油罐车	fuel truck|槽罐车
+semi-trailer truck	半挂卡车	big rig|大货车|lorry
+delivery van	厢式货车	van|送货车
+food truck	餐车	美食车|快餐车
+ice cream truck	冰淇淋车	雪糕车
+tow truck	拖车	wrecker|清障车
+snowplow	扫雪车	snow plough|铲雪车
+camper van	房车	RV|motorhome|露营车
+caravan trailer	拖挂房车	travel trailer
+off-road vehicle	越野车	SUV|4x4
+vintage car	老爷车	classic car|古董车
+limousine	加长轿车	limo|豪华轿车
+formula race car	方程式赛车	racing car|赛车
+go-kart	卡丁车	kart
+bumper car	碰碰车	dodgem
+golf cart	高尔夫球车	golf buggy
+monster truck	大脚车	怪兽卡车
+quad bike	四轮摩托	ATV|沙滩车
+snowmobile	雪地摩托	snow scooter|雪地车
+self-balancing scooter	平衡车	hoverboard|电动平衡车
+tractor	拖拉机	farm tractor
+combine harvester	联合收割机	harvester|收割机
+excavator	挖掘机	digger|挖土机|挖机
+bulldozer	推土机	dozer
+forklift	叉车	fork truck|铲车
+road roller	压路机	steamroller
+crane truck	起重机	mobile crane|吊车
+ice resurfacer	洗冰车	ice resurfacing machine|磨冰机
+tank	坦克	battle tank|主战坦克
+steam locomotive	蒸汽火车头	steam engine|蒸汽机车
+bullet train	高铁	high-speed train|动车|子弹头列车
+tram	有轨电车	streetcar
+subway car	地铁车厢	metro car|地铁
+monorail	单轨列车	单轨电车
+freight train car	货运车厢	boxcar|货车车厢
+handcar	手摇轨道车	pump trolley|draisine
+minecart	矿车	mine cart
+cable car	缆车	gondola lift|索道车厢
+rickshaw	人力车	黄包车|pulled rickshaw
+auto rickshaw	嘟嘟车	tuk-tuk|三轮摩托车
+horse-drawn carriage	马车	carriage|coach
+covered wagon	篷车	prairie schooner|大篷车
+ox cart	牛车	bullock cart
+roman chariot	古罗马战车	chariot|双轮战车
+sedan chair	轿子	palanquin|花轿
+wheelbarrow	手推车	barrow|独轮手推车
+shopping cart	购物车	shopping trolley
+baby stroller	婴儿车	pram|pushchair|童车
+wheelchair	轮椅	
+skateboard	滑板	
+wooden sled	雪橇	sledge|toboggan
+bobsled	雪车	bobsleigh|有舵雪橇
+sailboat	帆船	sailing boat
+yacht	游艇	luxury yacht|motor yacht
+rowboat	划艇	rowing boat|小木船
+canoe	独木舟	dugout
+kayak	皮划艇	皮艇
+inflatable raft	橡皮艇	rubber dinghy|充气艇
+bamboo raft	竹筏	竹排
+speedboat	快艇	motorboat
+personal watercraft	水上摩托	water scooter|摩托艇
+swan pedal boat	天鹅船	pedal boat|脚踏船
+catamaran	双体船	
+cruise ship	邮轮	cruise liner|游轮
+cargo ship	货轮	container ship|集装箱船
+tugboat	拖船	tug|拖轮
+fishing boat	渔船	trawler
+ferry	渡轮	ferryboat|渡船
+houseboat	船屋	住家船
+paddle steamer	明轮船	steamboat|蒸汽船
+submarine	潜水艇	潜艇|sub
+aircraft carrier	航空母舰	航母
+battleship	战列舰	warship|军舰
+hovercraft	气垫船	
+lifeboat	救生艇	rescue boat
+pirate ship	海盗船	galleon
+viking longship	维京长船	longboat|龙头船
+chinese junk	中式帆船	junk ship|戎克船
+black-awning boat	乌篷船	wupeng boat
+gondola	贡多拉	Venetian gondola|威尼斯小船
+dragon boat	龙舟	龙船
+passenger airplane	客机	airliner|飞机|jet
+propeller plane	螺旋桨飞机	prop plane|小型飞机
+biplane	双翼飞机	
+fighter jet	战斗机	jet fighter|歼击机
+stealth bomber	隐形轰炸机	bomber|轰炸机
+seaplane	水上飞机	floatplane
+helicopter	直升机	chopper|直升飞机
+hot air balloon	热气球	
+airship	飞艇	blimp|zeppelin
+glider	滑翔机	sailplane
+hang glider	滑翔翼	三角翼
+paraglider	滑翔伞	
+parachute	降落伞	
+quadcopter drone	无人机	drone|四轴飞行器
+paper airplane	纸飞机	paper plane
+jetpack	喷气背包	rocket pack
+rocket	火箭	space rocket
+space shuttle	航天飞机	shuttle|太空梭
+spaceship	宇宙飞船	starship|飞船|spacecraft
+flying saucer	飞碟	UFO|不明飞行物
+satellite	人造卫星	卫星
+space station	空间站	太空站
+space capsule	太空舱	返回舱
+lunar lander	登月舱	moon lander|月球着陆器
+lunar rover	月球车	moon buggy
+mars rover	火星车	火星探测车
+space probe	太空探测器	探测器
+astronaut helmet	宇航头盔	space helmet|航天头盔
+car tire	轮胎	tyre|车胎
+hubcap	轮毂盖	wheel cover
+steering wheel	方向盘	
+gear shift	变速杆	gear stick|排挡杆
+speedometer	车速表	速度表
+car engine	发动机	engine|引擎
+spark plug	火花塞	
+car battery	汽车电瓶	蓄电池
+exhaust pipe	排气管	muffler|消音器
+headlight	车头灯	car headlamp|大灯
+rearview mirror	后视镜	side mirror
+windshield wiper	雨刷	wiper|雨刮器
+car seat	汽车座椅	bucket seat
+seat belt	安全带	safety belt
+car key	车钥匙	key fob|遥控钥匙
+license plate	车牌	number plate|牌照
+driver's license	驾驶证	driving licence|驾照
+car jack	千斤顶	
+jumper cables	搭电线	jump leads
+jerry can	汽油桶	fuel can|gas can|油桶
+fuel pump	加油机	gas pump|加油枪
+electric car charger	充电桩	EV charger|charging station
+bicycle wheel	自行车轮	bike wheel
+bicycle chain	自行车链条	bike chain|车链
+bicycle bell	车铃	bike bell|自行车铃
+bicycle saddle	自行车座	bike seat|车座
+bicycle pump	打气筒	tire pump|气筒
+motorcycle helmet	摩托车头盔	crash helmet|头盔
+wagon wheel	木车轮	cart wheel|马车轮
+horse saddle	马鞍	saddle
+horseshoe	马蹄铁	
+ship's wheel	船舵	helm|舵轮
+ship anchor	船锚	anchor|锚
+boat propeller	螺旋桨	propeller
+wooden oar	船桨	oar|paddle|桨
+porthole	舷窗	ship window
+life ring	救生圈	lifebuoy|life preserver
+life jacket	救生衣	life vest
+buoy	航标	navigation buoy|浮标
+train track	铁轨	railway track|rails
+railway signal	铁路信号灯	semaphore signal|铁路信号机
+railroad crossing sign	铁路道口标志	crossbuck|道口警示牌
+traffic light	红绿灯	traffic signal|交通灯|信号灯
+traffic cone	路锥	交通锥|雪糕筒|safety cone
+stop sign	停车标志	停止标志
+parking meter	停车计时器	咪表
+boom gate	道闸	barrier gate|停车场栏杆
+road barricade	路障	road barrier|施工护栏
+wooden chair	木椅	chair|椅子
+wooden rocking chair	摇椅	rocking chair
+armchair	扶手椅	easy chair|单人沙发
+sofa	沙发	couch|长沙发
+bean bag chair	懒人沙发	beanbag|豆袋沙发
+office chair	办公椅	swivel chair|转椅
+deck chair	沙滩椅	beach chair|lounger|躺椅
+ming-style armchair	圈椅	horseshoe-back armchair|太师椅
+bar stool	吧台凳	高脚凳
+wooden stool	小板凳	stool|凳子
+ottoman	脚凳	footstool|搁脚凳
+park bench	长椅	bench|公园长椅
+throne	王座	royal throne|宝座
+dining table	餐桌	table|饭桌
+coffee table	茶几	
+writing desk	书桌	desk|写字台
+picnic table	野餐桌	
+nightstand	床头柜	bedside table
+dressing table	梳妆台	vanity|化妆台
+double bed	双人床	bed|床
+bunk bed	双层床	上下铺|高低床
+baby crib	婴儿床	cot|crib
+cradle	摇篮	
+hammock	吊床	
+mattress	床垫	
+wardrobe	衣柜	closet|armoire|衣橱
+chest of drawers	五斗柜	dresser|抽屉柜
+bookshelf	书架	bookcase|书柜
+china cabinet	橱柜	cupboard|碗柜
+filing cabinet	文件柜	
+wooden storage trunk	木箱	trunk|箱子
+steel safe	保险箱	保险柜|strongbox
+folding screen	屏风	room divider
+coat rack	衣帽架	hat stand|挂衣架
+shoe rack	鞋架	
+grandfather clock	落地钟	longcase clock|座钟
+tatami mat	榻榻米	tatami
+kotatsu	被炉	暖桌|heated table
+futon	日式被褥	布团
+table lamp	台灯	desk lamp
+floor lamp	落地灯	standing lamp
+chandelier	枝形吊灯	吊灯|水晶灯
+lava lamp	熔岩灯	
+oil lamp	油灯	kerosene lamp|煤油灯
+candlestick	烛台	candle holder|蜡烛台
+white candle	蜡烛	candle
+light bulb	灯泡	bulb|电灯泡
+light switch	电灯开关	wall switch|开关
+power outlet	插座	socket|电源插座
+extension cord	插线板	power strip|排插|接线板
+flower vase	花瓶	vase
+picture frame	相框	photo frame|画框
+wall mirror	镜子	mirror|挂镜
+alarm clock	闹钟	
+cuckoo clock	布谷鸟钟	咕咕钟
+hourglass	沙漏	sand timer
+pocket watch	怀表	
+throw pillow	抱枕	cushion|靠垫
+bed pillow	枕头	pillow
+quilt	被子	blanket|棉被|comforter
+rug	地毯	carpet
+doormat	门垫	welcome mat|地垫
+window curtain	窗帘	curtains|drapes
+potted houseplant	盆栽	potted plant
+bonsai tree	盆景	bonsai
+fish tank	鱼缸	aquarium|水族箱
+birdcage	鸟笼	
+snow globe	雪花玻璃球	snowglobe|雪景球
+music box	音乐盒	八音盒
+globe	地球仪	world globe
+fireplace	壁炉	hearth
+radiator	暖气片	heater|暖气
+electric fan	电风扇	风扇
+ceiling fan	吊扇	
+trash can	垃圾桶	garbage can|dustbin|waste bin
+recycling bin	回收箱	recycle bin|分类垃圾桶
+laundry basket	洗衣篮	脏衣篓
+clothes hanger	衣架	coat hanger
+clothespin	晾衣夹	clothes peg|衣夹
+ironing board	熨衣板	烫衣板
+bathtub	浴缸	tub
+toilet	马桶	坐便器
+sink	洗手池	washbasin|洗脸盆
+water faucet	水龙头	tap|faucet
+shower head	花洒	淋浴喷头|莲蓬头
+toilet paper roll	卫生纸	toilet roll|厕纸|卷纸
+plunger	马桶搋子	toilet plunger|皮搋子
+bath towel	毛巾	towel|浴巾
+soap bar	肥皂	soap|香皂
+sponge	海绵	cleaning sponge
+spray bottle	喷雾瓶	sprayer
+broom	扫帚	扫把
+dustpan	簸箕	畚箕
+mop	拖把	墩布
+bucket	水桶	pail
+feather duster	鸡毛掸子	duster|掸子
+doorbell	门铃	
+umbrella	雨伞	伞|brolly
+matchbox	火柴盒	box of matches|火柴
+cigarette lighter	打火机	lighter
+ashtray	烟灰缸	
+smoking pipe	烟斗	tobacco pipe
+tissue box	纸巾盒	抽纸盒
+piggy bank	存钱罐	储蓄罐
+incense burner	香炉	censer
+wind chime	风铃	wind bell
+dreamcatcher	捕梦网	dream catcher
+flashlight	手电筒	electric torch|电筒
+stepladder	梯子	ladder|人字梯
+key	钥匙	door key
+padlock	挂锁	lock|锁
+keychain	钥匙扣	key ring|钥匙圈
+mailbox	信箱	letterbox|邮箱|postbox
+wall thermometer	温度计	thermometer|寒暑表
+hot water bottle	热水袋	暖水袋
+vacuum flask	保温瓶	暖壶|热水瓶
+fly swatter	苍蝇拍	
+mousetrap	捕鼠夹	老鼠夹
+mosquito coil	蚊香	
+fire extinguisher	灭火器	
+rubber duck	橡皮鸭	小黄鸭|rubber ducky
+magnet	磁铁	horseshoe magnet|吸铁石
+battery	电池	AA battery|干电池
+magnifying glass	放大镜	
+newspaper	报纸	
+wallet	钱包	billfold|皮夹
+walking cane	拐杖	cane|walking stick|手杖
+crutch	腋下拐	crutches
+iron chain	铁链	metal chain
+wooden crate	木条箱	crate|板条箱
+wooden barrel	木桶	barrel|酒桶
+shopping bag	购物袋	paper bag|手提袋
+shopping basket	购物篮	hand basket
+price tag	价格标签	吊牌
+cash register	收银机	till
+vending machine	自动售货机	售货机
+gumball machine	扭蛋机	capsule toy machine|糖果机
+claw machine	抓娃娃机	crane game|娃娃机
+slot machine	老虎机	fruit machine|角子机
+pacifier	安抚奶嘴	dummy|奶嘴
+baby rattle	摇铃	rattle|婴儿摇铃
+crib mobile	床铃	baby mobile|婴儿床挂件
+dog collar	项圈	pet collar|狗项圈
+dog leash	牵引绳	lead|狗绳
+dog bowl	宠物碗	pet food bowl|狗碗
+chew bone toy	狗咬胶	dog bone|骨头玩具
+cat scratching post	猫抓柱	scratching post|猫爬架
+hamster wheel	仓鼠跑轮	exercise wheel
+wooden door	木门	door|门
+revolving door	旋转门	
+arched window	拱形窗	window|窗户
+stained glass window	彩色玻璃窗	花窗玻璃|彩绘玻璃
+window shutter	百叶窗	shutter|blinds
+red brick	红砖	brick|砖块|砖头
+brick wall	砖墙	
+cinder block	空心砖	concrete block|水泥砖
+wooden plank	木板	board
+steel i-beam	工字钢	steel beam|girder
+roof tile	瓦片	屋瓦
+chimney	烟囱	
+spiral staircase	旋转楼梯	螺旋楼梯
+stone column	石柱	pillar|圆柱|立柱
+door knob	门把手	doorknob|door handle
+door knocker	门环	knocker|铺首
+door hinge	合页	hinge|铰链
+picket fence	白色栅栏	white fence|篱笆|围栏
+barbed wire fence	铁丝网	barbed wire|带刺铁丝网
+garden gate	院门	wooden gate|栅栏门
+iron gate	铁门	wrought iron gate|铁艺大门
+moon gate	月洞门	月亮门
+torii gate	鸟居	torii
+manhole cover	井盖	窨井盖
+fire hydrant	消防栓	消火栓|hydrant
+street lamp	路灯	lamppost|streetlight
+phone booth	电话亭	telephone box
+bus stop sign	公交站牌	bus stop|站牌
+wooden signpost	木制路标	signpost|指路牌
+warning sign	警告标志	caution sign|警示牌
+wet floor sign	小心地滑牌	caution wet floor sign
+neon sign	霓虹灯牌	neon light|霓虹灯
+barber pole	理发店转灯	barber's pole|三色柱
+pagoda	宝塔	Chinese pagoda|塔
+windmill	风车	荷兰风车
+lighthouse	灯塔	
+water well	水井	stone well|井
+hand water pump	压水井	hand pump|手压水泵
+water wheel	水车	waterwheel
+doghouse	狗屋	kennel|狗窝
+birdhouse	鸟屋	nest box|鸟巢箱
+igloo	冰屋	雪屋
+log cabin	小木屋	cabin|木屋
+greenhouse	温室	glasshouse|暖房
+yurt	蒙古包	ger
+teepee	印第安帐篷	tipi|圆锥帐篷
+stone arch bridge	石拱桥	arch bridge|拱桥
+stone lantern	石灯笼	石灯
+watering can	洒水壶	浇水壶|喷壶
+garden hose	浇水软管	hose|水管
+lawn sprinkler	草坪洒水器	sprinkler|喷灌器
+flower pot	花盆	planter|陶盆
+seed packet	种子袋	packet of seeds
+garden gnome	花园小矮人	gnome|地精雕像
+lawn flamingo	火烈鸟草坪摆件	plastic flamingo
+scarecrow	稻草人	
+bird bath	鸟浴盆	birdbath
+bird feeder	喂鸟器	鸟食器
+garden fountain	喷泉	fountain|喷水池
+sundial	日晷	
+weather vane	风向标	weathercock|风信鸡
+lawn mower	割草机	mower|剪草机
+garden rake	耙子	rake|钉耙
+garden trowel	园艺铲	trowel|小铲子
+pruning shears	修枝剪	secateurs|园艺剪
+pitchfork	干草叉	hayfork|草叉
+plow	犁	plough
+hay bale	干草捆	straw bale|草垛
+milk churn	牛奶罐	milk can|奶桶
+beehive	蜂箱	bee box
+compost bin	堆肥箱	composter
+garden trellis	花架	trellis|格子架
+garden swing	秋千	swing
+playground slide	滑梯	slide|滑滑梯
+seesaw	跷跷板	teeter-totter
+kiddie pool	充气泳池	inflatable pool|儿童戏水池
+patio umbrella	遮阳伞	parasol|太阳伞
+millstone	石磨	stone mill|磨盘
+spinning wheel	纺车	
+carrying pole	扁担	shoulder pole|挑担
+camping tent	帐篷	tent|露营帐篷
+tent peg	地钉	tent stake|营钉
+sleeping bag	睡袋	
+campfire	篝火	bonfire|营火
+firewood bundle	木柴	firewood|柴火
+camping lantern	露营灯	营地灯
+headlamp	头灯	head torch
+hiking backpack	登山包	backpack|rucksack|背包
+hiking boot	登山靴	hiking shoe|徒步鞋
+trekking pole	登山杖	hiking stick
+compass	指南针	magnetic compass
+binoculars	双筒望远镜	field glasses
+telescope	天文望远镜	refractor telescope
+spyglass	单筒望远镜	handheld telescope
+canteen	军用水壶	water canteen
+water bottle	水瓶	sports bottle|运动水壶
+folding pocket knife	折叠刀	pocket knife|多功能刀
+camping stove	卡式炉	portable stove|便携炉
+portable grill	烧烤炉	barbecue grill|BBQ|烤炉
+cooler box	保温箱	ice chest|冷藏箱
+picnic basket	野餐篮	wicker basket|柳条篮
+picnic blanket	野餐垫	picnic mat
+carabiner	登山扣	快挂|安全扣
+climbing rope	登山绳	coil of rope|绳索
+ice axe	冰镐	
+snowshoe	雪鞋	雪地鞋
+whistle	哨子	口哨
+marshmallow on a stick	烤棉花糖	roasted marshmallow
+insect net	捕虫网	butterfly net
+first aid kit	急救箱	急救包|medical kit
+signal flare	信号弹	flare|照明弹
+walkie-talkie	对讲机	two-way radio
+flint and steel	打火石	fire striker|燧石
+sunscreen bottle	防晒霜	sunblock|sunscreen
+folded map	地图	map|纸质地图
+beach ball	沙滩球	
+swim ring	游泳圈	inflatable ring|泳圈
+sand pail	沙滩桶	beach bucket|玩沙桶
+sandcastle	沙堡	sand castle
+surfboard	冲浪板	
+snorkel mask	浮潜面罩	snorkel|潜水镜
+swim fins	脚蹼	flippers|蛙鞋
+scuba tank	潜水气瓶	diving cylinder|氧气瓶
+periscope	潜望镜	
+message in a bottle	漂流瓶	瓶中信
+ship in a bottle	瓶中船	
+kite	风筝	纸鸢
+pinwheel	纸风车	toy windmill|玩具风车
+flying disc	飞盘	throwing disc
+fishing rod	鱼竿	fishing pole|钓竿
+fishing reel	渔线轮	reel|鱼线轮
+fishing line spool	鱼线	fishing line|钓线
+fishing hook	鱼钩	fishhook
+fishing bobber	鱼漂	float|浮漂
+fishing lure	拟饵	lure|路亚|假饵
+bait can	鱼饵罐	can of worms|蚯蚓罐
+fishing net	渔网	
+landing net	抄网	hand net
+tackle box	渔具箱	fishing box|钓箱
+fish basket	鱼篓	creel
+crab trap	蟹笼	crab pot|捕蟹笼
+harpoon	鱼叉	fishing spear
+conical bamboo hat	斗笠	rice hat|笠帽
+straw raincoat	蓑衣	
+suitcase	行李箱	luggage|旅行箱|拉杆箱
+duffel bag	旅行袋	duffle bag|行李袋
+briefcase	公文包	
+luggage cart	行李车	baggage trolley|行李推车
+luggage tag	行李牌	bag tag
+passport	护照	
+boarding pass	登机牌	plane ticket|机票
+train ticket	火车票	rail ticket|车票
+admission ticket	门票	ticket|入场券
+travel pillow	颈枕	neck pillow|U型枕
+travel adapter	转换插头	plug adapter|旅行转换器
+guidebook	旅行指南	travel guide|导游手册
+postcard	明信片	
+postage stamp	邮票	stamp
+envelope	信封	
+parcel box	包裹	package|cardboard box|快递箱
+souvenir magnet	冰箱贴	fridge magnet
+windsock	风向袋	
+carousel horse	旋转木马	merry-go-round horse
+rocking horse	摇摇马	wooden rocking horse|摇马
+ferris wheel	摩天轮	big wheel
+roller coaster car	过山车	coaster car|云霄飞车
+circus tent	马戏团帐篷	big top|马戏篷
+christmas tree	圣诞树	
+christmas stocking	圣诞袜	
+christmas wreath	圣诞花环	wreath|圣诞花圈
+christmas bauble	圣诞彩球	ornament|圣诞球
+christmas tree star	树顶星	tree topper|圣诞星
+santa hat	圣诞帽	
+santa's sleigh	圣诞雪橇	sleigh
+candy cane	拐杖糖	
+gingerbread man	姜饼人	
+gingerbread house	姜饼屋	
+jingle bell	铃铛	sleigh bell|小铃铛
+church bell	教堂钟	bell|大钟
+snowman	雪人	
+gift box	礼物盒	present|礼品盒|礼物
+gift bag	礼品袋	goodie bag|礼物袋
+ribbon bow	蝴蝶结	bow|丝带结
+greeting card	贺卡	card|卡片
+nutcracker doll	胡桃夹子	nutcracker
+mistletoe	槲寄生	
+holly sprig	冬青枝	holly|冬青
+poinsettia	一品红	圣诞红
+string lights	彩灯串	fairy lights|圣诞灯串
+advent calendar	降临节日历	圣诞倒数日历
+reindeer antler headband	鹿角发箍	antler headband
+menorah	九枝烛台	hanukkiah|光明节烛台
+dreidel	光明节陀螺	犹太陀螺
+jack-o'-lantern	南瓜灯	carved pumpkin|杰克灯
+witch hat	女巫帽	pointed hat|巫师帽
+witch's broomstick	魔法扫帚	broomstick|飞天扫帚
+witch's cauldron	女巫坩埚	cauldron|大锅
+skull	骷髅头	human skull|头骨
+tombstone	墓碑	gravestone|headstone
+coffin	棺材	casket
+candy corn	玉米糖	
+trick-or-treat bucket	糖果桶	pumpkin candy pail|万圣节糖果桶
+spider web	蜘蛛网	cobweb
+vampire fangs	吸血鬼假牙	fake fangs|獠牙
+scythe	长柄镰刀	reaper's scythe|死神镰刀
+voodoo doll	巫毒娃娃	
+crystal ball	水晶球	fortune teller's ball|占卜球
+tarot card	塔罗牌	tarot
+painted easter egg	复活节彩蛋	easter egg|彩蛋
+easter basket	复活节篮子	egg basket
+chocolate bunny	巧克力兔	chocolate rabbit
+hot cross bun	十字面包	
+roast turkey	烤火鸡	turkey|感恩节火鸡
+cornucopia	丰饶角	horn of plenty|丰收角
+pumpkin pie	南瓜派	
+pilgrim hat	清教徒帽	capotain|朝圣者帽
+multicolored corn cob	彩色玉米	flint corn|装饰玉米
+wishbone	许愿骨	叉骨
+heart-shaped chocolate box	心形巧克力盒	box of chocolates|巧克力礼盒
+red rose	红玫瑰	rose|玫瑰花
+bouquet of flowers	花束	bouquet|鲜花
+love letter	情书	
+valentine card	情人节贺卡	valentine|爱心卡片
+cupid's bow and arrow	丘比特弓箭	cupid's arrow|爱神之箭
+heart-shaped balloon	心形气球	heart balloon|爱心气球
+teddy bear	泰迪熊	stuffed bear|毛绒熊
+heart locket	心形吊坠盒	locket
+heart padlock	同心锁	love lock|爱情锁
+red paper lantern	红灯笼	Chinese lantern|灯笼
+palace lantern	宫灯	Chinese palace lantern
+sky lantern	孔明灯	天灯|Kongming lantern
+red envelope	红包	hongbao|利是|压岁钱
+firecracker string	鞭炮	firecrackers|爆竹|炮仗
+firework rocket	烟花	fireworks|焰火|烟火
+sparkler	仙女棒	手持烟花
+spring couplets	春联	对联|chunlian
+fu character poster	福字	倒福|福字贴
+door god poster	门神画	门神|menshen
+paper-cut window decoration	窗花	剪纸|paper cutting
+chinese knot	中国结	
+lion dance head	舞狮头	醒狮头|lion head
+dragon dance dragon	舞龙	龙灯|dragon puppet
+gold ingot	金元宝	yuanbao|元宝
+ancient copper coin	铜钱	cash coin|方孔钱
+kumquat tree	金桔树	年桔|potted kumquat
+nian gao	年糕	New Year rice cake
+lunar new year candy tray	全盒	tray of togetherness|攒盒|糖果盒
+wealth god statue	财神像	Caishen|财神
+rattle drum	拨浪鼓	pellet drum|货郎鼓
+tanghulu	糖葫芦	冰糖葫芦|candied hawthorn
+tangyuan	汤圆	元宵|glutinous rice balls
+mooncake	月饼	
+jade rabbit statue	玉兔	moon rabbit|月兔
+zongzi	粽子	rice dumpling|肉粽
+mugwort bundle	艾草	艾叶
+scented sachet	香囊	香包|荷包
+five-color thread bracelet	五彩绳	五色线|长命缕
+realgar wine jar	雄黄酒	realgar wine
+longevity peach bun	寿桃	寿桃包|peach bun
+birthday cake	生日蛋糕	cake|蛋糕
+birthday candle	生日蜡烛	
+party hat	派对帽	cone hat|生日帽
+paper crown	纸皇冠	party crown|生日皇冠
+balloon	气球	red balloon
+balloon dog	气球狗	balloon animal|造型气球
+party popper	礼花筒	confetti popper|手拧礼炮
+party horn	派对吹龙	party blower|吹卷
+piñata	皮纳塔	pinata|彩罐
+bunting	三角彩旗	pennant banner|彩旗串
+disco ball	迪斯科球	mirror ball|镜面球
+wedding cake	婚礼蛋糕	结婚蛋糕|tiered cake
+pair of wedding rings	结婚对戒	wedding bands|婚戒
+bridal bouquet	新娘捧花	捧花|wedding bouquet
+wedding veil	头纱	bridal veil
+wedding dress	婚纱	bridal gown
+pair of champagne flutes	香槟杯	champagne glasses
+wedding invitation	请柬	invitation card|喜帖|请帖
+wedding arch	婚礼拱门	flower arch|花拱门
+boutonniere	胸花	buttonhole flower|襟花
+double happiness paper cutout	囍字	双喜|double happiness
+red bridal veil	红盖头	盖头
+phoenix coronet	凤冠	phoenix crown
+wedding candy box	喜糖盒	喜糖
+dragon and phoenix candles	龙凤烛	龙凤花烛|wedding candles
+graduation cap	学士帽	mortarboard|毕业帽
+diploma scroll	毕业证书	diploma|文凭
+shamrock	三叶草	clover
+four-leaf clover	四叶草	lucky clover|幸运草
+leprechaun hat	绿色礼帽	St. Patrick's hat
+pot of gold	金币罐	一罐金币
+maypole	五月柱	五朔节花柱
+diya lamp	排灯节油灯	diya|酥油灯
+sugar skull	糖骷髅	calavera|亡灵节骷髅
+papel picado	墨西哥剪纸旗	Mexican paper banner
+sombrero	墨西哥草帽	宽边帽
+carnival mask	威尼斯面具	Venetian mask|狂欢节面具
+koinobori	鲤鱼旗	carp streamer
+kadomatsu	门松	
+kagami mochi	镜饼	
+hina doll	雏人形	女儿节人偶
+teru teru bozu	晴天娃娃	扫晴娘
+folding fan	折扇	hand fan|扇子
+round silk fan	团扇	宫扇|纨扇
+palm-leaf fan	蒲扇	芭蕉扇|葵扇
+oil-paper umbrella	油纸伞	paper umbrella|和伞
+peking opera mask	京剧脸谱	脸谱|opera mask
+kitsune mask	狐狸面具	fox mask|狐面
+daruma doll	达摩不倒翁	daruma|达摩娃娃
+maneki-neko	招财猫	lucky cat|beckoning cat
+omamori	御守	Japanese amulet|护身符
+ema plaque	绘马	wooden wish plaque
+kokeshi doll	木芥子	kokeshi|小芥子
+matryoshka doll	俄罗斯套娃	nesting doll|套娃
+origami crane	千纸鹤	paper crane|纸鹤
+geta sandals	木屐	geta
+samurai helmet	武士头盔	kabuto|兜
+tanuki statue	狸猫像	信乐烧狸猫
+chinese abacus	算盘	abacus
+calligraphy brush	毛笔	ink brush|writing brush
+inkstone	砚台	ink stone|砚
+ink stick	墨锭	墨条|inkstick
+seal stamp	印章	chop|图章
+bamboo slips	竹简	bamboo scroll|简牍
+hanging scroll	卷轴画	挂轴|scroll painting
+ruyi scepter	如意	ruyi|玉如意
+jade pendant	玉佩	玉坠
+bronze ding	青铜鼎	ding|鼎|tripod cauldron
+blue and white porcelain vase	青花瓷瓶	青花瓷
+gourd bottle	葫芦	calabash|酒葫芦
+bagua mirror	八卦镜	
+feng shui compass	风水罗盘	luopan|罗盘
+fortune sticks	签筒	求签筒|kau cim
+wooden fish	木鱼	muyu|temple block
+prayer beads	佛珠	念珠|mala
+prayer wheel	转经筒	mani wheel|经筒
+prayer flags	经幡	Tibetan prayer flags|风马旗
+singing bowl	颂钵	Tibetan bowl
+buddha statue	佛像	
+incense sticks	线香	joss sticks|香
+paper talisman	符咒	fu talisman|黄符|符纸
+peach wood charm	桃符	
+joss paper	纸钱	spirit money|冥币
+longevity lock	长命锁	silver lock charm
+embroidered ball	绣球	xiuqiu
+jianzi	毽子	feather shuttlecock|鸡毛毽
+diabolo	空竹	Chinese yo-yo|扯铃
+spinning top	陀螺	top
+bamboo dragonfly	竹蜻蜓	bamboo-copter
+cloth tiger toy	布老虎	tiger doll
+tiger-head shoes	虎头鞋	
+shadow puppet	皮影	shadow play puppet|皮影人偶
+sugar painting	糖画	sugar figure
+dough figurine	面人	捏面人
+cricket cage	蛐蛐笼	蝈蝈笼
+snuff bottle	鼻烟壶	
+stone guardian lion	石狮子	foo dog|石狮
+terracotta warrior	兵马俑	terracotta soldier
+totem pole	图腾柱	
+boomerang	回旋镖	飞去来器
+tiki statue	提基神像	tiki
+moai statue	摩艾石像	Easter Island head|复活节岛石像
+dala horse	达拉木马	Swedish wooden horse
+wooden clogs	木鞋	Dutch clogs|荷兰木鞋
+evil eye charm	蓝眼睛护身符	nazar|恶魔之眼
+hamsa hand	法蒂玛之手	hamsa|哈姆萨之手
+rabbit's foot charm	幸运兔脚	rabbit's foot
+ankh	安卡	Egyptian cross|生命之符
+scarab amulet	圣甲虫护身符	scarab
+sarcophagus	法老石棺	Egyptian coffin|木乃伊棺
+genie lamp	神灯	magic lamp|阿拉伯油灯
+hookah	水烟壶	shisha|水烟
+samovar	俄式茶炊	茶炊
+gold trophy cup	金奖杯	trophy|奖杯
+golden statuette	小金人	award statuette|金像奖杯
+gold medal	金牌	
+silver medal	银牌	
+bronze medal	铜牌	
+award rosette	获奖花结	rosette|ribbon award|奖章绶带
+laurel wreath	月桂花环	laurel crown|桂冠
+royal crown	皇冠	crown|王冠
+scepter	权杖	royal sceptre
+award certificate	奖状	certificate|证书
+award banner	锦旗	silk pennant
+award plaque	牌匾	plaque|奖牌匾
+winner's podium	领奖台	podium|颁奖台
+championship belt	冠军腰带	title belt|金腰带
+ceremonial torch	火炬	torch|圣火火炬
+checkered flag	方格旗	racing flag|黑白格旗
+pirate flag	海盗旗	Jolly Roger|骷髅旗
+sheriff star badge	警长星徽	sheriff badge
+name tag	胸牌	name badge|姓名牌
+dog tag	军牌	identity tag|身份牌
+coat of arms shield	盾徽	heraldic shield|纹章
+gavel	法槌	judge's hammer|木槌
+scales of justice	天平	balance scale|正义天平
+ballot box	投票箱	
+bronze bust	半身像	bust statue|胸像
