@@ -56,6 +56,10 @@ fn main() {
     println!("cargo:rerun-if-changed=assets/icon.ico");
     println!("cargo:rerun-if-changed=Cargo.toml");
     println!("cargo:rerun-if-changed=build.rs");
+    // 这几个模型文件是用汇编指令嵌进去的，编译器看不到这层依赖，文件换了要靠这里触发重新编译
+    for name in ["unet.onnx", "unet_names.onnx", "text_encoder.onnx"] {
+        println!("cargo:rerun-if-changed=models/{name}");
+    }
     if std::env::var("CARGO_CFG_TARGET_OS").as_deref() != Ok("windows") {
         return;
     }

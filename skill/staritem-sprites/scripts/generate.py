@@ -17,6 +17,8 @@ the STARITEM_MODELS environment variable, ./models, ~/.staritem/models, or a mod
 
 From SIC-1.2 on the folder holds two networks, nicknamed Mo and Jang. Jang (unet_names.onnx) draws items it knows by
 name much more reliably; Mo (unet.onnx) follows colors and unusual combinations more readily. The script picks per prompt.
+For anything that is not exactly a known name it mostly uses a relay: Mo draws the first fifth of the sampling steps, where
+the outline is decided, and Jang finishes, which keeps Mo's steadier shapes and Jang's colors.
 """
 import argparse
 import json
@@ -29,6 +31,8 @@ import zlib
 from pathlib import Path
 
 REQUIRED = ("manifest.json", "unet.onnx", "text_encoder.onnx", "tokenizer.json")
+RELAY = 0.2  # share of the sampling steps Mo draws before Jang takes over
+MIXED = ("relay", "mo", "relay", "jang")  # who draws candidate k when the prompt is not exactly a known name
 
 
 def fail(message):
@@ -363,13 +367,13 @@ class Model:
             return "everyday_object", lambda k: "jang"
         if text in self.known:
             return "known_item", lambda k: "jang"
-        # Anything else is a name with extra words, or a combination nobody drew before. Jang keeps the item, Mo follows
-        # the extra words; neither is reliably better, so the candidates alternate and the viewer picks.
-        return "mixed", lambda k: "mo" if k % 2 == 0 else "jang"
+        # Anything else is a name with extra words, or a combination nobody drew before. The relay is the best single
+        # choice there, but Mo follows a color word better and Jang keeps a known item better, so one of each is mixed in.
+        return "mixed", lambda k: MIXED[k % len(MIXED)]
 
     def generate(self, prompt, count, seed, steps, guidance, style, use_expand, init=None, strength=1.0, network="auto"):
         """init is an optional 16x16 RGBA draft; strength says how far the model may move away from it (1 = ignore it).
-        network is auto, mo or jang. Returns (sprites, prompt sent to the model, style, network of each sprite, route)."""
+        network is auto, mo, jang or relay. Returns (sprites, prompt sent to the model, style, network of each sprite, route)."""
         text = prompt.strip()
         if self.manifest["text"].get("lowercase", True):
             text = text.lower()
@@ -377,7 +381,7 @@ class Model:
         if style is None:
             style = known_style if known_style is not None else self.manifest["defaults"].get("source", 0.0)
         route, pick = self.route(text)
-        if network != "auto" and network in self.paths:
+        if network != "auto" and "jang" in self.paths:
             route, pick = "forced", lambda k: network
         networks = [pick(k) for k in range(count)]
         ctxs, mask = self.encode(expanded)
@@ -397,23 +401,27 @@ class Model:
         # Every candidate keeps its own noise, so candidate k is the same image whatever the count or the mix.
         for name in sorted(set(networks)):
             rows = [k for k, n in enumerate(networks) if n == name]
-            x[rows] = self.sample(name, x[rows], ctxs[name], mask, nulls[name], null_mask, ts, first, guidance, style, size)
+            x[rows] = self.sample(name, x[rows], ctxs, mask, nulls, null_mask, ts, first, guidance, style, size)
         rgba = np.clip((x.transpose(0, 2, 3, 1) + 1) * 127.5, 0, 255).round().astype(np.uint8)
         opaque = rgba[..., 3] >= 128
         rgba[..., 3] = np.where(opaque, 255, 0)
         rgba[~opaque] = 0
         return list(rgba), expanded, (float(style) if self.has_style else None), networks, route
 
-    def sample(self, network, x, ctx, mask, null_ctx, null_mask, ts, first, guidance, style, size):
-        unet, count, steps = self.unet(network), len(x), len(ts)
-        feed = {"ctx": np.concatenate([np.repeat(ctx, count, 0), np.repeat(null_ctx, count, 0)]),
-                "mask": np.concatenate([np.repeat(mask, count, 0), np.repeat(null_mask, count, 0)]),
+    def sample(self, plan, x, ctxs, mask, nulls, null_mask, ts, first, guidance, style, size):
+        """plan is mo, jang or relay (Mo for the first RELAY share of the steps, then Jang)."""
+        count, steps = len(x), len(ts)
+        feed = {"mask": np.concatenate([np.repeat(mask, count, 0), np.repeat(null_mask, count, 0)]),
                 "size_idx": np.full(2 * count, self.manifest["sizes"][str(size)], dtype=np.int64)}
         if self.has_style:
             feed["src_mix"] = np.full(2 * count, style, dtype=np.float32)
+        ctx = {n: np.concatenate([np.repeat(ctxs[n], count, 0), np.repeat(nulls[n], count, 0)]) for n in ctxs}
+        handoff = round(RELAY * steps)
         for i in range(first, steps):
             t = ts[i]
-            v = unet.run(None, {"x": np.concatenate([x, x]), "t": np.full(2 * count, t, dtype=np.int64), **feed})[0]
+            name = plan if plan != "relay" else "mo" if i < handoff else "jang"
+            v = self.unet(name).run(None, {"x": np.concatenate([x, x]), "t": np.full(2 * count, t, dtype=np.int64),
+                                           "ctx": ctx[name], **feed})[0]
             v = v[count:] + guidance * (v[:count] - v[count:])
             a, s = np.sqrt(self.alphas[t]), np.sqrt(1 - self.alphas[t])
             x0 = np.clip(a * x - s * v, -1, 1)
@@ -438,9 +446,9 @@ def main():
     ap.add_argument("--style", default="auto",
                     help="auto, or a number from 0 (hand-drawn mod sprite look) to 1 (look of the everyday-object sprites)")
     ap.add_argument("--no-expand", action="store_true", help="send the prompt to the model exactly as written")
-    ap.add_argument("--network", choices=["auto", "mo", "jang"], default="auto",
+    ap.add_argument("--network", choices=["auto", "mo", "jang", "relay"], default="auto",
                     help="which network draws (models from SIC-1.2 on have two): auto picks per prompt, jang knows items by "
-                         "name, mo follows colors and new combinations more readily")
+                         "name, mo follows colors and new combinations more readily, relay lets Mo start and Jang finish")
     ap.add_argument("--ref", metavar="IMAGE",
                     help="picture or photo of one object; the sprites follow its shape and colors")
     ap.add_argument("--ref-strength", type=float, default=0.65,

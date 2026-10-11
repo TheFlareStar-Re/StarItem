@@ -48,14 +48,15 @@ From SIC-1.2 on the model folder holds two networks, nicknamed Mo and Jang, and 
 
 - **Jang** knows items by name. Ask for a listed everyday object or for an item that exists in the mods it was trained on, and it draws that item far more reliably than Mo. It also gets materials and colors of fantasy items right (`翡翠镐` is green). Its weak spot is combinations it never saw: staffs and wands with unusual materials (`闪电法杖`, `翡翠魔杖`) often come out with a stray block of color at the head.
 - **Mo** is steadier on such new combinations and follows a color word in front of an everyday object more readily (`蓝色的雨伞`), but it confuses everyday objects with similar ones (an owl becomes some white bird) and often picks the wrong color for a material.
+- **relay** is both in one image: Mo draws the first fifth of the sampling steps, which settles the outline, and Jang finishes. The result has Mo's steady shape and Jang's colors. Jang's stray blocks come from those first steps, so the relay removes most of them: for `翡翠魔杖`, about six in ten of Jang's candidates are broken and fewer than one in ten of the relay's. Where Mo itself is unsteady (`闪电法杖`), the relay is no better.
 
 `route` in the JSON says what the script did:
 
 - `everyday_object` or `known_item`: the prompt is exactly a name the model knows, so every candidate comes from Jang.
-- `mixed`: a name with extra words in front, or a combination nobody drew. The candidates alternate, Mo first, and `networks` lists who drew which. Neither is reliably better here, so compare them in the preview.
+- `mixed`: a name with extra words in front, or a combination nobody drew. The candidates repeat the pattern relay, Mo, relay, Jang, and `networks` lists who drew which. The relay is the best single choice here, but Mo follows a color word better and Jang keeps a known item better, so compare them in the preview.
 - `forced`: you chose with `--network`.
 
-When one network's candidates are clearly better for a prompt, rerun with `--network mo` or `--network jang` and a larger `--count` instead of taking half the candidates from the weaker one. Candidate k of a seed uses the same starting noise whichever network draws it, so the same seed with the other network shows the same compositions drawn differently.
+When one kind of candidate is clearly better for a prompt, rerun with `--network relay`, `--network mo` or `--network jang` and a larger `--count` instead of taking candidates from the weaker ones. Candidate k of a seed uses the same starting noise whichever network draws it, so the same seed with the other network shows the same compositions drawn differently.
 
 ## Look before you deliver
 
@@ -132,7 +133,7 @@ Work through these, looking at the previews each time:
 2. A different phrasing: the bare noun, a color instead of a material, the other language, a name from `--search`, or a look-alike or short visual description as described above.
 3. `--guidance 4` for more varied candidates. Raising guidance rarely rescues a prompt; it makes the model lean harder on whichever word is already dominating.
 4. `--style 0` or `--style 1` when the automatic choice looks wrong for a mod-style item.
-5. The other network: `--network mo` when Jang's candidates are broken or all the same, `--network jang` when Mo draws a different object.
+5. Another network: `--network relay` or `--network mo` when Jang's candidates are broken or all the same, `--network jang` when the others draw a different object.
 
 Give a phrasing two or three runs, and stop after about three phrasings. Some things are beyond the model: roughly three quarters of the 4,000 or so listed everyday objects come out reliably, the rest often come out as "something of that kind", and thin or intricate objects are hard to show in 16×16 at all. When you stop, tell the user plainly that this is the closest of many, and show the two or three best candidates, including ones that got the shape right but the color wrong or the reverse. Recoloring or touching up a sprite by hand is their call, not something to do silently.
 

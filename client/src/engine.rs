@@ -33,13 +33,20 @@ pub struct Request {
     pub network: Choice,
 }
 
-/// 出图网络。SIC-1.2 起模型包里有两个，对外叫 Mo 和 Jang：Mo（unet.onnx）更听颜色词、对没见过的组合更稳，
-/// Jang（unet_names.onnx）认名字更准。
+/// 谁来画。SIC-1.2 起模型包里有两个出图网络，对外叫 Mo 和 Jang：Mo（unet.onnx）更听颜色词、对没见过的组合更稳，
+/// Jang（unet_names.onnx）认名字更准。Relay 是接力：前 RELAY 比例的步数（定轮廓的阶段）由 Mo 画，其余交给 Jang，
+/// 形状像 Mo 那样稳，颜色像 Jang 那样准。
 #[derive(Clone, Copy, PartialEq, Eq)]
 pub enum Network {
     Mo,
     Jang,
+    Relay,
 }
+
+/// 接力时 Mo 画的步数占比。Jang 的碎块出在最开始的几步，五分之一就够把它治住。
+const RELAY: f64 = 0.2;
+/// 提示词不是恰好认得的名字时，第 k 张图由谁画：接力是最好的单一选择，但带颜色词时 Mo 更听话、Jang 更保得住物品，各掺一张。
+const MIXED: [Network; 4] = [Network::Relay, Network::Mo, Network::Relay, Network::Jang];
 
 /// 用哪个网络：按提示词自动决定，或者手动指定一个。
 #[derive(Clone, Copy, PartialEq, Eq)]
@@ -211,14 +218,15 @@ fn main_parts(mask: Vec<bool>, w: usize, h: usize) -> Vec<bool> {
     label.iter().map(|&n| sizes[n] as f32 >= least).collect()
 }
 
-/// 一个网络对一批图做完整的去噪。x 是 n 张 (4,S,S) 的图排在一起，原地更新成结果。
+/// 对一批图做完整的去噪。x 是 n 张 (4,S,S) 的图排在一起，原地更新成结果。
+/// 第 handoff 步之前用 Mo，从它起用 Jang；ctx 和 null_ctx 是两个网络各自的文本特征，[Mo, Jang]。
 #[allow(clippy::too_many_arguments)]
 fn denoise(
-    unet: &mut Session,
+    (mo, mut jang, handoff): (&mut Session, Option<&mut Session>, usize),
     x: &mut [f32],
     (b, s): (usize, usize),
-    (ctx, mask): (&[f32], &[bool]),
-    (null_ctx, null_mask): (&[f32], &[bool]),
+    (ctx, mask): (&[Vec<f32>; 2], &[bool]),
+    (null_ctx, null_mask): (&[Vec<f32>; 2], &[bool]),
     (len, dim): (usize, usize),
     style: Option<f32>,
     guidance: f32,
@@ -229,21 +237,33 @@ fn denoise(
     let pixels = 4 * s * s;
     let size_idx = if s == 32 { 1i64 } else { 0 };
     // 前 b 份是带提示词的，后 b 份是空提示词（classifier-free guidance）
-    let mut ctx2 = Vec::with_capacity(2 * b * len * dim);
+    let doubled = |slot: usize| {
+        let mut out = Vec::with_capacity(2 * b * len * dim);
+        for c in [&ctx[slot], &null_ctx[slot]] {
+            for _ in 0..b {
+                out.extend_from_slice(c);
+            }
+        }
+        out
+    };
+    let ctx2 = [doubled(0), doubled(1)];
     let mut mask2 = Vec::with_capacity(2 * b * len);
-    for (c, m) in [(ctx, mask), (null_ctx, null_mask)] {
+    for m in [mask, null_mask] {
         for _ in 0..b {
-            ctx2.extend_from_slice(c);
             mask2.extend_from_slice(m);
         }
     }
     for (i, &t) in ts.iter().enumerate().skip(first) {
+        let (unet, slot) = match &mut jang {
+            Some(jang) if i >= handoff => (&mut **jang, 1),
+            _ => (&mut *mo, 0),
+        };
         let mut xx = Vec::with_capacity(2 * b * pixels);
         xx.extend_from_slice(x);
         xx.extend_from_slice(x);
         let x_in = Tensor::from_array(([2 * b, 4, s, s], xx))?;
         let t_in = Tensor::from_array(([2 * b], vec![t as i64; 2 * b]))?;
-        let ctx_in = Tensor::from_array(([2 * b, len, dim], ctx2.clone()))?;
+        let ctx_in = Tensor::from_array(([2 * b, len, dim], ctx2[slot].clone()))?;
         let mask_in = Tensor::from_array(([2 * b, len], mask2.clone()))?;
         let size_in = Tensor::from_array(([2 * b], vec![size_idx; 2 * b]))?;
         let outputs = match style {
@@ -474,8 +494,8 @@ impl Engine {
             aliases,
             unet_names,
             known,
-            unet: session(dir, &manifest.files.unet.name, models::EMBEDDED_UNET)?,
-            text: session(dir, &manifest.files.text_encoder.name, models::EMBEDDED_TEXT_ENCODER)?,
+            unet: session(dir, &manifest.files.unet.name, models::embedded_unet())?,
+            text: session(dir, &manifest.files.text_encoder.name, models::embedded_text_encoder())?,
             tokenizer,
             alphas_cumprod: cosine_alphas_cumprod(manifest.diffusion.timesteps),
             manifest,
@@ -546,9 +566,8 @@ impl Engine {
                 Choice::Only(network) => network,
                 // 恰好是训练时见过的名字（日常物品或模组物品）：交给认名字的 Jang
                 Choice::Auto if named => Network::Jang,
-                // 名字前面带了别的词，或者是没见过的组合：Jang 保得住物品，Mo 更听那些词，各有输赢，交替着出让用户挑
-                Choice::Auto if k % 2 == 0 => Network::Mo,
-                Choice::Auto => Network::Jang,
+                // 名字前面带了别的词，或者是没见过的组合
+                Choice::Auto => MIXED[k % MIXED.len()],
             })
             .collect();
         let prompt = match known {
@@ -590,29 +609,35 @@ impl Engine {
         }
 
         // 每张图的噪声是自己的，所以第 k 张图不随张数和两个网络的分配而变
-        let used: Vec<Network> = [Network::Mo, Network::Jang].into_iter().filter(|n| networks.contains(n)).collect();
-        let (mut done, work) = (0, (steps - first) * used.len());
-        for (slot, network) in [Network::Mo, Network::Jang].into_iter().enumerate() {
+        let all = [Network::Mo, Network::Jang, Network::Relay];
+        let (mut done, work) = (0, (steps - first) * all.iter().filter(|n| networks.contains(n)).count());
+        for network in all {
             let rows: Vec<usize> = (0..b).filter(|&k| networks[k] == network).collect();
             if rows.is_empty() {
                 continue;
             }
-            if network == Network::Jang {
+            if network != Network::Mo {
                 if let Lazy::Pending { dir, name } = &self.unet_names {
-                    self.unet_names = Lazy::Ready(session(dir.as_deref(), name, models::EMBEDDED_UNET_NAMES)?);
+                    self.unet_names = Lazy::Ready(session(dir.as_deref(), name, models::embedded_unet_names())?);
                 }
             }
-            let unet = match (network, &mut self.unet_names) {
-                (Network::Jang, Lazy::Ready(names)) => names,
-                _ => &mut self.unet,
+            let jang = match &mut self.unet_names {
+                Lazy::Ready(names) => Some(names),
+                _ => None,
+            };
+            // 从第几步起交给 Jang：只用 Mo 时永不交接，只用 Jang 时从头就是它
+            let handoff = match network {
+                Network::Mo => steps,
+                Network::Jang => 0,
+                Network::Relay => (RELAY * steps as f64).round() as usize,
             };
             let mut part: Vec<f32> = rows.iter().flat_map(|&k| x[k * pixels..(k + 1) * pixels].iter().copied()).collect();
             denoise(
-                unet,
+                (&mut self.unet, jang, handoff),
                 &mut part,
                 (rows.len(), s),
-                (&ctx[slot], &mask),
-                (&null_ctx[slot], &null_mask),
+                (&ctx, &mask),
+                (&null_ctx, &null_mask),
                 (len, dim),
                 self.manifest.has_source.then_some(style),
                 req.guidance,

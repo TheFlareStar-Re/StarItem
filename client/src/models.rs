@@ -12,11 +12,40 @@ use crate::i18n::{english, tr};
 
 /// 随客户端一起打包的模型（client/models/ 下的文件，由 train/export_onnx.py 导出）。
 pub static EMBEDDED_MANIFEST: &str = include_str!("../models/manifest.json");
-pub static EMBEDDED_UNET: &[u8] = include_bytes!("../models/unet.onnx");
-/// 第二个出图网络（认名字更准的那个）和它要用的"模组物品名"表，SIC-1.2 起才有。
-pub static EMBEDDED_UNET_NAMES: &[u8] = include_bytes!("../models/unet_names.onnx");
 pub static EMBEDDED_KNOWN_NAMES: &str = include_str!("../models/known_names.json");
-pub static EMBEDDED_TEXT_ENCODER: &[u8] = include_bytes!("../models/text_encoder.onnx");
+
+/// 几百 MB 的模型文件不用 include_bytes!：那么大的常量会让编译器把内存用光。
+/// 这里让汇编器在生成目标文件时把文件原样放进只读段，再按首尾两个符号取出来。路径相对于 client 目录。
+macro_rules! blob {
+    ($func:ident, $start:ident, $end:ident, $file:literal) => {
+        std::arch::global_asm!(
+            ".section .rdata,\"dr\"",
+            ".p2align 4",
+            concat!(".globl ", stringify!($start)),
+            concat!(stringify!($start), ":"),
+            concat!(".incbin \"", $file, "\""),
+            concat!(".globl ", stringify!($end)),
+            concat!(stringify!($end), ":"),
+            ".text",
+        );
+        pub fn $func() -> &'static [u8] {
+            extern "C" {
+                static $start: u8;
+                static $end: u8;
+            }
+            // 两个符号由上面的汇编定义，中间就是文件内容
+            unsafe {
+                let (first, last) = (std::ptr::addr_of!($start), std::ptr::addr_of!($end));
+                std::slice::from_raw_parts(first, last as usize - first as usize)
+            }
+        }
+    };
+}
+
+blob!(embedded_unet, STARITEM_UNET_START, STARITEM_UNET_END, "models/unet.onnx");
+// 第二个出图网络（认名字更准的那个），SIC-1.2 起才有
+blob!(embedded_unet_names, STARITEM_UNET_NAMES_START, STARITEM_UNET_NAMES_END, "models/unet_names.onnx");
+blob!(embedded_text_encoder, STARITEM_TEXT_START, STARITEM_TEXT_END, "models/text_encoder.onnx");
 pub static EMBEDDED_TOKENIZER: &[u8] = include_bytes!("../models/tokenizer.json");
 pub static EMBEDDED_ALIASES: &str = include_str!("../models/aliases.json");
 /// 抠图用的显著物体模型 U²-Net-p（Apache-2.0），只在参考图的背景不是纯色时用。和出图模型的版本无关，始终用内置的。

@@ -705,8 +705,8 @@ impl App {
             if self.two_networks {
                 ui.add_space(14.0);
                 ui.label(muted(tr("网络", "Network"))).on_hover_text(tr(
-                    "模型里有两个出图网络。Jang 认得名字的物品画得准，Mo 更听颜色词、对没见过的组合更稳。自动：恰好是认得的名字用 Jang，其余两个各出一半",
-                    "The model holds two networks. Jang draws items it knows by name accurately; Mo follows color words and new combinations more readily. Auto uses Jang for names it knows and splits everything else between both",
+                    "模型里有两个出图网络。Jang 认得名字的物品画得准，Mo 更听颜色词、对没见过的组合更稳。接力是 Mo 起稿、Jang 收尾，形状稳、颜色准。自动：恰好是认得的名字用 Jang，其余两张接力、Mo 和 Jang 各一张",
+                    "The model holds two networks. Jang draws items it knows by name accurately; Mo follows color words and new combinations more readily. Relay lets Mo start and Jang finish: steady shapes with accurate colors. Auto uses Jang for names it knows; anything else gets two relay images and one from each network",
                 ));
                 ui.scope(|ui| {
                     ui.spacing_mut().item_spacing.x = 4.0;
@@ -714,6 +714,7 @@ impl App {
                         (Choice::Auto, tr("自动", "Auto")),
                         (Choice::Only(Network::Mo), "Mo"),
                         (Choice::Only(Network::Jang), "Jang"),
+                        (Choice::Only(Network::Relay), tr("接力", "Relay")),
                     ] {
                         if segment(ui, p, self.network == choice, label).clicked() {
                             self.network = choice;
@@ -818,6 +819,7 @@ impl App {
             let label = match network {
                 Network::Mo => "Mo",
                 Network::Jang => "Jang",
+                Network::Relay => tr("接力", "Relay"),
             };
             child.label(RichText::new(label).size(11.0).color(p.muted));
         }
@@ -966,6 +968,39 @@ fn main() -> eframe::Result {
             Ok((draft, _)) => write_png(Path::new(&out), &draft).ok(),
             Err(e) => std::fs::write(&out, format!("{e:#}")).ok(),
         };
+        return Ok(());
+    }
+    // 调试用：不开界面，按 --prompt 出 --count 张图（默认 32），横着拼成一张 PNG 后退出。--network 可选 mo / jang / relay
+    if let (Some(prompt), Some(out)) = (arg_value("--prompt"), arg_value("--dump-png")) {
+        let network = match arg_value("--network").as_deref() {
+            Some("mo") => Choice::Only(Network::Mo),
+            Some("jang") => Choice::Only(Network::Jang),
+            Some("relay") => Choice::Only(Network::Relay),
+            _ => Choice::Auto,
+        };
+        let count = arg_value("--count").and_then(|v| v.parse().ok()).unwrap_or(32);
+        let seed = arg_value("--seed").and_then(|v| v.parse().ok()).unwrap_or(1);
+        let result = models::locate(&mut |_| {}).and_then(|(source, manifest)| {
+            let (steps, guidance) = (manifest.defaults.steps, manifest.defaults.guidance);
+            let mut engine = Engine::load(&source, manifest)?;
+            let req = Request { prompt, size: 16, count, steps, guidance, seed, expand: true, style: None, reference: None, network };
+            engine.generate(&req, |_, _| {})
+        });
+        match result {
+            Ok(output) => {
+                let mut strip = vec![0u8; 16 * 16 * 4 * count];
+                for (n, sprite) in output.sprites.iter().enumerate() {
+                    for y in 0..16 {
+                        let row = &sprite.rgba[y * 64..(y + 1) * 64];
+                        strip[(y * count * 16 + n * 16) * 4..(y * count * 16 + n * 16 + 16) * 4].copy_from_slice(row);
+                    }
+                }
+                image::save_buffer(&out, &strip, (16 * count) as u32, 16, image::ExtendedColorType::Rgba8).ok();
+            }
+            Err(e) => {
+                std::fs::write(&out, format!("{e:#}")).ok();
+            }
+        }
         return Ok(());
     }
     let options = eframe::NativeOptions {
