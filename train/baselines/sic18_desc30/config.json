@@ -1,0 +1,73 @@
+{
+ "model": {
+  "ctx_dim": 384,
+  "ch": 128,
+  "mult": [
+   1,
+   2,
+   3
+  ],
+  "num_res": 2,
+  "attn_levels": [
+   1,
+   2
+  ],
+  "heads": 4,
+  "dropout": 0.1,
+  "num_sizes": 2,
+  "num_sources": 2,
+  "num_tokens": 10051
+ },
+ "text_encoder": "intfloat/multilingual-e5-small",
+ "max_len": 32,
+ "lang": "both",
+ "sizes": [
+  16
+ ],
+ "prediction": "v",
+ "schedule": "cosine",
+ "timesteps": 1000,
+ "images": {
+  "16": 95913
+ },
+ "args": {
+  "data": "/root/desc30_inputs/staritem/dataset/clean",
+  "extra": [
+   "dataset/synth2",
+   "dataset/many",
+   "dataset/manual"
+  ],
+  "merge_extra": false,
+  "name": "sic18_desc30",
+  "init": null,
+  "sizes": [
+   16
+  ],
+  "lang": "both",
+  "text_encoder": "intfloat/multilingual-e5-small",
+  "max_len": 32,
+  "cap_aug": 0.3,
+  "cap_aug_synth": 0.0,
+  "cap_extra": 0.2,
+  "captions": "dataset/captions.jsonl",
+  "cap_desc": 0.3,
+  "desc_holdout": 3,
+  "tok_emb": true,
+  "tok_lr_mult": 5.0,
+  "tok_drop": 0.0,
+  "no_nc": false,
+  "ch": 128,
+  "steps": 150000,
+  "batch": 256,
+  "lr": 0.0002,
+  "warmup": 1000,
+  "cond_drop": 0.1,
+  "ema": 0.9999,
+  "save_every": 10000,
+  "guidance": 3.0,
+  "seed": 0,
+  "resume": false,
+  "max_hours": 10.0,
+  "smoke": false
+ }
+}

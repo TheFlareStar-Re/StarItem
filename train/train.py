@@ -54,14 +54,16 @@ class TextEncoder:
         self.dim = self.model.config.hidden_size
 
     @torch.no_grad()
-    def encode(self, texts, batch=256):
-        outs, masks = [], []
+    def encode(self, texts, batch=256, half=False):
+        # 结果直接写进一块预先分好的显存：几十万条提示词时，先攒成列表再拼接会多占一倍，24 GB 的卡放不下
+        out = torch.empty(len(texts), self.max_len, self.dim, device=self.device, dtype=torch.float16 if half else torch.float32)
+        mask = torch.empty(len(texts), self.max_len, device=self.device, dtype=torch.bool)
         for i in range(0, len(texts), batch):
             enc = self.tok(texts[i:i + batch], padding="max_length", truncation=True, max_length=self.max_len,
                            return_tensors="pt").to(self.device)
-            outs.append(self.model(input_ids=enc.input_ids, attention_mask=enc.attention_mask).last_hidden_state)
-            masks.append(enc.attention_mask.bool())
-        return torch.cat(outs).float(), torch.cat(masks)
+            out[i:i + batch] = self.model(input_ids=enc.input_ids, attention_mask=enc.attention_mask).last_hidden_state
+            mask[i:i + batch] = enc.attention_mask.bool()
+        return out, mask
 
 
 class TokenMap:
@@ -105,7 +107,7 @@ class DummyTextEncoder:
         self.max_len = max_len
         self.device = device
 
-    def encode(self, texts, batch=256):
+    def encode(self, texts, batch=256, half=False):
         out = torch.zeros(len(texts), self.max_len, self.dim)
         mask = torch.zeros(len(texts), self.max_len, dtype=torch.bool)
         for i, s in enumerate(texts):
@@ -159,14 +161,43 @@ def zh_variants(name, affixes):
     return [v for v in out if v.strip() == v and v]
 
 
+def held_out(sha1, percent):
+    """这张图的描述是否留出不用于训练（评测"按描述画"时用）。按文件哈希定，每次都一样。"""
+    return int(sha1[:8], 16) % 100 < percent
+
+
+def description_prompts(row, caption, lang):
+    """一张图的描述写成提示词：描述里已经带着物品名的直接用，没带的在前面补上名字。"""
+    out = []
+    if lang in ("zh", "both") and row.get("name_zh") and caption.get("zh"):
+        name, text = row["name_zh"].lower(), caption["zh"].lower()
+        out.append(text if name in text else f"{name}, {text}")
+    if lang in ("en", "both") and caption.get("en"):
+        name, text = row["name_en"].lower(), caption["en"].lower()
+        out.append(text if name in text else f"{name}, {text}")
+    return out
+
+
+def load_captions(path):
+    """tools/check_captions.py 写出的描述，按 (数据集目录名, 文件) 查。不合格的不要。"""
+    table = {}
+    for line in Path(path).open(encoding="utf-8"):
+        r = json.loads(line)
+        if r["ok"]:
+            table[(r["dataset"], r["file"])] = r
+    return table
+
+
 def load_dataset(args, device):
     """返回按分辨率分桶的图像张量，以及每张图可用的提示词。"""
+    described = load_captions(args.captions) if args.captions else {}
     rows = []
     for source, folder in enumerate([args.data, *args.extra]):
         part = [json.loads(line) for line in (folder / "metadata.jsonl").open(encoding="utf-8")]
         for r in part:
             r["path"] = folder / r["file"]
             r["source"] = min(source, 1)  # 0 = 手绘的模组贴图，1 = 合成图
+            r["caption"] = described.get((folder.name, r["file"]))
         rows += part[:512] if args.smoke else part
     rows = [r for r in rows if r["size"] in args.sizes and not (args.no_nc and r["license_verdict"] == "ok_nc")]
     captions = {"": 0}  # 0 号是空提示词，用于 classifier-free guidance
@@ -207,8 +238,10 @@ def load_dataset(args, device):
         if not sub:
             continue
         imgs = np.stack([np.asarray(Image.open(r["path"]).convert("RGBA")) for r in sub])
-        full, aug, extra = [], [], []
+        full, aug, extra, desc = [], [], [], []
         for r, image in zip(sub, imgs):
+            texts = description_prompts(r, r["caption"], args.lang) if r["caption"] and not held_out(r["sha1"], args.desc_holdout) else []
+            desc.append([captions.setdefault(t, len(captions)) for t in texts])
             names = names_of(r)
             short = sorted({v for n in names for v in (zh_variants(n, affixes) if CJK.search(n) else en_variants(n))})
             full.append([captions.setdefault(n, len(captions)) for n in names])
@@ -217,10 +250,11 @@ def load_dataset(args, device):
         cap_ids, cap_n = pad(full)
         aug_ids, aug_n = pad(aug)
         extra_ids, extra_n = pad(extra)
+        desc_ids, desc_n = pad(desc)
         buckets[size] = {
             "images": torch.from_numpy(imgs).permute(0, 3, 1, 2).contiguous().to(device),  # uint8 (N,4,S,S)
             "cap_ids": cap_ids, "cap_n": cap_n, "aug_ids": aug_ids, "aug_n": aug_n,
-            "extra_ids": extra_ids, "extra_n": extra_n,
+            "extra_ids": extra_ids, "extra_n": extra_n, "desc_ids": desc_ids, "desc_n": desc_n,
             "source": torch.tensor([r["source"] for r in sub], device=device),
         }
     return buckets, list(captions)
@@ -267,6 +301,10 @@ def main():
     ap.add_argument("--cap-aug", type=float, default=0.3, help="probability of training on a shortened name")
     ap.add_argument("--cap-aug-synth", type=float, help="the same for --extra sprites; default: same as --cap-aug")
     ap.add_argument("--cap-extra", type=float, default=0.2, help="probability of a color-tagged or expanded name")
+    ap.add_argument("--captions", type=Path, help="descriptions of the sprites (dataset/captions.jsonl)")
+    ap.add_argument("--cap-desc", type=float, default=0.0, help="probability of training on a sprite's description instead of its name")
+    ap.add_argument("--desc-holdout", type=int, default=3,
+                    help="percent of the sprites whose descriptions are never trained on, kept for train/eval_desc.py")
     ap.add_argument("--tok-emb", action="store_true",
                     help="add a trainable vector per token to the frozen text features")
     ap.add_argument("--tok-lr-mult", type=float, default=5.0, help="learning rate of those vectors, as a multiple of --lr")
@@ -313,7 +351,7 @@ def main():
 
     text = DummyTextEncoder(args.max_len, device) if args.smoke else TextEncoder(args.text_encoder, args.max_len, device)
     t0 = time.time()
-    emb, emb_mask = text.encode(captions)
+    emb, emb_mask = text.encode(captions, half=device.type == "cuda")
     emb = emb.half() if device.type == "cuda" else emb
     preview_emb, preview_mask = text.encode(preview_prompts)
     ctx_dim = text.dim
@@ -427,6 +465,11 @@ def main():
         pick = (torch.rand(args.batch, device=device) * b["extra_n"][idx]).long()
         use_extra = (torch.rand(args.batch, device=device) < args.cap_extra) & (b["extra_n"][idx] > 0)
         cid = torch.where(use_extra, b["extra_ids"][idx, pick], cid)
+        if args.cap_desc > 0:
+            # 一部分样本改用"看图写的描述"，让模型学会按颜色和部件画，而不只是认名字
+            pick = (torch.rand(args.batch, device=device) * b["desc_n"][idx]).long()
+            use_desc = (torch.rand(args.batch, device=device) < args.cap_desc) & (b["desc_n"][idx] > 0)
+            cid = torch.where(use_desc, b["desc_ids"][idx, pick], cid)
         cid = torch.where(torch.rand(args.batch, device=device) < args.cond_drop, torch.zeros_like(cid), cid)
         t = torch.randint(0, T, (args.batch,), device=device)
         xt, target = q_sample(x0, t, torch.randn_like(x0), ac)

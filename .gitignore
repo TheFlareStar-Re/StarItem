@@ -1,0 +1,43 @@
+# Local credentials and tooling
+.env
+.env.*
+*.key
+/cf_api_key.txt
+/.claude/
+/.mcp.json
+/.venv/
+__pycache__/
+*.py[cod]
+
+# Build output
+/client/target/
+/dist/
+/release/
+
+# Model weights
+*.onnx
+*.pt
+*.safetensors
+/export/
+
+# Training data and runs
+/dataset/
+/runs/
+/downloads/
+/ref_photos/
+
+# Downloaded license evidence
+/license_audit/cache/
+/license_audit/files/
+
+# Local experiments and generated output
+/docs/optimization_20261030/
+/diagnostic_live_*/
+/tmp/
+/untrusted/
+/cloud/
+/promo/
+/site/
+/synth/pilot_out/
+/skill/*.zip
+/skill/*.skill

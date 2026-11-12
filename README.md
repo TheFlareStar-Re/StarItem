@@ -2,6 +2,8 @@
 
 [中文](README.zh.md) | English
 
+**150k training baseline:** the original `sic18_desc30@150000` trainer, configuration and token mapping are now included. See [the baseline guide](docs/baseline_150k.md) for training, checkpoint hashes and inference. The client described below is SIC-1.2; weights and datasets are not included in Git.
+
 Type an item name and get Minecraft-style 16×16 item sprites. Each run produces four images; save the ones you like as PNG.
 
 ![Screenshot of the client](docs/screenshot.png)

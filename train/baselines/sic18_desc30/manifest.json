@@ -1,0 +1,36 @@
+{
+  "run": "sic18_desc30",
+  "step": 150000,
+  "source": "Original sic18_desc30 training archive",
+  "artifacts": {
+    "config.json": {
+      "sha256": "f01d949c5746127e7f3e6fa96402a42938ba5b0ecd23fed28f769c64bac63d3f",
+      "bytes": 1202,
+      "included": true
+    },
+    "tokens.json": {
+      "sha256": "2d7d7ac45e2b458d4e2321dc3599f76b0f5e1ef0718254dab946eabe278f1cbb",
+      "bytes": 70442,
+      "included": true
+    },
+    "ema_150000.pt": {
+      "sha256": "782de29b1951461fac37cf578b78c4bba19ce4e5c3da108f0ef088ffc5d0d6e0",
+      "bytes": 258229064,
+      "included": false
+    }
+  },
+  "training_source_sha256": {
+    "train/train.py": "3e841a49ff352718c973930578a690da9946a97b3ea31871eb0d309f9e4f89a6",
+    "train/model.py": "6d3f98afb50f920fd88effcd8a13e49da81505b64b1e902beac76fcda4568047",
+    "train/diffusion.py": "3167f28fa06c130d8c4877710aa7ae3f37662c288fa522e7f086e84b624236b9",
+    "train/colors.py": "bfcbcebec9d757d2a2ee285d1152803a7d8ca7983c7c7748b50fe2cac3ce0f3f",
+    "train/eval_desc.py": "94c42b8335cd05cbd6bfd6938c50206f6e8f91bb167be556780cfd63cbfe41f1"
+  },
+  "input_sha256": {
+    "dataset/captions.jsonl": "a48a30e1a27b7f74c9fab759df200dbdc8e096bc6a94b9c72cc16301c08ccf93",
+    "dataset/clean/metadata.jsonl": "1c5f9c23d110e5ee83be51f160e01768c038fd91a6641e70d40eb7021ce5e8d3",
+    "dataset/synth2/metadata.jsonl": "ea2dde7971323e7933350871cc8c819ce6aa516a5c3fcc833e0bafd88ff9b493",
+    "dataset/many/metadata.jsonl": "82f6e9f4e497ad89e46356aa1c4b6e91e5c4a0bcf0c4a905a0e913139612724f",
+    "dataset/manual/metadata.jsonl": "ac84685cee1364558aa54eed6eccb4f78615d99781c4a00216dac99d0ac54dc7"
+  }
+}
